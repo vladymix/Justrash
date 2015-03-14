@@ -1,7 +1,7 @@
 applications:
 - disk_quota: 1024M
-  host: justrash
-  name: Justrash
+  host: Justrash
+  name: ustrash
   path: .
   domain: mybluemix.net
   instances: 1
