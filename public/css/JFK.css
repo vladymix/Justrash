@@ -1,3 +1,0 @@
-@charset "utf-8";
-/* CSS Document */
-::-webkit-scrollbar{background:transparent;overflow:visible;width:15px} ::-webkit-scrollbar-thumb{background-color:rgba(0,0,0,0.2);border:solid #fff} ::-webkit-scrollbar-thumb:hover{background:rgba(0,0,0,0.4)} ::-webkit-scrollbar-thumb:horizontal{border-width:4px 6px;min-width:40px} ::-webkit-scrollbar-thumb:vertical{border-width:6px 4px;min-height:40px} body{color:white;background:white;} body::-webkit-scrollbar-track-piece{background-color:#fff} ::-webkit-scrollbar-corner{background:transparent} .jfk-scrollbar-dark::-webkit-scrollbar-thumb{background-color:rgba(255,255,255,0.6)} .jfk-scrollbar-dark::-webkit-scrollbar-thumb:hover{background-color:rgba(255,255,255,0.8)}
