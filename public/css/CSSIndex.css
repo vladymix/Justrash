@@ -3,11 +3,11 @@
 
 .mapa
 {
-	z-index:0;
-	min-width:320px;
-	background-image:url(../icons/mapLoad.jpg);	
-	width:100%;
-	height:100%;
+	min-width: 320px;
+	background-image: url(../icons/mapLoad.jpg);
+	width: 100%;
+	height: 100%;
+	z-index: 0;
 }
 
 .buttonsPapeleras {
@@ -19,7 +19,7 @@
 	border-radius: 10px 10px 10px 10px;
 	top: 80px;
 	right: 8px;
-	z-index: 11;
+	z-index: 1;
 	border-radius: 5px 5px 5px 5px;
 	position: fixed;
 	padding-bottom: 10px;
@@ -70,6 +70,7 @@
 	position: fixed;
 	text-align: center;
 	bottom: 50px;
+	z-index: 2;
 }  
 
 .miButton {
@@ -172,5 +173,3 @@ text-shadow: 0px 1px 1px rgba(250,250,250,0.1);
 .buttonsDistritos li a:hover{
 	background-color:#4198E1;
 	}
-
-

@@ -1,14 +1,15 @@
 @charset "utf-8";
 /* CSS Document */
 .Developers{
- overflow:hidden;
- overflow-y:auto;
-            text-align: center;
-            margin:auto;
+  text-align: center;
+  height:100%;
+  width:100%;
+  z-index:100;
+  
 }
 .Team{
-	 align-content:center;
- display:inline-table;
- padding:15px;
-	
+	overflow-y: scroll;
+	height: 420px;
+	align-content: center;
+	padding: 15px;	
 	}

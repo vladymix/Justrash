@@ -34,6 +34,7 @@ body
 
 }
 .Menu{
+	z-index:0;
 	width: 160px;
 	background-color: rgba(45,54,57,1.00);
 	min-width: 45px;
