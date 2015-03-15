@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Papeleras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Papelera>
+    <Name>PRINCESA-PZA.MONCLOA</Name>
+    <PostalAdress>Pza. de la Moncloa con Pº de Moret</PostalAdress>
+    <Longitud>-3.71931897956498</Longitud>
+    <Latitud>40.43460117499</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RUPERTO CHAPI-PZA.MONCLOA</Name>
+    <PostalAdress>Ruperto Chapí con Pº de Moret</PostalAdress>
+    <Longitud>-3.72032468789375</Longitud>
+    <Latitud>40.4353471746246</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.MONCLOA-PRINCESA</Name>
+    <PostalAdress>Pza. de la Moncloa con C/ Fernando el Católico.</PostalAdress>
+    <Longitud>-3.7187116983537</Longitud>
+    <Latitud>40.4343166579269</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INTERCAMBIADOR DE MONCLOA</Name>
+    <PostalAdress>Intercambiador Moncloa, Isla 3 (Darsena 32)</PostalAdress>
+    <Longitud>-3.7192925584778</Longitud>
+    <Latitud>40.435858095584</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INTERCAMBIADOR DE MONCLOA</Name>
+    <PostalAdress>Intercambiador Moncloa, Isla 3 (Darsena 31)</PostalAdress>
+    <Longitud>-3.7195307543854</Longitud>
+    <Latitud>40.4359782371436</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.MONCLOA</Name>
+    <PostalAdress>Pza. de la Moncloa S/N (Ejercito del Aire)</PostalAdress>
+    <Longitud>-3.71890828953212</Longitud>
+    <Latitud>40.4339550771069</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ISAAC PERAL-FERNANDEZ DE LOS RIOS</Name>
+    <PostalAdress>Isaac Peral frente al Nº 8</PostalAdress>
+    <Longitud>-3.71842134613126</Longitud>
+    <Latitud>40.4358409821157</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ISAAC PERAL-FERNANDEZ DE LOS RIOS</Name>
+    <PostalAdress>Isaac Peral, 12</PostalAdress>
+    <Longitud>-3.71809084847928</Longitud>
+    <Latitud>40.4358069963134</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARCIPRESTE DE HITA-FERNANDO EL CATOLICO</Name>
+    <PostalAdress>Arcipreste de Hita con C/ Fernando el Catolico</PostalAdress>
+    <Longitud>-3.7180849386363</Longitud>
+    <Latitud>40.4341403665582</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARCIPRESTE DE HITA-FERNANDO EL CATOLICO</Name>
+    <PostalAdress>Arcipreste de Hita con C/ Fernando el Católico</PostalAdress>
+    <Longitud>-3.71803749355458</Longitud>
+    <Latitud>40.4341136337714</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.MONCLOA</Name>
+    <PostalAdress>Pza. de la Moncloa con C/ Fdo.Católico (Antes de Arcos)</PostalAdress>
+    <Longitud>-3.71834134130945</Longitud>
+    <Latitud>40.4338594968095</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARCIPRESTE HITA-FERNANDO EL CATOLICO</Name>
+    <PostalAdress>Arcipreste de Hita, 3</PostalAdress>
+    <Longitud>-3.71793700099267</Longitud>
+    <Latitud>40.4339836262997</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FERNANDO EL CATOLICO-HILARION ESLAVA</Name>
+    <PostalAdress>Fernando el Católico, 86-88</PostalAdress>
+    <Longitud>-3.71702884894142</Longitud>
+    <Latitud>40.4346153799561</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FDEZ.DE LOS RIOS-HILARION ESLAVA</Name>
+    <PostalAdress>Fernández de los Rios, 91 (Frente al Nº 102).</PostalAdress>
+    <Longitud>-3.71690203527751</Longitud>
+    <Latitud>40.4355125614956</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MELENDEZ VALDES-PRINCESA</Name>
+    <PostalAdress>Meléndez Valdés, 72</PostalAdress>
+    <Longitud>-3.71774956127068</Longitud>
+    <Latitud>40.433264067606</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCESA-ALTAMIRANO</Name>
+    <PostalAdress>Princesa, 75</PostalAdress>
+    <Longitud>-3.71755743564742</Longitud>
+    <Latitud>40.4322066996085</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCESA-HILARION ESLAVA</Name>
+    <PostalAdress>Princesa, 72</PostalAdress>
+    <Longitud>-3.71718075491725</Longitud>
+    <Latitud>40.4322630874591</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ISAAC PERAL-PZA.CRISTO REY</Name>
+    <PostalAdress>Isaac Peral, frente al Nº 40.</PostalAdress>
+    <Longitud>-3.71793052606063</Longitud>
+    <Latitud>40.4384746558032</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ISAAC PERAL-PZA.CRISTO REY</Name>
+    <PostalAdress>Isaac Peral, 42</PostalAdress>
+    <Longitud>-3.7176245524978</Longitud>
+    <Latitud>40.438530606666</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.REYES CATOLICOS-PZA.CRISTO REY</Name>
+    <PostalAdress>Av. de los Reyes Católicos (Fundación Jimenez Díaz)</PostalAdress>
+    <Longitud>-3.71854751285248</Longitud>
+    <Latitud>40.4388717289765</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.SENECA-ARCO DE LA VICTORIA</Name>
+    <PostalAdress>Av. de Séneca con Av. Arco de la Victoria</PostalAdress>
+    <Longitud>-3.72401172052238</Longitud>
+    <Latitud>40.4370944467816</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LISBOA-FERRAZ</Name>
+    <PostalAdress>Lisboa, 4.</PostalAdress>
+    <Longitud>-3.7237658552806</Longitud>
+    <Latitud>40.4324383278253</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FERRAZ-ROMERO ROBLEDO</Name>
+    <PostalAdress>Ferraz, 96</PostalAdress>
+    <Longitud>-3.72181385077693</Longitud>
+    <Latitud>40.4309865489982</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ROMERO ROBLEDO-FERRAZ</Name>
+    <PostalAdress>Romero Robledo, 24</PostalAdress>
+    <Longitud>-3.72264082936939</Longitud>
+    <Latitud>40.4312831924966</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FDEZ.DE LOS RIOS-GUZMAN EL BUENO</Name>
+    <PostalAdress>Fernández de los Ríos, 65</PostalAdress>
+    <Longitud>-3.7134525053594</Longitud>
+    <Latitud>40.435367201822</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GUZMAN EL BUENO-MELENDEZ VALDES</Name>
+    <PostalAdress>Guzmán el Bueno, 39.</PostalAdress>
+    <Longitud>-3.71342065966853</Longitud>
+    <Latitud>40.4336061366238</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GUZMAN EL BUENO-FERNANDEZ DE LOS RIOS</Name>
+    <PostalAdress>Guzmán el Bueno, 65.</PostalAdress>
+    <Longitud>-3.7132305174211</Longitud>
+    <Latitud>40.4359091099503</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FERNANDO EL CATOLICO-G.EL BUENO</Name>
+    <PostalAdress>Fernando el Católico, 52</PostalAdress>
+    <Longitud>-3.71291180347445</Longitud>
+    <Latitud>40.4344065682733</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ARCO VICTORIA-AV.SENECA</Name>
+    <PostalAdress>Av. Arco de la Victoria S/N con Av.Séneca(Rectorado)</PostalAdress>
+    <Longitud>-3.72461232512245</Longitud>
+    <Latitud>40.4381267246237</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MQUES.URQUIJO-MARTIN DE LOS HEROS</Name>
+    <PostalAdress>Marqués de Urquijo, 21.</PostalAdress>
+    <Longitud>-3.71857524850684</Longitud>
+    <Latitud>40.4298670529626</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN FCO.DE SALES-PZA.CRISTO REY</Name>
+    <PostalAdress>San Francisco de Sales, 2</PostalAdress>
+    <Longitud>-3.71672978416053</Longitud>
+    <Latitud>40.4397703822539</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CEA BERMUDEZ-GAZTAMBIDE</Name>
+    <PostalAdress>Cea Bermúdez, 68</PostalAdress>
+    <Longitud>-3.7159128999358</Longitud>
+    <Latitud>40.4394601211344</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MQUES.URQUIJO-MARTIN DE LOS HEROS</Name>
+    <PostalAdress>Marqués de Urquijo, 30</PostalAdress>
+    <Longitud>-3.719712547311</Longitud>
+    <Latitud>40.4297608901216</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN FCO.DE SALES-PZA.CRISTO REY</Name>
+    <PostalAdress>San Francisco de Sales, 1</PostalAdress>
+    <Longitud>-3.71703843948404</Longitud>
+    <Latitud>40.4399666691623</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALBERTO AGUILERA-ARGUELLES</Name>
+    <PostalAdress>Alberto Aguilera, 66.</PostalAdress>
+    <Longitud>-3.7151724693189</Longitud>
+    <Latitud>40.4307710040339</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALBERTO AGUILERA-ARGUELLES</Name>
+    <PostalAdress>Alberto Aguilera frente al Nº 70.</PostalAdress>
+    <Longitud>-3.71559117242008</Longitud>
+    <Latitud>40.4305431917478</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº PINTOR ROSALES-ROMERO ROBLEDO</Name>
+    <PostalAdress>Pº del Pintor Rosales con C/ Romero Robledo.</PostalAdress>
+    <Longitud>-3.72346046712548</Longitud>
+    <Latitud>40.4306519476911</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ISAAC PERAL-HOSPITAL CLINICO</Name>
+    <PostalAdress>Isaac Peral, 44</PostalAdress>
+    <Longitud>-3.71755970945377</Longitud>
+    <Latitud>40.4401976737379</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCESA-ALBERTO AGUILERA</Name>
+    <PostalAdress>Princesa, 47 ( Alberto Aguilera )</PostalAdress>
+    <Longitud>-3.71607373122696</Longitud>
+    <Latitud>40.4301528207731</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCESA-ALBERTO AGUILERA</Name>
+    <PostalAdress>Princesa frente al Nº 47, con C/ Alberto Aguilera.</PostalAdress>
+    <Longitud>-3.71577398713348</Longitud>
+    <Latitud>40.4302717913121</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALBERTO AGUILERA-PRINCESA</Name>
+    <PostalAdress>Alberto Aguilera frente al Nº 66.</PostalAdress>
+    <Longitud>-3.71523606669187</Longitud>
+    <Latitud>40.4305138542699</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº PINTOR ROSALES-BENITO GUTIERREZ</Name>
+    <PostalAdress>Pº Pintor Rosales frente al Nº 56.</PostalAdress>
+    <Longitud>-3.72283378377997</Longitud>
+    <Latitud>40.4299982037401</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ISAAC PERAL-HOSPITAL CLINICO</Name>
+    <PostalAdress>Isaac Peral frente al Nº 54</PostalAdress>
+    <Longitud>-3.71814233806046</Longitud>
+    <Latitud>40.4407931598321</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GUZMAN EL BUENO-ALBERTO AGUILERA</Name>
+    <PostalAdress>Guzmán el Bueno, 5</PostalAdress>
+    <Longitud>-3.71361927557576</Longitud>
+    <Latitud>40.4310598664836</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MQUES.URQUIJO-FERRAZ</Name>
+    <PostalAdress>Marqués de Urquijo Nº 47.</PostalAdress>
+    <Longitud>-3.72066119633454</Longitud>
+    <Latitud>40.429169403581</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FERRAZ-MARQUES DE URQUIJO</Name>
+    <PostalAdress>Ferraz, 76</PostalAdress>
+    <Longitud>-3.71992934108714</Longitud>
+    <Latitud>40.4290838661945</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº PINTOR ROSALES-FCO.J.ALCANTARA</Name>
+    <PostalAdress>Pintor Rosales frente al Nº 52</PostalAdress>
+    <Longitud>-3.72228457328014</Longitud>
+    <Latitud>40.4294565857161</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BLASCO DE GARAY Nº 40</Name>
+    <PostalAdress>Blasco de Garay, 40</PostalAdress>
+    <Longitud>-3.7114692086522</Longitud>
+    <Latitud>40.434010036019</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GUZMAN EL BUENO-CEA BERMUDEZ</Name>
+    <PostalAdress>Guzmán el Bueno, 99</PostalAdress>
+    <Longitud>-3.71301720573395</Longitud>
+    <Latitud>40.4388113235219</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ARCO VICTORIA-PZA.CARDENAL CISNEROS</Name>
+    <PostalAdress>Av. Arco de la Victoria con Pza. Cardenal Cisneros</PostalAdress>
+    <Longitud>-3.72526508088199</Longitud>
+    <Latitud>40.4392442579307</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SERRANO JOVER-PRINCESA</Name>
+    <PostalAdress>Serrano Jover frente al nº 2.</PostalAdress>
+    <Longitud>-3.7146477980719</Longitud>
+    <Latitud>40.4296526210192</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº RUPERTO CHAPI-Pº CAMOENS</Name>
+    <PostalAdress>Gta. del Maestro S/N con Pº de Camoens</PostalAdress>
+    <Longitud>-3.72738643742406</Longitud>
+    <Latitud>40.4329471702306</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CEA BERMUDEZ-GUZMAN EL BUENO</Name>
+    <PostalAdress>Cea Bermúdez, 41.</PostalAdress>
+    <Longitud>-3.71252292421062</Longitud>
+    <Latitud>40.4389359878893</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.SENECA-TRV. ANTONIO NEBRIJA</Name>
+    <PostalAdress>Av. de Séneca con Trv. de Antonio Nebrija</PostalAdress>
+    <Longitud>-3.7278665288588</Longitud>
+    <Latitud>40.4359261338772</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FDEZ.DE LOS RIOS-GALILEO</Name>
+    <PostalAdress>Fernandez de los Ríos frente al Nº 50</PostalAdress>
+    <Longitud>-3.71043252982772</Longitud>
+    <Latitud>40.4352145997782</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALBERTO AGUILERA-BLASCO DE GARAY</Name>
+    <PostalAdress>Alberto Aguilera, 46.</PostalAdress>
+    <Longitud>-3.71233482182766</Longitud>
+    <Latitud>40.4304551625293</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.FILIPINAS-GUZMAN EL BUENO</Name>
+    <PostalAdress>Av. de Filipinas, 1</PostalAdress>
+    <Longitud>-3.71224654008029</Longitud>
+    <Latitud>40.4395277780927</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN FCO.DE SALES-ANDRES MELLADO</Name>
+    <PostalAdress>San Francisco de Sales, 28</PostalAdress>
+    <Longitud>-3.71441077997028</Longitud>
+    <Latitud>40.4412531814905</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BLASCO DE GARAY-ALBERTO AGUILERA</Name>
+    <PostalAdress>Blasco de Garay, 2</PostalAdress>
+    <Longitud>-3.71172744180731</Longitud>
+    <Latitud>40.4305399786833</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN FCO.DE SALES-ANDRES MELLADO</Name>
+    <PostalAdress>San Francisco de Sales, 23</PostalAdress>
+    <Longitud>-3.71477896104431</Longitud>
+    <Latitud>40.4415031610689</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>STA.CRUZ MARCENADO-MARTIRES ALCALA</Name>
+    <PostalAdress>Sta. Cruz de Marcenado s/n con C/ Mártires de Alcalá.</PostalAdress>
+    <Longitud>-3.7126886322678</Longitud>
+    <Latitud>40.4295926242285</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.CARDENAL CISNEROS-AERONAUTICA</Name>
+    <PostalAdress>Pza. del Cardenal Cisneros S/N con Av. Complutense</PostalAdress>
+    <Longitud>-3.72615764512202</Longitud>
+    <Latitud>40.4403873104443</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.JUAN HERRERA-PZA.CARDENAL CISNEROS</Name>
+    <PostalAdress>Av. Juán Herrera con Pza. Cardenal Cisneros</PostalAdress>
+    <Longitud>-3.72723394820651</Longitud>
+    <Latitud>40.4395967721184</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCESA Nº 32</Name>
+    <PostalAdress>Princesa, 32</PostalAdress>
+    <Longitud>-3.71441991219973</Longitud>
+    <Latitud>40.4283432151913</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.JUAN HERRERA-PZA.CARDENAL CISNEROS</Name>
+    <PostalAdress>Av. Juán de Herrera S/N con Pza. Cardenal Cisneros</PostalAdress>
+    <Longitud>-3.7272911250565</Longitud>
+    <Latitud>40.4398081243988</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FERNANDO EL CATOLICO-VALLEHERMOSO</Name>
+    <PostalAdress>Fernando el Católico con C/ Vallehermoso, 16</PostalAdress>
+    <Longitud>-3.70924297346278</Longitud>
+    <Latitud>40.4342128831993</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FDEZ.DE LOS RIOS-VALLEHERMOSO</Name>
+    <PostalAdress>Fernández de los Ríos, 37</PostalAdress>
+    <Longitud>-3.70904049119233</Longitud>
+    <Latitud>40.4351420514227</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCESA Nº 29</Name>
+    <PostalAdress>Princesa, 29 (Evaristo San Miguel )</PostalAdress>
+    <Longitud>-3.71453003324472</Longitud>
+    <Latitud>40.4279911839452</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.CARDENAL CISNEROS-AERONAUTICA</Name>
+    <PostalAdress>Av. Complutense S/N con Pza. Cardenal Cisneros</PostalAdress>
+    <Longitud>-3.72683145231116</Longitud>
+    <Latitud>40.4405452442946</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ISAAC PERAL-JULIAN ROMEA</Name>
+    <PostalAdress>Isaac Peral frente al Nº 60</PostalAdress>
+    <Longitud>-3.71933319746557</Longitud>
+    <Latitud>40.4430019803944</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALBERTO AGUILERA-GALILEO</Name>
+    <PostalAdress>Alberto Aguilera, 23.</PostalAdress>
+    <Longitud>-3.71097924725422</Longitud>
+    <Latitud>40.430022052232</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.AMPUDIA Nº 8</Name>
+    <PostalAdress>General Ampudia, 8.</PostalAdress>
+    <Longitud>-3.71503196131361</Longitud>
+    <Latitud>40.4424295256612</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ISAAC PERAL-JULIAN ROMEA</Name>
+    <PostalAdress>Isaac Peral S/N con C/ Julián Romea</PostalAdress>
+    <Longitud>-3.71920387596994</Longitud>
+    <Latitud>40.443142423217</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GUZMAN EL BUENO-JUAN VIGON</Name>
+    <PostalAdress>Guzmán el Bueno, 123</PostalAdress>
+    <Longitud>-3.71282301464341</Longitud>
+    <Latitud>40.4416413455956</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JUAN VIGON-GUZMAN EL BUENO</Name>
+    <PostalAdress>Juan Vigón con C/ Guzmán el Bueno</PostalAdress>
+    <Longitud>-3.71238456980618</Longitud>
+    <Latitud>40.4414368371111</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.COMPLUTENSE-AGRONOMOS</Name>
+    <PostalAdress>Av. Complutense frente a Agrónomos</PostalAdress>
+    <Longitud>-3.72653351318958</Longitud>
+    <Latitud>40.4413489149445</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARTIRES DE ALCALA-PRINCESA</Name>
+    <PostalAdress>Mártires de Alcalá, 4</PostalAdress>
+    <Longitud>-3.71358496044699</Longitud>
+    <Latitud>40.4278078226297</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VALLEHERMOSO-DONOSO CORTES</Name>
+    <PostalAdress>Vallehermoso, 56</PostalAdress>
+    <Longitud>-3.70840196656843</Longitud>
+    <Latitud>40.4360919057677</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.SENECA-MARTIN FIERRO</Name>
+    <PostalAdress>Av. de Séneca frente a C/ Martín Fierro</PostalAdress>
+    <Longitud>-3.73042853114284</Longitud>
+    <Latitud>40.4351532428402</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALBERTO AGUILERA-GALILEO</Name>
+    <PostalAdress>Alberto Aguilera, 26</PostalAdress>
+    <Longitud>-3.71002633874892</Longitud>
+    <Latitud>40.4302170887696</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FERRAZ-REY FRANCISCO</Name>
+    <PostalAdress>Ferraz, 40</PostalAdress>
+    <Longitud>-3.71739045806138</Longitud>
+    <Latitud>40.4264689907808</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN FCO.DE SALES-GUZMAN EL BUENO</Name>
+    <PostalAdress>San Francisco de Sales, 33</PostalAdress>
+    <Longitud>-3.71319775009676</Longitud>
+    <Latitud>40.442512910717</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CEA BERMUDEZ-VALLEHERMOSO</Name>
+    <PostalAdress>Cea Bermúdez, 15</PostalAdress>
+    <Longitud>-3.70879559596136</Longitud>
+    <Latitud>40.4387741808254</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EVARISTO SAN MIGUEL-MARTIN DE LOS HEROS</Name>
+    <PostalAdress>Evaristo San Miguel, 7</PostalAdress>
+    <Longitud>-3.71573487202998</Longitud>
+    <Latitud>40.4265062633785</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+</Papeleras>

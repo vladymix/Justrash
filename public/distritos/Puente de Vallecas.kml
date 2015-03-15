@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Puente de Vallecas.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa00</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>24ffffff</color>
+			<colorMode>random</colorMode>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa00</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>24ffffff</color>
+			<colorMode>random</colorMode>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Puente de Vallecas</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-3.666952407883345,40.40252271297032,0 -3.669192940857377,40.39838893110157,0 -3.673186031951785,40.39482261959232,0 -3.676717883452555,40.39251652905797,0 -3.679307882948507,40.39028536921869,0 -3.682748064933109,40.3852632820996,0 -3.684703849045431,40.38390395639115,0 -3.688219585283317,40.38316903307977,0 -3.689619912541227,40.38257797237755,0 -3.688808866715777,40.38029794238192,0 -3.68732414853226,40.37793639349187,0 -3.687478425042357,40.3758822916913,0 -3.687297900046764,40.37403726962254,0 -3.68637301438166,40.37224421676032,0 -3.685037928935873,40.3714525929517,0 -3.68300048988522,40.37075641768723,0 -3.681876105016548,40.36963591983571,0 -3.682127102564754,40.36868563343541,0 -3.681844470568477,40.36665079363365,0 -3.682770367612712,40.36497436673609,0 -3.682293109138991,40.36251090437349,0 -3.682248983141116,40.36135980113418,0 -3.680050846215096,40.36074878886772,0 -3.678055581678504,40.36063698633826,0 -3.672044858744524,40.36119902321838,0 -3.665349976694724,40.36346327976556,0 -3.657666316799733,40.36840191807362,0 -3.655651037460056,40.36955488454491,0 -3.654564878070246,40.37087083070033,0 -3.653197378571857,40.37472258484439,0 -3.651250447040044,40.37688311390134,0 -3.624885465856168,40.38209231599039,0 -3.625355770127335,40.3834496419595,0 -3.622038846452342,40.39077248210224,0 -3.633578794260429,40.3930439867955,0 -3.643952826797517,40.39592616875669,0 -3.652361527221774,40.40338839357629,0 -3.655440602826917,40.40536157078119,0 -3.658048879230077,40.40587838065421,0 -3.66548505926908,40.40639491154787,0 -3.666952407883345,40.40252271297032,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
