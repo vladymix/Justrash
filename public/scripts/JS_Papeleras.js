@@ -24,7 +24,7 @@ var imagenPLL = 'icons/iconsMap/32x32PLL.png';
 var imagenPM = 'icons/iconsMap/32x32PM.png';
 var imagenPV = 'icons/iconsMap/32x32PV.png';
 var imagenPA = 'icons/iconsMap/32x32PA.png';
-var fileMoncloa = 'files/Moncloa.xml';
+var fileMoncloa = 'files/Moncloa1.xml';
 
 var _TRASHS_CAN = new Array; 
 
@@ -132,6 +132,7 @@ function MostrarOnlyPapeleras()
 	try{
 		map = new GMaps({  // Creo un mapa en [lat, lng]
               el: '#map',
+			  zoom:14,
 			  disableDefaultUI: true,
               lat: 40.4348593513256,
               lng: -3.7193591331740663 });

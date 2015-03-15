@@ -18,13 +18,7 @@ var Villaverde = [[40.36481185402414,-3.720687084539104],[40.33113369912949,-3.7
 
 function GraficarDistrito(path)
 {
-	
-	map.addMarker({
-		 lat: 40.40853052553779, 
-		 lng: -3.691834111543285
-		 }
-		 		 ); 
-	  polygon = map.drawPolygon({
+ polygon = map.drawPolygon({
   paths: path, 
   strokeColor: '#92B7CC',		//define el color del perimetro del poligono
   strokeOpacity: 1,				//su opacidad
@@ -32,5 +26,4 @@ function GraficarDistrito(path)
   fillColor: '#BBD8E9',
   fillOpacity: 0.6
 });
-alert("/Graficado");
 }

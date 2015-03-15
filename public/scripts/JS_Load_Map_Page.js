@@ -8,6 +8,7 @@ var map;
 function initialiceMAPA (){
 	map = new GMaps({  // Creo un mapa en [lat, lng]
               el: '#map',
+			  zoom:11,
 			  disableDefaultUI: true,
               lat: 40.412187615201205,
               lng: -3.693137458214324 });
@@ -43,8 +44,8 @@ $(function()
 {
 
  initialiceMAPA ();
-//CargarPapeleras(fileMoncloa);
-//MostrarOnlyPapeleras();
+CargarPapeleras(fileMoncloa);
+MostrarOnlyPapeleras();
 
 //Botones
 $("#lbPLL").on("click",MostrarRutaLlenas);
