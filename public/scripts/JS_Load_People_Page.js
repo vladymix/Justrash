@@ -1,4 +1,4 @@
-// JS_Load_Rutas_Page
+// JS_Load_People_Page
 //funciones
 
 
