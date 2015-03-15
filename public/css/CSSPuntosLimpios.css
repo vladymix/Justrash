@@ -1,0 +1,8 @@
+.mapa
+{
+	min-width: 320px;
+	background-image: url(../icons/mapLoad.jpg);
+	width: 100%;
+	height: 100%;
+	z-index: 0;
+}

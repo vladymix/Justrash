@@ -9,13 +9,15 @@
 
   <!-- Zepto.JS -->
   <script src="libs/zepto.min.js" type="text/javascript"></script>
+    <!-- Chart.js -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.js" type="text/javascript"></script>
   <!-- Script de carga -->
   <script src="scripts/JS_Load_Estadisticas_Page.js" type="text/javascript"></script>
   <script src="scripts/JS_Papeleras.js" type="text/javascript"></script>
 
   <!-- Stylesheets -->
   <link href="css/CSSAPP.css" type="text/css" rel="stylesheet">
-  <link href="css/CSSRutas.css" type="text/css" rel="stylesheet">
+  <link href="css/CSSEstadisticas.css" type="text/css" rel="stylesheet">
 </head>
 
 <body>
@@ -53,8 +55,20 @@
 
     <td>
       <div class="app_Justrash">
-        <div style="height:100%;">
-        aqui van las estaditicas y los graficos
+        <div class="zona_detalles">
+          <h1 class="titulo_seccion">Estadísticas</h1>
+          <div class="area_graficas">
+            <div class="grafica">
+              <h3>Por distrito</h3>
+              <canvas id="distrito" class="grafica" width="400" height="400"></canvas>
+
+            </div>
+            <div class="grafica">
+              <h3>Por tiempo</h3>
+              <canvas id="tiempo" class="grafica" width="400" height="400"></canvas>
+
+            </div>
+          </div>
         </div>
       </div> 
     </td>	

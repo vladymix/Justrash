@@ -1,0 +1,28 @@
+.area_graficas {
+	padding: 2em;
+}
+
+.grafica {
+	width: 400px;
+	height: 400px;
+}
+	.grafica h3 {
+		padding: 0.25em 0.5em;
+		background-color: #C8C8C8;
+		border-radius: 8px;
+		height: 2em;
+		display: inline-block;
+	}
+	.grafica canvas {
+		padding: 1em;
+		margin-top: -1em;
+		background-color: #23241F;
+		border-radius: 8px;
+	}
+.zona_detalles {
+	overflow: scroll;
+	position: relative;
+	background-color: #9DA2AB;
+	padding: 2em;
+	height: 647px;
+}
