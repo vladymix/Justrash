@@ -16,6 +16,7 @@ body
 	overflow:hidden;
 	color:#000000;
 }
+table {border-collapse:collapse; border: none; padding: 0;}
 .wrapped{
 	font-family: FiraSansOT-Ligth;
 	border-collapse:collapse;
@@ -34,15 +35,14 @@ body
 
 }
 .Menu{
-	z-index:0;
-	width: 160px;
+	overflow:hidden;
+	z-index: 0;
 	background-color: rgba(45,54,57,1.00);
-	min-width: 45px;
+	width: 116px;
 	}
 .buttonsMenu{
-	list-style: none;
 	position:absolute;
-	padding: 0px;
+	list-style: none;
 	top: 57px;	
 }
 .buttonsMenu li{
@@ -51,19 +51,20 @@ body
 }
 .buttonsMenu li a 
 {
+	text-align:center;
 	display: block;
-	padding-right: 0px;
-	padding-left: 10px;
+	padding-left:5px;
+	padding-right:5px;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	text-decoration: none;
 	color: #fff;
 	border: 0;
 	text-shadow: 0px 1px 1px rgba(250,250,250,0.1);
-	width:150px;
+	
 }
 .imagenMenu{
-	margin-right: 10px;
+	
 	margin-bottom: -7px;
 }
 .buttonsMenu li a:hover 

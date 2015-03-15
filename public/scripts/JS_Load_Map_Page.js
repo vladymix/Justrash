@@ -43,8 +43,8 @@ $(function()
 {
 
  initialiceMAPA ();
-CargarPapeleras(fileMoncloa);
-MostrarOnlyPapeleras();
+//CargarPapeleras(fileMoncloa);
+//MostrarOnlyPapeleras();
 
 //Botones
 $("#lbPLL").on("click",MostrarRutaLlenas);
