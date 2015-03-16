@@ -24,6 +24,7 @@ var imagenPLL = 'icons/iconsMap/32x32PLL.png';
 var imagenPM = 'icons/iconsMap/32x32PM.png';
 var imagenPV = 'icons/iconsMap/32x32PV.png';
 var imagenPA = 'icons/iconsMap/32x32PA.png';
+var imagenPC = 'icons/iconsMap/32x32PC.png';
 var fileMoncloa = 'files/Moncloa1.xml';
 
 var _TRASHS_CAN = new Array; 

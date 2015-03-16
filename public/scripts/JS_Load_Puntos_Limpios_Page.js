@@ -173,6 +173,7 @@ $(function()
 		map.addMarker({
 			lat: puntos[n].latitud,
 			lng: puntos[n].longitud,
+			icon: imagenPC,
 			title: puntos[n].distrito,
 			infoWindow: {
 				content: "<b>Punto limpio de " + puntos[n].distrito + "</b><br><span>" + puntos[n].direccion + "</span>"
