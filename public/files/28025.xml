@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPapelera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Papelera>
+    <Name>GRAL.RICARDOS-Cº VIEJO LEGANES</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>General Ricardos, 85</PostalAdress>
+    <Longitud>-3.72308301558623</Longitud>
+    <Latitud>40.3937532733512</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.RICARDOS-URGEL</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>General Ricardos, 107</PostalAdress>
+    <Longitud>-3.72538482406226</Longitud>
+    <Latitud>40.3925181495034</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.RICARDOS-GTA.VALLE DE ORO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Gral. Ricardos con Gta. Valle de Oro.</PostalAdress>
+    <Longitud>-3.73121013044305</Longitud>
+    <Latitud>40.3888418500229</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.RICARDOS-VISTA ALEGRE</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>General Ricardos, 208</PostalAdress>
+    <Longitud>-3.73735332672256</Longitud>
+    <Latitud>40.3853389095346</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.RICARDOS-VISTA ALEGRE</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>General Ricardos frente al Nº 208</PostalAdress>
+    <Longitud>-3.73729977469458</Longitud>
+    <Latitud>40.3851545643905</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.RICARDOS-Pº MUÑOZ GRANDES</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>General Ricardos, 220</PostalAdress>
+    <Longitud>-3.73919797172317</Longitud>
+    <Latitud>40.3848721915574</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.RICARDOS-Pº MUÑOZ GRANDES</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>General Ricardos frente al Nº 224</PostalAdress>
+    <Longitud>-3.73964956473781</Longitud>
+    <Latitud>40.3845539904555</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.RICARDOS-NTRA.SRA.DE LA LUZ</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>General Ricardos frente al Nº 191(Pza. Palmeras)</PostalAdress>
+    <Longitud>-3.74278706359008</Longitud>
+    <Latitud>40.3827320934495</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.RICARDOS-NTRA.SRA.DE LA LUZ</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Gral. Ricardos, 189</PostalAdress>
+    <Longitud>-3.74252332261725</Longitud>
+    <Latitud>40.3826527030428</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.RICARDOS-EUGENIA  DE MONTIJO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>General Ricardos, 272</PostalAdress>
+    <Longitud>-3.74506523334589</Longitud>
+    <Latitud>40.3809877155104</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.RICARDOS-EUGENIA  DE MONTIJO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>General Ricardos frente al Nº 262/272</PostalAdress>
+    <Longitud>-3.74493977962509</Longitud>
+    <Latitud>40.3807948272945</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EUGENIA DE MONTIJO Nº 78</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Eugenia de Montijo, 78</PostalAdress>
+    <Longitud>-3.74745057987211</Longitud>
+    <Latitud>40.3790579145185</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EUGENIA DE MONTIJO Nº 55</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Eugenia de Montijo, 55</PostalAdress>
+    <Longitud>-3.74616225023769</Longitud>
+    <Latitud>40.3800437080014</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EUGENIA DE MONTIJO-NTRA.SRA.FATIMA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Eugenia de Montijo, 90</PostalAdress>
+    <Longitud>-3.74820218097615</Longitud>
+    <Latitud>40.3783773797978</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EUGENIA DE MONTIJO-NTRA.SRA.FATIMA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Eugenia de Montijo, 63</PostalAdress>
+    <Longitud>-3.74805862580097</Longitud>
+    <Latitud>40.3782792072319</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº MUÑOZ GRANDES-OCA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Muñoz Grandes, 62</PostalAdress>
+    <Longitud>-3.74426773871727</Longitud>
+    <Latitud>40.3877496512161</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº MUÑOZ GRANDES-GRAL.RICARDOS</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Pº de Muñoz Grandes, 1.</PostalAdress>
+    <Longitud>-3.7397948703373</Longitud>
+    <Latitud>40.3849134254358</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº MUÑOZ GRANDES-ANTOLINA MERINO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Pº de Muñoz Grandes, 35</PostalAdress>
+    <Longitud>-3.74280222691646</Longitud>
+    <Latitud>40.3869347304834</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ABRANTES-AV.OPORTO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Av. de Abrantes, 2</PostalAdress>
+    <Longitud>-3.72206450225652</Longitud>
+    <Latitud>40.3850163195097</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ABRANTES-PORTALEGRE</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Av. de Abrantes, 14</PostalAdress>
+    <Longitud>-3.72349456017004</Longitud>
+    <Latitud>40.3843317134886</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ABRANTES-PORTALEGRE</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Pza. de Setubal, 5</PostalAdress>
+    <Longitud>-3.72415750768569</Longitud>
+    <Latitud>40.3839401795376</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ABRANTES-PELICANO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Av. de Abrantes, 20</PostalAdress>
+    <Longitud>-3.7256960345623</Longitud>
+    <Latitud>40.3830746862761</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ABRANTES-ALFONSO MARTINEZ CONDE</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Av. de Abrantes, 54</PostalAdress>
+    <Longitud>-3.72842828062969</Longitud>
+    <Latitud>40.3807872440096</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ABRANTES-ALFONSO MARTINEZ CONDE</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Av. de Abrantes S/N frente al Nº 52</PostalAdress>
+    <Longitud>-3.72798385866701</Longitud>
+    <Latitud>40.3808846338074</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ABRANTES-CARRERO JUAN RAMON</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Av. de Abrantes, 70</PostalAdress>
+    <Longitud>-3.7299838819815</Longitud>
+    <Latitud>40.3797414043306</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ABRANTES-CARRERO JUAN RAMON</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Av. de Abrantes, 101</PostalAdress>
+    <Longitud>-3.72979423737082</Longitud>
+    <Latitud>40.379634490441</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ABRANTES-PZA.LAS MENINAS</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Av. de Abrantes, 106</PostalAdress>
+    <Longitud>-3.73248239925855</Longitud>
+    <Latitud>40.3776535385285</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ABRANTES-PZA.MENINAS</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Av. de Abrantes, 145</PostalAdress>
+    <Longitud>-3.73217583671275</Longitud>
+    <Latitud>40.3776284497227</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ABRANTES-Cº VIEJO LEGANES</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Av. de Abrantes, 155</PostalAdress>
+    <Longitud>-3.73323881313048</Longitud>
+    <Latitud>40.3767928883653</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BESOLLA Nº 11</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Besolla, 11</PostalAdress>
+    <Longitud>-3.7348606681396</Longitud>
+    <Latitud>40.3764402633936</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BESOLLA-AV.ABRANTES</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Besolla con Av. de Abrantes</PostalAdress>
+    <Longitud>-3.73476262266692</Longitud>
+    <Latitud>40.3760895308517</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CARCASTILLO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Carcastillo frente al Nº 27</PostalAdress>
+    <Longitud>-3.73769134700238</Longitud>
+    <Latitud>40.377836694939</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CARCASTILLO Nº 29</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Carcastillo, 29</PostalAdress>
+    <Longitud>-3.73772472404464</Longitud>
+    <Latitud>40.3776563005482</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BELZUNEGUI-REAL MADRID</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Belzunegui, 22 frente al Nº 15</PostalAdress>
+    <Longitud>-3.73920284656718</Longitud>
+    <Latitud>40.3760072211322</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BELZUNEGUI-REAL MADRID</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Belzunegui, 15</PostalAdress>
+    <Longitud>-3.73902954595288</Longitud>
+    <Latitud>40.3762515725887</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BELZUNEGUI-AV.POBLADOS</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Belzunegui, 70 con Av. de los Poblados</PostalAdress>
+    <Longitud>-3.7389132552552</Longitud>
+    <Latitud>40.3742973414863</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.POBLADOS-ALISEDA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Av. de los Poblados S/N con C/ Aliseda</PostalAdress>
+    <Longitud>-3.74156672109563</Longitud>
+    <Latitud>40.3736632587141</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALISEDA-ALBARES DE LA RIBERA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Aliseda, 43 con Pza de los Navarros</PostalAdress>
+    <Longitud>-3.74216615950852</Longitud>
+    <Latitud>40.3739116735594</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALBARES DE LA RIBERA-BELZUNEGUI</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Albares de la Ribera, 56</PostalAdress>
+    <Longitud>-3.7394010606069</Longitud>
+    <Latitud>40.3746726101471</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.POBLADOS-AV.CARABANCHEL BAJO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Avenida de los Poblados,  s/n</PostalAdress>
+    <Longitud>-3.74676969732366</Longitud>
+    <Latitud>40.3753010131441</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.POBLADOS-EUGENIA DE MONTIJO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Av. de los Poblados S/N con C/ Eugenia de Montijo</PostalAdress>
+    <Longitud>-3.74883667518064</Longitud>
+    <Latitud>40.376395784406</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PELICANO-ARGUESO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Pelícano, 12</PostalAdress>
+    <Longitud>-3.72699590482434</Longitud>
+    <Latitud>40.3837827561314</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PELICANO-Cº VIEJO LEGANES</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Pelícano, 38</PostalAdress>
+    <Longitud>-3.72898485890995</Longitud>
+    <Latitud>40.3837567401341</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.TARIFA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Pza. de Tarifa, 2</PostalAdress>
+    <Longitud>-3.73041008828118</Longitud>
+    <Latitud>40.3843063233105</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CLARA CAMPOAMOR-ALVAREZ AVELLAN</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Clara Campoamor frente al Nº 15</PostalAdress>
+    <Longitud>-3.73361098082588</Longitud>
+    <Latitud>40.3849842950871</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CLARA CAMPOAMOR-AVEFRIA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Clara Campoamor frente al Nº 31</PostalAdress>
+    <Longitud>-3.73341396686794</Longitud>
+    <Latitud>40.3836206672073</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALVAREZ AVELLAN-PZA.TARIFA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Pza. de Tarifa, 4</PostalAdress>
+    <Longitud>-3.73045023460223</Longitud>
+    <Latitud>40.3839321932085</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>OCA-MATILDE HERNANDEZ</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Oca, 28</PostalAdress>
+    <Longitud>-3.73412150067099</Longitud>
+    <Latitud>40.3897603746719</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>OCA-MATILDE HERNANDEZ</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Oca, 17</PostalAdress>
+    <Longitud>-3.73445021691319</Longitud>
+    <Latitud>40.3896501815504</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>NTRA.SRA.VALVANERA-TORTOLA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Av. Nuestra Señora de Valvanera, 86</PostalAdress>
+    <Longitud>-3.73625367203639</Longitud>
+    <Latitud>40.3908009000394</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>NTRA.SRA.VALVANERA-TORTOLA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Av. Nuestra Señora de Valvanera, 71</PostalAdress>
+    <Longitud>-3.73629717553733</Longitud>
+    <Latitud>40.3904672878624</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>NTRA.SRA.VALVANERA-ALGODRE</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Av. Nuestra Señora de Valvanera, 102</PostalAdress>
+    <Longitud>-3.73858738331942</Longitud>
+    <Latitud>40.3919482092938</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>NTRA.SRA.VALVANERA-ALGODRE</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Av. Nuestra Señora de Valvanera, 103</PostalAdress>
+    <Longitud>-3.73818129215614</Longitud>
+    <Latitud>40.3914462908005</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº VIEJO LEGANES-AV.OPORTO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Cº Viejo de Leganés, 86</PostalAdress>
+    <Longitud>-3.72794831517096</Longitud>
+    <Latitud>40.3859704849952</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº VIEJO LEGANES-AV.OPORTO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Cº Viejo de Leganés, 111</PostalAdress>
+    <Longitud>-3.7277466019699</Longitud>
+    <Latitud>40.3860438253496</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº VIEJO LEGANES-FALCINELO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Cº Viejo de Leganés, 134-Bis</PostalAdress>
+    <Longitud>-3.73044089634744</Longitud>
+    <Latitud>40.3823151216349</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº VIEJO LEGANES-FALCINELO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Cº Viejo de Leganés, 171</PostalAdress>
+    <Longitud>-3.73045250564645</Longitud>
+    <Latitud>40.3820943258358</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº VIEJO LEGANES-WENCESLAO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Cº Viejo de Leganés, 152</PostalAdress>
+    <Longitud>-3.73156012256177</Longitud>
+    <Latitud>40.3809521898439</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº VIEJO LEGANES-WENCESLAO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Cº Viejo de Leganés frente al Nº 162</PostalAdress>
+    <Longitud>-3.73170312137737</Longitud>
+    <Latitud>40.3805233548584</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº VIEJO LEGANES-CARCASTILLO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Cº Viejo de Leganés, 180</PostalAdress>
+    <Longitud>-3.73316592691836</Longitud>
+    <Latitud>40.3787663406615</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº VIEJO LEGANES-CARCASTILLO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Cº Viejo de Leganés, 261</PostalAdress>
+    <Longitud>-3.73313236763929</Longitud>
+    <Latitud>40.3785908758617</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARIA ODIAGA-PADRE AMIGO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>María Odiaga, 10</PostalAdress>
+    <Longitud>-3.74045384947039</Longitud>
+    <Latitud>40.3794181786908</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARIA ODIAGA-WITERICO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>María Odiaga, 18</PostalAdress>
+    <Longitud>-3.74186137604825</Longitud>
+    <Latitud>40.3789226803042</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARIA ODIAGA-PIEDRAHITA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>María Odiaga, 38</PostalAdress>
+    <Longitud>-3.743202457386</Longitud>
+    <Latitud>40.3775401961222</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº CASTELLANOS-MARIA ODIAGA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Pº de los Castellanos, 49</PostalAdress>
+    <Longitud>-3.7445903402582</Longitud>
+    <Latitud>40.3754636953637</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALBA TORMES-FEDERICO GRASES</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Alba de Tormes frente al Nº 28</PostalAdress>
+    <Longitud>-3.74515836699006</Longitud>
+    <Latitud>40.3761672555176</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALBA TORMES-EPOCA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Alba de Tormes, 31</PostalAdress>
+    <Longitud>-3.74401454004247</Longitud>
+    <Latitud>40.3775710182107</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALBA TORMES-WITERICO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Alba de Tormes, 11</PostalAdress>
+    <Longitud>-3.74290419546235</Longitud>
+    <Latitud>40.3787087865506</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.POBLADOS-TANATORIO SUR</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Av. de los Poblados S/N frente al Tanatorio Sur</PostalAdress>
+    <Longitud>-3.72216906201971</Longitud>
+    <Latitud>40.3738263755801</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.POBLADOS-VENTURA DIAZ BERNARDO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Av. de los Poblados S/N (Gasolinera)</PostalAdress>
+    <Longitud>-3.72655769731766</Longitud>
+    <Latitud>40.3733394642552</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.POBLADOS-VIA LUSITANA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Av. de los Poblados S/N frente a C/ Perseverancia</PostalAdress>
+    <Longitud>-3.73269741926621</Longitud>
+    <Latitud>40.3735710587387</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.POBLADOS-AV.ABRANTES</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Av. de los Poblados S/N con Vía Lusitana, 134</PostalAdress>
+    <Longitud>-3.73541589887918</Longitud>
+    <Latitud>40.3740403200844</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.POBLADOS-BELZUNEGUI</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Av. de los Poblados S/N con C/ Belzunegui</PostalAdress>
+    <Longitud>-3.73824661126911</Longitud>
+    <Latitud>40.373995283601</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.POBLADOS-AV.DEL EURO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Av. de los Poblados con Av. del Euro</PostalAdress>
+    <Longitud>-3.73827178890476</Longitud>
+    <Latitud>40.3738059321125</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>OCA-PINZON</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Oca, 76</PostalAdress>
+    <Longitud>-3.74042707847803</Longitud>
+    <Latitud>40.388958963981</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>OCA-PINZON</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Oca, 73</PostalAdress>
+    <Longitud>-3.74042510859958</Longitud>
+    <Latitud>40.3887787951497</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>OCA-GTA.DEL EJERCITO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Oca, 108</PostalAdress>
+    <Longitud>-3.74426348461831</Longitud>
+    <Latitud>40.3882001321274</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VIA LUSITANA-PZA.ELIPTICA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Vía Lusitana con Pza.  Fernández Ladreda</PostalAdress>
+    <Longitud>-3.71874946714608</Longitud>
+    <Latitud>40.3846045040171</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INTERCAMBIADOR PZA.ELIPTICA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Interc.Pza.Eliptica, darsena 3 (155-702) darsena 4 (401</PostalAdress>
+    <Longitud>-3.71844316425687</Longitud>
+    <Latitud>40.3846064045137</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VIA LUSITANA-PZA.ELIPTICA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Vía Lusitana con Pza. Fernández Ladreda</PostalAdress>
+    <Longitud>-3.71858053081489</Longitud>
+    <Latitud>40.3849569066079</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VIA LUSITANA-BRAGANZA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Vía Lusitana, 12</PostalAdress>
+    <Longitud>-3.72102517419117</Longitud>
+    <Latitud>40.3837750364919</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VIA LUSITANA-BRAGANZA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Via Lusitana frente al Nº 12</PostalAdress>
+    <Longitud>-3.7208591913601</Longitud>
+    <Latitud>40.383573365292</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VIA LUSITANA-PZA.COIMBRA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Vía Lusitana con Pza. de Coimbra</PostalAdress>
+    <Longitud>-3.72360365111351</Longitud>
+    <Latitud>40.3824120967886</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VIA LUSITANA-PZA.COIMBRA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Vía Lusitana frente a Pza. de Coimbra.</PostalAdress>
+    <Longitud>-3.72342860488525</Longitud>
+    <Latitud>40.3822239995005</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VIA LUSITANA-FARO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Vía Lusitana, 56</PostalAdress>
+    <Longitud>-3.72536099152469</Longitud>
+    <Latitud>40.3810452361295</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VIA LUSITANA-FARO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Vía Lusitana frente al Nº 56</PostalAdress>
+    <Longitud>-3.72510335550015</Longitud>
+    <Latitud>40.3808801812936</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VIA LUSITANA-CARRERO JUAN RAMON</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Vía Lusitana con C/ Carrero Juan Ramón</PostalAdress>
+    <Longitud>-3.72844044108032</Longitud>
+    <Latitud>40.3784943542694</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VIA LUSITANA-CARRERO JUAN RAMON</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Vía Lusitana frente a C/ Carrero Juan Ramón</PostalAdress>
+    <Longitud>-3.72823663023384</Longitud>
+    <Latitud>40.3783019405163</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VIA LUSITANA-CONSEJERIA EMPLEO Y MUJER</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Vía Lusitana, 106</PostalAdress>
+    <Longitud>-3.7320054477318</Longitud>
+    <Latitud>40.3755213990273</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VIA LUSITANA-CONSEJERIA EMPLEO Y MUJER</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Vía Lusitana, 25</PostalAdress>
+    <Longitud>-3.73169094139666</Longitud>
+    <Latitud>40.3752711317365</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº VIEJO LEGANES-AV.ABRANTES</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Cº Viejo de Leganés, 188</PostalAdress>
+    <Longitud>-3.7343236968952</Longitud>
+    <Latitud>40.3768941238876</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SOMBRA-JUNTA MUNICIPAL CARABANCHEL</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Sombra, 25</PostalAdress>
+    <Longitud>-3.74177793139556</Longitud>
+    <Latitud>40.3797745733809</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BRAGANZA-VIA LUSITANA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Braganza, 2</PostalAdress>
+    <Longitud>-3.72112680629177</Longitud>
+    <Latitud>40.3843644987891</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.RICARDOS-ALONDRA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>General Ricardos, 182</PostalAdress>
+    <Longitud>-3.73452976498034</Longitud>
+    <Latitud>40.3869019094115</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.RICARDOS-PTA.BONITA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Pº General Ricardos, 171</PostalAdress>
+    <Longitud>-3.73416800650654</Longitud>
+    <Latitud>40.3869177169523</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>NTRA.SRA.VALVANERA-VIA CARPETANA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Nuestra Señora de Valvanera con Vía Carpetana.</PostalAdress>
+    <Longitud>-3.74076249552672</Longitud>
+    <Latitud>40.3928622499337</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº MUÑOZ GRANDES-LAGUNA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Pº de Muñoz Grandes, 28</PostalAdress>
+    <Longitud>-3.74204851284009</Longitud>
+    <Latitud>40.3867638855632</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARIA ODIAGA-FEDERICO GRASES</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>María Odiaga   frente Nº 51</PostalAdress>
+    <Longitud>-3.74398952493873</Longitud>
+    <Latitud>40.3760306247511</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.NAVARROS-ALISEDA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Pza. los Navarros</PostalAdress>
+    <Longitud>-3.74269933175618</Longitud>
+    <Latitud>40.3743271784694</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ABRANTES-PELICANO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Av. de Abrantes, 5</PostalAdress>
+    <Longitud>-3.72542305488675</Longitud>
+    <Latitud>40.3828872056601</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.POBLADOS-VIA LUSITANA</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Av. de los Poblados (entre Ant. Romero y Vía Lusitana)</PostalAdress>
+    <Longitud>-3.73270052048774</Longitud>
+    <Latitud>40.3737557256124</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PADRE AMIGO-MORENO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Padre Amigó, con C/ del Moreno</PostalAdress>
+    <Longitud>-3.73967064160093</Longitud>
+    <Latitud>40.3787294838979</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PADRE AMIGO-MORENO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Padre Amigó S/N con C/ del Moreno</PostalAdress>
+    <Longitud>-3.73956459946986</Longitud>
+    <Latitud>40.3787616929255</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PORTALEGRE-AV.OPORTO</Name>
+    <PostalCode>28025</PostalCode>
+    <PostalAdress>Portalegre, 108.</PostalAdress>
+    <Longitud>-3.72385757536041</Longitud>
+    <Latitud>40.3850546763492</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+</ArrayOfPapelera>

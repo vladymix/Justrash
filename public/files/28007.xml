@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPapelera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Papelera>
+    <Name>LOS ASTROS-CRUZ DEL SUR</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Los Astros frente al Nº 5</PostalAdress>
+    <Longitud>-3.66891704360957</Longitud>
+    <Latitud>40.4112545745219</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOS ASTROS-CRUZ DEL SUR</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Los Astros, 5</PostalAdress>
+    <Longitud>-3.66854310629016</Longitud>
+    <Latitud>40.4115810597417</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ESTRELLA POLAR-PEZ AUSTRAL</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Estrella Polar, 24</PostalAdress>
+    <Longitud>-3.66548555754854</Longitud>
+    <Latitud>40.4110851520649</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ESTRELLA POLAR-PEZ AUSTRAL</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Estrella Polar, 13 con C/ Pez Austral</PostalAdress>
+    <Longitud>-3.66544089505043</Longitud>
+    <Latitud>40.411337662369</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>O DONNELL-SALIENTE</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>O Donnell S/N con C/ Saliente</PostalAdress>
+    <Longitud>-3.66606666338315</Longitud>
+    <Latitud>40.4203926680662</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INTERCAMBIADOR PTE.VALLECAS</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Puente de Vallecas (M-30)  con Av. Albufera</PostalAdress>
+    <Longitud>-3.66944696189974</Longitud>
+    <Latitud>40.3980982717075</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CDAD.BARCELONA-INT.ATOCHA</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. Ciudad de Barcelona con Pza. Emperador Carlos V</PostalAdress>
+    <Longitud>-3.6905911199375</Longitud>
+    <Latitud>40.4076949115394</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.ESQUERDO-HPTAL.GREGORIO MARAÑON</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Doctor Esquerdo, 46</PostalAdress>
+    <Longitud>-3.66948306788969</Longitud>
+    <Latitud>40.4184315196719</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.ESQUERDO-HPTAL.GREGORIO MARAÑON</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Doctor Esquerdo, 81</PostalAdress>
+    <Longitud>-3.66905775957116</Longitud>
+    <Latitud>40.418334877935</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INTERCAMBIADOR ATOCHA-RENFE</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. Ciudad de Barcelona (Intercambiador de Atocha)</PostalAdress>
+    <Longitud>-3.68909414362833</Longitud>
+    <Latitud>40.406735354481</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CDAD.BARCELONA Nº 6</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. Ciudad de Barcelona, 6</PostalAdress>
+    <Longitud>-3.6850652845399</Longitud>
+    <Latitud>40.4055295191408</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CDAD.BARCELONA-MENENDEZ PELAYO</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. Ciudad de Barcelona, 136.</PostalAdress>
+    <Longitud>-3.68048081061466</Longitud>
+    <Latitud>40.4040655456143</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CDAD.BARCELONA-MENENDEZ PELAYO</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. Ciudad de Barcelona, 19.</PostalAdress>
+    <Longitud>-3.68147777661348</Longitud>
+    <Latitud>40.4047263546129</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CDAD.BARCELONA-JUAN DE URBIETA</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. Ciudad de Barcelona, 144</PostalAdress>
+    <Longitud>-3.67828010074476</Longitud>
+    <Latitud>40.4030514209525</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CDAD.BARCELONA-JUAN DE URBIETA</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. Ciudad de Barcelona, 49</PostalAdress>
+    <Longitud>-3.67807710983386</Longitud>
+    <Latitud>40.4032282864017</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CDAD.BARCELONA-DR.ESQUERDO</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. Ciudad de Barcelona frente al Nº 73</PostalAdress>
+    <Longitud>-3.67544384325423</Longitud>
+    <Latitud>40.4015229405229</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CDAD.BARCELONA-DR.ESQUERDO</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. Ciudad de Barcelona, 73.</PostalAdress>
+    <Longitud>-3.67542264825335</Longitud>
+    <Latitud>40.4017978408224</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CDAD.BARCELONA-SECO</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Avenida Ciudad de Barcelona, 210.</PostalAdress>
+    <Longitud>-3.67200861661722</Longitud>
+    <Latitud>40.3997411078699</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CDAD.BARCELONA-LUIS MITJANS</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. Ciudad de Barcelona, 97</PostalAdress>
+    <Longitud>-3.67188216809509</Longitud>
+    <Latitud>40.3999130138917</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.ESQUERDO-AV.NAZARET</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Doctor Esquerdo, 98.</PostalAdress>
+    <Longitud>-3.67004892658997</Longitud>
+    <Latitud>40.4109597418252</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.ESQUERDO-AV.NAZARET</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Doctor Esquerdo, 149</PostalAdress>
+    <Longitud>-3.66965312613158</Longitud>
+    <Latitud>40.4110115808181</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.ESQUERDO-PZA.CONDE CASAL</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Doctor Esquerdo, 128.</PostalAdress>
+    <Longitud>-3.67036857841666</Longitud>
+    <Latitud>40.4074218352667</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.ESQUERDO Nº 173</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Doctor Esquerdo, 173</PostalAdress>
+    <Longitud>-3.66995065943112</Longitud>
+    <Latitud>40.4073206491811</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.ESQUERDO-CAVANILLES</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Doctor Esquerdo, 150</PostalAdress>
+    <Longitud>-3.67267593246308</Longitud>
+    <Latitud>40.4040435708768</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.ESQUERDO-CAVANILLES</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Doctor Esquerdo, 187</PostalAdress>
+    <Longitud>-3.67218817466803</Longitud>
+    <Latitud>40.4040283845395</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.ESQUERDO-AV.CDAD.BARCELONA</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Dr. Esquerdo, 180</PostalAdress>
+    <Longitud>-3.67454258461248</Longitud>
+    <Latitud>40.4019561238413</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CDAD.BARCELONA-PACIFICO</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. Ciudad de Barcelona, 190</PostalAdress>
+    <Longitud>-3.6744836901611</Longitud>
+    <Latitud>40.4009609642968</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CDAD.BARCELONA-PACIFICO</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. Ciudad de Barcelona, 81</PostalAdress>
+    <Longitud>-3.67426248865845</Longitud>
+    <Latitud>40.4012325244303</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CAVANILLES-PZA.MARIANO DE CAVIA</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Cavanilles, 10</PostalAdress>
+    <Longitud>-3.67803143374276</Longitud>
+    <Latitud>40.4069042527458</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CAVANILLES-PZA.MARIANO DE CAVIA</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Cavanilles, 1</PostalAdress>
+    <Longitud>-3.67801093199545</Longitud>
+    <Latitud>40.4072106809082</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CAVANILLES-ABTAO</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Cavanilles, 36</PostalAdress>
+    <Longitud>-3.67561670963419</Longitud>
+    <Latitud>40.4058552944109</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CAVANILLES-ABTAO</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Cavanilles, 31</PostalAdress>
+    <Longitud>-3.67460125086669</Longitud>
+    <Latitud>40.4056630140473</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CAVANILLES-DR.ESQUERDO</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Cavanilles, 49</PostalAdress>
+    <Longitud>-3.67256399562829</Longitud>
+    <Latitud>40.404638819476</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CDAD.BARCELONA-M30</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. Ciudad de Barcelona, 109</PostalAdress>
+    <Longitud>-3.67055414384386</Longitud>
+    <Latitud>40.3992360201146</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CDAD.BARCELONA-M30</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av Cd Barcelona, 222</PostalAdress>
+    <Longitud>-3.6700894144279</Longitud>
+    <Latitud>40.3987161831483</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.ESQUERDO-AV.CDAD.BARCELONA</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av.Ciudad de Barcelona con C/ Doctor Esquerdo</PostalAdress>
+    <Longitud>-3.67481238760833</Longitud>
+    <Latitud>40.4015356303535</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.CONDE DE CASAL</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Pza. Conde de Casal frente al Nº 5</PostalAdress>
+    <Longitud>-3.66968568623501</Longitud>
+    <Latitud>40.4067456013927</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MEDITERRANEO-PZA.CONDE CASAL</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Pza. Conde de Casal, 1</PostalAdress>
+    <Longitud>-3.6709147046072</Longitud>
+    <Latitud>40.4070808330664</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MEDITERRANEO-PZA.CONDE CASAL</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. del Mediterráneo, 44</PostalAdress>
+    <Longitud>-3.67106424687038</Longitud>
+    <Latitud>40.4067105950365</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MEDITERRANEO-ABTAO</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. del Mediterráneo frente al Nº 28</PostalAdress>
+    <Longitud>-3.67334472667187</Longitud>
+    <Latitud>40.4073009667482</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MEDITERRANEO-ABTAO</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. Mediterraneo, 24.</PostalAdress>
+    <Longitud>-3.67421710269587</Longitud>
+    <Latitud>40.4070661605434</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MEDITERRANEO-PZA.MARIANO DE CAVIA</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. del Mediterráneo, 1</PostalAdress>
+    <Longitud>-3.67800438072252</Longitud>
+    <Latitud>40.407733244875</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MEDITERRANEO-PZA.MARIANO DE CAVIA</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. del Mediterráneo, 2</PostalAdress>
+    <Longitud>-3.6779063112392</Longitud>
+    <Latitud>40.4073554383276</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAINZ DE BARANDA-MARQUES DE LOZOYA</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Alcalde Sainz de Baranda, 72</PostalAdress>
+    <Longitud>-3.66765703403263</Longitud>
+    <Latitud>40.417230343831</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAINZ DE BARANDA-MARQUES DE LOZOYA</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Alcalde Sainz de Baranda, 91</PostalAdress>
+    <Longitud>-3.6676074542297</Longitud>
+    <Latitud>40.4174693694706</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAINZ DE BARANDA-JUAN ESPLANDIU</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Alcalde Sainz de Baranda S/N frente al Nº 107</PostalAdress>
+    <Longitud>-3.66543094071694</Longitud>
+    <Latitud>40.418716135129</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAINZ DE BARANDA-JUAN ESPLANDIU</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Alcalde Sainz de Baranda, 107</PostalAdress>
+    <Longitud>-3.66587919980757</Longitud>
+    <Latitud>40.4187495949236</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MENENDEZ PELAYO-PZA.MARIANO DE CAVIA</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. Menéndez Pelayo con Av. del Mediterráneo</PostalAdress>
+    <Longitud>-3.67818603003196</Longitud>
+    <Latitud>40.4082186706601</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CRUZ DEL SUR-PERSEO</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Cruz del Sur , 40</PostalAdress>
+    <Longitud>-3.66902463349617</Longitud>
+    <Latitud>40.4078305095903</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ESTRELLA POLAR-CRUZ DEL SUR</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Estrella Polar, 1</PostalAdress>
+    <Longitud>-3.66781128921624</Longitud>
+    <Latitud>40.4102789680146</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MEDITERRANEO-PZA.CONDE CASAL</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. del Mediterráneo, 50 (Pza. Conde de Casal)</PostalAdress>
+    <Longitud>-3.66907339122058</Longitud>
+    <Latitud>40.4065779678454</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CERRO NEGRO-JATIVA</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Cerro Negro con C/ Játiva</PostalAdress>
+    <Longitud>-3.67106211732456</Longitud>
+    <Latitud>40.3976159485994</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PTE.VALLECAS-M30</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Puente de Vallecas (M-30) con Av.Ciudad Barcelona</PostalAdress>
+    <Longitud>-3.66908209427486</Longitud>
+    <Latitud>40.3987760608863</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CERRO NEGRO-AV. CDAD. BARCELONA</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Cerro Negro con Av. Ciudad de Barcelona.</PostalAdress>
+    <Longitud>-3.66997368105152</Longitud>
+    <Latitud>40.3984826166052</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.ESQUERDO-AV.CDAD.BARCELONA</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Doctor Esquerdo, 217</PostalAdress>
+    <Longitud>-3.67418875237956</Longitud>
+    <Latitud>40.4017419662701</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.CONDE CASAL-AV.MEDITERRANEO</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Pza. Conde de Casal, frente al Nº 8.</PostalAdress>
+    <Longitud>-3.6706522341113</Longitud>
+    <Latitud>40.4068706401518</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JUAN ESPLANDIU-SAINZ DE BARANDA</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Juan Esplandiú, 11</PostalAdress>
+    <Longitud>-3.66454802358743</Longitud>
+    <Latitud>40.4187212046692</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JUAN ESPLANDIU-SAINZ DE BARANDA</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Juan Esplandiú frente al Nº 11</PostalAdress>
+    <Longitud>-3.66470103405401</Longitud>
+    <Latitud>40.4188104170845</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JUAN ESPLANDIU Nº 9</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Juan Esplandiú frente al Nº 9</PostalAdress>
+    <Longitud>-3.66221842235048</Longitud>
+    <Latitud>40.4185633764595</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JUAN ESPLANDIU Nº 9</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Juan Esplandiú, posterior del Nº 9</PostalAdress>
+    <Longitud>-3.66164661959156</Longitud>
+    <Latitud>40.4186657440593</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JUAN ESPLANDIU Nº 3</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Juan Esplandiú frente al Nº 3</PostalAdress>
+    <Longitud>-3.66355192028959</Longitud>
+    <Latitud>40.4167629429334</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JUAN ESPLANDIU Nº 4</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Juan Esplandiú, 4</PostalAdress>
+    <Longitud>-3.6627939390962</Longitud>
+    <Latitud>40.4166591745205</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MEDITERRANEO-PZA.CONDE CASAL</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. del Mediterráneo, 47</PostalAdress>
+    <Longitud>-3.6686143314195</Longitud>
+    <Latitud>40.4068598998699</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.ESQUERDO-SAINZ DE BARANDA</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Doctor Esquerdo frente al Nº 97 con C/ A.Sainz Baranda</PostalAdress>
+    <Longitud>-3.66964910233147</Longitud>
+    <Latitud>40.4161512701895</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.ESQUERDO-SAINZ DE BARANDA</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Dr. Esquerdo, 97</PostalAdress>
+    <Longitud>-3.66917835487422</Longitud>
+    <Latitud>40.4162260635304</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.ESQUERDO-SAMARIA</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Doctor Esquerdo, 78</PostalAdress>
+    <Longitud>-3.669852212342</Longitud>
+    <Latitud>40.4132266577136</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.ESQUERDO-SAMARIA</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Doctor Esquerdo, 119</PostalAdress>
+    <Longitud>-3.66947869913977</Longitud>
+    <Latitud>40.4132243128775</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.ESQUERDO Nº 136</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Doctor Esquerdo, 136</PostalAdress>
+    <Longitud>-3.67089451552999</Longitud>
+    <Latitud>40.4059728349076</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.ESQUERDO-PZA.CONDE CASAL</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Doctor Esquerdo, 177</PostalAdress>
+    <Longitud>-3.67029198707052</Longitud>
+    <Latitud>40.4060844322901</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CDAD.BARCELONA-M30</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. Ciudad de Barcelona, 111</PostalAdress>
+    <Longitud>-3.67035266402311</Longitud>
+    <Latitud>40.3991200683694</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CERRO NEGRO-CALIFORNIA</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Cerro Negro, 6-A (frente a C/ California)</PostalAdress>
+    <Longitud>-3.67183699860078</Longitud>
+    <Latitud>40.3965483851158</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CERRO NEGRO-LUIS PEIDRO</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>C/ Cerro Negro, 12</PostalAdress>
+    <Longitud>-3.67252972598951</Longitud>
+    <Latitud>40.3961840017257</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>COMERCIO Nº 2</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Comercio, 2</PostalAdress>
+    <Longitud>-3.68123301588783</Longitud>
+    <Latitud>40.4041557188485</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MENENDEZ PELAYO-CAVANILLES</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. Menéndez Pelayo, 18</PostalAdress>
+    <Longitud>-3.67927164729169</Longitud>
+    <Latitud>40.4071762664417</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MENENDEZ PELAYO-CAVANILLES</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. Menéndez Pelayo, 93</PostalAdress>
+    <Longitud>-3.67901875748163</Longitud>
+    <Latitud>40.4070426134372</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MENENDEZ PELAYO-GRANADA</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. Menéndez Pelayo, 36</PostalAdress>
+    <Longitud>-3.68033901791314</Longitud>
+    <Latitud>40.4054943155427</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MENENDEZ PELAYO-GRANADA</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. Menéndez Pelayo, 113</PostalAdress>
+    <Longitud>-3.6799280040423</Longitud>
+    <Latitud>40.4056408742372</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>COMERCIO Nº 1</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Comercio, 1</PostalAdress>
+    <Longitud>-3.68097018481259</Longitud>
+    <Latitud>40.4040581647694</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CDAD.BARCELONA-PACIFICO</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. Ciudad de Barcelona, 192</PostalAdress>
+    <Longitud>-3.67412865003107</Longitud>
+    <Latitud>40.4008098770436</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INTERCAMBIADOR ATOCHA-RENFE</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. Ciudad de Barcelona (Intercambiador de Atocha)</PostalAdress>
+    <Longitud>-3.68983497489634</Longitud>
+    <Latitud>40.4067534667758</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INTERCAMBIADOR ATOCHA-RENFE</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. Ciudad de Barcelona (Intercambiador de Atocha)</PostalAdress>
+    <Longitud>-3.68970427860432</Longitud>
+    <Latitud>40.4069028946751</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INTERCAMBIADOR ATOCHA-RENFE</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. Ciudad de Barcelona (Intercambiador de Atocha)</PostalAdress>
+    <Longitud>-3.68939687866537</Longitud>
+    <Latitud>40.4063731903855</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.ESQUERDO-O DONNELL</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Dr. Esquerdo, 57</PostalAdress>
+    <Longitud>-3.66886798445917</Longitud>
+    <Latitud>40.4204891362583</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CDAD.BARCELONA-INT.ATOCHA</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Av. Ciudad de Barcelona con Pza. Emperador Carlos V.</PostalAdress>
+    <Longitud>-3.68991915745609</Longitud>
+    <Latitud>40.4072799952912</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CERRO NEGRO-GANDIA</Name>
+    <PostalCode>28007</PostalCode>
+    <PostalAdress>Cerro Negro frente al Nº 2</PostalAdress>
+    <Longitud>-3.67024760412417</Longitud>
+    <Latitud>40.3981792276897</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+</ArrayOfPapelera>

@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPapelera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Papelera>
+    <Name>BRAVO MURILLO-MARIA ZAYAS</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Bravo Murillo, 245.</PostalAdress>
+    <Longitud>-3.7005311654729</Longitud>
+    <Latitud>40.4589010151048</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BRAVO MURILLO-PLAZA CASTILLA</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Bravo Murillo, 377 con Pza. de Castilla</PostalAdress>
+    <Longitud>-3.69064281030003</Longitud>
+    <Latitud>40.4658567934625</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BRAVO MURILLO-AGUILEÑAS</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Bravo Murillo, 359</PostalAdress>
+    <Longitud>-3.69305549976485</Longitud>
+    <Latitud>40.4653964317191</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BRAVO MURILLO-ANIBAL</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Bravo Murillo, 360</PostalAdress>
+    <Longitud>-3.69352480025359</Longitud>
+    <Latitud>40.4650422716345</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GTA.CUATRO CAMINOS</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Gta. de Cuatro Caminos, 4</PostalAdress>
+    <Longitud>-3.70431084798446</Longitud>
+    <Latitud>40.4474321692084</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BRAVO MURILLO-PALENCIA</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Bravo Murillo, 122</PostalAdress>
+    <Longitud>-3.70350473282609</Longitud>
+    <Latitud>40.4492929223415</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BRAVO MURILLO-TERUEL</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Bravo Murillo, 154</PostalAdress>
+    <Longitud>-3.70310467501363</Longitud>
+    <Latitud>40.4516466984577</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BRAVO MURILLO-CAROLINAS</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Bravo Murillo, 151</PostalAdress>
+    <Longitud>-3.70352686469163</Longitud>
+    <Latitud>40.4514189091433</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BRAVO MURILLO-MANUEL LUNA</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Bravo Murillo, 192</PostalAdress>
+    <Longitud>-3.7025840465004</Longitud>
+    <Latitud>40.45488408432</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BRAVO MURILLO-ALMANSA</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Bravo Murillo, 119</PostalAdress>
+    <Longitud>-3.70387992549458</Longitud>
+    <Latitud>40.4490834352157</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.DE SAN AMARO</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Av. Presidente Carmona, 12</PostalAdress>
+    <Longitud>-3.69699993374347</Longitud>
+    <Latitud>40.4550574752525</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.CABRERA-GRAL.YAGUE</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>General Cabrera, 22.</PostalAdress>
+    <Longitud>-3.69584120098867</Longitud>
+    <Latitud>40.4563482251115</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.YAGUE-INFANTA MERCEDES</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>General Yagüe, 44</PostalAdress>
+    <Longitud>-3.69768637548775</Longitud>
+    <Latitud>40.4568596416073</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BRAVO MURILLO-LOPE DE HARO</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Bravo Murillo, 219</PostalAdress>
+    <Longitud>-3.70223276011779</Longitud>
+    <Latitud>40.4566880116374</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BRAVO MURILLO-FCOS.RODRIGUEZ</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Bravo Murillo, 195</PostalAdress>
+    <Longitud>-3.70300635179714</Longitud>
+    <Latitud>40.4546653052637</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AVILA-BRAVO MURILLO</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Avila  frente al Nº 7</PostalAdress>
+    <Longitud>-3.70246788005825</Longitud>
+    <Latitud>40.4527856960632</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.PERON-COMANDANTE ZORITA</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Av. General Perón, 8</PostalAdress>
+    <Longitud>-3.69883214913186</Longitud>
+    <Latitud>40.4524653565462</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ORENSE-RAIMUNDO FDEZ.VILLAVERDE</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Orense, 3</PostalAdress>
+    <Longitud>-3.69563070989288</Longitud>
+    <Latitud>40.447286447403</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.MOSCARDO-BASILICA</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>General Moscardó, 20</PostalAdress>
+    <Longitud>-3.69680359423439</Longitud>
+    <Latitud>40.4490271396316</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ORENSE-BASILICA</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Orense frente Nº 16</PostalAdress>
+    <Longitud>-3.69542055214621</Longitud>
+    <Latitud>40.4498552730408</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.MOSCARDO-GRAL.PERON</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>General Moscardó, 32</PostalAdress>
+    <Longitud>-3.69652685854072</Longitud>
+    <Latitud>40.4520693389804</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ORENSE-GRAL.PERON</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Orense, 29</PostalAdress>
+    <Longitud>-3.69520805851144</Longitud>
+    <Latitud>40.4521268146236</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ORENSE-PALACIO DE CONGRESOS</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Orense, 35</PostalAdress>
+    <Longitud>-3.69507004174768</Longitud>
+    <Latitud>40.4536141261455</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.VARELA-GRAL.ORGAZ</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>General Varela, frente al Nº 9</PostalAdress>
+    <Longitud>-3.69534971607731</Longitud>
+    <Latitud>40.4544322645005</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.VARELA-GRAL.YAGUE</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>General Varela, frente al Nº 19</PostalAdress>
+    <Longitud>-3.69518968732528</Longitud>
+    <Latitud>40.4560728604804</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ORENSE-GRAL.YAGUE</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Orense, 53</PostalAdress>
+    <Longitud>-3.69478010369417</Longitud>
+    <Latitud>40.456205949313</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.YAGUE-CAPITAN HAYA</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>General Yagüe, 3 con C/ Capitán Haya</PostalAdress>
+    <Longitud>-3.69283340539647</Longitud>
+    <Latitud>40.4563212181289</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.YAGUE-CAPITAN HAYA</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>General Yagüe, 10</PostalAdress>
+    <Longitud>-3.69239880120382</Longitud>
+    <Latitud>40.4564949886684</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GTA.CUATRO CAMINOS</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Raimundo Fernández Villaverde, 1</PostalAdress>
+    <Longitud>-3.70301770596972</Longitud>
+    <Latitud>40.4469355246563</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.GRAL.PERON-CAPITAN HAYA</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Av. General Perón frente al Nº 38</PostalAdress>
+    <Longitud>-3.69312393452721</Longitud>
+    <Latitud>40.4524861559236</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.GRAL.PERON-CAPITAN HAYA</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Av. General Perón, 38</PostalAdress>
+    <Longitud>-3.69329856091399</Longitud>
+    <Latitud>40.45222835423</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.GRAL.PERON-COMANDANTE ZORITA</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Av. General Perón, 3</PostalAdress>
+    <Longitud>-3.69851861716292</Longitud>
+    <Latitud>40.4527960765589</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JUAN DE OLIAS-BRAVO MURILLO</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Juan de Olías, 1</PostalAdress>
+    <Longitud>-3.70265320290863</Longitud>
+    <Latitud>40.4535953800941</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.REINA VICTORIA-CUATRO CAMINOS</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Av. de Reina  Victoria, 4</PostalAdress>
+    <Longitud>-3.70537563982115</Longitud>
+    <Latitud>40.4470923543278</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GTA.CUATRO CAMINOS</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Gta. de Cuatro Caminos</PostalAdress>
+    <Longitud>-3.70437554841869</Longitud>
+    <Latitud>40.4473461901791</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BRAVO MURILLO-LOPE DE HARO</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Bravo Murillo, 204</PostalAdress>
+    <Longitud>-3.70166934951241</Longitud>
+    <Latitud>40.4570202553232</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BRAVO MURILLO-ROSA DE SILVA</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Bravo Murillo, 318</PostalAdress>
+    <Longitud>-3.69612987368692</Longitud>
+    <Latitud>40.4637608768989</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GTA.CUATRO CAMINOS</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Gta. Cuatro Caminos con C/ Los Artistas</PostalAdress>
+    <Longitud>-3.7036381480251</Longitud>
+    <Latitud>40.4473822053985</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.YAGUE-ORENSE</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>General Yagüe, 26</PostalAdress>
+    <Longitud>-3.69498678567451</Longitud>
+    <Latitud>40.4565560591437</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.YAGUE-ORENSE</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>General Yagüe, 15</PostalAdress>
+    <Longitud>-3.69510498790088</Longitud>
+    <Latitud>40.4564021968642</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.YAGUE-INFANTA MERCEDES</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>General Yagüe, 33</PostalAdress>
+    <Longitud>-3.69831787709667</Longitud>
+    <Latitud>40.4568017805271</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.MOSCARDO-HERNANI</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>General Moscardó, 10</PostalAdress>
+    <Longitud>-3.69697046546368</Longitud>
+    <Latitud>40.4477693806567</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.GRAL.PERON-ORENSE</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Av. General Perón, 26</PostalAdress>
+    <Longitud>-3.69546963076915</Longitud>
+    <Latitud>40.4523324504531</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CAPITAN HAYA-PEDRO TEIXEIRA</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Capitán Haya, 6</PostalAdress>
+    <Longitud>-3.69232772538012</Longitud>
+    <Latitud>40.4544143383832</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CAPITAN HAYA-GRAL.YAGUE</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Capitán Haya, 22</PostalAdress>
+    <Longitud>-3.6920386046641</Longitud>
+    <Latitud>40.4573124550464</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CAPITAN HAYA-SOR ANGELA DE LA CRUZ</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Capitán Haya, 38</PostalAdress>
+    <Longitud>-3.69183229400318</Longitud>
+    <Latitud>40.4600208862866</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CAPITAN HAYA-ROSARIO PINO</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Capitán Haya, 50</PostalAdress>
+    <Longitud>-3.69154528772631</Longitud>
+    <Latitud>40.4618334050816</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ROSARIO PINO-CAPITAN HAYA</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Rosario Pino, 14</PostalAdress>
+    <Longitud>-3.6926971925154</Longitud>
+    <Latitud>40.4623400304361</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ORENSE-SOR ANGELA DE LA CRUZ</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Orense, 81</PostalAdress>
+    <Longitud>-3.69441707461961</Longitud>
+    <Latitud>40.4596495574499</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SOR ANGELA DE LA CRUZ-BRAVO MURILLO</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Sor Angela de la Cruz, 37</PostalAdress>
+    <Longitud>-3.69767473636919</Longitud>
+    <Latitud>40.4603011411921</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SOR ANGELA DE LA CRUZ-BRAVO MURILLO</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Sor Angela de la Cruz, 32</PostalAdress>
+    <Longitud>-3.69761995175051</Longitud>
+    <Latitud>40.4607068751757</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SOR ANGELA DE LA CRUZ-ORENSE</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Sor Angela de la Cruz, 11</PostalAdress>
+    <Longitud>-3.6940419003735</Longitud>
+    <Latitud>40.4591518088339</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SOR ANGELA DE LA CRUZ-ORENSE</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Sor Angela de la Cruz, frente al Nº 11</PostalAdress>
+    <Longitud>-3.69470829025424</Longitud>
+    <Latitud>40.4597243867156</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SOR ANGELA DE LA CRUZ-CAPITAN HAYA</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Sor Angela de la Cruz, 6</PostalAdress>
+    <Longitud>-3.69231105019786</Longitud>
+    <Latitud>40.459441449932</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BRAVO MURILLO-FRANCISCO MEDRANO</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Bravo Murillo, 236</PostalAdress>
+    <Longitud>-3.69998464834576</Longitud>
+    <Latitud>40.4589808969585</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BRAVO MURILLO-SOR ANGELA DE LA CRUZ</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Bravo Murillo, 276.</PostalAdress>
+    <Longitud>-3.69808678827874</Longitud>
+    <Latitud>40.4611184740509</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CAPITAN HAYA-INST.NAC.ESTADISTICA</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Capitán Haya frente al Nº 55</PostalAdress>
+    <Longitud>-3.69146311223746</Longitud>
+    <Latitud>40.4641762287898</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GTA.CUATRO CAMINOS</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Gta. Cuatro Caminos con C/ Los Artistas</PostalAdress>
+    <Longitud>-3.7035415624981</Longitud>
+    <Latitud>40.4471665764984</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BRAVO MURILLO-MARQUES DE VIANA</Name>
+    <PostalCode>28020</PostalCode>
+    <PostalAdress>Bravo Murillo, 295</PostalAdress>
+    <Longitud>-3.69821636623526</Longitud>
+    <Latitud>40.4613519259722</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+</ArrayOfPapelera>

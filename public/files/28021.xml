@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPapelera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Papelera>
+    <Name>AV.ANDALUCIA-ALCOCER</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Av. de Andalucía S/N con C/ Alcocer.</PostalAdress>
+    <Longitud>-3.69327710451852</Longitud>
+    <Latitud>40.3505206199641</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ANDALUCIA-ALCOCER</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Av. de Andalucía S/N frente a J.José M. Seco.</PostalAdress>
+    <Longitud>-3.69288636939035</Longitud>
+    <Latitud>40.3509599011515</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARIA DROC-SAN DALMACIO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>María Droc S/N</PostalAdress>
+    <Longitud>-3.69323358363892</Longitud>
+    <Latitud>40.3446063734495</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BURJASOT-BENIFERRI</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Burjasot, 4.</PostalAdress>
+    <Longitud>-3.69112023185804</Longitud>
+    <Latitud>40.345204595066</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GODELLA Nº 70</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Godella, 70</PostalAdress>
+    <Longitud>-3.68845787492136</Longitud>
+    <Latitud>40.3427609469497</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ROCAFORT-MONCADA</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Rocafort frente a C/ Moncada</PostalAdress>
+    <Longitud>-3.6920188183666</Longitud>
+    <Latitud>40.3420325125384</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALCOCER-LITOS</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Alcocer, 25.</PostalAdress>
+    <Longitud>-3.69987799450372</Longitud>
+    <Latitud>40.3495439782617</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALCOCER-AV.REAL DE PINTO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Alcocer, 45</PostalAdress>
+    <Longitud>-3.70538127673216</Longitud>
+    <Latitud>40.3499024971072</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.PEREZ DOMINGUEZ-AV.REAL DE PINTO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Dr. Pérez Domínguez, 13</PostalAdress>
+    <Longitud>-3.70664769715303</Longitud>
+    <Latitud>40.3471289715274</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.DE AGATA</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Pza. de Agata, 6</PostalAdress>
+    <Longitud>-3.70875154649471</Longitud>
+    <Latitud>40.3467557531621</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.DE AGATA-DR.MARTIN AREVALO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Pza. de Agata con C/ Dr. Martín Arévalo</PostalAdress>
+    <Longitud>-3.70860606210164</Longitud>
+    <Latitud>40.3465314145009</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.MARTIN AREVALO-AV.REAL DE PINTO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Doctor Martín Arévalo, 28</PostalAdress>
+    <Longitud>-3.70644945507121</Longitud>
+    <Latitud>40.3461842201671</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>J.JOSE MTNEZ.SECO-ESPERANZA MACARENA</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Juán José Martínez Seco, 4</PostalAdress>
+    <Longitud>-3.69122086907092</Longitud>
+    <Latitud>40.3517221141166</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>J.JOSE MTNEZ.SECO-E.MACARENA</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Juán José Martínez Seco frente al Nº 4</PostalAdress>
+    <Longitud>-3.69110536826626</Longitud>
+    <Latitud>40.3518354175108</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>J.JOSE MTNEZ.SECO-BENITA LOPEZ</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Juan José Martínez Seco.</PostalAdress>
+    <Longitud>-3.6893530234574</Longitud>
+    <Latitud>40.3517332437618</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>J.JOSE MTNEZ.SECO-BENITA LOPEZ</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Juán José Martínez Seco, 7</PostalAdress>
+    <Longitud>-3.68984891329244</Longitud>
+    <Latitud>40.3518248879398</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>J.JOSE MTNEZ.SECO-DIAMANTE</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Juán José Martínez Seco frente al Nº 75</PostalAdress>
+    <Longitud>-3.68676256270121</Longitud>
+    <Latitud>40.351757638327</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>J.JOSE MTNEZ.SECO-DIAMANTE</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Juán José Martínez Seco, 59</PostalAdress>
+    <Longitud>-3.68725513475584</Longitud>
+    <Latitud>40.35188534989</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CAMPOS IBAÑEZ-J.JOSE MTNEZ.SECO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Campos Ibañez frente al Nº 3</PostalAdress>
+    <Longitud>-3.68540681612854</Longitud>
+    <Latitud>40.3524818943704</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CONCEPCION DE LA OLIVA Nº 13</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Concepción de la Oliva, 13</PostalAdress>
+    <Longitud>-3.68166114744999</Longitud>
+    <Latitud>40.3541887043995</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ANDREA JORDAN-J.JOSE MTNEZ.SECO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Andrea Jordán, frente al Nº 9 con C/ Juán José M. Seco</PostalAdress>
+    <Longitud>-3.685950813763</Longitud>
+    <Latitud>40.3521633545399</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTRA.VILLAVERDE A VALLECAS-VILLAFUERTE</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Ctra. Villaverde a Vallecas, 22</PostalAdress>
+    <Longitud>-3.68855338780652</Longitud>
+    <Latitud>40.3544902923465</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTRA.VILLAVERDE A VALLECAS-UNANIMIDAD</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Ctra. Villaverde a Vallecas, 46</PostalAdress>
+    <Longitud>-3.68463212631682</Longitud>
+    <Latitud>40.3580180875474</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº ALBERTO PALACIOS-ALADIERNA</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Alberto Palacios, 20 con C/ Aladierna</PostalAdress>
+    <Longitud>-3.7111258964428</Longitud>
+    <Latitud>40.3463538088944</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº ALBERTO PALACIOS-ALADIERNA</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Alberto Palacios, 19</PostalAdress>
+    <Longitud>-3.7114204286678</Longitud>
+    <Latitud>40.3461583038386</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº ALBERTO PALACIOS-JUAN PEÑALVER</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Alberto Palacios, 50</PostalAdress>
+    <Longitud>-3.71358855731178</Longitud>
+    <Latitud>40.3442755705293</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº ALBERTO PALACIOS-MANOLA Y ROSARIO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Alberto Palacios, 41</PostalAdress>
+    <Longitud>-3.71317732412872</Longitud>
+    <Latitud>40.3443591852937</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº ALBERTO PALACIOS-Pº FERROVIARIOS</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Alberto Palacios, 73</PostalAdress>
+    <Longitud>-3.71615818945461</Longitud>
+    <Latitud>40.3434218624653</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ANDALUCIA-ESCUELA DE LOGISTICA</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Av. de Andalucia Km. 10,100 (Escuela de Logística)</PostalAdress>
+    <Longitud>-3.69238672830602</Longitud>
+    <Latitud>40.3356112852212</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VILLALONSO Nº 18</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Villalonso, 18</PostalAdress>
+    <Longitud>-3.70983619703216</Longitud>
+    <Latitud>40.3495914968988</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VILLALONSO-OLAS</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Villalonso, 27</PostalAdress>
+    <Longitud>-3.70966214322879</Longitud>
+    <Latitud>40.3493808484706</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VILLALONSO-PUEBLA DE SANABRIA</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Villalonso con C/ Puebla de Sanabria</PostalAdress>
+    <Longitud>-3.71323124878974</Longitud>
+    <Latitud>40.349417488047</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VILLALONSO-PUEBLA DE SANABRIA</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Villalonso, 41</PostalAdress>
+    <Longitud>-3.71298073303661</Longitud>
+    <Latitud>40.3491802879609</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº PLATA Y CASTAÑAR-PLEAMAR</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Pº Plata y Castañar con C/ Pleamar</PostalAdress>
+    <Longitud>-3.71577873866781</Longitud>
+    <Latitud>40.3492711425642</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº PLATA Y CASTAÑAR-PLEAMAR</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Pº Plata y Castañar S/N</PostalAdress>
+    <Longitud>-3.71595888201297</Longitud>
+    <Latitud>40.3490808373664</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº PLATA Y CASTAÑAR-OLAS</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Pº Plata y Castañar</PostalAdress>
+    <Longitud>-3.71752767367379</Longitud>
+    <Latitud>40.3515576527738</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ANDALUCIA-ROCAFORT</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Av. de Andalucía  frente a Rocafort</PostalAdress>
+    <Longitud>-3.69302881214651</Longitud>
+    <Latitud>40.3418507966294</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ANDALUCIA-ROCAFORT</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Av. de Andalucía con Rocafort</PostalAdress>
+    <Longitud>-3.69262161485515</Longitud>
+    <Latitud>40.341465837894</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RESINA-AV.ANDALUCIA</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Resina, 4</PostalAdress>
+    <Longitud>-3.69326644579064</Longitud>
+    <Latitud>40.3362997304512</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RESINA-AV.ANDALUCIA</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Resina, 1</PostalAdress>
+    <Longitud>-3.69400291646166</Longitud>
+    <Latitud>40.3361466699468</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RESINA-SAN EUSTAQUIO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Resina, 18</PostalAdress>
+    <Longitud>-3.70044505257544</Longitud>
+    <Latitud>40.336143937562</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RESINA-TRANSVERSAL SEXTA</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Resina con C/ Transversal Sexta</PostalAdress>
+    <Longitud>-3.69903399689641</Longitud>
+    <Latitud>40.3360263317436</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN CESAREO-SAN EUSTAQUIO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>San Cesáreo, 6</PostalAdress>
+    <Longitud>-3.70208980228879</Longitud>
+    <Latitud>40.3378322091663</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN CESAREO-SAN ERASMO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>San Cesáreo, 10</PostalAdress>
+    <Longitud>-3.70606799053038</Longitud>
+    <Latitud>40.3378170412603</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DOMINGO PARRAGA-PZA.GOMEZ ACEBO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Domingo Párraga, 10</PostalAdress>
+    <Longitud>-3.70833815829413</Longitud>
+    <Latitud>40.3421951471327</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DOMINGO PARRAGA-AV.REAL DE PINTO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Domingo Párraga, frente al Nº 8</PostalAdress>
+    <Longitud>-3.70793415483255</Longitud>
+    <Latitud>40.3420895068241</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN ERASMO-SAN NORBERTO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>San Erasmo con C/ Norberto</PostalAdress>
+    <Longitud>-3.70653402684865</Longitud>
+    <Latitud>40.3393953075137</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ASTILLERO-ESCRIBANOS</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Astillero, frente al Nº 10</PostalAdress>
+    <Longitud>-3.71401335597264</Longitud>
+    <Latitud>40.3433134786384</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ASTILLERO-ESCRIBANOS</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Astillero, 12</PostalAdress>
+    <Longitud>-3.71424506044556</Longitud>
+    <Latitud>40.3428841156499</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN NORBERTO-SAN ERASMO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>San Norberto, 23</PostalAdress>
+    <Longitud>-3.7058256729727</Longitud>
+    <Latitud>40.3396699001333</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN EUSTAQUIO-SAN NORBERTO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>San Eustaquio, 2</PostalAdress>
+    <Longitud>-3.70183264776953</Longitud>
+    <Latitud>40.3392572147498</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ANDALUCIA-AV.MARCONI</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Av. de Andalucía con Av. de Marconi</PostalAdress>
+    <Longitud>-3.69295842244303</Longitud>
+    <Latitud>40.3339862167159</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ANDALUCIA-CUARTEL SAN CRISTOBAL</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Av. de Andalucía S/N cuartel San Cristobal</PostalAdress>
+    <Longitud>-3.69249294725921</Longitud>
+    <Latitud>40.3377998779497</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BERROCAL-BARIO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Berrocal, 12</PostalAdress>
+    <Longitud>-3.67765357224855</Longitud>
+    <Latitud>40.3476400408602</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BERROCAL-SILVINITA</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Berrocal con C/ Silvinita</PostalAdress>
+    <Longitud>-3.67648141637283</Longitud>
+    <Latitud>40.3437504301525</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTRA.CCHEL A VILLAVERDE-CENTRO ESCOLAR</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Ctra.de Cchel. a Villaverde S/N (Cgio.Int.Nuevo centro)</PostalAdress>
+    <Longitud>-3.71133430633633</Longitud>
+    <Latitud>40.3538751615276</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTRA.CCHEL A VILLAVERDE-PTE.ALCOCER</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Ctra. de Cchel. a Villaverde S/N (Puente Alcocer)</PostalAdress>
+    <Longitud>-3.70616204751647</Longitud>
+    <Latitud>40.3501049505584</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTRA.CCHEL A VILLAVERDE-PTE.ALCOCER</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Ctra. de Cchel. a Villaverde S/N (Puente Alcocer)</PostalAdress>
+    <Longitud>-3.70616348346426</Longitud>
+    <Latitud>40.3503842252002</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BERROCAL-LIMONITA</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Berrocal con C/ Limonita</PostalAdress>
+    <Longitud>-3.67586917481717</Longitud>
+    <Latitud>40.3437540033106</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BERROCAL-BARIO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Berrocal con C/ del Bario</PostalAdress>
+    <Longitud>-3.67725573568092</Longitud>
+    <Latitud>40.3481874210015</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>POLIGONO INDUSTRIAL LA RESINA</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>San Eustaquio S/N con C/ Laguna Dalga</PostalAdress>
+    <Longitud>-3.70104120413225</Longitud>
+    <Latitud>40.3322393619552</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RESINA-SAN EUSTAQUIO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Resina S/N con C/ San Eustaquio</PostalAdress>
+    <Longitud>-3.70200602839638</Longitud>
+    <Latitud>40.3359227741251</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RESINA-SAN EUSTAQUIO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Resina S/N con C/ San Eustaquio</PostalAdress>
+    <Longitud>-3.70203181019044</Longitud>
+    <Latitud>40.3361388378589</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RESINA-SAN ERASMO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Resina S/N con C/ San Erasmo</PostalAdress>
+    <Longitud>-3.70580033374086</Longitud>
+    <Latitud>40.3358546747845</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RESINA-SAN ERASMO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Resina S/N con C/ San Erasmo</PostalAdress>
+    <Longitud>-3.70627348132247</Longitud>
+    <Latitud>40.3360680112203</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LAGUNA DEL MARQUESADO-SAN ERASMO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Laguna del Marquesado S/N con C/ San Erasmo</PostalAdress>
+    <Longitud>-3.707126669268</Longitud>
+    <Latitud>40.3337024054932</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LAGUNA DEL MARQUESADO-SAN ERASMO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Laguna del Marquesado S/N con C/ San Erasmo</PostalAdress>
+    <Longitud>-3.70715144904347</Longitud>
+    <Latitud>40.3338914467462</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LAGUNA DEL MARQUESADO-AV.REAL DE PINTO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Laguna del Marquesado, 49</PostalAdress>
+    <Longitud>-3.71094765042411</Longitud>
+    <Latitud>40.3336294700539</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LAGUNA DEL MARQUESADO-AV.REAL DE PINTO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Laguna del Marquesado frente al Nº 49</PostalAdress>
+    <Longitud>-3.71076495820974</Longitud>
+    <Latitud>40.3338197835154</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN EZEQUIEL-AV.REAL DE PINTO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>San Ezequiel frente al Nº 146</PostalAdress>
+    <Longitud>-3.71333690905034</Longitud>
+    <Latitud>40.3336057740552</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN EZEQUIEL-AV.REAL DE PINTO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>San Ezequiel,146</PostalAdress>
+    <Longitud>-3.71332048208626</Longitud>
+    <Latitud>40.3337229943459</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CIUDAD DE FRIAS-RESINA</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Ciudad de Frías, 7-9</PostalAdress>
+    <Longitud>-3.71407356938014</Longitud>
+    <Latitud>40.3354706372352</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VALLE DE TOBALINA-MONTEJO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Valle de Tobalina S/N con C/ Montejo</PostalAdress>
+    <Longitud>-3.71527422952541</Longitud>
+    <Latitud>40.335521789922</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CIUDAD DE FRIAS-BASCUÑUELOS</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Ciudad de Frías frente al Nº 18-A</PostalAdress>
+    <Longitud>-3.71402337863177</Longitud>
+    <Latitud>40.3380430617771</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VALLE DE TOBALINA-BASCUÑUELOS</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Valle de Tobalina S/N con C/ Bascuñuelos</PostalAdress>
+    <Longitud>-3.71523875289009</Longitud>
+    <Latitud>40.3380896194304</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VALLE DE TOBALINA-CIUDAD DE FRIAS</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Valle de Tobalina con C/ Ciudad de Frías</PostalAdress>
+    <Longitud>-3.71417776490937</Longitud>
+    <Latitud>40.3409655811622</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VALLE DE TOBALINA Nº 46</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Valle de Tobalina S/N entrada de aparcamiento del Nº 46</PostalAdress>
+    <Longitud>-3.71520149409402</Longitud>
+    <Latitud>40.3404187162346</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DOMINGO PARRAGA-STA.JOAQUINA VEDRUNA</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Domingo Párraga S/N frente C/ Santa Joaquina de Vedruna</PostalAdress>
+    <Longitud>-3.71484734475278</Longitud>
+    <Latitud>40.3421461548746</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DOMINGO PARRAGA-STA.JOAQUINA VEDRUNA</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Domingo Párraga S/N con C/ Santa Joaquina de Vedruna</PostalAdress>
+    <Longitud>-3.71485743257353</Longitud>
+    <Latitud>40.3423352848028</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DOMINGO PARRAGA-Pº FERROVIARIOS</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Domingo Párraga frente a Pº Ferroviarios</PostalAdress>
+    <Longitud>-3.71827496498265</Longitud>
+    <Latitud>40.340949258905</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DOMINGO PARRAGA-Pº FERROVIARIOS</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Domingo Párraga frente a Pº Ferroviarios</PostalAdress>
+    <Longitud>-3.71807529592966</Longitud>
+    <Latitud>40.3409955425097</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN EUSTAQUIO-LAGUNA DEL MARQUESADO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>San Eustaquio con C/ Laguna del Marquesado</PostalAdress>
+    <Longitud>-3.70116249519717</Longitud>
+    <Latitud>40.3343647919542</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN EUSTAQUIO-LAGUNA DEL MARQUESADO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>San Eustaquio con C/ Laguna del Marquesado</PostalAdress>
+    <Longitud>-3.70158928335582</Longitud>
+    <Latitud>40.3343667128038</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº PLATA Y CASTAÑAR-ISLAS</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Pº Plata y Castañar frente al Nº 30</PostalAdress>
+    <Longitud>-3.71780908385159</Longitud>
+    <Latitud>40.3503306666786</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ROSALES-MATACHEL</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Av. de los Rosales, 113</PostalAdress>
+    <Longitud>-3.67982134168084</Longitud>
+    <Latitud>40.3539202316987</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ROSALES-ORO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Av. de los Rosales (Centro Cultural).</PostalAdress>
+    <Longitud>-3.67717260404652</Longitud>
+    <Latitud>40.350696955767</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VILLAVERDE CRUCE</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Av. Andalucía con C/ Santa Petronila (Intercambiador de</PostalAdress>
+    <Longitud>-3.69258316077352</Longitud>
+    <Latitud>40.3507094581845</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ESTACION CERCANIAS VILLAVERDE ALTO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Domingo Párraga frente a Pº Alberto Palacios</PostalAdress>
+    <Longitud>-3.71235077865444</Longitud>
+    <Latitud>40.3418957635352</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DOMINGO PARRAGA-ALBERTO PALACIOS</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Domingo Párraga con C/ Alberto Palacios</PostalAdress>
+    <Longitud>-3.71255423933935</Longitud>
+    <Latitud>40.3422098325852</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DOMINGO PARRAGA-ALBERTO PALACIOS</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Domingo Párraga con C/ Alberto Palacios</PostalAdress>
+    <Longitud>-3.7125995354392</Longitud>
+    <Latitud>40.3420383800729</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº MARIA DROC-SAN DALMACIO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Pº María Droc con C/ San Dalmacio.</PostalAdress>
+    <Longitud>-3.69344357683658</Longitud>
+    <Latitud>40.3440195216319</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTRA.CCHEL A VILLAVERDE-JOSE PEREZ</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Ctra. de Carabanchel a Villaverde frente al Nº 101.</PostalAdress>
+    <Longitud>-3.70831544420357</Longitud>
+    <Latitud>40.3525287759388</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTRA.CCHEL A VILLAVERDE-JOSE PEREZ</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Ctra. de Carabanchel a Villaverde, 101</PostalAdress>
+    <Longitud>-3.70816123898547</Longitud>
+    <Latitud>40.3526333238155</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PILAR LORENGAR-ANDREA JORDAN</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Pilar Lorengan, 11</PostalAdress>
+    <Longitud>-3.68665849382962</Longitud>
+    <Latitud>40.353618643464</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EDUARDO MARISTANY-VICENTE CARBALLAL</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Eduardo Maristany , 9</PostalAdress>
+    <Longitud>-3.68329839574387</Longitud>
+    <Latitud>40.3530529162778</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VICENTE CARBALLAL-POTASA</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Vicente Carballar, 16</PostalAdress>
+    <Longitud>-3.68162875029415</Longitud>
+    <Latitud>40.3534186132136</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ROSALES-MIGUEL SOLAS</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Av. de los Rosales S/N con C/ Miguel Solas</PostalAdress>
+    <Longitud>-3.67818537723628</Longitud>
+    <Latitud>40.3516595151451</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ROSALES-MIGUEL SOLAS</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Av. de los Rosales S/N frente a C/ Miguel Solas</PostalAdress>
+    <Longitud>-3.67833569048595</Longitud>
+    <Latitud>40.3525595498923</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BERROCAL-CANCHAL</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Berrocal S/N con C/ Canchal</PostalAdress>
+    <Longitud>-3.67676686360122</Longitud>
+    <Latitud>40.3463974558258</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BERROCAL-CANCHAL</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Berrocal, 34</PostalAdress>
+    <Longitud>-3.67719684815285</Longitud>
+    <Latitud>40.3458273664171</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BERROCAL-PZA.DE LOS METALES</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Berrocal con Pza. de los Metales frente al Nº 70</PostalAdress>
+    <Longitud>-3.67486855372985</Longitud>
+    <Latitud>40.3414084445294</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BERROCAL-PZA.DE LOS METALES</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Berrocal, 70</PostalAdress>
+    <Longitud>-3.67539746313175</Longitud>
+    <Latitud>40.3413152708735</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CAMPOS IBAÑEZ-Pº ESTACION</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Campos Ibañez, 18</PostalAdress>
+    <Longitud>-3.68530129479511</Longitud>
+    <Latitud>40.3538023581935</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CAMPOS IBAÑEZ-Pº ESTACION</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Campos Ibañez frente al Nº 18</PostalAdress>
+    <Longitud>-3.68539185007577</Longitud>
+    <Latitud>40.3539504733342</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº ALBERTO PALACIOS-PZA.AGATA</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Pº Alberto Palacios, 2</PostalAdress>
+    <Longitud>-3.70952704933254</Longitud>
+    <Latitud>40.3465978504398</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº ALBERTO PALACIOS-Pº FERROVIARIOS</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Pº Alberto Palacios, 84</PostalAdress>
+    <Longitud>-3.7164775070983</Longitud>
+    <Latitud>40.3435550252005</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº FERROVIARIOS-ENCARNACION PINO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Pº Ferroviarios S/N con C/ Encarnación del Pino</PostalAdress>
+    <Longitud>-3.7157071162331</Longitud>
+    <Latitud>40.3472265099093</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ROSALES-CTRA.VILLAVERDE A VALLECAS</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Av. de los Rosales, 42</PostalAdress>
+    <Longitud>-3.68196752393016</Longitud>
+    <Latitud>40.3599527501047</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ROSALES-CTRA.VILLAVERDE A VALLECAS</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Av. de los Rosales frente al Nº 42</PostalAdress>
+    <Longitud>-3.68220566986067</Longitud>
+    <Latitud>40.3603207224273</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ROSALES-URANIO</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Av. de los Rosales con C/ Uranio.</PostalAdress>
+    <Longitud>-3.68101013882463</Longitud>
+    <Latitud>40.3546655131136</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.MARTIN AREVALO-Pº ALBERTO PALACIOS</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Doctor Martín Arévalo, 6</PostalAdress>
+    <Longitud>-3.70821144116892</Longitud>
+    <Latitud>40.3463401310134</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BURJASOT-BENIFERRI</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Burjasot, 4 con C/ Beniferri</PostalAdress>
+    <Longitud>-3.69150233821757</Longitud>
+    <Latitud>40.3451842966558</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GODELLA Nº 68</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Godella, 68</PostalAdress>
+    <Longitud>-3.68845826836025</Longitud>
+    <Latitud>40.3430897789002</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ROCAFORT-MONCADA</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Rocafort frente a C/ Moncada</PostalAdress>
+    <Longitud>-3.69193346021363</Longitud>
+    <Latitud>40.3420330223688</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ROSALES-NIQUEL</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>Av. de los Rosales, 94</PostalAdress>
+    <Longitud>-3.67947662318741</Longitud>
+    <Latitud>40.3532330544287</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN EUSTAQUIO-RESINA</Name>
+    <PostalCode>28021</PostalCode>
+    <PostalAdress>San Eustaquio, 8.</PostalAdress>
+    <Longitud>-3.70171775837403</Longitud>
+    <Latitud>40.3364020062487</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+</ArrayOfPapelera>

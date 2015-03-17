@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPapelera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Papelera>
+    <Name>AV.ALBUFERA Nº 430</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. de la Albufera, 430.</PostalAdress>
+    <Longitud>-3.63005982551922</Longitud>
+    <Latitud>40.3830442735387</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ALBUFERA Nº 323</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. de la Albufera, 323</PostalAdress>
+    <Longitud>-3.63002312939858</Longitud>
+    <Latitud>40.3832156462646</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DEMOCRACIA-SIERRA GUADALUPE</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. Democracia S/N (antes interc. C/ S. Guadalupe)</PostalAdress>
+    <Longitud>-3.62513741650955</Longitud>
+    <Latitud>40.3826069694239</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.JUAN DE MALASAÑA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Pza. Juan de Malasaña con Pº Federico García Lorca</PostalAdress>
+    <Longitud>-3.62135095409391</Longitud>
+    <Latitud>40.3797309066395</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.JUAN MALASAÑA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Pza. Juán Malasaña, 6</PostalAdress>
+    <Longitud>-3.62114295196961</Longitud>
+    <Latitud>40.3801329278572</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>REAL DE ARGANDA-SIERRA DEL TORCAL</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Real de Arganda, 40</PostalAdress>
+    <Longitud>-3.61761619103424</Longitud>
+    <Latitud>40.3795031248621</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>REAL DE ARGANDA-SIERRA DEL TORCAL</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Real de Arganda, 35</PostalAdress>
+    <Longitud>-3.6174761415738</Longitud>
+    <Latitud>40.3796480172971</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ENRIQUE Gª ALVAREZ-MONTE MONTJUICH</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Enrique García Alvarez, 2</PostalAdress>
+    <Longitud>-3.61363019436121</Longitud>
+    <Latitud>40.3803531434371</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ENRIQUE Gª ALVAREZ-MONTE MONTJUICH</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Enrique García Alvarez, 1.</PostalAdress>
+    <Longitud>-3.61385336894429</Longitud>
+    <Latitud>40.3802798882654</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ENRIQUE Gª ALVAREZ-SIERRA GORDA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Enrique García Alvarez, 10.</PostalAdress>
+    <Longitud>-3.6146231643074</Longitud>
+    <Latitud>40.3820235767368</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ENRIQUE Gª ALVAREZ-SIERRA GORDA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Enrique García Alvarez frente al Nº 10</PostalAdress>
+    <Longitud>-3.61485885962972</Longitud>
+    <Latitud>40.3820313352923</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.STA.EUGENIA Nº 29</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. de Santa Eugenia, 29.</PostalAdress>
+    <Longitud>-3.61217756847077</Longitud>
+    <Latitud>40.3846446641203</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MEDITERRANEO-CASTRILLO DE AZA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. del Mediterráneo con C/ Castrillo de Aza</PostalAdress>
+    <Longitud>-3.60792494027394</Longitud>
+    <Latitud>40.3865544655148</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MEDITERRANEO-PUENTELARRA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. del Mediterráneo con C/ Puentelarra</PostalAdress>
+    <Longitud>-3.60584731104784</Longitud>
+    <Latitud>40.3847905522201</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MEDITERRANEO-VIRGEN DE LAS VIÑAS</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. del Mediterráneo con C/ Virgen de las Viñas</PostalAdress>
+    <Longitud>-3.60429430616459</Longitud>
+    <Latitud>40.3823932273321</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FUENTESPINA Nº 6</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Fuentespina, 6</PostalAdress>
+    <Longitud>-3.60560435869372</Longitud>
+    <Latitud>40.3800169878787</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FUENTESPINA-AV.STA.EUGENIA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Fuentespina frente al Nº 39</PostalAdress>
+    <Longitud>-3.60780138530269</Longitud>
+    <Latitud>40.3793478175672</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.STA.EUGENIA-VIRGEN DE LAS VIÑAS</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. de Santa Eugenia frente al Nº 60 esq.V.de las Viñas</PostalAdress>
+    <Longitud>-3.60943089268936</Longitud>
+    <Latitud>40.3808302681832</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.STA.EUGENIA Nº 47</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. de Santa Eugenia, 47.</PostalAdress>
+    <Longitud>-3.61039754974296</Longitud>
+    <Latitud>40.3824513260885</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.STA.EUGENIA Nº 35</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. de Santa Eugenia, 35</PostalAdress>
+    <Longitud>-3.61285418558599</Longitud>
+    <Latitud>40.384105044625</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MONTES DE BARBANZA-SIERRA DEL EJE</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Montes Barbanza, 9.</PostalAdress>
+    <Longitud>-3.6190795932068</Longitud>
+    <Latitud>40.3778916906868</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº POZO TIO RAIMUNDO-CTRA.VILLAVERDE</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Cº Pozo Tío Raimundo con Ctra. Villaverde a Vallecas</PostalAdress>
+    <Longitud>-3.64546201299941</Longitud>
+    <Latitud>40.3703872574162</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº POZO TIO RAIMUNDO-CTRA.VILLAVERDE</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Cº Pozo Tío Raimundo con Ctra. Villaverde a Vallecas</PostalAdress>
+    <Longitud>-3.64574210430115</Longitud>
+    <Latitud>40.3703451555211</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº HORMIGUERAS-TORRE DE DON MIGUEL</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Cº Hormigueras, 114</PostalAdress>
+    <Longitud>-3.64530624712891</Longitud>
+    <Latitud>40.3741314170889</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº HORMIGUERAS-TORRE DE DON MIGUEL</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Cº Hormigueras, 125</PostalAdress>
+    <Longitud>-3.6448101951953</Longitud>
+    <Latitud>40.3743819299626</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº HORMIGUERAS-CASAS DE MIRAVETE</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Cº Hormigueras, 138</PostalAdress>
+    <Longitud>-3.64204265447268</Longitud>
+    <Latitud>40.374964875161</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº HORMIGUERAS-CASAS DE MIRAVETE</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Cº Hormigueras, 141</PostalAdress>
+    <Longitud>-3.64208882765923</Longitud>
+    <Latitud>40.375059215057</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº HORMIGUERAS-GONZALEZ DAVILA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Cº Hormigueras, 160</PostalAdress>
+    <Longitud>-3.63797864801118</Longitud>
+    <Latitud>40.3759918431354</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº HORMIGUERAS-GONZALEZ DAVILA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Cº Hormigueras, 155</PostalAdress>
+    <Longitud>-3.63831769263593</Longitud>
+    <Latitud>40.3760305166615</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN JAIME-PTO.DE LAS PILAS</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>San Jaime con C/ Puerto de las Pilas</PostalAdress>
+    <Longitud>-3.62797857391892</Longitud>
+    <Latitud>40.3790330025217</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN JAIME-PUERTO POZAZAL</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>San Jaime, 3</PostalAdress>
+    <Longitud>-3.62738310494585</Longitud>
+    <Latitud>40.3797299308738</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN JAIME-SIERRA DE GADOR</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>San Jaime frente al Nº 25</PostalAdress>
+    <Longitud>-3.62584481531971</Longitud>
+    <Latitud>40.3806301535664</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DEMOCRACIA-AV.MEDITERRANEO</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. de la Democracia frente al Nº 21</PostalAdress>
+    <Longitud>-3.62222199319243</Longitud>
+    <Latitud>40.3897128343545</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DEMOCRACIA-AV.MEDITERRANEO</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. de la Democracia, 21</PostalAdress>
+    <Longitud>-3.62252609000802</Longitud>
+    <Latitud>40.3894679548484</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº POZO TIO RAIMUNDO-LUIS I</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Cº Pozo Tío Raimundo con C/ Luís I.</PostalAdress>
+    <Longitud>-3.6503310555668</Longitud>
+    <Latitud>40.3732834891356</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº POZO TIO RAIMUNDO-LUIS I</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Cº Pozo Tío Raimundo, 2-A</PostalAdress>
+    <Longitud>-3.65069680722711</Longitud>
+    <Latitud>40.3737273869771</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MEDITERRANEO-VIRGEN DE LAS VIÑAS</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. del Mediterráneo frente C/ Virgen de las Viñas</PostalAdress>
+    <Longitud>-3.60410613514368</Longitud>
+    <Latitud>40.3824302450681</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FUENTESPINA Nº 13</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Fuentespina, 13.</PostalAdress>
+    <Longitud>-3.6052953377685</Longitud>
+    <Latitud>40.3799600433218</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FUENTESPINA-AV.STA.EUGENIA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Fuentespina, 39.</PostalAdress>
+    <Longitud>-3.60752561866791</Longitud>
+    <Latitud>40.3793042182056</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.STA.EUGENIA-VIRGEN DE LAS VIÑAS</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. Santa Eugenia, 58.</PostalAdress>
+    <Longitud>-3.60956952291611</Longitud>
+    <Latitud>40.3807709796231</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.STA.EUGENIA Nº 46</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. Santa Eugenia, 46.</PostalAdress>
+    <Longitud>-3.61060887287505</Longitud>
+    <Latitud>40.3823691305028</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.STA.EUGENIA Nº 13</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. Santa Eugenia, 13</PostalAdress>
+    <Longitud>-3.6098143800917</Longitud>
+    <Latitud>40.3857247067225</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CASTRILLO DE AZA Nº 14</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Castrillo de Aza, 14</PostalAdress>
+    <Longitud>-3.60912255884365</Longitud>
+    <Latitud>40.3847823887251</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CASTRILLO DE AZA-AV.STA.EUGENIA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Castrillo de Aza, 32</PostalAdress>
+    <Longitud>-3.61092759914697</Longitud>
+    <Latitud>40.3837458455804</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MEDITERRANEO-PUENTELARRA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. Santa Eugenia S/N esquina C/ Puentelarra</PostalAdress>
+    <Longitud>-3.60559902056076</Longitud>
+    <Latitud>40.3846927499608</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MEDITERRANEO-CASTRILLO DE AZA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. del Mediterráneo frente a C/ Castrillo de Aza</PostalAdress>
+    <Longitud>-3.60657451165579</Longitud>
+    <Latitud>40.3857417138146</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PTO.PORZUNA-CONGOSTO</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Puerto Porzuna, 6</PostalAdress>
+    <Longitud>-3.6210103700477</Longitud>
+    <Latitud>40.3760299825378</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PTO.PORZUNA-FUENTIDUEÑA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Puerto Porzuna, 30</PostalAdress>
+    <Longitud>-3.62291106663101</Longitud>
+    <Latitud>40.3745918325629</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FUENTIDUEÑA-CENTRO DE SALUD</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Fuentidueña, 14</PostalAdress>
+    <Longitud>-3.62206827201239</Longitud>
+    <Latitud>40.3716864111602</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PEÑA CERVERA-FUENTIDUEÑA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Peña Cervera frente a C/ Peña Nevada</PostalAdress>
+    <Longitud>-3.62084259018892</Longitud>
+    <Latitud>40.3703326058755</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>POLIGONO INDUSTRIAL DE VALLECAS</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Polígono Industrial de Vallecas.</PostalAdress>
+    <Longitud>-3.64918440279551</Longitud>
+    <Latitud>40.3724025214778</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CONGOSTO-SIERRA TORTEJADA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Congosto frente al Nº64</PostalAdress>
+    <Longitud>-3.61828577619351</Longitud>
+    <Latitud>40.3715444928361</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ENSANCHE VALLECAS-PEÑARANDA BRACAMONTE</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. Ensanche Vallecas, 42</PostalAdress>
+    <Longitud>-3.60941261193183</Longitud>
+    <Latitud>40.3684383023969</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ENSANCHE DE VALLECAS Nº 56</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. Ensanche de Vallecas, 56</PostalAdress>
+    <Longitud>-3.60319553365509</Longitud>
+    <Latitud>40.3653311455128</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ENSANCHE VALLECAS-CAÑADA DEL SANTISIMO</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. Ensanche de Vallecas, 67</PostalAdress>
+    <Longitud>-3.59967130261428</Longitud>
+    <Latitud>40.3641737429302</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ANTONIO GADES-AV.ENSANCHE DE VALLECAS</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Antonio Gades con Av. del Ensanche de Vallecas</PostalAdress>
+    <Longitud>-3.59579538840939</Longitud>
+    <Latitud>40.3624369506172</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.VILLA DE VALLECAS-CONGOSTO</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av.Villa de Vallecas, 15-B</PostalAdress>
+    <Longitud>-3.61820386777582</Longitud>
+    <Latitud>40.3697881482981</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRANJA DE SAN ILDEFONSO-QUIJORNA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Granja de San Ildefonso con C/ Quijorna.</PostalAdress>
+    <Longitud>-3.62337024186762</Longitud>
+    <Latitud>40.3684811704088</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRANJA DE SAN ILDEFONSO-BATRES</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Granja de San Ildefonso con C/ Batres</PostalAdress>
+    <Longitud>-3.62049455297024</Longitud>
+    <Latitud>40.367055143726</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PEÑARANDA BRACAMONTE-ENSANCHE VALLECAS</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Peñaranda de Bracamonte con Av.del Ensanche de Vallecas</PostalAdress>
+    <Longitud>-3.60923596139975</Longitud>
+    <Latitud>40.3690563575407</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DE LAS SUERTES-JOSE GUTIERREZ MAROTO</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av.de las Suertes con C/ José Gutiérrez Maroto</PostalAdress>
+    <Longitud>-3.60108904055344</Longitud>
+    <Latitud>40.3679457351597</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ANTONIO GADES-AV.DE LAS SUERTES</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Antonio Gades con Av.de las Suertes</PostalAdress>
+    <Longitud>-3.59422915294774</Longitud>
+    <Latitud>40.3643098875006</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ANTONIO GADES-AV.ENSANCHE DE VALLECAS</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Antonio Gades con Av. del Ensanche de Vallecas</PostalAdress>
+    <Longitud>-3.59597128843454</Longitud>
+    <Latitud>40.362517128512</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MEDITERRANEO-AV.STA.EUGENIA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. del Mediterraneo con Av. Sta. Eugenia.</PostalAdress>
+    <Longitud>-3.60824152949815</Longitud>
+    <Latitud>40.3869176730623</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.SANTA EUGENIA FRENTE Nº 15</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. de Santa Eugenia frente al Nº 15</PostalAdress>
+    <Longitud>-3.61035206575711</Longitud>
+    <Latitud>40.3857398936841</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.SANTA EUGENIA Nº 14</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. de Santa Eugenia, 14.</PostalAdress>
+    <Longitud>-3.61274290183158</Longitud>
+    <Latitud>40.3845831164028</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.SANTA EUGENIA-FUENTESPINA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. Santa Eugenia con C/ Fuentespina</PostalAdress>
+    <Longitud>-3.60849738713134</Longitud>
+    <Latitud>40.3786729845386</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CABEZA MESADA-MARTIN MUÑOZ POSADAS</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Cabeza Mesada, 21</PostalAdress>
+    <Longitud>-3.62759120802473</Longitud>
+    <Latitud>40.3753278471147</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HOSPITAL INFANTA LEONOR-ACCESO PRINCIPAL</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Hospital Infanta Leonor frente acceso Principal</PostalAdress>
+    <Longitud>-3.61726366095942</Longitud>
+    <Latitud>40.3873609534719</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HOSPITAL INFANTA LEONOR-CONS.EXTERNAS</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Hospital Infanta Leonor (Consultas Externas)</PostalAdress>
+    <Longitud>-3.61915085761992</Longitud>
+    <Latitud>40.3875851202541</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HOSPITAL INFANTA LEONOR-URGENCIAS</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Hospital Infanta Leonor (Urgencias)</PostalAdress>
+    <Longitud>-3.61622945192956</Longitud>
+    <Latitud>40.3870015899291</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CABEZAMESADA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Cabeza Mesada frente al Nº 22</PostalAdress>
+    <Longitud>-3.62582527364474</Longitud>
+    <Latitud>40.3740490940923</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VALDERREBOLLO-PUERTO PORZUNA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Valderrebollo frente al Nº 30</PostalAdress>
+    <Longitud>-3.62756476092007</Longitud>
+    <Latitud>40.3717558705987</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VALDERREBOLLO-NAVAMURES</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Valderrebollo frente al Nº 22</PostalAdress>
+    <Longitud>-3.6276059836524</Longitud>
+    <Latitud>40.3731070169609</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CABEZAMESADA-VALDERREBOLLO</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Cabeza Mesada con C/ Valderrebollo</PostalAdress>
+    <Longitud>-3.62719644099299</Longitud>
+    <Latitud>40.3746768231095</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CABEZAMESADA-PUERTO PORZUNA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Cabeza Mesada, 30</PostalAdress>
+    <Longitud>-3.6251448161645</Longitud>
+    <Latitud>40.3731923956901</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HOSPITAL INFANTA LEONOR-URGENCIAS</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Hospital Infanta Leonor (frente Urgencias)</PostalAdress>
+    <Longitud>-3.61632726491909</Longitud>
+    <Latitud>40.3871091789712</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DE LAS SUERTES-CAÑADA DEL SANTISIMO</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. de las Suertes con C/ Cañada del Santísimo.</PostalAdress>
+    <Longitud>-3.59765190603798</Longitud>
+    <Latitud>40.3664499768416</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JESUS DEL PINO Nº 24</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Jesús del Pino, 24</PostalAdress>
+    <Longitud>-3.62373866249327</Longitud>
+    <Latitud>40.3816775602107</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SIERRA DE GADOR Nº 68</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Sierra de Gador, 68</PostalAdress>
+    <Longitud>-3.62195553124521</Longitud>
+    <Latitud>40.3799393770737</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV. DE LA ALBUFERA-TRANVIA DE ARGANDA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. de la Albufera con C/ Tranvía de Arganda</PostalAdress>
+    <Longitud>-3.63235875160094</Longitud>
+    <Latitud>40.3838020272681</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ALBUFERA-TRANVIA DE ARGANDA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. de la Albufera frente  a C/ Tranvía de Arganda</PostalAdress>
+    <Longitud>-3.63224000426058</Longitud>
+    <Latitud>40.3839783530552</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTRA.VICALVARO-VALLECAS-JESUS DEL PINO</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Ctra. de Vicálvaro a Vallecas S/N con C/ Jesús del Pino</PostalAdress>
+    <Longitud>-3.62613449225896</Longitud>
+    <Latitud>40.3834124054376</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTRA.VICALVARO-VALLECAS-JESUS DEL PINO</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Ctra. de Vicálvaro a Vallecas S/N</PostalAdress>
+    <Longitud>-3.62624218558543</Longitud>
+    <Latitud>40.3835920056477</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CONGOSTO-LA REVOLTOSA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Congosto, 8</PostalAdress>
+    <Longitud>-3.620410869652</Longitud>
+    <Latitud>40.3759295892888</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CONGOSTO-LA REVOLTOSA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Congosto, 5</PostalAdress>
+    <Longitud>-3.6202102041716</Longitud>
+    <Latitud>40.375885617985</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CONGOSTO-PEÑA RIVERA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Congosto esquina a C/ Peña Rivera</PostalAdress>
+    <Longitud>-3.61998144305248</Longitud>
+    <Latitud>40.374057989084</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CONGOSTO-PEÑA RIVERA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Congosto frente al Nº 20</PostalAdress>
+    <Longitud>-3.61981776883084</Longitud>
+    <Latitud>40.3741940017402</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PEÑA CERVERA-CONGOSTO</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Peña Cervera S/N frente al Nº 2</PostalAdress>
+    <Longitud>-3.61858421644144</Longitud>
+    <Latitud>40.3706870320328</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ENRIQUE Gª ALVAREZ-Cº DE VASARES</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Enrique García Alvarez esquina a Cº de Vasares</PostalAdress>
+    <Longitud>-3.61527608989468</Longitud>
+    <Latitud>40.3838669804628</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ENRIQUE Gª ALVAREZ-Cº DE VASARES</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Enrique García Alvarez S/N con Cº de Vasares</PostalAdress>
+    <Longitud>-3.61556938722176</Longitud>
+    <Latitud>40.3837302857731</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JESUS DEL PINO-SIERRA DE GUADALUPE</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Jesús del Pino, 32</PostalAdress>
+    <Longitud>-3.62423602033378</Longitud>
+    <Latitud>40.3819541641605</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN JAIME-SIERRA DE GADOR</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>San Jaime, 29</PostalAdress>
+    <Longitud>-3.62493704310502</Longitud>
+    <Latitud>40.3813197466927</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MONTES DE BARBANZA-SIERRA DEL EJE</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Montes Barbanza frente Nº 9.</PostalAdress>
+    <Longitud>-3.61929743994893</Longitud>
+    <Latitud>40.3778815173433</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CONGOSTO-PEÑA CERVERA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Congosto frente al Nº 37 (Parada de descenso)</PostalAdress>
+    <Longitud>-3.61859309490928</Longitud>
+    <Latitud>40.3716599712628</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PEÑA CERVERA-FUENTIDUEÑA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Peña Cervera con C/ Peña Nevada</PostalAdress>
+    <Longitud>-3.62081196639388</Longitud>
+    <Latitud>40.3704453841635</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FUENTIDUEÑA-CENTRO DE SALUD</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Fuentidueña, 35</PostalAdress>
+    <Longitud>-3.62199129759276</Longitud>
+    <Latitud>40.3720832262764</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PTO.PORZUNA-FUENTIDUEÑA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Puerto Porzuna, 21 con C/ Peña del Castillo</PostalAdress>
+    <Longitud>-3.62265045244768</Longitud>
+    <Latitud>40.3746337744948</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PTO.PORZUNA-CONGOSTO</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Puerto Porzuna, 3</PostalAdress>
+    <Longitud>-3.62093481772947</Longitud>
+    <Latitud>40.3759402961934</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN JAIME Nº 23</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>San Jaime, 23</PostalAdress>
+    <Longitud>-3.62619646372938</Longitud>
+    <Latitud>40.3805967215517</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FUENTESPINA-CENTRO DE SALUD</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Fuentespina con Av. Santa Eugenia  (Centro de Salud)</PostalAdress>
+    <Longitud>-3.60361821326096</Longitud>
+    <Latitud>40.3805588902795</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FUENTESPINA-CENTRO DE SALUD</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Fuentespina con Av. Santa Eugenia frente Centro Salud</PostalAdress>
+    <Longitud>-3.60347903087804</Longitud>
+    <Latitud>40.3804740285872</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº POZO TIO RAIMUNDO-Cº HORMIGUERAS</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Cº Pozo del Tío Raimundo S/N con Cº de Hormigeras</PostalAdress>
+    <Longitud>-3.6487567430913</Longitud>
+    <Latitud>40.3719499562795</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº POZO TIO RAIMUNDO-Cº HORMIGUERAS</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Cº del Pozo del Tío Raimundo, 32 con Cº Hormigueras</PostalAdress>
+    <Longitud>-3.64901712804127</Longitud>
+    <Latitud>40.3726557141874</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº HORMIGUERAS-Cº POZO TIO RAIMUNDO</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Cº de Hormigueras, 104</PostalAdress>
+    <Longitud>-3.64819951955623</Longitud>
+    <Latitud>40.3728449787073</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.VILLA DE VALLECAS-CONGOSTO</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av.Villa de Vallecas con C/ Congosto</PostalAdress>
+    <Longitud>-3.61739233579293</Longitud>
+    <Latitud>40.3698420255954</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PEÑA CERVERA-CONGOSTO</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Peña Cervera, 2</PostalAdress>
+    <Longitud>-3.6186328091805</Longitud>
+    <Latitud>40.3708083959348</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SIERRA DE GUADALUPE-SAN JAIME</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Sierra de Guadalupe, 11</PostalAdress>
+    <Longitud>-3.62405416668999</Longitud>
+    <Latitud>40.3813965785462</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PTO.PORZUNA-FUENTIDUEÑA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Puerto Porzuna con C/ Fuentidueña</PostalAdress>
+    <Longitud>-3.62370369370064</Longitud>
+    <Latitud>40.3740380115475</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº HORMIGUERAS Nº 168</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Cº de Hormigueras, 168</PostalAdress>
+    <Longitud>-3.63549800155151</Longitud>
+    <Latitud>40.3767577385131</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº HORMIGUERAS Nº 165</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Cº de Hormigueras, 165</PostalAdress>
+    <Longitud>-3.6353810729236</Longitud>
+    <Latitud>40.3769295531598</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>REAL DE ARGANDA-ENRIQUE Gª ÁLVAREZ</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Real de Arganda con C/ Enrique Gª Alvarez.</PostalAdress>
+    <Longitud>-3.6142191877916</Longitud>
+    <Latitud>40.3794941558155</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARBOLEDA-AV.DEMOCRACIA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Arboleda con Av. de la Democracia.</PostalAdress>
+    <Longitud>-3.62577942669095</Longitud>
+    <Latitud>40.3841936121928</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARBOLEDA-AV.DEMOCRACIA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Arboleda con Av. de la Democracia</PostalAdress>
+    <Longitud>-3.62559616754641</Longitud>
+    <Latitud>40.3842036110215</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DEMOCRACIA-ARBOLEDA</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Av. de la Democracia con C/ Arboleda</PostalAdress>
+    <Longitud>-3.6251564629807</Longitud>
+    <Latitud>40.3841924708491</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DEMOCRACIA-GRAN VIA DEL ESTE</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Avenida de la Democracia con Gran Vía del Este</PostalAdress>
+    <Longitud>-3.62475893814121</Longitud>
+    <Latitud>40.3839243418078</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN JAIME-GTA.VALDEPERDICES</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>San Jaime, 2 (con Gta. Valdeperdices)</PostalAdress>
+    <Longitud>-3.62973174672764</Longitud>
+    <Latitud>40.3775730179656</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN JAIME-GTA.VALDEPERDICES</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>San Jaime, 1 (con Gta. Valdeperdices)</PostalAdress>
+    <Longitud>-3.63000132813346</Longitud>
+    <Latitud>40.3775445249948</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VALDERREBOLLO-ALMONTE</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Valderrebollo con C/ Almonte.</PostalAdress>
+    <Longitud>-3.62781191878532</Longitud>
+    <Latitud>40.372686976692</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRANJA SAN ILDEFONSO-CENTRO DE SALUD</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Granja de San Ildefonso con C/ Cincovillas.</PostalAdress>
+    <Longitud>-3.62435596559013</Longitud>
+    <Latitud>40.3689983928868</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRANJA SAN ILDEFONSO-NAVAMURES</Name>
+    <PostalCode>28031</PostalCode>
+    <PostalAdress>Granja de San Ildefonso con C/ Navamures.</PostalAdress>
+    <Longitud>-3.62421865308946</Longitud>
+    <Latitud>40.3691567926346</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+</ArrayOfPapelera>

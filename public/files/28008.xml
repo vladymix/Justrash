@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPapelera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Papelera>
+    <Name>PRINCESA-VENTURA RODRIGUEZ</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Princesa, 16 frente al Nº 17 ( Ventura Rodríguez )</PostalAdress>
+    <Longitud>-3.71265807696695</Longitud>
+    <Latitud>40.4259937086544</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCESA-VENTURA RODRIGUEZ</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Princesa, 15-17 (Ventura Rodríguez)</PostalAdress>
+    <Longitud>-3.71313036134631</Longitud>
+    <Latitud>40.4260628731286</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCESA Nº 29</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Princesa, 29 (Evaristo San Miguel )</PostalAdress>
+    <Longitud>-3.71453003324472</Longitud>
+    <Latitud>40.4279911839452</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº PINTOR ROSALES-REY FRANCISCO</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Pº Pintor Rosales frenter al Nº 14</PostalAdress>
+    <Longitud>-3.71880248613274</Longitud>
+    <Latitud>40.4258386113032</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTA.SAN VICENTE-CADARSO</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Cuesta de San Vicente, 10</PostalAdress>
+    <Longitud>-3.7142731115914</Longitud>
+    <Latitud>40.4215242894859</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTA.SAN VICENTE-ARRIAZA</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Cuesta de San Vicente, 26</PostalAdress>
+    <Longitud>-3.71633756927963</Longitud>
+    <Latitud>40.4205565793431</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTA.SAN VICENTE-PRINCIPE PIO</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Cuesta de San Vicente, 44 con Gta. de San Vicente</PostalAdress>
+    <Longitud>-3.718742148103</Longitud>
+    <Latitud>40.420541678841</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTA.SAN VICENTE-PRINCIPE PIO</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Cuesta de San Vicente frente Nº 44 con Gta. San Vicente</PostalAdress>
+    <Longitud>-3.71909221944032</Longitud>
+    <Latitud>40.4202061712723</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCESA Nº 32</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Princesa, 32</PostalAdress>
+    <Longitud>-3.71441991219973</Longitud>
+    <Latitud>40.4283432151913</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCESA-ALBERTO AGUILERA</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Princesa, 47 ( Alberto Aguilera )</PostalAdress>
+    <Longitud>-3.71607373122696</Longitud>
+    <Latitud>40.4301528207731</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCESA-ALBERTO AGUILERA</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Princesa frente al Nº 47, con C/ Alberto Aguilera.</PostalAdress>
+    <Longitud>-3.71577398713348</Longitud>
+    <Latitud>40.4302717913121</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCESA-ALTAMIRANO</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Princesa, 75</PostalAdress>
+    <Longitud>-3.71755743564742</Longitud>
+    <Latitud>40.4322066996085</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCESA-HILARION ESLAVA</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Princesa, 72</PostalAdress>
+    <Longitud>-3.71718075491725</Longitud>
+    <Latitud>40.4322630874591</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCESA-PZA.MONCLOA</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Pza. de la Moncloa con Pº de Moret</PostalAdress>
+    <Longitud>-3.71931897956498</Longitud>
+    <Latitud>40.43460117499</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.ESPAÑA-CTA.SAN VICENTE</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Pza. de España frente al Nº 4</PostalAdress>
+    <Longitud>-3.71201389608892</Longitud>
+    <Latitud>40.4230337021356</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.ESPAÑA-CTA.SAN VICENTE</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Pza. de España, 6</PostalAdress>
+    <Longitud>-3.71182356650827</Longitud>
+    <Latitud>40.4228006375783</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº FLORIDA-PRINCIPE PIO</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Pº de la Florida, 1</PostalAdress>
+    <Longitud>-3.72108147567385</Longitud>
+    <Latitud>40.4210406492772</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº FLORIDA Nº 16</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Pº de la Florida, 16</PostalAdress>
+    <Longitud>-3.72318000763546</Longitud>
+    <Latitud>40.423270809238</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº FLORIDA Nº 35</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Pº de la Florida, 35</PostalAdress>
+    <Longitud>-3.72336514127509</Longitud>
+    <Latitud>40.4229453279415</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GTA.SAN ANTONIO DE LA FLORIDA</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Pº de la Florida, 30 con Gta. San Antonio de la Florida</PostalAdress>
+    <Longitud>-3.72513072845998</Longitud>
+    <Latitud>40.4247586114795</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GTA.SAN ANTONIO DE LA FLORIDA</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Pº de la Florida, 57</PostalAdress>
+    <Longitud>-3.72537530269304</Longitud>
+    <Latitud>40.4246174397293</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RIBERA MANZANARES-SAN POL DE MAR</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Ribera del Manzanares frente al Nº 63</PostalAdress>
+    <Longitud>-3.72728136319222</Longitud>
+    <Latitud>40.4248216996267</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RIBERA MANZANARES-STA.OLALLA</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Ribera del Manzanares frente al Nº 97</PostalAdress>
+    <Longitud>-3.72943970923489</Longitud>
+    <Latitud>40.4265558720247</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RIBERA MANZANARES Nº 131</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Ribera del Manzanares frente al Nº 131</PostalAdress>
+    <Longitud>-3.73357775281888</Longitud>
+    <Latitud>40.4298270272982</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RIBERA MANZANARES Nº 125</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Ribera del Manzanares, 125</PostalAdress>
+    <Longitud>-3.73322500386356</Longitud>
+    <Latitud>40.4293698021689</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RIBERA MANZANARES-SANTA FE</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Ribera del Manzanares frente al Nº 149</PostalAdress>
+    <Longitud>-3.73495973552313</Longitud>
+    <Latitud>40.4311515963154</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>COMANDANTE FORTEA-FELIPE MORATILLA</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Pº del Comandante Fortea, 47</PostalAdress>
+    <Longitud>-3.73236728884829</Longitud>
+    <Latitud>40.4273256802134</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>COMANDANTE FORTEA-STA.OLALLA</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Pº del Comandante Fortea, 9</PostalAdress>
+    <Longitud>-3.72962776583632</Longitud>
+    <Latitud>40.4254105418716</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN POL DE MAR</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>San Pol de Mar, 1</PostalAdress>
+    <Longitud>-3.72719660469842</Longitud>
+    <Latitud>40.4242366456296</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº PINTOR ROSALES-FCO.J.ALCANTARA</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Pintor Rosales frente al Nº 52</PostalAdress>
+    <Longitud>-3.72228457328014</Longitud>
+    <Latitud>40.4294565857161</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MQUES.URQUIJO-MARTIN DE LOS HEROS</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Marqués de Urquijo, 21.</PostalAdress>
+    <Longitud>-3.71857524850684</Longitud>
+    <Latitud>40.4298670529626</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MQUES.URQUIJO-MARTIN DE LOS HEROS</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Marqués de Urquijo, 30</PostalAdress>
+    <Longitud>-3.719712547311</Longitud>
+    <Latitud>40.4297608901216</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MELENDEZ VALDES-PRINCESA</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Meléndez Valdés, 72</PostalAdress>
+    <Longitud>-3.71774956127068</Longitud>
+    <Latitud>40.433264067606</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº FLORIDA-PRINCIPE PIO</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Pº de la Florida con Gta. San Vicente (Intercambiador)</PostalAdress>
+    <Longitud>-3.72090879536815</Longitud>
+    <Latitud>40.4214291126941</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.DE ESPAÑA</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Pza. de España S/N frente edificio España</PostalAdress>
+    <Longitud>-3.71177867948301</Longitud>
+    <Latitud>40.4242063217556</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DE VALLADOLID Nº 2</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Av. de Valladolid, 2</PostalAdress>
+    <Longitud>-3.72712874306337</Longitud>
+    <Latitud>40.4265253627603</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.VALLADOLID Nº 9</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Av. de Valladolid, 9</PostalAdress>
+    <Longitud>-3.72729193685669</Longitud>
+    <Latitud>40.4263531664611</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.VALLADOLID-BRIGADA TRAFICO</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Av. de Valladolid frente al Nº 39</PostalAdress>
+    <Longitud>-3.72929858829637</Longitud>
+    <Latitud>40.4286378435445</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.VALLADOLID-BRIGADA TRAFICO</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Av. de Valladolid, 41</PostalAdress>
+    <Longitud>-3.72967541692887</Longitud>
+    <Latitud>40.4287345685163</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.VALLADOLID-LOECHES</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Av. de Valladolid frente al Nº 65</PostalAdress>
+    <Longitud>-3.73189967548262</Longitud>
+    <Latitud>40.431639449135</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.VALLADOLID-LOECHES</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Av. de Valladolid, 61</PostalAdress>
+    <Longitud>-3.73190678427156</Longitud>
+    <Latitud>40.4312069717817</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.VALLADOLID-PTE.FRANCESES</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Av. de Valladolid S/N (Pte. de los Franceses)</PostalAdress>
+    <Longitud>-3.73327133931125</Longitud>
+    <Latitud>40.4330992382483</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.VALLADOLID-PTE.FRANCESES</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Av. de Valladolid, 81</PostalAdress>
+    <Longitud>-3.73388839172343</Longitud>
+    <Latitud>40.4334646978135</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.MONCLOA</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Pza. de la Moncloa S/N (Ejercito del Aire)</PostalAdress>
+    <Longitud>-3.71890828953212</Longitud>
+    <Latitud>40.4339550771069</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EVARISTO SAN MIGUEL-MARTIN DE LOS HEROS</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Evaristo San Miguel, 7</PostalAdress>
+    <Longitud>-3.71573487202998</Longitud>
+    <Latitud>40.4265062633785</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.ESPAÑA-MARTIN DE LOS HEROS</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Pza. de España, 18</PostalAdress>
+    <Longitud>-3.71241573154035</Longitud>
+    <Latitud>40.4242159175951</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FERRAZ-LUISA FERNANDA</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Ferraz, 18</PostalAdress>
+    <Longitud>-3.71570637211899</Longitud>
+    <Latitud>40.4247181485217</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FERRAZ-REY FRANCISCO</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Ferraz, 40</PostalAdress>
+    <Longitud>-3.71739045806138</Longitud>
+    <Latitud>40.4264689907808</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FERRAZ-MARQUES DE URQUIJO</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Ferraz, 76</PostalAdress>
+    <Longitud>-3.71992934108714</Longitud>
+    <Latitud>40.4290838661945</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FERRAZ-ROMERO ROBLEDO</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Ferraz, 96</PostalAdress>
+    <Longitud>-3.72181385077693</Longitud>
+    <Latitud>40.4309865489982</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARCIPRESTE DE HITA-FERNANDO EL CATOLICO</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Arcipreste de Hita con C/ Fernando el Católico</PostalAdress>
+    <Longitud>-3.71803749355458</Longitud>
+    <Latitud>40.4341136337714</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARCIPRESTE HITA-FERNANDO EL CATOLICO</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Arcipreste de Hita, 3</PostalAdress>
+    <Longitud>-3.71793700099267</Longitud>
+    <Latitud>40.4339836262997</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº RUPERTO CHAPI-Pº CAMOENS</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Gta. del Maestro S/N con Pº de Camoens</PostalAdress>
+    <Longitud>-3.72738643742406</Longitud>
+    <Latitud>40.4329471702306</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.SENECA-MARTIN FIERRO</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Av. de Séneca frente a C/ Martín Fierro</PostalAdress>
+    <Longitud>-3.73042853114284</Longitud>
+    <Latitud>40.4351532428402</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARCIPRESTE DE HITA-FERNANDO EL CATOLICO</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Arcipreste de Hita con C/ Fernando el Catolico</PostalAdress>
+    <Longitud>-3.7180849386363</Longitud>
+    <Latitud>40.4341403665582</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.MONCLOA-PRINCESA</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Pza. de la Moncloa con C/ Fernando el Católico.</PostalAdress>
+    <Longitud>-3.7187116983537</Longitud>
+    <Latitud>40.4343166579269</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INTERCAMBIADOR PRINCIPE PIO</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Pº Florida con Gta.San Vicente (InterPpe.Pío darse.8-9)</PostalAdress>
+    <Longitud>-3.72104268058317</Longitud>
+    <Latitud>40.4218246762562</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ROMERO ROBLEDO-FERRAZ</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Romero Robledo, 24</PostalAdress>
+    <Longitud>-3.72264082936939</Longitud>
+    <Latitud>40.4312831924966</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GLORIETA SAN VICENTE</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Glorieta de San Vicente con acceso a Madrid Río.</PostalAdress>
+    <Longitud>-3.72088345766496</Longitud>
+    <Latitud>40.4200193574581</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.SENECA-Pº RUPERTO CHAPI</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Av. de Seneca con Pº Ruperto Chapí.</PostalAdress>
+    <Longitud>-3.73293250292408</Longitud>
+    <Latitud>40.4344707524282</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº PINTOR ROSALES-BENITO GUTIERREZ</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Pº Pintor Rosales frente al Nº 56.</PostalAdress>
+    <Longitud>-3.72283378377997</Longitud>
+    <Latitud>40.4299982037401</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MQUES.URQUIJO-FERRAZ</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Marqués de Urquijo Nº 47.</PostalAdress>
+    <Longitud>-3.72066119633454</Longitud>
+    <Latitud>40.429169403581</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº PINTOR ROSALES-ROMERO ROBLEDO</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Pº del Pintor Rosales con C/ Romero Robledo.</PostalAdress>
+    <Longitud>-3.72346046712548</Longitud>
+    <Latitud>40.4306519476911</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LISBOA-FERRAZ</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Lisboa, 4.</PostalAdress>
+    <Longitud>-3.7237658552806</Longitud>
+    <Latitud>40.4324383278253</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.MONCLOA</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Pza. de la Moncloa con C/ Fdo.Católico (Antes de Arcos)</PostalAdress>
+    <Longitud>-3.71834134130945</Longitud>
+    <Latitud>40.4338594968095</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RUPERTO CHAPI-PZA.MONCLOA</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Ruperto Chapí con Pº de Moret</PostalAdress>
+    <Longitud>-3.72032468789375</Longitud>
+    <Latitud>40.4353471746246</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RIBERA MANZANARES-FELIPE MORATILLA</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Ribera del Manzanares frente al Nº 111</PostalAdress>
+    <Longitud>-3.73059512398313</Longitud>
+    <Latitud>40.4274855248566</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GTA.SAN VICENTE</Name>
+    <PostalCode>28008</PostalCode>
+    <PostalAdress>Gta. de San Vicente con Pº de la Florida</PostalAdress>
+    <Longitud>-3.72093779243177</Longitud>
+    <Latitud>40.4204514525868</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+</ArrayOfPapelera>

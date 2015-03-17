@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPapelera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Papelera>
+    <Name>GTA.MAR DE CRISTAL</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Gta. Mar de Cristal S/N con C/ Ayacucho</PostalAdress>
+    <Longitud>-3.63769028391414</Longitud>
+    <Latitud>40.4695118792371</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARTURO SORIA-LOPEZ DE HOYOS</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Arturo Soria, 201</PostalAdress>
+    <Longitud>-3.66068169967231</Longitud>
+    <Latitud>40.4595631881383</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARTURO SORIA-LOPEZ DE HOYOS</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Arturo Soria, 198</PostalAdress>
+    <Longitud>-3.65944864676668</Longitud>
+    <Latitud>40.4592098576039</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARTURO SORIA-CELESTE</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Arturo Soria, 167</PostalAdress>
+    <Longitud>-3.65754998553993</Longitud>
+    <Latitud>40.4568152546627</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARTURO SORIA-BELISANA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Arturo Soria, 182</PostalAdress>
+    <Longitud>-3.65743381787486</Longitud>
+    <Latitud>40.4571492469796</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARTURO SORIA-JEFATURA PROV.TRAFICO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Arturo Soria, 145</PostalAdress>
+    <Longitud>-3.65546902005714</Longitud>
+    <Latitud>40.454534263777</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARTURO SORIA Nº 164-LUIS CARLOS VAZQUEZ</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Arturo Soria, 164</PostalAdress>
+    <Longitud>-3.6553611420454</Longitud>
+    <Latitud>40.4547736127721</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARTURO SORIA-CONSERVATORIO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Arturo Soria, 113</PostalAdress>
+    <Longitud>-3.65324480659172</Longitud>
+    <Latitud>40.4519837723668</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARTURO SORIA-DIEGO AYLLON</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Arturo Soria, 136</PostalAdress>
+    <Longitud>-3.6521943556494</Longitud>
+    <Latitud>40.4509806851572</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARTURO SORIA-HOSPITAL NTRA.SRA.AMERICA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Arturo Soria, 101</PostalAdress>
+    <Longitud>-3.65161721385567</Longitud>
+    <Latitud>40.4497947457046</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARTURO SORIA-HOSPITAL NTRA.SRA.AMERICA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Arturo Soria, 124</PostalAdress>
+    <Longitud>-3.65063612284026</Longitud>
+    <Latitud>40.4492146768111</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ULISES-ARTURO SORIA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Ulises, 2</PostalAdress>
+    <Longitud>-3.6559845801616</Longitud>
+    <Latitud>40.4560853959296</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ULISES-ARTURO SORIA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Ulises frente al Nº 2 con C/ Arturo Soria</PostalAdress>
+    <Longitud>-3.65595842570599</Longitud>
+    <Latitud>40.4562386969856</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ULISES-ASURA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Ulises, 26</PostalAdress>
+    <Longitud>-3.65358054781033</Longitud>
+    <Latitud>40.457089979146</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ULISES-ASURA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Ulises, 15</PostalAdress>
+    <Longitud>-3.65368858465166</Longitud>
+    <Latitud>40.4572470266825</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MOSCATELAR-PARMA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Moscatelar frente al Nº 5</PostalAdress>
+    <Longitud>-3.64989651253905</Longitud>
+    <Latitud>40.4571512545002</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MOSCATELAR-PARMA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Moscatelar, 11</PostalAdress>
+    <Longitud>-3.64925509677768</Longitud>
+    <Latitud>40.4572944919845</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MOSCATELAR-MILAN</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Moscatelar, 24.</PostalAdress>
+    <Longitud>-3.64733909914007</Longitud>
+    <Latitud>40.4571250388485</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MOSCATELAR-MILAN</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Moscatelar S/N con C/ La Plaza.</PostalAdress>
+    <Longitud>-3.64681071015532</Longitud>
+    <Latitud>40.4573712343082</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SILVANO-PZA.DEL LICEO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Silvano S/N con Pza. del Liceo</PostalAdress>
+    <Longitud>-3.64379050213177</Longitud>
+    <Latitud>40.4579015773839</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SILVANO-PZA.DEL LICEO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Silvano S/N con Pza. del Liceo</PostalAdress>
+    <Longitud>-3.6439785452001</Longitud>
+    <Latitud>40.4579861172466</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SILVANO-COL.VIRGEN DE LA ESPERANZA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Silvano S/N con Col. Virgen de la Esperanza</PostalAdress>
+    <Longitud>-3.64231269694124</Longitud>
+    <Latitud>40.4596665375734</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SILVANO-COL.VIRGEN DE LA ESPERANZA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Silvano S/N con Col. Virgen de la Esperanza</PostalAdress>
+    <Longitud>-3.64263764520051</Longitud>
+    <Latitud>40.4596512212085</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SILVANO-ALCORISA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Silvano, 84.</PostalAdress>
+    <Longitud>-3.63925321693332</Longitud>
+    <Latitud>40.4620213005725</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SILVANO-ALCORISA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Silvano S/N con C/ Alcorisa</PostalAdress>
+    <Longitud>-3.64012528329775</Longitud>
+    <Latitud>40.4617056730117</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SILVANO-EL ALGABEÑO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Silvano, 92 (Ccon C/ Algabeño)</PostalAdress>
+    <Longitud>-3.63751925237252</Longitud>
+    <Latitud>40.4626389664811</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SILVANO-EL ALGABEÑO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Silvano (Con C/ Algabeño).</PostalAdress>
+    <Longitud>-3.63778052156535</Longitud>
+    <Latitud>40.4628267165615</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.RAMON Y CAJAL-AV.LA PAZ</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Av Ramón y Cajal fte al Nº 107 con Av. de la Paz</PostalAdress>
+    <Longitud>-3.66119830617096</Longitud>
+    <Latitud>40.453596286916</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.RAMON Y CAJAL-AV.LA PAZ</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Av Ramón y Cajal, 107</PostalAdress>
+    <Longitud>-3.66161247447079</Longitud>
+    <Latitud>40.453738065171</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOSE SILVA-AGASTIA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>José Silva, 13</PostalAdress>
+    <Longitud>-3.65839241842708</Longitud>
+    <Latitud>40.4548735341424</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOSE SILVA-AGASTIA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>José Silva, 16</PostalAdress>
+    <Longitud>-3.65857923367576</Longitud>
+    <Latitud>40.4549445437492</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SILVANO-JOSE DOMINGO RUS</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Silvano, 120</PostalAdress>
+    <Longitud>-3.63291923200311</Longitud>
+    <Latitud>40.4626551907861</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SILVANO-JOSE DOMINGO RUS</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Silvano, 105</PostalAdress>
+    <Longitud>-3.63292035138646</Longitud>
+    <Latitud>40.4628533824489</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PEDROÑERAS-SILVANO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Pedroñeras, 16 (Pza. de Andrés Jauregui)</PostalAdress>
+    <Longitud>-3.62957883802418</Longitud>
+    <Latitud>40.4630788042152</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PEDROÑERAS-SILVANO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Pedroñeras con C/ Silvano (Pza. Andrés Jauregui)</PostalAdress>
+    <Longitud>-3.62973776462626</Longitud>
+    <Latitud>40.463005868152</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PEDROÑERAS-EL PROVENCIO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Pedroñeras frente al Nº 3</PostalAdress>
+    <Longitud>-3.63006289098391</Longitud>
+    <Latitud>40.464549141303</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PEDROÑERAS-EL PROVENCIO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Pedroñeras, 1</PostalAdress>
+    <Longitud>-3.63007856188409</Longitud>
+    <Latitud>40.4641346425729</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MOTA DEL CUERVO Nº 9</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Mota del Cuervo, 9</PostalAdress>
+    <Longitud>-3.63171297522001</Longitud>
+    <Latitud>40.4650401503748</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MOTA DEL CUERVO Nº 48</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Mota del Cuervo, 48</PostalAdress>
+    <Longitud>-3.63174826611451</Longitud>
+    <Latitud>40.4648327511498</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MOTA DEL CUERVO-MOTILLA DEL PALANCAR</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Mota del Cuervo, 1</PostalAdress>
+    <Longitud>-3.63418458708082</Longitud>
+    <Latitud>40.4648870015256</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MOTA DEL CUERVO-MOTILLA DEL PALANCAR</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Mota del Cuervo, 18</PostalAdress>
+    <Longitud>-3.63421301773508</Longitud>
+    <Latitud>40.4647742334883</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOS EMIGRANTES-TREFACIO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Los Emigrantes, 2</PostalAdress>
+    <Longitud>-3.63599237143539</Longitud>
+    <Latitud>40.4658365438166</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOS EMIGRANTES-CTRA.DE CANILLAS</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Los Emigrantes, 1</PostalAdress>
+    <Longitud>-3.63630505994307</Longitud>
+    <Latitud>40.4658077990729</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOS EMIGRANTES-TRIBALDOS</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Los Emigrantes, 14</PostalAdress>
+    <Longitud>-3.63692155113874</Longitud>
+    <Latitud>40.4674665671797</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOS EMIGRANTES-TRIBALDOS</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Los Emigrantes frente al Nº 14</PostalAdress>
+    <Longitud>-3.63722745672688</Longitud>
+    <Latitud>40.4673432629328</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AYACUCHO-GTA.SANDRO PERTINI</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Ayacucho S/N con Gta. Sandro Pertini</PostalAdress>
+    <Longitud>-3.64192582587426</Longitud>
+    <Latitud>40.4700785641265</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VALDETORRES DE JARAMA-LIBERACION</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Valdetorres de Jarama S/N con C/ Agustín de Iturbide</PostalAdress>
+    <Longitud>-3.6436015883142</Longitud>
+    <Latitud>40.4703395312208</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VALDETORRES DE JARAMA-ANGEL LUIS HERRAN</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Valdetorres de Jarama S/N con C/ A. Luis Herrán</PostalAdress>
+    <Longitud>-3.64508393422979</Longitud>
+    <Latitud>40.4712682157485</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VALDETORRES DE JARAMA-ANGEL LUIS HERRAN</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Valdetorres de Jarama S/N frente C/ A.Luis de Herrán</PostalAdress>
+    <Longitud>-3.64508729414698</Longitud>
+    <Latitud>40.4710024323058</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VALDETORRES DE JARAMA-ROGELIO MUÑOZ</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Valdetorres de Jarama, 11</PostalAdress>
+    <Longitud>-3.64640047614461</Longitud>
+    <Latitud>40.4718554658143</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VALDETORRES DE JARAMA-ROGELIO MUÑOZ</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Valdetorres de Jarama frente Nº 11</PostalAdress>
+    <Longitud>-3.64668543851004</Longitud>
+    <Latitud>40.4717007221186</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VALDETORRES DE JARAMA-PZA.SANTOS HUMOSA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Valdetorres de Jarama, 1 con Pz.Santos de la Humosa</PostalAdress>
+    <Longitud>-3.64825194702036</Longitud>
+    <Latitud>40.4727099762731</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AREQUIPA-TORRESANDINO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Arequipa S/N con C/ Torresandino</PostalAdress>
+    <Longitud>-3.64078980633241</Longitud>
+    <Latitud>40.4690443194733</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AREQUIPA-LOS EMIGRANTES</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Arequipa S/N con Gta.Mar de Cristal y C/ Los Emigrantes</PostalAdress>
+    <Longitud>-3.63905409121109</Longitud>
+    <Latitud>40.4690268847534</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>TORRELAGUNA-RAMIREZ DE ARELLANO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Torrelaguna, 64</PostalAdress>
+    <Longitud>-3.65669816581572</Longitud>
+    <Latitud>40.4478966747929</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>TORRELAGUNA-RAMIREZ DE ARELLANO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Torrelaguna, 77</PostalAdress>
+    <Longitud>-3.65670511435487</Longitud>
+    <Latitud>40.4475497886367</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>TORRELAGUNA Nº 70</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Torrelaguna, 70</PostalAdress>
+    <Longitud>-3.65774055658036</Longitud>
+    <Latitud>40.4495844516143</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>TORRELAGUNA Nº 85</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Torrelaguna, 85</PostalAdress>
+    <Longitud>-3.65799068732573</Longitud>
+    <Latitud>40.449763210656</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>TORRELAGUNA-SORZANO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Torrelaguna con C/ Sorzano</PostalAdress>
+    <Longitud>-3.65950048266683</Longitud>
+    <Latitud>40.4512275935643</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>TORRELAGUNA-RAFAEL BERGAMIN</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Torrelaguna con C/ Rafael Bergamín</PostalAdress>
+    <Longitud>-3.65977118604573</Longitud>
+    <Latitud>40.451171997504</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>TORRELAGUNA-JOSE SILVA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Torrelaguna S/N frente al Nº 125</PostalAdress>
+    <Longitud>-3.66043307749622</Longitud>
+    <Latitud>40.4537357888486</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>TORRELAGUNA-JOSE SILVA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Torrelaguna, 125</PostalAdress>
+    <Longitud>-3.66072332483904</Longitud>
+    <Latitud>40.4532656652523</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.AMERICA-ARTURO SORIA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Av. de América Km. 5.100 frente a C/ Agastia</PostalAdress>
+    <Longitud>-3.6522709747918</Longitud>
+    <Latitud>40.4479216963661</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.AMERICA-PQUE.CONDE ORGAZ</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Av. de América frente a C/ Josefa Valcarcel Nº 44.</PostalAdress>
+    <Longitud>-3.64042455440043</Longitud>
+    <Latitud>40.449334662484</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOPEZ DE HOYOS-CAÑAS</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>López de Hoyos, 336</PostalAdress>
+    <Longitud>-3.66083640991939</Longitud>
+    <Latitud>40.4568776265273</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOPEZ DE HOYOS-PEDRO SALINAS</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>López de Hoyos, 259</PostalAdress>
+    <Longitud>-3.66113498434819</Longitud>
+    <Latitud>40.4567678142656</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOPEZ DE HOYOS-ARTURO SORIA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>López de Hoyos, 370</PostalAdress>
+    <Longitud>-3.65958229858004</Longitud>
+    <Latitud>40.4597991850461</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOPEZ DE HOYOS-NAVARRO AMANDI</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>López de Hoyos, 390</PostalAdress>
+    <Longitud>-3.65867159380147</Longitud>
+    <Latitud>40.4619620211593</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOPEZ DE HOYOS-CTRA.CANILLAS</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>López de Hoyos frente al Nº 327</PostalAdress>
+    <Longitud>-3.65767923548591</Longitud>
+    <Latitud>40.4636568462071</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOPEZ DE HOYOS-GRAN VIA DE HORTALEZA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>López de Hoyos, 454</PostalAdress>
+    <Longitud>-3.65318766192776</Longitud>
+    <Latitud>40.4679570315619</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOPEZ DE HOYOS-GRAN VIA DE HORTALEZA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>López de Hoyos, 339</PostalAdress>
+    <Longitud>-3.65373900330357</Longitud>
+    <Latitud>40.4676386058532</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOPEZ DE HOYOS-ANGEL LUIS HERRAN</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>López de Hoyos, 466</PostalAdress>
+    <Longitud>-3.65115745984052</Longitud>
+    <Latitud>40.4702747640906</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOPEZ DE HOYOS-ANGEL LUIS HERRAN</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>López de Hoyos, 363</PostalAdress>
+    <Longitud>-3.65143026351928</Longitud>
+    <Latitud>40.4702371937146</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOPEZ DE HOYOS-VALDETORRES DEL JARAMA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>López de Hoyos, 480</PostalAdress>
+    <Longitud>-3.64954719771935</Longitud>
+    <Latitud>40.4721126298525</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOPEZ DE HOYOS-VALDETORRES DEL JARAMA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>López de Hoyos, 409</PostalAdress>
+    <Longitud>-3.64964171889812</Longitud>
+    <Latitud>40.4722427296458</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTRA.CANILLAS-GTA.PILAR MIRO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Ctra. de Canillas frente al Nº 2</PostalAdress>
+    <Longitud>-3.65715345849514</Longitud>
+    <Latitud>40.463263436178</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTRA.CANILLAS-CARRIL DEL CONDE</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Ctra. de Canillas con C/ Carril del Conde</PostalAdress>
+    <Longitud>-3.65371796552774</Longitud>
+    <Latitud>40.4635981972053</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTRA.CANILLAS-CARRIL DEL CONDE</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Ctra. de Canillas con C/ Carril del Conde</PostalAdress>
+    <Longitud>-3.65337124112379</Longitud>
+    <Latitud>40.4638028562804</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTRA.CANILLAS-MATAPOZUELOS</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Ctra. de Canillas frente al Nº 17</PostalAdress>
+    <Longitud>-3.6508344710674</Longitud>
+    <Latitud>40.4629612890421</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTRA.CANILLAS-MATAPOZUELOS</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Ctra. de Canillas, 15</PostalAdress>
+    <Longitud>-3.65107453042343</Longitud>
+    <Latitud>40.463162641651</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTRA.CANILLAS-GOMEZNARRO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Ctra. de Canillas, 54</PostalAdress>
+    <Longitud>-3.64770974802644</Longitud>
+    <Latitud>40.4631860164528</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTRA.CANILLAS-GOMEZNARRO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Ctra. de Canillas, 41</PostalAdress>
+    <Longitud>-3.64759322508583</Longitud>
+    <Latitud>40.4633353164337</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTRA.CANILLAS-UTRILLAS</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Carretera de Canillas, 76</PostalAdress>
+    <Longitud>-3.64499045606864</Longitud>
+    <Latitud>40.4638723645421</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTRA.CANILLAS-UTRILLAS</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Ctra. de Canillas, 49</PostalAdress>
+    <Longitud>-3.64584997131366</Longitud>
+    <Latitud>40.4637864928976</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTRA.CANILLAS-TORQUEMADA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Ctra. de Canillas frente al Nº 99</PostalAdress>
+    <Longitud>-3.64134770074284</Longitud>
+    <Latitud>40.4649826848067</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTRA.CANILLAS-TORQUEMADA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Ctra. de Canillas, 99</PostalAdress>
+    <Longitud>-3.64103904658429</Longitud>
+    <Latitud>40.4653582667432</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTRA.CANILLAS-TIBERIADES</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Ctra. de Canillas frente a C/ Tiberiades</PostalAdress>
+    <Longitud>-3.63757763189536</Longitud>
+    <Latitud>40.4651926928659</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTRA.CANILLAS-EMIGRANTES</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Ctra. de Canillas con C/ Emigrantes</PostalAdress>
+    <Longitud>-3.63630844401443</Longitud>
+    <Latitud>40.465384358196</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SILVANO-PZA.ANDRES JAUREGUI</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Silvano, 150</PostalAdress>
+    <Longitud>-3.6291032627369</Longitud>
+    <Latitud>40.4626354437266</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SILVANO-PZA.ANDRES JAUREGUI</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Silvano, 139</PostalAdress>
+    <Longitud>-3.6287367562047</Longitud>
+    <Latitud>40.4627815780636</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SILVANO-HAENDEL</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Silvano frente al Nº 161</PostalAdress>
+    <Longitud>-3.62568786267668</Longitud>
+    <Latitud>40.4626043980485</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SILVANO-HAENDEL</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Silvano, 159.</PostalAdress>
+    <Longitud>-3.62573707872424</Longitud>
+    <Latitud>40.4627843119677</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAN VIA HORTALEZA-HARO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Gran Vía de Hortaleza con C/ Haro</PostalAdress>
+    <Longitud>-3.65138726022878</Longitud>
+    <Latitud>40.4671924018751</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAN VIA HORTALEZA-HARO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Gran Vía de Hortaleza S/N frente a C/ Haro</PostalAdress>
+    <Longitud>-3.65151571364682</Longitud>
+    <Latitud>40.467439426068</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAN VIA HORTALEZA-TIJUANA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Gran Vía de Hortaleza, 62</PostalAdress>
+    <Longitud>-3.64768566081165</Longitud>
+    <Latitud>40.4680555056737</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAN VIA HORTALEZA-TIJUANA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Gran Vía de Hortaleza, 47</PostalAdress>
+    <Longitud>-3.6480203105188</Longitud>
+    <Latitud>40.468278857743</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAN VIA HORTALEZA-GTA.SANDRO PERTINI</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Gran Vía de Hortaleza, 98</PostalAdress>
+    <Longitud>-3.643326146774</Longitud>
+    <Latitud>40.4692104353461</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAN VIA HORTALEZA-GTA.SANDRO PERTINI</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Gran Vía de Hortaleza, 67</PostalAdress>
+    <Longitud>-3.64339689031643</Longitud>
+    <Latitud>40.4695163474988</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VALDETORRES DE JARAMA-TORREGROSA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Valdetorres de Jarama con C/ Torregrosa</PostalAdress>
+    <Longitud>-3.64823048883405</Longitud>
+    <Latitud>40.4723947824351</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EMILIO VARGAS-ARTURO SORIA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Emilio Vargas S/N</PostalAdress>
+    <Longitud>-3.65183674948471</Longitud>
+    <Latitud>40.4491718888028</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MACHUPICHU-SILVANO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Av. Machupichu con C/ Silvano</PostalAdress>
+    <Longitud>-3.63553469164923</Longitud>
+    <Latitud>40.4623255515742</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MACHUPICHU-SILVANO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Av. Machupichu con C/ Silvano</PostalAdress>
+    <Longitud>-3.6352202481519</Longitud>
+    <Latitud>40.4623227723786</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MACHUPICHU-FLORENCIO CASTILLO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Av. Machupichu, 37</PostalAdress>
+    <Longitud>-3.62740862401205</Longitud>
+    <Latitud>40.4596401379578</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MACHUPICHU-FLORENCIO CASTILLO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Av. Machupichu frente al Nº 37</PostalAdress>
+    <Longitud>-3.62752637820523</Longitud>
+    <Latitud>40.459936796804</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MACHUPICHU-AV.PAPA NEGRO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Av. Machupichu, 17</PostalAdress>
+    <Longitud>-3.62497850481323</Longitud>
+    <Latitud>40.4576848120512</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MACHUPICHU-AV.PAPA NEGRO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Av. Machupichu, 14</PostalAdress>
+    <Longitud>-3.62464765829299</Longitud>
+    <Latitud>40.4576595700496</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RAMIREZ DE ARELLANO-TORRELAGUNA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Ramírez de Arellano, 19</PostalAdress>
+    <Longitud>-3.65579764840733</Longitud>
+    <Latitud>40.4486720480828</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RAMIREZ DE ARELLANO-ARTURO SORIA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Ramírez de Arellano, 3</PostalAdress>
+    <Longitud>-3.6525535393636</Longitud>
+    <Latitud>40.4497444281538</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EMILIO VARGAS-TORRELAGUNA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Emilio Vargas, 1</PostalAdress>
+    <Longitud>-3.65594072581337</Longitud>
+    <Latitud>40.4474279948595</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOPEZ DE HOYOS-GTA.LUIS ROSALES</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>López de Hoyos con C/ Ricardo San Juan</PostalAdress>
+    <Longitud>-3.65466891938205</Longitud>
+    <Latitud>40.4662549783022</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOPEZ DE HOYOS-GTA.LUIS ROSALES</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>López de Hoyos frente a C/ Ricardo San Juan</PostalAdress>
+    <Longitud>-3.65480069534084</Longitud>
+    <Latitud>40.46642540376</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SILVANO-MACHUPICHU</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Silvano con C/ Machupichu</PostalAdress>
+    <Longitud>-3.63481970935044</Longitud>
+    <Latitud>40.46268983292</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SILVANO-AV.MACHUPICHU</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Silvano con C/ Machupichu</PostalAdress>
+    <Longitud>-3.63495994814797</Longitud>
+    <Latitud>40.4628647393375</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARTURO SORIA-JEFATURA PROV.TRAFICO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Arturo Soria, 148</PostalAdress>
+    <Longitud>-3.65385054361057</Longitud>
+    <Latitud>40.4531109831897</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GTA.MAR DE CRISTAL</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Gta. Mar de Cristal S/N con C/ Ayacucho.</PostalAdress>
+    <Longitud>-3.6377268623403</Longitud>
+    <Latitud>40.4696378034857</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAN VIA HORTALEZA-LOPEZ DE HOYOS</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Gran Vía de Hortaleza S/N con C/ Lopez de Hoyos</PostalAdress>
+    <Longitud>-3.65350517555969</Longitud>
+    <Latitud>40.4672074948982</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ACONCAGUA-NEVADO CUMBAL</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Aconcagua S/N con C/ Nevado Cumbal</PostalAdress>
+    <Longitud>-3.63108854988101</Longitud>
+    <Latitud>40.468908409196</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MAR DE CRISTAL-AREQUIPA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Gta. Mar de Cristal S/N con Arequipa (Centro Comercial)</PostalAdress>
+    <Longitud>-3.63896509329234</Longitud>
+    <Latitud>40.4695949415152</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AREQUIPA Nº 30</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Arequipa, 30</PostalAdress>
+    <Longitud>-3.63732326846812</Longitud>
+    <Latitud>40.4689418296793</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AREQUIPA-TREFACIO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Arequipa S/N</PostalAdress>
+    <Longitud>-3.63437315620666</Longitud>
+    <Latitud>40.4686382102633</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.LOS ANDES-AV.MACHUPICHU</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Av. de los Andes con Av. Machupichu</PostalAdress>
+    <Longitud>-3.62215118099996</Longitud>
+    <Latitud>40.4549252627046</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOS EMIGRANTES-AREQUIPA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Los Emigrantes S/N con C/ Arequipa</PostalAdress>
+    <Longitud>-3.63796968379624</Longitud>
+    <Latitud>40.4687670994749</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MACHUPICHU-MONTALBOS</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Av. Machupichu con C/ Montalbos</PostalAdress>
+    <Longitud>-3.63564259449076</Longitud>
+    <Latitud>40.4646267558098</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MACHUPICHU-MOTA DEL CUERVO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Av. Machupichu con C/ Mota del Cuervo (farola 99)</PostalAdress>
+    <Longitud>-3.63550209203374</Longitud>
+    <Latitud>40.4649338325009</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MACHUPICHU-PZA.MANUEL RODRIGO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Av. Machupichu, 73</PostalAdress>
+    <Longitud>-3.63292752244066</Longitud>
+    <Latitud>40.4607857797092</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MACHUPICHU-PZA.MANUEL RODRIGO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Av. de Machupichu frente al Nº 73</PostalAdress>
+    <Longitud>-3.63292762040395</Longitud>
+    <Latitud>40.460992986011</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTRA.CANILLAS-GTA.PILAR MIRO</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Ctra. de Canillas (Junta Municipal)</PostalAdress>
+    <Longitud>-3.65763825643204</Longitud>
+    <Latitud>40.4630444681729</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DE LOS ANDES-JARILLA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Av. de los Andes con C/ Jarilla.</PostalAdress>
+    <Longitud>-3.62512130558731</Longitud>
+    <Latitud>40.453837197034</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GTA.MAR DE CRISTAL</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Gta. Mar de Cristal S/N con C/ Ayacucho.</PostalAdress>
+    <Longitud>-3.63772911699128</Longitud>
+    <Latitud>40.469408062123</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MAR DE CRISTAL-AREQUIPA</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Gta. Mar de Cristal S/N con Arequipa (Centro Comercial)</PostalAdress>
+    <Longitud>-3.63886804384166</Longitud>
+    <Latitud>40.4694288109119</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DE LOS ANDES-GTA.YUCATAN</Name>
+    <PostalCode>28043</PostalCode>
+    <PostalAdress>Av. de Los Andes con Gta. Yucatán.</PostalAdress>
+    <Longitud>-3.62686608159571</Longitud>
+    <Latitud>40.4518142528257</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+</ArrayOfPapelera>

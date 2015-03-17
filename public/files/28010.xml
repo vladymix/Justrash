@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPapelera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Papelera>
+    <Name>Pº CASTELLANA-Pº EDUARDO DATO</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Pº de la Castellana, 33</PostalAdress>
+    <Longitud>-3.68880999822339</Longitud>
+    <Latitud>40.433020918832</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FCO.DE ROJAS-SAGASTA</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Francisco de Rojas, 4</PostalAdress>
+    <Longitud>-3.69937842481208</Longitud>
+    <Latitud>40.4288945018187</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FCO.DE ROJAS-SAGASTA</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Francisco de Rojas, 1</PostalAdress>
+    <Longitud>-3.69961289326812</Longitud>
+    <Latitud>40.4287669591199</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FCO.DE ROJAS-LUCHANA</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Francisco de Rojas, 13</PostalAdress>
+    <Longitud>-3.70006464511416</Longitud>
+    <Latitud>40.4302687354482</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LUCHANA-PZA.DE CHAMBERÍ</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Luchana, 40</PostalAdress>
+    <Longitud>-3.69815033086212</Longitud>
+    <Latitud>40.4321271421345</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LUCHANA-PZA.DE CHAMBERI</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Luchana, 29</PostalAdress>
+    <Longitud>-3.69868000814237</Longitud>
+    <Latitud>40.4320428661898</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EDUARDO DATO-ZURBANO</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Pº de Eduardo Dato, 4</PostalAdress>
+    <Longitud>-3.69432539855262</Longitud>
+    <Latitud>40.4327897807045</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EDUARDO DATO-ZURBANO</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Pº de Eduardo Dato, 9</PostalAdress>
+    <Longitud>-3.69448143552844</Longitud>
+    <Latitud>40.4330591155163</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EDUARDO DATO-RUBEN DARIO</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Pº de Eduardo Dato, 12</PostalAdress>
+    <Longitud>-3.69215708002548</Longitud>
+    <Latitud>40.432892852179</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MIGUEL ANGEL-RUBEN DARIO</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Miguel Angel, 1</PostalAdress>
+    <Longitud>-3.69147882339103</Longitud>
+    <Latitud>40.4334374455295</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.DE CHAMBERI</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Pza. de Chamberí, 1</PostalAdress>
+    <Longitud>-3.6971540048151</Longitud>
+    <Latitud>40.4326917040781</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALMAGRO-PZA.ALONSO MARTINEZ</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Almagro, 4</PostalAdress>
+    <Longitud>-3.69510250401341</Longitud>
+    <Latitud>40.4281004271183</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALMAGRO-ZURBANO</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Almagro, 30.</PostalAdress>
+    <Longitud>-3.6926895814523</Longitud>
+    <Latitud>40.430421196321</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALMAGRO-ZURBANO</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Almagro, 11</PostalAdress>
+    <Longitud>-3.69332046822398</Longitud>
+    <Latitud>40.430219222174</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALMAGRO-Pº EDUARDO DATO</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Almagro, 44</PostalAdress>
+    <Longitud>-3.69149061132661</Longitud>
+    <Latitud>40.432284220689</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALMAGRO-Pº EDUARDO DATO</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Almagro, 33</PostalAdress>
+    <Longitud>-3.69177613397615</Longitud>
+    <Latitud>40.4325347678537</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALMAGRO Nº 3</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Almagro, 3</PostalAdress>
+    <Longitud>-3.69511855146767</Longitud>
+    <Latitud>40.4285147459395</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CARDENAL CISNEROS-ELOY GONZALO</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Cardenal Cisneros frente al Nº 62</PostalAdress>
+    <Longitud>-3.70286296806589</Longitud>
+    <Latitud>40.4342157508152</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ELOY GONZALO-JUAN DE AUSTRIA</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Eloy Gonzalo, 36</PostalAdress>
+    <Longitud>-3.6997448641147</Longitud>
+    <Latitud>40.4346850867498</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ELOY GONZALO-JUAN DE AUSTRIA</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Eloy Gonzalo, 33</PostalAdress>
+    <Longitud>-3.69982972265329</Longitud>
+    <Latitud>40.4349097992447</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.MTNEZ.CAMPOS-FDEZ.DE LA HOZ</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Pº General Martinez Campos, 18</PostalAdress>
+    <Longitud>-3.69605794266702</Longitud>
+    <Latitud>40.4350226240769</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.MTNEZ.CAMPOS-FDEZ.DE LA HOZ</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Pº General Martínez Campos, 23</PostalAdress>
+    <Longitud>-3.69525901953917</Longitud>
+    <Latitud>40.4352976942766</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.MTNEZ.CAMPOS-FORTUNY</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Pº General Martínez Campos frente al Nº 47</PostalAdress>
+    <Longitud>-3.69054126311367</Longitud>
+    <Latitud>40.4351457446768</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.MTNEZ.CAMPOS-FORTUNY</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Pº Gral Martínez Campos, 53.</PostalAdress>
+    <Longitud>-3.69002310722513</Longitud>
+    <Latitud>40.4353875724595</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ELOY GONZALO-CARDENAL CISNEROS</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Eloy Gonzalo, 5  con C/ Cardenal Cisneros</PostalAdress>
+    <Longitud>-3.70312296933865</Longitud>
+    <Latitud>40.4341330911583</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CARRANZA-GTA.BILBAO</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Carranza, 2.</PostalAdress>
+    <Longitud>-3.70295525406452</Longitud>
+    <Latitud>40.4293413122489</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAGASTA-MANUEL SILVELA</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Sagasta, 19.</PostalAdress>
+    <Longitud>-3.69903357431009</Longitud>
+    <Latitud>40.4286082953894</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FEIJOO-BRAVO MURILLO</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Feijoo, 4</PostalAdress>
+    <Longitud>-3.70379096692952</Longitud>
+    <Latitud>40.4348767809539</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.ALVAREZ CASTRO-ELOY GONZALO</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>General Alvarez de Castro, 3</PostalAdress>
+    <Longitud>-3.70200707605539</Longitud>
+    <Latitud>40.4345362584982</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.ALVAREZ CASTRO-ELOY GONZALO</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>General Alvarez de Castro, 8</PostalAdress>
+    <Longitud>-3.7017154202824</Longitud>
+    <Latitud>40.4348353237965</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>TRAFALGAR-LUCHANA</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Trafalgar, 5</PostalAdress>
+    <Longitud>-3.70048584076165</Longitud>
+    <Latitud>40.4310950180387</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>TRAFALGAR-LUCHANA</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Trafalgar, 2</PostalAdress>
+    <Longitud>-3.70008482700766</Longitud>
+    <Latitud>40.4310794252181</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.ALVAREZ CASTRO-Gª PAREDES</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>General Alvarez de Castro, 32</PostalAdress>
+    <Longitud>-3.70265965165076</Longitud>
+    <Latitud>40.436739508059</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LUCHANA-TRAFALGAR</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Luchana, 21</PostalAdress>
+    <Longitud>-3.70042059771506</Longitud>
+    <Latitud>40.4304873038841</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.ALVAREZ CASTRO-VIRIATO</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>General Alvarez de Castro, 27</PostalAdress>
+    <Longitud>-3.70288944481674</Longitud>
+    <Latitud>40.4366209962136</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>STA.ENGRACIA-JUNTA MUNICIPAL CHAMBERI</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Santa Engracia, 39</PostalAdress>
+    <Longitud>-3.69757005703908</Longitud>
+    <Latitud>40.4318783867847</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>STA.ENGRACIA-PZA.ALONSO MARTINEZ</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Santa Engracia, 1</PostalAdress>
+    <Longitud>-3.69603667140075</Longitud>
+    <Latitud>40.4283740955344</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>STA.ENGRACIA-PZA.ALONSO MARTINEZ</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Santa Engracia, 4</PostalAdress>
+    <Longitud>-3.695695080791</Longitud>
+    <Latitud>40.4284031753535</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>STA.ENGRACIA-PZA.CHAMBERI</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Pza. de Chamberí con C/ Santa Engracia</PostalAdress>
+    <Longitud>-3.69763801757434</Longitud>
+    <Latitud>40.432751852108</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>STA.ENGRACIA-GRAL.MTNEZ.CAMPOS</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Santa Engracia, 56</PostalAdress>
+    <Longitud>-3.69842442141596</Longitud>
+    <Latitud>40.4346930588471</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>STA.ENGRACIA-GARCIA DE PAREDES</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Santa Engracia, 70</PostalAdress>
+    <Longitud>-3.69917298604426</Longitud>
+    <Latitud>40.436391244673</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.MARTINEZ CAMPOS-ZURBANO</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Pº General Martínez Campos, 35</PostalAdress>
+    <Longitud>-3.69260668643583</Longitud>
+    <Latitud>40.435349625417</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.MARTINEZ CAMPOS-ZURBANO</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Pº General Martinez Campos, 40</PostalAdress>
+    <Longitud>-3.69261616937194</Longitud>
+    <Latitud>40.4351243433176</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.MARTINEZ CAMPOS-ALONSO CANO</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Pº General Martínez Campos, 3</PostalAdress>
+    <Longitud>-3.69772233959168</Longitud>
+    <Latitud>40.4352108052776</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FUENCARRAL-SANDOVAL</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Fuencarral, 122</PostalAdress>
+    <Longitud>-3.70271482879649</Longitud>
+    <Latitud>40.430171601447</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FUENCARRAL-SANDOVAL</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Fuencarral, 111</PostalAdress>
+    <Longitud>-3.70268640659656</Longitud>
+    <Latitud>40.42956366506</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FUENCARRAL-ALBURQUERQUE</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Fuencarral, 136</PostalAdress>
+    <Longitud>-3.70310347395494</Longitud>
+    <Latitud>40.4311241982259</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FUENCARRAL-JERONIMO QUINTANA</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Fuencarral, 131</PostalAdress>
+    <Longitud>-3.70357737695531</Longitud>
+    <Latitud>40.4315942930918</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FUENCARRAL-GTA.QUEVEDO</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Fuencarral, 158</PostalAdress>
+    <Longitud>-3.7040069506855</Longitud>
+    <Latitud>40.4331142058174</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LUCHANA-FRANCISCO DE ROJAS</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Luchana frente al Nº 23</PostalAdress>
+    <Longitud>-3.69971694352114</Longitud>
+    <Latitud>40.4308474143414</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MIGUEL ANGEL-GRAL.MARTINEZ CAMPOS</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Miguel Angel, 11</PostalAdress>
+    <Longitud>-3.6914654709386</Longitud>
+    <Latitud>40.4355906802269</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>STA.ENGRACIA-CARACAS</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Santa Engracia, 20 esquina a C/ Caracas</PostalAdress>
+    <Longitud>-3.69671019174008</Longitud>
+    <Latitud>40.4308114902558</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.ALVAREZ CASTRO-JOSE ABASCAL</Name>
+    <PostalCode>28010</PostalCode>
+    <PostalAdress>Gral. Alvarez de Castro, 46 con C/ José Abascal</PostalAdress>
+    <Longitud>-3.70254879324711</Longitud>
+    <Latitud>40.4383753157866</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+</ArrayOfPapelera>

@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPapelera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Papelera>
+    <Name>ANTONIO LOPEZ-MARIBLANCA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Antonio López, 134</PostalAdress>
+    <Longitud>-3.70370641527298</Longitud>
+    <Latitud>40.3917194624348</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ANTONIO LOPEZ-MARIBLANCA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Antonio López, 101</PostalAdress>
+    <Longitud>-3.70352232763223</Longitud>
+    <Latitud>40.3920404030941</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ANTONIO LOPEZ-MATILDE GAYO</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Antonio López, 150</PostalAdress>
+    <Longitud>-3.70191511787656</Longitud>
+    <Latitud>40.390198788818</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ANTONIO LOPEZ-MATILDE GAYO</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Antonio López, 111</PostalAdress>
+    <Longitud>-3.70170303324207</Longitud>
+    <Latitud>40.3904478236939</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ANTONIO LOPEZ-AMPARO USERA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Antonio López, 166</PostalAdress>
+    <Longitud>-3.70045225256117</Longitud>
+    <Latitud>40.3889193463141</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ANTONIO LOPEZ-AMPARO USERA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Antonio López, 133</PostalAdress>
+    <Longitud>-3.69991641048252</Longitud>
+    <Latitud>40.3888730357492</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ANTONIO LOPEZ-AV.CORDOBA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Antonio López, 200</PostalAdress>
+    <Longitud>-3.69822778422361</Longitud>
+    <Latitud>40.3870814107383</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ANTONIO LOPEZ-AV.CORDOBA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Antonio López, 151</PostalAdress>
+    <Longitud>-3.69828101933867</Longitud>
+    <Latitud>40.3874594714659</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ANTONIO LOPEZ-VADO</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Antonio López, 232</PostalAdress>
+    <Longitud>-3.69611628162846</Longitud>
+    <Latitud>40.3845445480004</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ANTONIO LOPEZ-VADO</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Antonio López, 193</PostalAdress>
+    <Longitud>-3.69579879805612</Longitud>
+    <Latitud>40.384605014766</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ANTONIO LOPEZ-SOCUELLAMOS</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Antonio López, 250</PostalAdress>
+    <Longitud>-3.69573599917446</Longitud>
+    <Latitud>40.3815017589352</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ANTONIO LOPEZ-SOCUELLAMOS</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Antonio López, 223</PostalAdress>
+    <Longitud>-3.69549814153541</Longitud>
+    <Latitud>40.3816067920422</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARCELO USERA-GTA. DE CADIZ</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Marcelo Usera, 4</PostalAdress>
+    <Longitud>-3.69982962365122</Longitud>
+    <Latitud>40.3881708515616</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARCELO USERA-ALMENDRALES</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Marcelo Usera, 11</PostalAdress>
+    <Longitud>-3.70072832151567</Longitud>
+    <Latitud>40.387345591026</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN ANTONIO PADUA-A.SALVADOR</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>San Antonio de Padua, 34</PostalAdress>
+    <Longitud>-3.70135033853848</Longitud>
+    <Latitud>40.3859724448322</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN ANTONIO PADUA-HIJAS DE JESUS</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>San Antonio de Padua, 50</PostalAdress>
+    <Longitud>-3.70056551427001</Longitud>
+    <Latitud>40.3852744856651</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EVANGELIOS-SANTUARIO</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Evangelios frente al Nº 1</PostalAdress>
+    <Longitud>-3.70000422264624</Longitud>
+    <Latitud>40.3834039883614</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EVANGELIOS-SANTUARIO</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Evangelios, 1</PostalAdress>
+    <Longitud>-3.70012063324876</Longitud>
+    <Latitud>40.3832681483619</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DOLORES BARRANCO-AMOR HERMOSO</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Dolores Barranco, 16</PostalAdress>
+    <Longitud>-3.70374132871935</Longitud>
+    <Latitud>40.3836335965749</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DOLORES BARRANCO-OLVIDO</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Dolores Barranco frente al Nº 2</PostalAdress>
+    <Longitud>-3.70273744163173</Longitud>
+    <Latitud>40.3833964463979</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DOLORES BARRANCO-JASPE</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Dolores Barranco, 50</PostalAdress>
+    <Longitud>-3.70681375281906</Longitud>
+    <Latitud>40.3833896602987</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.DEL HIDROGENO</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Pza. del Hidrógeno</PostalAdress>
+    <Longitud>-3.70808296055823</Longitud>
+    <Latitud>40.383084607852</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.RAFAELA YBARRA-DOLORES BARRANCO</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Av. Rafaela Ybarra, 10-12</PostalAdress>
+    <Longitud>-3.71137472732791</Longitud>
+    <Latitud>40.3824157819517</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.RAFAELA YBARRA-DOLORES BARRANCO</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Av. Rafaela Ybarra frente al Nº 20</PostalAdress>
+    <Longitud>-3.71105211455832</Longitud>
+    <Latitud>40.3819853266376</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.RAFAELA YBARRA-MARINA VEGA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Av. Rafaela Ybarra, 40</PostalAdress>
+    <Longitud>-3.7114819842049</Longitud>
+    <Latitud>40.3802889773598</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.RAFAELA YBARRA-MARINA VEGA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Av. Rafaela Ybarra frente al Nº 44</PostalAdress>
+    <Longitud>-3.7113604936463</Longitud>
+    <Latitud>40.3799383689296</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.RAFAELA YBARRA-PQUE.DE LA PALOMA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Av. Rafaela Ybarra con Parque de la Paloma</PostalAdress>
+    <Longitud>-3.71205827058219</Longitud>
+    <Latitud>40.3783394712868</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.RAFAELA YBARRA-PQUE.DE LA PALOMA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Av. Rafaela Ybarra, 77</PostalAdress>
+    <Longitud>-3.7119913883578</Longitud>
+    <Latitud>40.3781056459296</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.RAFAELA YBARRA-R.BELTRAN ROZPIDE</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Av. Rafaela Ybarra, 54 con C/ Ricardo Beltrán Rozpide</PostalAdress>
+    <Longitud>-3.71243640449709</Longitud>
+    <Latitud>40.3758236074842</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.RAFAELA YBARRA-AV.POBLADOS</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Av. Rafaela Ybarra con Av. de los Poblados</PostalAdress>
+    <Longitud>-3.71242829311462</Longitud>
+    <Latitud>40.3739317459817</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.POBLADOS-AV.RAFAELA YBARRA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Av. de los Poblados con Av. Rafaela Ybarra</PostalAdress>
+    <Longitud>-3.71329605376851</Longitud>
+    <Latitud>40.373557031989</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARCELO USERA-OLVIDO</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Marcelo Usera S/N frente al Nº 42</PostalAdress>
+    <Longitud>-3.70264888278303</Longitud>
+    <Latitud>40.3862168287523</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARCELO USERA-OLVIDO</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Marcelo Usera, 46</PostalAdress>
+    <Longitud>-3.70306244040733</Longitud>
+    <Latitud>40.3863314372283</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARCELO USERA-FERROVIARIOS</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Marcelo Usera, 74</PostalAdress>
+    <Longitud>-3.70549382548861</Longitud>
+    <Latitud>40.3860373708326</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARCELO USERA-FERROVIARIOS</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Marcelo Usera, 71</PostalAdress>
+    <Longitud>-3.70544971141203</Longitud>
+    <Latitud>40.3859025032304</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARCELO USERA-GABRIEL USERA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Marcelo Usera, 114</PostalAdress>
+    <Longitud>-3.7090406938812</Longitud>
+    <Latitud>40.3856643570455</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARCELO USERA-GABRIEL USERA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Marcelo Usera, 109</PostalAdress>
+    <Longitud>-3.70850950828334</Longitud>
+    <Latitud>40.3855685077745</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARCELO USERA-AV.RAFAELA YBARRA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Marcelo Usera, 148</PostalAdress>
+    <Longitud>-3.71252505150286</Longitud>
+    <Latitud>40.3853727008138</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARCELO USERA-AV.RAFAELA YBARRA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Marcelo Usera, 143</PostalAdress>
+    <Longitud>-3.71228734678309</Longitud>
+    <Latitud>40.3851759630657</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARCELO USERA-PZA.FDEZ.LADREDA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Marcelo Usera con Pza. Fernández Ladreda.</PostalAdress>
+    <Longitud>-3.71667244786296</Longitud>
+    <Latitud>40.3853921565476</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARCELO USERA-PZA.FDEZ.LADREDA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Marcelo Usera, 167 con C/ San Magín</PostalAdress>
+    <Longitud>-3.71566906195617</Longitud>
+    <Latitud>40.3852091703708</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº STA.Mª CABEZA-MARIBLANCA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Pº Santa María de la Cabeza, 103</PostalAdress>
+    <Longitud>-3.70761858213165</Longitud>
+    <Latitud>40.3916370668375</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº STA.Mª CABEZA-ZUJAR</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Pº Santa María de la Cabeza, 173</PostalAdress>
+    <Longitud>-3.7149145267603</Longitud>
+    <Latitud>40.3873940286302</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº STA.Mª CABEZA-PZA.FDEZ.LADREDA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Pº Santa María de la Cabeza con Pza.Fernández Ladreda</PostalAdress>
+    <Longitud>-3.7169229959002</Longitud>
+    <Latitud>40.3856879056562</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CRISTO DE LA VICTORIA-SANTUARIO</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Cristo de la Victoria, 3</PostalAdress>
+    <Longitud>-3.6999325838667</Longitud>
+    <Latitud>40.3823143209845</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº STA.Mª CABEZA-PZA.FDEZ.LADREDA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Pº Santa María de la Cabeza con C/ Marcelo Usera</PostalAdress>
+    <Longitud>-3.71626423914986</Longitud>
+    <Latitud>40.3856108998491</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CRISTO DE LA VICTORIA-SANTUARIO</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Cristo de la Victoria, 2</PostalAdress>
+    <Longitud>-3.7002393940762</Longitud>
+    <Latitud>40.3823980529076</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CRISTO DE LA VICTORIA-FERROVIARIOS</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Cristo de la Victoria, 94</PostalAdress>
+    <Longitud>-3.70355278049478</Longitud>
+    <Latitud>40.3805806593318</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CRISTO DE LA VICTORIA-FERROVIARIOS</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Cristo de la Victoria, 75</PostalAdress>
+    <Longitud>-3.70327557723769</Longitud>
+    <Latitud>40.3805823428165</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CRISTO DE LA VICTORIA-JASPE</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Cristo de la Victoria, 124</PostalAdress>
+    <Longitud>-3.70620686388344</Longitud>
+    <Latitud>40.3794203519512</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CRISTO DE LA VICTORIA-JASPE</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Cristo de la Victoria, 187</PostalAdress>
+    <Longitud>-3.70614655541628</Longitud>
+    <Latitud>40.3792855831955</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.POBLADOS-AV.PRINCESA JUANA AUSTRIA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Av. de los Poblados con Av. Princesa Juana de Austria</PostalAdress>
+    <Longitud>-3.71889111492494</Longitud>
+    <Latitud>40.3740134360449</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.POBLADOS-GUETARIA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Av. de los Poblados con C/ Guetaria</PostalAdress>
+    <Longitud>-3.71585670210281</Longitud>
+    <Latitud>40.3738385345524</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.POBLADOS-GUETARIA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Av. de los Poblados frente a C/ Guetaria</PostalAdress>
+    <Longitud>-3.71587797178505</Longitud>
+    <Latitud>40.3740050714838</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.POBLADOS-AV.RAFAELA YBARRA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Av. de los Poblados con Av. Rafaela Ybarra</PostalAdress>
+    <Longitud>-3.71308554910574</Longitud>
+    <Latitud>40.3737024738231</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº MOLINO-PZA.LEGAZPI</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Pº del Molino frente al Nº 3</PostalAdress>
+    <Longitud>-3.69448498683134</Longitud>
+    <Latitud>40.3908021430938</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARCELO USERA-GTA.DE CADIZ</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Marcelo Usera, 5</PostalAdress>
+    <Longitud>-3.70030910555786</Longitud>
+    <Latitud>40.3876454264068</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CRISTO DE LA VICTORIA-OLVIDO</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Cristo de la Victoria, 64</PostalAdress>
+    <Longitud>-3.7018282117086</Longitud>
+    <Latitud>40.3814920315939</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CRISTO DE LA VICTORIA-OLVIDO</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Cristo de la Victoria, 21</PostalAdress>
+    <Longitud>-3.70167657577982</Longitud>
+    <Latitud>40.3814253821054</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PARQUE DE LA PALOMA-HENO</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Parque de la Paloma, 26</PostalAdress>
+    <Longitud>-3.71415832856042</Longitud>
+    <Latitud>40.3784256414499</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PARQUE DE LA PALOMA-HENO</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Parque de la Paloma frente al Nº 18</PostalAdress>
+    <Longitud>-3.71382209462999</Longitud>
+    <Latitud>40.3782745595495</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AVENA-HENO</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Avena, 4</PostalAdress>
+    <Longitud>-3.71589019679139</Longitud>
+    <Latitud>40.3777753039481</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AVENA-HENO</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Avena frente al Nº 4.</PostalAdress>
+    <Longitud>-3.71571599550946</Longitud>
+    <Latitud>40.37780340784</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AVENA-R.BELTRAN ROZPIDE</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Avena, 20</PostalAdress>
+    <Longitud>-3.71590953836663</Longitud>
+    <Latitud>40.3759823739554</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AVENA-R.BELTRAN ROZPIDE</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Avena, frente al Nº 20.</PostalAdress>
+    <Longitud>-3.71570894575202</Longitud>
+    <Latitud>40.3760556864534</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>R.BELTRAN ROZPIDE-AV.RAFAELA YBARRA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Ricardo Beltrán Rozpide con Av. Rafaela Ybarra</PostalAdress>
+    <Longitud>-3.7127568527163</Longitud>
+    <Latitud>40.3755603720408</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>R.BELTRAN ROZPIDE-AV.RAFAELA YBARRA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Ricardo Beltrán Rozpide con Av. Rafaela Ybarra</PostalAdress>
+    <Longitud>-3.71284688156766</Longitud>
+    <Latitud>40.3756499089939</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RAFAELA YBARRA-MARCELO USERA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Rafaela Ybarra, 3</PostalAdress>
+    <Longitud>-3.71153203811376</Longitud>
+    <Latitud>40.3850544785742</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.RAFAELA YBARRA-AV.POBLADOS</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Av. Rafaela Ybarra con Av. de los Poblados</PostalAdress>
+    <Longitud>-3.71222257539765</Longitud>
+    <Latitud>40.3739375156966</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.RAFAELA YBARRA-R.BELTRAN ROZPIDE</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Av. Rafaela Ybarra pasada la C/ Ricardo Beltrán Rozpide</PostalAdress>
+    <Longitud>-3.71200321848136</Longitud>
+    <Latitud>40.3760785260189</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARCELO USERA-PZA.FDEZ.LADREDA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Marcelo Usera, 175 con Pza. Fernández Ladreda</PostalAdress>
+    <Longitud>-3.7163520736609</Longitud>
+    <Latitud>40.385177920551</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PARQUE DE LA PALOMA-CERRO ANGELES</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Parque de la Paloma S/N con Cerro de los Angeles</PostalAdress>
+    <Longitud>-3.71259632212643</Longitud>
+    <Latitud>40.3781830075395</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SANTUARIO-SAN ANTONIO PADUA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Santuario con C/ Hijas de Jesús</PostalAdress>
+    <Longitud>-3.69999862773682</Longitud>
+    <Latitud>40.3851427768025</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.PRINCESA JUANA AUSTRIA-AV.POBLADOS</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Av. Princesa Juana de Austria con Av de los Poblados.</PostalAdress>
+    <Longitud>-3.71933572757458</Longitud>
+    <Latitud>40.3746998717469</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CORDOBA Nº 27</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Av. de Córdoba, 27</PostalAdress>
+    <Longitud>-3.6973110795695</Longitud>
+    <Latitud>40.382154455732</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CORDOBA Nº 19</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Av. de Córdoba, 19</PostalAdress>
+    <Longitud>-3.6977283913683</Longitud>
+    <Latitud>40.3841024114271</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CORDOBA-ANTONIO LOPEZ</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Av. de Córdoba con C/ Antonio López</PostalAdress>
+    <Longitud>-3.6989523541178</Longitud>
+    <Latitud>40.3876851538038</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CORDOBA-GTA.CADIZ</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Av. de Córdoba con Gta. de Cadiz.</PostalAdress>
+    <Longitud>-3.69938659789379</Longitud>
+    <Latitud>40.387556405234</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CORDOBA-PIEDRABUENA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Av. de Córdoba frente al Nº 21.</PostalAdress>
+    <Longitud>-3.69825951140296</Longitud>
+    <Latitud>40.3837658743102</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CORDOBA-TOMELLOSO</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Av. de Córdoba con C/ Tomelloso Nº 1.</PostalAdress>
+    <Longitud>-3.69765099208962</Longitud>
+    <Latitud>40.381913667811</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RAFAELA YBARRA-MARCELO USERA</Name>
+    <PostalCode>28026</PostalCode>
+    <PostalAdress>Av. Rafaela Ybarra frente al Nº 3.</PostalAdress>
+    <Longitud>-3.71170154757972</Longitud>
+    <Latitud>40.3849633462015</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+</ArrayOfPapelera>

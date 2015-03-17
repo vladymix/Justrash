@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPapelera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Papelera>
+    <Name>Pº RECOLETOS-BIBLIOTECA NACIONAL</Name>
+    <PostalCode>28001</PostalCode>
+    <PostalAdress>Pº de Recoletos, 22 (Biblioteca Nacional)</PostalAdress>
+    <Longitud>-3.69052060156927</Longitud>
+    <Latitud>40.4238845871756</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº CASTELLANA-PZA.DE COLON</Name>
+    <PostalCode>28001</PostalCode>
+    <PostalAdress>Pº de la Castellana, 2 (Pza. de Colón)</PostalAdress>
+    <Longitud>-3.68987341517404</Longitud>
+    <Latitud>40.4261316934024</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº RECOLETOS-PZA.DE CIBELES</Name>
+    <PostalCode>28001</PostalCode>
+    <PostalAdress>Pº de Recoletos, 2 (Pza. de Cibeles)</PostalAdress>
+    <Longitud>-3.69214452424823</Longitud>
+    <Latitud>40.4203613685499</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PUERTA DE ALCALA</Name>
+    <PostalCode>28001</PostalCode>
+    <PostalAdress>Pza. de la Independencia, 3</PostalAdress>
+    <Longitud>-3.68919127035982</Longitud>
+    <Latitud>40.4206852894155</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PUERTA DE ALCALA</Name>
+    <PostalCode>28001</PostalCode>
+    <PostalAdress>Pza. de la Independencia (Retiro)</PostalAdress>
+    <Longitud>-3.68826031065316</Longitud>
+    <Latitud>40.4196998317684</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PUERTA DE ALCALA</Name>
+    <PostalCode>28001</PostalCode>
+    <PostalAdress>Pza.de la Independencia con C/Serrano</PostalAdress>
+    <Longitud>-3.68850871995585</Longitud>
+    <Latitud>40.4205812410254</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VELAZQUEZ-VILLANUEVA</Name>
+    <PostalCode>28001</PostalCode>
+    <PostalAdress>Velázquez, 8</PostalAdress>
+    <Longitud>-3.6842085978824</Longitud>
+    <Latitud>40.4222103360285</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VELAZQUEZ-GOYA</Name>
+    <PostalCode>28001</PostalCode>
+    <PostalAdress>Velázquez, 30</PostalAdress>
+    <Longitud>-3.68402393107085</Longitud>
+    <Latitud>40.4249321557231</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VELAZQUEZ-AYALA</Name>
+    <PostalCode>28001</PostalCode>
+    <PostalAdress>Velazquez, 54</PostalAdress>
+    <Longitud>-3.68379209699484</Longitud>
+    <Latitud>40.4276542524136</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SERRANO-MQUES.VILLAMAGNA</Name>
+    <PostalCode>28001</PostalCode>
+    <PostalAdress>Serrano frente al Nº 66.</PostalAdress>
+    <Longitud>-3.6872550175206</Longitud>
+    <Latitud>40.4296697926079</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SERRANO-GOYA</Name>
+    <PostalCode>28001</PostalCode>
+    <PostalAdress>Serrano, 19</PostalAdress>
+    <Longitud>-3.68791482385042</Longitud>
+    <Latitud>40.4261523539965</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SERRANO-MUSEO ARQUEOLOGICO</Name>
+    <PostalCode>28001</PostalCode>
+    <PostalAdress>Serrano frente al Nº 18</PostalAdress>
+    <Longitud>-3.68843778838563</Longitud>
+    <Latitud>40.4230951840549</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GOYA-SERRANO</Name>
+    <PostalCode>28001</PostalCode>
+    <PostalAdress>Goya frente al Nº 9</PostalAdress>
+    <Longitud>-3.68841291004979</Longitud>
+    <Latitud>40.4253926354518</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GOYA-PZA.DE COLON</Name>
+    <PostalCode>28001</PostalCode>
+    <PostalAdress>Goya, 7</PostalAdress>
+    <Longitud>-3.68868862609024</Longitud>
+    <Latitud>40.4257333392431</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GOYA-VELAZQUEZ</Name>
+    <PostalCode>28001</PostalCode>
+    <PostalAdress>Goya, 16 con C/ Velázquez</PostalAdress>
+    <Longitud>-3.68446227473864</Longitud>
+    <Latitud>40.4251457825016</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GOYA-VELAZQUEZ</Name>
+    <PostalCode>28001</PostalCode>
+    <PostalAdress>Goya, 27</PostalAdress>
+    <Longitud>-3.6849960204566</Longitud>
+    <Latitud>40.4254669517124</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GOYA-PRINCIPE VERGARA</Name>
+    <PostalCode>28001</PostalCode>
+    <PostalAdress>Goya, 34</PostalAdress>
+    <Longitud>-3.68131323424983</Longitud>
+    <Latitud>40.4250021895555</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GOYA-PRINCIPE VERGARA</Name>
+    <PostalCode>28001</PostalCode>
+    <PostalAdress>Goya, 63</PostalAdress>
+    <Longitud>-3.68045524604706</Longitud>
+    <Latitud>40.4252594871305</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GOYA-GRAL.DIAZ PORLIER</Name>
+    <PostalCode>28001</PostalCode>
+    <PostalAdress>Goya, 66</PostalAdress>
+    <Longitud>-3.67694941048965</Longitud>
+    <Latitud>40.4248025549159</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCIPE DE VERGARA-JORGE JUAN</Name>
+    <PostalCode>28001</PostalCode>
+    <PostalAdress>Príncipe de Vergara, 2</PostalAdress>
+    <Longitud>-3.68016446491758</Longitud>
+    <Latitud>40.4233062345979</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JORGE JUAN-PRINCIPE DE VERGARA</Name>
+    <PostalCode>28001</PostalCode>
+    <PostalAdress>Jorge Juán, 56</PostalAdress>
+    <Longitud>-3.6799908183209</Longitud>
+    <Latitud>40.4236225706434</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCIPE DE VERGARA-GOYA</Name>
+    <PostalCode>28001</PostalCode>
+    <PostalAdress>Príncipe de Vergara, 24</PostalAdress>
+    <Longitud>-3.6800093823735</Longitud>
+    <Latitud>40.425469313896</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCIPE DE VERGARA-GOYA</Name>
+    <PostalCode>28001</PostalCode>
+    <PostalAdress>Príncipe de Vergara, 23</PostalAdress>
+    <Longitud>-3.68031641667791</Longitud>
+    <Latitud>40.4255215647779</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCIPE DE VERGARA-AYALA</Name>
+    <PostalCode>28001</PostalCode>
+    <PostalAdress>Príncipe de Vergara, 42</PostalAdress>
+    <Longitud>-3.67973939357469</Longitud>
+    <Latitud>40.4279303647433</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCIPE DE VERGARA-AYALA</Name>
+    <PostalCode>28001</PostalCode>
+    <PostalAdress>Príncipe de Vergara, 41</PostalAdress>
+    <Longitud>-3.6801637807917</Longitud>
+    <Latitud>40.4279278729094</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GOYA-CONDE DE PEÑALVER</Name>
+    <PostalCode>28001</PostalCode>
+    <PostalAdress>Goya, 89</PostalAdress>
+    <Longitud>-3.67638619885408</Longitud>
+    <Latitud>40.4250671078478</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+</ArrayOfPapelera>

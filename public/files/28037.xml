@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPapelera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Papelera>
+    <Name>SAN ROMUALDO-JULIAN CAMARILLO</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>San Romualdo con C/ Julian Camarillo</PostalAdress>
+    <Longitud>-3.62093949143469</Longitud>
+    <Latitud>40.437607422539</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HNOS.GARCIA NOBLEJAS-ALCALA</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Hermanos García Noblejas, 5</PostalAdress>
+    <Longitud>-3.63741168209885</Longitud>
+    <Latitud>40.4374773981884</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HNOS.GARCIA NOBLEJAS-VITAL AZA</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Hermanos García Noblejas, 24-28 (Vital Aza )</PostalAdress>
+    <Longitud>-3.63609102292537</Longitud>
+    <Latitud>40.4349621307091</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HNOS.GARCIA NOBLEJAS-VITAL AZA</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Hermanos García Noblejas, 19 ( Vital Aza )</PostalAdress>
+    <Longitud>-3.63575064111617</Longitud>
+    <Latitud>40.4351261622258</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HNOS.GARCIA NOBLEJAS-ASCAO</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Hermanos García Noblejas, 42 ( Ascao )</PostalAdress>
+    <Longitud>-3.63446554362392</Longitud>
+    <Latitud>40.4326196887521</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HNOS.GARCIA NOBLEJAS-JULIAN CAMARILLO</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Hermanos García Noblejas, 35 ( Julián Camarillo )</PostalAdress>
+    <Longitud>-3.6337930378311</Longitud>
+    <Latitud>40.4325693165967</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HNOS.GARCIA NOBLEJAS-LUIS CAMPOS</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>H. García Noblejas, 70 ( con C/ Luis del Campo ).</PostalAdress>
+    <Longitud>-3.63212542621317</Longitud>
+    <Latitud>40.4294883296472</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HNOS. GARCIA NOBLEJAS-VALDECANILLAS</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Hermanos García Noblejas, 51-53 ( Valdecanillas )</PostalAdress>
+    <Longitud>-3.63160705020907</Longitud>
+    <Latitud>40.429527193793</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HNOS.GARCIA NOBLEJAS-CASTILLO DE AREVALO</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Hermanos García Noblejas frente C/ Castillo de Arévalo</PostalAdress>
+    <Longitud>-3.63088333128641</Longitud>
+    <Latitud>40.4277743746828</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HNOS.GARCIA NOBLEJAS-CASTILLO DE AREVALO</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Hermanos Garcia Noblejas, 69 (Castillo de Arévalo)</PostalAdress>
+    <Longitud>-3.63073327093651</Longitud>
+    <Latitud>40.4281175356367</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HNOS.GARCIA NOBLEJAS-CASTILLO UCLES</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Hermanos García Noblejas, 77 ( Castillo de Uclés)</PostalAdress>
+    <Longitud>-3.62952727261265</Longitud>
+    <Latitud>40.4264754413697</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HNOS.GARCIA NOBLEJAS-FCO.L.CABALLERO</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Hermanos García Noblejas, 168 (Ambulatorio)</PostalAdress>
+    <Longitud>-3.6280403390237</Longitud>
+    <Latitud>40.4237717895682</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HNOS.GARCIA NOBLEJAS-JOSE BLAS</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Hermanos García Noblejas frente al Nº 158</PostalAdress>
+    <Longitud>-3.62869465091759</Longitud>
+    <Latitud>40.4253628418074</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HNOS.GARCIA NOBLEJAS-AV.ARCENTALES</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Hermanos Gª Noblejas, 89 (con Av Arcentales).</PostalAdress>
+    <Longitud>-3.62754725128309</Longitud>
+    <Latitud>40.4239906793618</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HNOS.GARCIA NOBLEJAS Nº 184</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Hermanos García Noblejas, 184.</PostalAdress>
+    <Longitud>-3.62575903663998</Longitud>
+    <Latitud>40.4206805173531</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EMILIO MUÑOZ-HNOS.Gª NOBLEJAS</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Emilio Muñoz, 2</PostalAdress>
+    <Longitud>-3.63149689820956</Longitud>
+    <Latitud>40.4303566262058</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EMILIO MUÑOZ-HNOS.Gª NOBLEJAS</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Emilio Muñoz, 1</PostalAdress>
+    <Longitud>-3.6317106999887</Longitud>
+    <Latitud>40.4305266320646</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EMILIO MUÑOZ-STA.LEONOR</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Emilio Muñoz frente al Nº 21</PostalAdress>
+    <Longitud>-3.62846728542712</Longitud>
+    <Latitud>40.4316613975694</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EMILIO MUÑOZ-STA.LEONOR</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Emilio Muñoz, 21</PostalAdress>
+    <Longitud>-3.62843417734972</Longitud>
+    <Latitud>40.4319048212689</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EMILIO MUÑOZ-ALFONSO GOMEZ</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Emilio Muñoz frente al Nº 43</PostalAdress>
+    <Longitud>-3.62502750152115</Longitud>
+    <Latitud>40.4332475837852</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EMILIO MUÑOZ-ALFONSO GOMEZ</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Emilio Muñoz, 43</PostalAdress>
+    <Longitud>-3.62533528021587</Longitud>
+    <Latitud>40.4333810580484</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EMILIO MUÑOZ-MIGUEL YUSTE</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Emilio Muñoz frente al Nº 57</PostalAdress>
+    <Longitud>-3.62307930862</Longitud>
+    <Latitud>40.434222047573</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EMILIO MUÑOZ-MIGUEL YUSTE</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Emilio Muñoz, 57</PostalAdress>
+    <Longitud>-3.62284691464877</Longitud>
+    <Latitud>40.4345926680148</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CRONOS-SAN ROMUALDO</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Cronos, 12</PostalAdress>
+    <Longitud>-3.62021749824545</Longitud>
+    <Latitud>40.437147325795</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CRONOS-SAN ROMUALDO</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Cronos frente al Nº 10</PostalAdress>
+    <Longitud>-3.62052255775868</Longitud>
+    <Latitud>40.4369835292431</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.CRONOS</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Pza. de Cronos, 3</PostalAdress>
+    <Longitud>-3.61840584685971</Longitud>
+    <Latitud>40.4400984614614</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.CRONOS</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Pza. de Cronos,  con C/ Cronos</PostalAdress>
+    <Longitud>-3.61901670076446</Longitud>
+    <Latitud>40.4398474500324</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ASCAO-HNOS.Gª NOBLEJAS</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Ascao frente al Nº 86</PostalAdress>
+    <Longitud>-3.63496357637513</Longitud>
+    <Latitud>40.4329232666473</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARCOS DE JALON-ALBERICIA</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Arcos de Jalón S/N frente a la C/ Porcelana.</PostalAdress>
+    <Longitud>-3.61547210220695</Longitud>
+    <Latitud>40.4248843035014</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN ROMUALDO-ALBALA</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>San Romualdo, 37.</PostalAdress>
+    <Longitud>-3.6204200540746</Longitud>
+    <Latitud>40.4360921839971</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN ROMUALDO-ALBALA</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>San Romualdo, 32.</PostalAdress>
+    <Longitud>-3.62065981185918</Longitud>
+    <Latitud>40.4359197278047</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INOCENTA DE MESA-AV.CANILLEJAS</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Inocenta de Mesa, 46.</PostalAdress>
+    <Longitud>-3.61566675093411</Longitud>
+    <Latitud>40.4410905334171</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INOCENTA DE MESA-AV.CANILLEJAS</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Inocenta de Mesa, 17.</PostalAdress>
+    <Longitud>-3.61576206319845</Longitud>
+    <Latitud>40.4411981350742</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARCOS DE JALON-POBLADURA DEL VALLE</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Arcos de Jalón, 2.</PostalAdress>
+    <Longitud>-3.62542005029275</Longitud>
+    <Latitud>40.4221463197708</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARCOS DE JALON-POBLADURA DEL VALLE</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Arcos de Jalón, 1</PostalAdress>
+    <Longitud>-3.62507904058752</Longitud>
+    <Latitud>40.4222382510807</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARCOS DE JALON-SAN ROMAN DEL VALLE</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Arcos de Jalón, 20 con C/ San Roman del Valle</PostalAdress>
+    <Longitud>-3.62190504043676</Longitud>
+    <Latitud>40.4206337057401</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARCOS DE JALON-SAN ROMAN DEL VALLE</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Arcos de Jalón, 13 (frente al Nº 20)</PostalAdress>
+    <Longitud>-3.62196613027967</Longitud>
+    <Latitud>40.4208676132402</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARCOS DE JALON-AMPOSTA</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Arcos de Jalón, 36</PostalAdress>
+    <Longitud>-3.61831735780368</Longitud>
+    <Latitud>40.4227610317025</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARCOS DE JALON-AMPOSTA</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Arcos de Jalón frente Nº 36</PostalAdress>
+    <Longitud>-3.61860092327522</Longitud>
+    <Latitud>40.4228315901285</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARCOS DE JALON-ALBERICIA</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Arcos de Jalón, 114 (con C/ Albericia).</PostalAdress>
+    <Longitud>-3.61582172902446</Longitud>
+    <Latitud>40.4244410016272</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARCOS DE JALON-ALBERICIA</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Arcos de Jalón S/N con C/ Plomada</PostalAdress>
+    <Longitud>-3.61601197858742</Longitud>
+    <Latitud>40.4246201710933</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALBERICIA-AV.GUADALAJARA</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Albericia, 38</PostalAdress>
+    <Longitud>-3.61291716564073</Longitud>
+    <Latitud>40.4226365777509</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALBERICIA-AV.GUADALAJARA</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Albericia frente al Nº 38</PostalAdress>
+    <Longitud>-3.61265930299167</Longitud>
+    <Latitud>40.4228001049152</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARCOS DE JALON-TALLISTAS</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Arcos de Jalón S/N con C/ Tallistas</PostalAdress>
+    <Longitud>-3.61495874569156</Longitud>
+    <Latitud>40.4254726184941</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>POBLADURA DEL VALLE-ARCOS DE JALON</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Pobladura del Valle, frente al Nº 5</PostalAdress>
+    <Longitud>-3.62528895871606</Longitud>
+    <Latitud>40.4227100934214</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>POBLADURA DEL VALLE-ARCOS DE JALON</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Pobladura del Valle, 5</PostalAdress>
+    <Longitud>-3.62539460949606</Longitud>
+    <Latitud>40.4227815954666</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>POBLADURA DEL VALLE-SAN ROMAN DEL VALLE</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Pobladura del Valle, 24</PostalAdress>
+    <Longitud>-3.62287581225218</Longitud>
+    <Latitud>40.4236465232159</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>POBLADURA DEL VALLE-SAN ROMAN DEL VALLE</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Pobladura del Valle S/N frente al Nº 24</PostalAdress>
+    <Longitud>-3.62332400214859</Longitud>
+    <Latitud>40.4236711393763</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AMPOSTA-POBLADURA DEL VALLE</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Amposta con C/ Pobladura del Valle</PostalAdress>
+    <Longitud>-3.62053351253002</Longitud>
+    <Latitud>40.4253257698564</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AMPOSTA-POBLADURA DEL VALLE</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Amposta S/N con C/ Pobladura del Valle</PostalAdress>
+    <Longitud>-3.62094301803962</Longitud>
+    <Latitud>40.4251884395372</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AMPOSTA-TEJEDORES</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Amposta, 1</PostalAdress>
+    <Longitud>-3.62234761297541</Longitud>
+    <Latitud>40.4277394711811</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALBERIQUE-ALBAIDA</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Alberique, 22</PostalAdress>
+    <Longitud>-3.62070786629292</Longitud>
+    <Latitud>40.4289104369542</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.HELLIN-ALBAIDA</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Av. de Hellín, 4</PostalAdress>
+    <Longitud>-3.61641797014961</Longitud>
+    <Latitud>40.4329513798005</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.HELLIN-ALBAIDA</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Av. de Hellín frente al Nº 6</PostalAdress>
+    <Longitud>-3.61615516179853</Longitud>
+    <Latitud>40.4329798052522</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.HELLIN-ALBERIQUE</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Av. de Hellín frente al Nº 19</PostalAdress>
+    <Longitud>-3.6158982007882</Longitud>
+    <Latitud>40.4302514319181</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.HELLIN-ALBERIQUE</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Av. de Hellín, 19</PostalAdress>
+    <Longitud>-3.61557850176424</Longitud>
+    <Latitud>40.4300999776379</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>POBLADURA VALLE-AV.HELLIN</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Pobladura del Valle con Av. de Hellín</PostalAdress>
+    <Longitud>-3.61573615044643</Longitud>
+    <Latitud>40.4279910227453</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>POBLADURA DEL VALLE-AV.HELLIN</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Pobladura del Valle frente a Av. de Hellín</PostalAdress>
+    <Longitud>-3.61548752239359</Longitud>
+    <Latitud>40.4278752265057</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>POBLADURA DEL VALLE-ALCONERA</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Pobladura del Valle con C/ Alconera</PostalAdress>
+    <Longitud>-3.61832019355772</Longitud>
+    <Latitud>40.4269412169778</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>POBLADURA DEL VALLE-PARAMENTO</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Pobladura del Valle  frente a C/ Paramento</PostalAdress>
+    <Longitud>-3.61307223119674</Longitud>
+    <Latitud>40.4280411891267</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALBAIDA-AV.CANILLEJAS A VICALVARO</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Albaida, 94</PostalAdress>
+    <Longitud>-3.61260733258942</Longitud>
+    <Latitud>40.4339040323662</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JULIAN CAMARILLO-HNOS.Gª NOBLEJAS</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Julián Camarillo, 2</PostalAdress>
+    <Longitud>-3.63355254757054</Longitud>
+    <Latitud>40.4333273913793</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JULIAN CAMARILLO-HNOS.Gª NOBLEJAS</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Julián Camarillo, 1</PostalAdress>
+    <Longitud>-3.63396923572635</Longitud>
+    <Latitud>40.4333251112735</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JULIAN CAMARILLO-ALBARRACIN</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Julián Camarillo, 6</PostalAdress>
+    <Longitud>-3.63164317540323</Longitud>
+    <Latitud>40.4340270113906</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JULIAN CAMARILLO-ALBARRACIN</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Julian Camarillo</PostalAdress>
+    <Longitud>-3.63098493628254</Longitud>
+    <Latitud>40.4342828523034</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JULIAN CAMARILLO-SANTA LEONOR</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Julián Camarillo, 10 con C/ Santa Leonor</PostalAdress>
+    <Longitud>-3.62896516173279</Longitud>
+    <Latitud>40.4344875325803</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JULIAN CAMARILLO-SANTA LEONOR</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Julián Camarillo con C/ Santa Leonor</PostalAdress>
+    <Longitud>-3.62906082075994</Longitud>
+    <Latitud>40.4346311576191</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JULIAN CAMARILLO-MIGUEL YUSTE</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Julián Camarillo frente al Nº 45</PostalAdress>
+    <Longitud>-3.62363241913708</Longitud>
+    <Latitud>40.4361875449477</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JULIAN CAMARILLO-MIGUEL YUSTE</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Julián Camarillo, 45</PostalAdress>
+    <Longitud>-3.62365822617023</Longitud>
+    <Latitud>40.4363090279424</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MIGUEL YUSTE-CRONOS</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Miguel Yuste con C/ Cronos</PostalAdress>
+    <Longitud>-3.62225576541349</Longitud>
+    <Latitud>40.4344156647035</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ARCENTALES-SAN ROMUALDO</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Av. Arcentales S/N</PostalAdress>
+    <Longitud>-3.61837246011944</Longitud>
+    <Latitud>40.4337472707858</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ARCENTALES-SAN ROMUALDO</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Av. Arcentales S/N</PostalAdress>
+    <Longitud>-3.61870324274541</Longitud>
+    <Latitud>40.434020280007</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ARCENTALES-AV.CANILLEJAS</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Av. Arcentales S/N</PostalAdress>
+    <Longitud>-3.6138113148159</Longitud>
+    <Latitud>40.4341363978974</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ARCENTALES-AV.CANILLEJAS</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Av. Arcentales S/N</PostalAdress>
+    <Longitud>-3.61350940043062</Longitud>
+    <Latitud>40.4344848454605</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>POBLADURA DEL VALLE-ALCONERA</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Pobladura del Valle frente a C/ Alconera</PostalAdress>
+    <Longitud>-3.6182711460047</Longitud>
+    <Latitud>40.4267342706506</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MIGUEL YUSTE-CRONOS</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Miguel Yuste con C/ Emilio Muñoz</PostalAdress>
+    <Longitud>-3.62258637739425</Longitud>
+    <Latitud>40.4344679422618</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARCOS DE JALON-AV.CANILLEJAS VICALVARO</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Arcos del Jalón con C/ Solería.</PostalAdress>
+    <Longitud>-3.61297106519085</Longitud>
+    <Latitud>40.4272849643531</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HNOS.GARCIA NOBLEJAS Nº 196</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Hermanos García Noblejas, 196</PostalAdress>
+    <Longitud>-3.62427665026197</Longitud>
+    <Latitud>40.4186389552773</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>POBLADURA DEL VALLE-PARAMENTO</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Pobladura del Valle con C/ Paramento</PostalAdress>
+    <Longitud>-3.61315344579048</Longitud>
+    <Latitud>40.4278966144618</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALBERIQUE-ALBAIDA</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Alberique S/N con C/ Albaida</PostalAdress>
+    <Longitud>-3.61998026039236</Longitud>
+    <Latitud>40.4292746956308</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AMPOSTA-TEJEDORES</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Amposta, 8</PostalAdress>
+    <Longitud>-3.62255189699293</Longitud>
+    <Latitud>40.4276392738598</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALBAIDA-AV.CANILLEJAS A VICALVARO</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Albaida S/N frente al Nº 94</PostalAdress>
+    <Longitud>-3.61269047031864</Longitud>
+    <Latitud>40.4340522417894</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CANILLEJAS A VICALVARO-NECTAR</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Av. Canillejas a Vicalvaro, 16</PostalAdress>
+    <Longitud>-3.61543232122277</Longitud>
+    <Latitud>40.4409206077721</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALBERIQUE-ALCONERA</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Alberique S/N (Comisaria)</PostalAdress>
+    <Longitud>-3.61741085293281</Longitud>
+    <Latitud>40.4293514833449</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALBERIQUE-ALCONERA</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Alberique S/N (frente a Comisaría)</PostalAdress>
+    <Longitud>-3.61745981762904</Longitud>
+    <Latitud>40.4295494213421</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.GUADALAJARA-AMPOSTA</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Av. de Guadalajara, 69</PostalAdress>
+    <Longitud>-3.61691946631099</Longitud>
+    <Latitud>40.4208765830762</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN ROMUALDO-JULIAN CAMARILLO</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>San Romualdo S/N con C/ Julián Camarillo</PostalAdress>
+    <Longitud>-3.62131095462196</Longitud>
+    <Latitud>40.4374522769327</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN ROMUALDO-ALBASANZ</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>San Romualdo esquina a C/ Albasanz</PostalAdress>
+    <Longitud>-3.62153212646944</Longitud>
+    <Latitud>40.4388655081748</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN ROMUALDO-ALBASANZ</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>San Romualdo esquina a C/ Albasanz</PostalAdress>
+    <Longitud>-3.62195125448728</Longitud>
+    <Latitud>40.4387641589198</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN ROMUALDO-ALCALA</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>San Romualdo con C/ Alcalá</PostalAdress>
+    <Longitud>-3.62313746627467</Longitud>
+    <Latitud>40.4416136447194</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HNOS.GARCIA NOBLEJAS-GANDHI</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Hermanos García Noblejas frente  al Nº 79 pque C/Gandhi</PostalAdress>
+    <Longitud>-3.62951328485121</Longitud>
+    <Latitud>40.4259620016912</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JULIAN CAMARILLO-RUFINO GONZALEZ</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Julián Camarillo frente al Nº 37</PostalAdress>
+    <Longitud>-3.62518867900864</Longitud>
+    <Latitud>40.4356971716533</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JULIAN CAMARILLO-RUFINO GONZALEZ</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Julián Camarillo, 33</PostalAdress>
+    <Longitud>-3.62600438725474</Longitud>
+    <Latitud>40.4356116843998</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MIGUEL YUSTE-ALBASANZ</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Miguel Yuste frente al Nº 32</PostalAdress>
+    <Longitud>-3.62409460226612</Longitud>
+    <Latitud>40.4381985740916</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HNOS.GARCIA NOBLEJAS-AV.ARCENTALES</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Hermanos García Noblejas con Av. Arcentales</PostalAdress>
+    <Longitud>-3.62759899917964</Longitud>
+    <Latitud>40.4244858967901</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HNOS.GARCIA NOBLEJAS-ALCALA</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Hermanos García Noblejas frente al Nº 5</PostalAdress>
+    <Longitud>-3.63781034322779</Longitud>
+    <Latitud>40.4372409686658</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARCOS DE JALON-AV.CANILLEJAS VICALVARO</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Arcos delJalón frente a C/ Solería.</PostalAdress>
+    <Longitud>-3.61283590928295</Longitud>
+    <Latitud>40.4271685618446</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CASTILLO UCLES-HNOS.GARCIA NOBLEJAS</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Castillo de Uclés, 2</PostalAdress>
+    <Longitud>-3.6287862025713</Longitud>
+    <Latitud>40.4264929803721</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CASTILLO UCLES Nº 26</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Castillo de Uclés, 26</PostalAdress>
+    <Longitud>-3.62550441289704</Longitud>
+    <Latitud>40.4278846293254</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CASTILLO UCLES-CASTILLO SIMANCAS</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Castillo de Uclés frente a C/ Castillo de Simancas</PostalAdress>
+    <Longitud>-3.62321050528863</Longitud>
+    <Latitud>40.4302663732244</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CASTILLO UCLES Nº 49</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Castillo de Uclés, 49</PostalAdress>
+    <Longitud>-3.62299137705419</Longitud>
+    <Latitud>40.4325558485151</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CASTILLO UCLES-CASTILLO SIMANCAS</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Castillo de Uclés con C/ Castillo de Simancas</PostalAdress>
+    <Longitud>-3.62344254553343</Longitud>
+    <Latitud>40.4301389978822</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CASTILLO UCLES Nº 11</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Castillo de Uclés, 11</PostalAdress>
+    <Longitud>-3.62528399001505</Longitud>
+    <Latitud>40.4281515863272</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CASTILLO MADRIGAL ALTAS TORRES</Name>
+    <PostalCode>28037</PostalCode>
+    <PostalAdress>Madrigal de las Altas Torres, 1</PostalAdress>
+    <Longitud>-3.62867642115802</Longitud>
+    <Latitud>40.4286737653129</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+</ArrayOfPapelera>

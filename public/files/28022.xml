@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPapelera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Papelera>
+    <Name>NECTAR-AV.CANILLEJAS A VICALVARO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Nectar, 4</PostalAdress>
+    <Longitud>-3.6148669300035</Longitud>
+    <Latitud>40.4413109988503</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>NECTAR-AV.CANILLEJAS A VICALVARO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Nectar, 1</PostalAdress>
+    <Longitud>-3.61524481646491</Longitud>
+    <Latitud>40.4413720553509</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN MARIANO-NECTAR</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>San Mariano frente al Nº 60</PostalAdress>
+    <Longitud>-3.61187698158031</Longitud>
+    <Latitud>40.4418763835706</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LUCANO-AQUILES</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Lucano, 14</PostalAdress>
+    <Longitud>-3.61151444081714</Longitud>
+    <Latitud>40.4393152291674</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº DE GINEBRA-AV.DE GUADALAJARA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Pº de Ginebra S/N entre la C/ Niza y la C/ Guadalajara</PostalAdress>
+    <Longitud>-3.60621919852586</Longitud>
+    <Latitud>40.4250231882933</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº DE GINEBRA-SUECIA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Pº Ginebra S/N con C/ Suecia.</PostalAdress>
+    <Longitud>-3.6049453757707</Longitud>
+    <Latitud>40.42392173366</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CANILLEJAS A VICALVARO-TOSCANA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Av. Canillejas a Vicálvaro S/N frente a C/ Toscana.</PostalAdress>
+    <Longitud>-3.61088600028717</Longitud>
+    <Latitud>40.4196292720966</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DEYANIRA-EUTERPE</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Deyanira con C/ Euterpe</PostalAdress>
+    <Longitud>-3.59287364095024</Longitud>
+    <Latitud>40.4436508918168</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DEYANIRA-EUTERPE</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Deyanira con C/ Euterpe</PostalAdress>
+    <Longitud>-3.59218878743713</Longitud>
+    <Latitud>40.4436724131954</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DEYANIRA Nº 17</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Deyanira, 17</PostalAdress>
+    <Longitud>-3.5886435386132</Longitud>
+    <Latitud>40.4432175095924</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DEYANIRA Nº 17</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Deyanira frente al Nº 17</PostalAdress>
+    <Longitud>-3.58889699220807</Longitud>
+    <Latitud>40.443378383897</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CANILLEJAS A VICALVARO-ALBAIDA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Av. de Canillejas a Vicálvaro frente al Nº 71</PostalAdress>
+    <Longitud>-3.61210975561622</Longitud>
+    <Latitud>40.433721977603</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CANILLEJAS A VICALVARO Nº 68</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Av. de Canillejas a Vicálvaro, 68</PostalAdress>
+    <Longitud>-3.61157673386154</Longitud>
+    <Latitud>40.4308418994305</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ETRURIA-TROYA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Etruria, 13</PostalAdress>
+    <Longitud>-3.61121139969045</Longitud>
+    <Latitud>40.4361997027377</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LUCANO-FENELON</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Lucano, 38</PostalAdress>
+    <Longitud>-3.61057718200513</Longitud>
+    <Latitud>40.4376580070148</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALCALA-AV.CANILLEJAS A VICALVARO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Alcalá, 552 con Av. de Canillejas a Vicálvaro</PostalAdress>
+    <Longitud>-3.61621190704076</Longitud>
+    <Latitud>40.4439795316046</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALCALA-SAN MARIANO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Alcalá, 572</PostalAdress>
+    <Longitud>-3.61409356365682</Longitud>
+    <Latitud>40.4454592533675</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALCALA-ESFINGE</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Alcalá, 598</PostalAdress>
+    <Longitud>-3.61140238481334</Longitud>
+    <Latitud>40.4471761959606</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALCALA Nº 640-CANILLEJAS</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Alcalá, 640</PostalAdress>
+    <Longitud>-3.60818051496892</Longitud>
+    <Latitud>40.4491120799578</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GUTIERREZ CANALES-FERNANDO MIJARES</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Gutierrez Canales, 15</PostalAdress>
+    <Longitud>-3.6144344959977</Longitud>
+    <Latitud>40.4482232142495</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GUTIERREZ CANALES-GTA.EOLO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Gutierrez Canales, 26</PostalAdress>
+    <Longitud>-3.61441246714915</Longitud>
+    <Latitud>40.4483945024445</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CANILLEJAS A VICALVARO-HINOJAL</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Av. de Canillejas a Vicálvaro, 93</PostalAdress>
+    <Longitud>-3.61143218695392</Longitud>
+    <Latitud>40.4318066302918</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CANILLEJAS A VICALVARO-J.Gª BOUTAN</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Av. de Canillejas a Vicálvaro, 107</PostalAdress>
+    <Longitud>-3.61105190584917</Longitud>
+    <Latitud>40.4301689908378</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GTA.RICARDO VELAZQUEZ BOSCO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Gta. Ricardo Velázquez Bosco S/N con C/ Manuel Terán</PostalAdress>
+    <Longitud>-3.62561947102387</Longitud>
+    <Latitud>40.447532703975</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARQUESADO STA.MARTA-FERNANDO MIJARES</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Marquesado de Santa Marta S/N con C/ Fernando Mijares</PostalAdress>
+    <Longitud>-3.62239059446749</Longitud>
+    <Latitud>40.447784335436</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALCALA Nº 712</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Alcalá, 712</PostalAdress>
+    <Longitud>-3.60021564230976</Longitud>
+    <Latitud>40.4499193958374</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALCALA-CIUDAD PEGASO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Alcalá con Ciudad Pegaso</PostalAdress>
+    <Longitud>-3.59628953466258</Longitud>
+    <Latitud>40.4499486836834</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALCALA-CIUDAD PEGASO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Alcalá con Ciudad Pegaso</PostalAdress>
+    <Longitud>-3.59626584813046</Longitud>
+    <Latitud>40.4500208777796</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.TERCERA-CALLE TRES</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Avenida Tercera con Calle 3</PostalAdress>
+    <Longitud>-3.5946109801984</Longitud>
+    <Latitud>40.449250104787</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALCALA Nº 712</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Alcalá frente al Nº 710.</PostalAdress>
+    <Longitud>-3.60022807474974</Longitud>
+    <Latitud>40.4499914035597</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALCALA-RAZA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Alcalá, 607</PostalAdress>
+    <Longitud>-3.61241471254279</Longitud>
+    <Latitud>40.4467699461975</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.NIZA-LAS MUSAS</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Av.de Niza con C/ María Sevilla Diago</PostalAdress>
+    <Longitud>-3.60776021507936</Longitud>
+    <Latitud>40.432528660529</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JULIA GARCIA BOUTAN-AV.CANILLEJAS</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Julia García Boután con Av. de Canillejas a Vicálvaro</PostalAdress>
+    <Longitud>-3.61080083744794</Longitud>
+    <Latitud>40.4297829260254</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.QUINTA Nº 4</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Av. Quinta, 4 (Ciudad Pegaso)</PostalAdress>
+    <Longitud>-3.59653761428004</Longitud>
+    <Latitud>40.4476996554363</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CALLE ONCE-AV.SEGUNDA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Calle Once, 6 (Ciudad Pegaso)</PostalAdress>
+    <Longitud>-3.59466034081941</Longitud>
+    <Latitud>40.4445966900654</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAMANIEGO-CAMPEZO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Samaniego con C/ Campezo</PostalAdress>
+    <Longitud>-3.58225281978725</Longitud>
+    <Latitud>40.4442182800406</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAMANIEGO-CAMPEZO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Samaniego con Campezo</PostalAdress>
+    <Longitud>-3.58221750298972</Longitud>
+    <Latitud>40.4443535930361</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>NANCLARES DE OCA-ARCAUTE</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Nanclares de Oca frente a C/ Arcaute</PostalAdress>
+    <Longitud>-3.5801609389809</Longitud>
+    <Latitud>40.444102649449</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>NANCLARES DE OCA-ARAMAYONA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Nanclares de Oca con C/ Belfast</PostalAdress>
+    <Longitud>-3.57833973160372</Longitud>
+    <Latitud>40.4449135603007</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FUENTELVIEJO-FUENSAVIÑAN</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Fuentelviejo, 40</PostalAdress>
+    <Longitud>-3.57068508052129</Longitud>
+    <Latitud>40.4484920729137</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DICIEMBRE-FEBRERO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Diciembre con C/ Febrero</PostalAdress>
+    <Longitud>-3.56949179535692</Longitud>
+    <Latitud>40.4467862297258</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DICIEMBRE-FEBRERO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Diciembre S/N esquina con C/ Febrero</PostalAdress>
+    <Longitud>-3.56937932627479</Longitud>
+    <Latitud>40.4467777735499</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.FERMINA SEVILLANO-DICIEMBRE</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Av. de Fermina Sevillano S/N con C/ Diciembre.</PostalAdress>
+    <Longitud>-3.56970712214462</Longitud>
+    <Latitud>40.4442626416152</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GASCUEÑA-FUENSAVIÑAN</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Gascueña, 35</PostalAdress>
+    <Longitud>-3.57081568226947</Longitud>
+    <Latitud>40.448072509593</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.SEGUNDA-CALLE DIEZ</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Av. Segunda frente al Nº 16</PostalAdress>
+    <Longitud>-3.59431295040143</Longitud>
+    <Latitud>40.4452381139921</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.SEGUNDA-CALLE OCHO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Av. Segunda, 7</PostalAdress>
+    <Longitud>-3.59415003667188</Longitud>
+    <Latitud>40.4469957098769</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALCALA-CANILLEJAS</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Alcalá frente al Nº 626</PostalAdress>
+    <Longitud>-3.60960755544828</Longitud>
+    <Latitud>40.448591063694</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARCAUTE-ARAMAYONA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Arcaute, 4</PostalAdress>
+    <Longitud>-3.57785977636333</Longitud>
+    <Latitud>40.4435150508631</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARCAUTE-ARAMAYONA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Arcaute frente al Nº 4</PostalAdress>
+    <Longitud>-3.57786195390374</Longitud>
+    <Latitud>40.4437267523053</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>YECORA-AV.INVIERNO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Yecora con Av. de Invierno</PostalAdress>
+    <Longitud>-3.57529701948611</Longitud>
+    <Latitud>40.4437935731376</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>YECORA-NANCLARES DE OCA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Yecora con C/ Nanclares de Oca</PostalAdress>
+    <Longitud>-3.57417096507977</Longitud>
+    <Latitud>40.4460604272637</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>YECORA-NANCLARES DE OCA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Yecora con C/ Nanclares de Oca</PostalAdress>
+    <Longitud>-3.57432663839114</Longitud>
+    <Latitud>40.4461227187698</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>YECORA-FUENTELVIEJO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Yecora frente al Nº 2</PostalAdress>
+    <Longitud>-3.57368835613622</Longitud>
+    <Latitud>40.4482925532238</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>YECORA-FUENTELVIEJO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Yecora,4</PostalAdress>
+    <Longitud>-3.57386454667651</Longitud>
+    <Latitud>40.4479493374358</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LUCANO-FENELON</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Lucano, 41</PostalAdress>
+    <Longitud>-3.61052286556231</Longitud>
+    <Latitud>40.4381718082966</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LUCANO-CANAL DEL BOSFORO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Lucano, 1</PostalAdress>
+    <Longitud>-3.61170853910484</Longitud>
+    <Latitud>40.4402015938322</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CANAL DEL BOSFORO-ESFINGE</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Canal del Bósforo, 84</PostalAdress>
+    <Longitud>-3.60879414297577</Longitud>
+    <Latitud>40.4412980325735</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ESFINGE-SAN FAUSTINO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Esfinge, 76</PostalAdress>
+    <Longitud>-3.60780641823938</Longitud>
+    <Latitud>40.4402942084968</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FENELON-LAS MUSAS</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Fenelón S/N frente a C/ Las Musas</PostalAdress>
+    <Longitud>-3.60883998899262</Longitud>
+    <Latitud>40.4385320188005</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>NECTAR-SAN MARIANO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Néctar, 30 (Con C/ San Mariano)</PostalAdress>
+    <Longitud>-3.61234083976471</Longitud>
+    <Latitud>40.4421126713978</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN MARIANO-CANAL DEL BOSFORO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>San Mariano con C/ Canal del Bosforo.</PostalAdress>
+    <Longitud>-3.61156136857013</Longitud>
+    <Latitud>40.4408780482564</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>NECTAR-ESFINGE</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Nectar con C/ Esfinge</PostalAdress>
+    <Longitud>-3.60990536800183</Longitud>
+    <Latitud>40.4436120111322</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ESFINGE-CANAL DEL BOSFORO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Esfinge con C/ Canal del Bosforo</PostalAdress>
+    <Longitud>-3.60855259301837</Longitud>
+    <Latitud>40.4417272308369</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DEYANIRA-CAMPEZO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Deyanira con C/ Campezo</PostalAdress>
+    <Longitud>-3.58373738619576</Longitud>
+    <Latitud>40.442751345015</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DEYANIRA-CAMPEZO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Deyanira con C/ Campezo.</PostalAdress>
+    <Longitud>-3.58352589920235</Longitud>
+    <Latitud>40.4427974557367</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>YECORA-ARCAUTE</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Yecora con C/ Arcaute</PostalAdress>
+    <Longitud>-3.57548455518384</Longitud>
+    <Latitud>40.4438331822878</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CANILLEJAS A VICALVARO-RUSIA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Av. de Canillejas a Vicalvaro, 82.</PostalAdress>
+    <Longitud>-3.61165581321593</Longitud>
+    <Latitud>40.4239405491921</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CANILLEJAS A VICALVARO-RUSIA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Av. de Canillejas a Vicalvaro frente al Nº 82.</PostalAdress>
+    <Longitud>-3.61136168308851</Longitud>
+    <Latitud>40.4240051653277</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CANILLEJAS A VICALVARO-ALBAIDA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Av. de Canillejas a Vicálvaro, 69</PostalAdress>
+    <Longitud>-3.61181419817717</Longitud>
+    <Latitud>40.4336334487184</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.NIZA-LAS MUSAS</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Av. de Niza frente al Nº 63</PostalAdress>
+    <Longitud>-3.60744367823902</Longitud>
+    <Latitud>40.4327285198948</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SUECIA-RUMANIA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Suecia, 12</PostalAdress>
+    <Longitud>-3.60901035283565</Longitud>
+    <Latitud>40.4220130359425</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SUECIA-RUMANIA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Suecia frente al Nº 12</PostalAdress>
+    <Longitud>-3.60919178072569</Longitud>
+    <Latitud>40.4221562269054</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SUECIA-FRANCFORT</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Suecia, 26</PostalAdress>
+    <Longitud>-3.60664068057768</Longitud>
+    <Latitud>40.4228903397395</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SUECIA-FRANCFORT</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Suecia, 21</PostalAdress>
+    <Longitud>-3.60672923617591</Longitud>
+    <Latitud>40.423029516354</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SUECIA-Pº DE GINEBRA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Suecia con Pº de Ginebra</PostalAdress>
+    <Longitud>-3.60391831272134</Longitud>
+    <Latitud>40.4241297965326</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SUECIA-Pº DE GINEBRA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Suecia con Pº de Ginebra</PostalAdress>
+    <Longitud>-3.60412724972473</Longitud>
+    <Latitud>40.4242187976416</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SUECIA-BUCAREST</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Suecia frente al Nº 43</PostalAdress>
+    <Longitud>-3.60425342345039</Longitud>
+    <Latitud>40.4266731071681</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SUECIA-BUCAREST</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Suecia, 43</PostalAdress>
+    <Longitud>-3.60455815321926</Longitud>
+    <Latitud>40.4264733179944</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SUECIA-MANCHESTER</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Suecia frente al Nº 69</PostalAdress>
+    <Longitud>-3.60490825482828</Longitud>
+    <Latitud>40.4292057374392</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SUECIA-MANCHESTER</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Suecia, 69</PostalAdress>
+    <Longitud>-3.60514501197509</Longitud>
+    <Latitud>40.4292315279668</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SUECIA-CATANIA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Suecia frente al Nº 81</PostalAdress>
+    <Longitud>-3.60564190687084</Longitud>
+    <Latitud>40.4322649798402</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SUECIA-MARIA SEVILLA DIAGO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Suecia, 81</PostalAdress>
+    <Longitud>-3.60591734004711</Longitud>
+    <Latitud>40.4321238991979</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARIA SEVILLA DIAGO-NIZA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>María Sevilla Diago frente al Nº 16</PostalAdress>
+    <Longitud>-3.60827789588609</Longitud>
+    <Latitud>40.4333097298715</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARIA SEVILLA DIAGO-NIZA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>María Sevilla Diago, 24</PostalAdress>
+    <Longitud>-3.60732436824805</Longitud>
+    <Latitud>40.4333102287873</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARIA SEVILLA DIAGO-AV.CANILLEJAS</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>María Sevilla Diago, 1</PostalAdress>
+    <Longitud>-3.61139480048229</Longitud>
+    <Latitud>40.4328879127856</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CANAL DEL BOSFORO-AV.CANILLEJAS</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Canal del Bósforo frente al Nº 2</PostalAdress>
+    <Longitud>-3.61422711252267</Longitud>
+    <Latitud>40.4397558315618</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CANAL DEL BOSFORO-AV.CANILLEJAS</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Canal del Bósforo, 4</PostalAdress>
+    <Longitud>-3.61406179727431</Longitud>
+    <Latitud>40.439648599756</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CANILLEJAS A VICALVARO-NECTAR</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Av. Canillejas a Vicálvaro, 23</PostalAdress>
+    <Longitud>-3.61527191577602</Longitud>
+    <Latitud>40.4409890276987</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CANILLEJAS A VICALVARO-DIANA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Av. Canillejas a Vicalvaro S/N frente a C/ Diana</PostalAdress>
+    <Longitud>-3.61646080650042</Longitud>
+    <Latitud>40.4428250519628</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JULIA GARCIA BOUTAN-AV.NIZA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Julia García Boutan frente al Nº 29</PostalAdress>
+    <Longitud>-3.60642977426918</Longitud>
+    <Latitud>40.4301031912049</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JULIA GARCIA BOUTAN-AV.NIZA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Julia García Boutan con Av. de Niza</PostalAdress>
+    <Longitud>-3.60680872187227</Longitud>
+    <Latitud>40.4302903966644</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JULIA GARCIA BOUTAN-SUECIA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Julia García Boután con  C/ Suecia</PostalAdress>
+    <Longitud>-3.60487490374649</Longitud>
+    <Latitud>40.4302554657717</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JULIA GARCIA BOUTAN-SUECIA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Julia García Boután con C/ Suecia</PostalAdress>
+    <Longitud>-3.60498350326045</Longitud>
+    <Latitud>40.4305341791043</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SOFIA-MANCHESTER</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Sofía con C/ Manchester</PostalAdress>
+    <Longitud>-3.60182978502069</Longitud>
+    <Latitud>40.4298749287294</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SOFIA-MANCHESTER</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Sofía, 66</PostalAdress>
+    <Longitud>-3.60154756867006</Longitud>
+    <Latitud>40.4299574760871</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SOFIA-BUDAPEST</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Sofía frente al Nº 50</PostalAdress>
+    <Longitud>-3.60133876464835</Longitud>
+    <Latitud>40.4276882793703</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SOFIA-BUDAPEST</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Sofía, 50</PostalAdress>
+    <Longitud>-3.60104548838849</Longitud>
+    <Latitud>40.4278519644036</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº DE GINEBRA-AV.NIZA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Pº de Ginebra frente a Av. de Niza</PostalAdress>
+    <Longitud>-3.60587605011281</Longitud>
+    <Latitud>40.4248808387103</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CANILLEJAS A VICALVARO-ALIAGA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Av. de Canillejas a Vicálvaro, 53-B</PostalAdress>
+    <Longitud>-3.61263119736927</Longitud>
+    <Latitud>40.4366201311228</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CANILLEJAS-POBLADURA DEL VALLE</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Av. de Canillejas a Vicálvaro, 129</PostalAdress>
+    <Longitud>-3.61120228993451</Longitud>
+    <Latitud>40.427240256622</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CANILLEJAS-POBLADURA DEL VALLE</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Av. de Canillejas a Vicálvaro frente al Nº 129</PostalAdress>
+    <Longitud>-3.6114500127951</Longitud>
+    <Latitud>40.4272569673357</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CANILLEJAS A VICALVARO-SUECIA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Av.de Canillejas a Vicálvaro con C/ Suecia</PostalAdress>
+    <Longitud>-3.6111645206806</Longitud>
+    <Latitud>40.4217539413502</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DE JACA-AV.DE AMERICA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Av. de Jaca, 12</PostalAdress>
+    <Longitud>-3.61128710912351</Longitud>
+    <Latitud>40.4492218516117</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ARCENTALES-AV.CANILLEJAS A VICALVARO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Av. de Arcentales, 14</PostalAdress>
+    <Longitud>-3.61150410250752</Longitud>
+    <Latitud>40.4345449992963</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ARCENTALES-AV.NIZA</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Av. de Arcentales S/N con Av. de Niza</PostalAdress>
+    <Longitud>-3.60865484943092</Longitud>
+    <Latitud>40.4349924403564</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.NUMERO 4-CALLE CINCO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Av. Cuarta con C/ Cinco</PostalAdress>
+    <Longitud>-3.59584334155692</Longitud>
+    <Latitud>40.4489149425117</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JULIA GARCIA BOUTAN-AV.CANILLEJAS</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Julia García Boután, 2</PostalAdress>
+    <Longitud>-3.61062196930067</Longitud>
+    <Latitud>40.4295586429044</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOSEFA VALCARCEL-GUTIERREZ CANALES</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Josefa Valcarcel S/N con C/ Gutiérrez Canales</PostalAdress>
+    <Longitud>-3.61534284143007</Longitud>
+    <Latitud>40.4495517261931</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARCAUTE-SAMANIEGO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Arcaute con C/ Samaniego</PostalAdress>
+    <Longitud>-3.58036694049335</Longitud>
+    <Latitud>40.4435025168162</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CANILLEJAS</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Via de servicio de Av. América con C/ Alcalá.</PostalAdress>
+    <Longitud>-3.60970039671661</Longitud>
+    <Latitud>40.4494869722464</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INTERCAMBIADOR CANILLEJAS</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Area intermodal Canillejas (Entre Alcalá y Av. América)</PostalAdress>
+    <Longitud>-3.60980099740983</Longitud>
+    <Latitud>40.4489549106029</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INTERCAMBIADOR CANILLEJAS</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Area intermodal Canillejas (Entre Alcalá y Av. América)</PostalAdress>
+    <Longitud>-3.60971303345865</Longitud>
+    <Latitud>40.4491310495464</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INTERCAMBIADOR CANILLEJAS</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Area intermodal Canillejas (Entre Alcalá y Av. América)</PostalAdress>
+    <Longitud>-3.60982480900087</Longitud>
+    <Latitud>40.4492250557547</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.FERMINA SEVILLANO-MAYO</Name>
+    <PostalCode>28022</PostalCode>
+    <PostalAdress>Av. Fermina Sevillano, 30</PostalAdress>
+    <Longitud>-3.56982126185526</Longitud>
+    <Latitud>40.44433865703</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+</ArrayOfPapelera>

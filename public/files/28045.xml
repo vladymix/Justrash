@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPapelera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Papelera>
+    <Name>DELICIAS Nº 14</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Delicias, 14</PostalAdress>
+    <Longitud>-3.69392739894658</Longitud>
+    <Latitud>40.4041929673943</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº DELICIAS-TORTOSA</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pº de las Delicias, 5.</PostalAdress>
+    <Longitud>-3.69316123551764</Longitud>
+    <Latitud>40.4066615336944</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MENDEZ ALVARO-EST.SUR DE AUTOBUSES</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Méndez Alvaro (Estación Sur)</PostalAdress>
+    <Longitud>-3.67788462647718</Longitud>
+    <Latitud>40.3937879013167</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº CHOPERA-Pº STA.Mª DE LA CABEZA</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pº de la Chopera frente al Nº 3</PostalAdress>
+    <Longitud>-3.70252885745852</Longitud>
+    <Latitud>40.3962266445526</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº CHOPERA-Pº STA.Mª DE LA CABEZA</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pº de la Chopera, 3.</PostalAdress>
+    <Longitud>-3.70231956763893</Longitud>
+    <Latitud>40.3964981860688</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº CHOPERA-PZA.GRAL.MAROTO</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pº de la Chopera, 10 con Pza. Gral. Maroto</PostalAdress>
+    <Longitud>-3.69832805468854</Longitud>
+    <Latitud>40.393378155015</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº CHOPERA-PZA.GRAL.MAROTO</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pº de la Chopera, 43</PostalAdress>
+    <Longitud>-3.69785702844876</Longitud>
+    <Latitud>40.3933359487267</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº CHOPERA-PZA.LEGAZPI</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pº Chopera, 12 con Pz Legazpi</PostalAdress>
+    <Longitud>-3.69598959551691</Longitud>
+    <Latitud>40.3917075332085</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº CHOPERA-PZA.LEGAZPI</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pº de la Chopera,  69</PostalAdress>
+    <Longitud>-3.69598151660035</Longitud>
+    <Latitud>40.3920679449905</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EMBAJADORES-BATALLA DEL SALADO</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Embajadores, 144.</PostalAdress>
+    <Longitud>-3.69704968491536</Longitud>
+    <Latitud>40.3973948943321</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº DELICIAS-PZA.LEGAZPI</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pº de las Delicias, 154.</PostalAdress>
+    <Longitud>-3.69516724743368</Longitud>
+    <Latitud>40.3919467080686</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº DELICIAS-PZA.LEGAZPI</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pº de las Delicias, 139</PostalAdress>
+    <Longitud>-3.69475690295571</Longitud>
+    <Latitud>40.3921473700572</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº DELICIAS-ALEJANDRO FERRANT</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pº de las Delicias, 97</PostalAdress>
+    <Longitud>-3.69446035003767</Longitud>
+    <Latitud>40.3954014258801</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº DELICIAS-RAMIREZ DE PRADO</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pº de las Delicias frente al Nº 52</PostalAdress>
+    <Longitud>-3.69387517295797</Longitud>
+    <Latitud>40.400319382129</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº DELICIAS-PZA.LUCA DE TENA</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pº de las Delicias, 49</PostalAdress>
+    <Longitud>-3.69353438237885</Longitud>
+    <Latitud>40.4027854031244</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BATALLA DEL SALADO-FERROCARRIL</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Batalla del Salado, 30</PostalAdress>
+    <Longitud>-3.69630507058534</Longitud>
+    <Latitud>40.4006156113764</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BATALLA DEL SALADO-EMBAJADORES</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Batalla del Salado frente al Nº 55 (con C/ Tomás Bretón</PostalAdress>
+    <Longitud>-3.69662472078286</Longitud>
+    <Latitud>40.3975731281401</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EMBAJADORES-PZA.BEATA Mª ANA JESUS</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Embajadores, 176</PostalAdress>
+    <Longitud>-3.69538739986836</Longitud>
+    <Latitud>40.3950264913521</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.DE LEGAZPI-MAESTRO ARBOS</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pza. de Legazpi, 1 con C/ Maestro Arbós.</PostalAdress>
+    <Longitud>-3.69514483123013</Longitud>
+    <Latitud>40.3909107982017</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº STA.Mª CABEZA-EMBAJADORES</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pº Sta. María de la Cabeza-Gta.Sta María de la Cabeza</PostalAdress>
+    <Longitud>-3.69900742538672</Longitud>
+    <Latitud>40.4016173569624</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EMBAJADORES-GTA.STA.Mª CABEZA</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Embajadores, 114.</PostalAdress>
+    <Longitud>-3.69907490458132</Longitud>
+    <Latitud>40.4003061305682</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GTA.SANTA MARIA DE LA CABEZA</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Gta. Santa María de la Cabeza, 5 con C/ Ferrocarril</PostalAdress>
+    <Longitud>-3.69875933932884</Longitud>
+    <Latitud>40.4009161469497</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FERROCARRIL Nº 13</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Ferrocarril, 13</PostalAdress>
+    <Longitud>-3.69541098772368</Longitud>
+    <Latitud>40.4007651284488</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JAIME EL CONQUISTADOR-EMBAJADORES</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Jaime el Conquistador, 10</PostalAdress>
+    <Longitud>-3.69811835998909</Longitud>
+    <Latitud>40.3978614337198</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JAIME EL CONQUISTADOR-EMBAJADORES</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Jaime el Conquistador, 5</PostalAdress>
+    <Longitud>-3.69792195605624</Longitud>
+    <Latitud>40.3978491038405</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JAIME EL CONQUISTADOR-EUGENIO SELLES</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Jaime el Conquistador, 38</PostalAdress>
+    <Longitud>-3.69843608382971</Longitud>
+    <Latitud>40.3958549994715</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JAIME EL CONQUISTADOR-EUGENIO SELLES</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Jaime el Conquistador, 23</PostalAdress>
+    <Longitud>-3.69818206498817</Longitud>
+    <Latitud>40.3958970718954</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RAMIREZ DE PRADO-BUSTAMANTE</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Ramírez de Prado frente al Nº 3 de C/ Bustamante</PostalAdress>
+    <Longitud>-3.69330160251133</Longitud>
+    <Latitud>40.4007687659712</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RAMIREZ DE PRADO-JUAN DE MARIANA</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Ramírez de Prado, 12</PostalAdress>
+    <Longitud>-3.68613287461399</Longitud>
+    <Latitud>40.3992348700005</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RAMIREZ DE PRADO-VARA DEL REY</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Ramírez de Prado, 4</PostalAdress>
+    <Longitud>-3.68877421317138</Longitud>
+    <Latitud>40.3993993735041</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MENDEZ ALVARO-MENESES</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Méndez Alvaro, frente al Nº 57</PostalAdress>
+    <Longitud>-3.68329985804088</Longitud>
+    <Latitud>40.3981750341744</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MENDEZ ALVARO Nº 57</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Méndez Alvaro, 57</PostalAdress>
+    <Longitud>-3.68298168425043</Longitud>
+    <Latitud>40.3983570923403</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MENDEZ ALVARO-PEDRO BOSCH</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Méndez Alvaro, 64-A</PostalAdress>
+    <Longitud>-3.68101022801873</Longitud>
+    <Latitud>40.396066881713</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MENDEZ ALVARO-PEDRO BOSCH</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Méndez Alvaro frente al Nº 64-A</PostalAdress>
+    <Longitud>-3.68076586489432</Longitud>
+    <Latitud>40.3963746269251</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MENDEZ ALVARO-COMERCIO</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Méndez Alvaro, frente al Nº 38 (con C/ Comercio)</PostalAdress>
+    <Longitud>-3.68463022865879</Longitud>
+    <Latitud>40.3998383609491</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ANCORA-MENDEZ ALVARO</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Ancora, 45</PostalAdress>
+    <Longitud>-3.68868935554454</Longitud>
+    <Latitud>40.4028953968322</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BATALLA DEL SALADO-PALOS FRONTERA</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Batalla del Salado, 12</PostalAdress>
+    <Longitud>-3.69603437321749</Longitud>
+    <Latitud>40.4029415774866</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº STA.Mª CABEZA Nº 4</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pº Santa María de la Cabeza, 4</PostalAdress>
+    <Longitud>-3.69404971205444</Longitud>
+    <Latitud>40.4070706292156</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>TORTOSA Nº 4</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Tortosa, 4</PostalAdress>
+    <Longitud>-3.69282683479751</Longitud>
+    <Latitud>40.4061950635899</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ANCORA-Pº DELICIAS</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Ancora, 1</PostalAdress>
+    <Longitud>-3.69332678927096</Longitud>
+    <Latitud>40.4032280902399</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº STA.Mª CABEZA-Pº CHOPERA</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pº Santa María de la Cabeza, 85</PostalAdress>
+    <Longitud>-3.70233965390566</Longitud>
+    <Latitud>40.3975115847482</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.BEATA MARIA ANA DE JESUS</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pza. Beata María Ana de Jesús, 6</PostalAdress>
+    <Longitud>-3.69412826971669</Longitud>
+    <Latitud>40.394043045958</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EMBAJADORES-BRONCE</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Embajadores frente al Nº 201</PostalAdress>
+    <Longitud>-3.69108329049185</Longitud>
+    <Latitud>40.3877909326337</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EMBAJADORES-AV.PLANETARIO</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Embajadores S/N con Av. del Planetario</PostalAdress>
+    <Longitud>-3.69004273591009</Longitud>
+    <Latitud>40.3865223503282</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EMBAJADORES-AV.PLANETARIO</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Embajadores S/N con Av. del Planetario</PostalAdress>
+    <Longitud>-3.68991847274862</Longitud>
+    <Latitud>40.3867573269312</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº MOLINO-PZA.LEGAZPI</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pº del Molino, 1</PostalAdress>
+    <Longitud>-3.69426163996412</Longitud>
+    <Latitud>40.3909611410561</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MENDEZ ALVARO-EST.SUR DE AUTOBUSES</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Méndez Alvaro, 70 pasada Av. Planetario</PostalAdress>
+    <Longitud>-3.67964288927512</Longitud>
+    <Latitud>40.3948496782844</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MENDEZ ALVARO-AV.PLANETARIO</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Méndez Alvaro frente al Nº 70</PostalAdress>
+    <Longitud>-3.67881601875574</Longitud>
+    <Latitud>40.3946473184084</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MENDEZ ALVARO-ARIEL</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Méndez Alvaro (Estación Sur)</PostalAdress>
+    <Longitud>-3.67816874494649</Longitud>
+    <Latitud>40.3935520019604</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MENDEZ ALVARO-EST.SUR DE AUTOBUSES</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Méndez Alvaro con C/ Retama (Estación Sur)</PostalAdress>
+    <Longitud>-3.67768593118592</Longitud>
+    <Latitud>40.3935818551075</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PTO.SERRANO-PTO.MIRAVETE</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Puerto Serrano frente al Nº 3</PostalAdress>
+    <Longitud>-3.68773525893113</Longitud>
+    <Latitud>40.3858288605526</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PTO.CRUZ VERDE-PTO.SERRANO</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Puerto de la Cruz Verde, 19</PostalAdress>
+    <Longitud>-3.68595615502199</Longitud>
+    <Latitud>40.3864430196764</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PTO.CRUZ VERDE-PTO.MIRAVETE</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Puerto de la Cruz Verde, 26</PostalAdress>
+    <Longitud>-3.68614462738164</Longitud>
+    <Latitud>40.3857121668284</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.PLANETARIO-EMBAJADORES</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Av. del Planetario con Embajadores, (frente al Nº 36)</PostalAdress>
+    <Longitud>-3.68982297169253</Longitud>
+    <Latitud>40.3869966366433</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.PLANETARIO-EMBAJADORES</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Av. del Planetario, 34</PostalAdress>
+    <Longitud>-3.68933107487166</Longitud>
+    <Latitud>40.3876121833049</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.PLANETARIO-MENESES</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Av. del Planetario S/N con C/ Meneses</PostalAdress>
+    <Longitud>-3.68239351402413</Longitud>
+    <Latitud>40.393892056277</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.PLANETARIO-MENESES</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Av. del Planetario S/N con C/ Meneses (Desplaz. obras)</PostalAdress>
+    <Longitud>-3.68254446340561</Longitud>
+    <Latitud>40.3939992758215</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.PLANETARIO-MENDEZ ALVARO</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Av. del Planetario S/N con C/ Méndez Alvaro</PostalAdress>
+    <Longitud>-3.6806690761465</Longitud>
+    <Latitud>40.3949517611767</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RETAMA-OMBU</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Retama, 3</PostalAdress>
+    <Longitud>-3.67573583604997</Longitud>
+    <Latitud>40.3943229842244</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RETAMA-OMBU</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Retama S/N con C/ Ombu</PostalAdress>
+    <Longitud>-3.67564691227435</Longitud>
+    <Latitud>40.3947108935434</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EMBAJADORES-GTA.STA.Mª CABEZA</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Embajadores, 89</PostalAdress>
+    <Longitud>-3.69876545121184</Longitud>
+    <Latitud>40.4003665570161</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PALOS DE LA FRONTERA-Pº STA.Mª CABEZA</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Palos de la Frontera, 15</PostalAdress>
+    <Longitud>-3.69651083642372</Longitud>
+    <Latitud>40.4034342114475</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº DEL MOLINO-PZA.LEGAZPI</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pº del Molino frente al Nº 7</PostalAdress>
+    <Longitud>-3.69441240500162</Longitud>
+    <Latitud>40.3907260010782</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PEDRO BOSCH-MENDEZ ALVARO</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pedro Bosch con C/ Méndez Alvaro</PostalAdress>
+    <Longitud>-3.67997045827476</Longitud>
+    <Latitud>40.3961540723174</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EMBAJADORES-PQUE.LINEAL MANZANARES</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Embajadores S/N, Pque. Lineal del Manzanares</PostalAdress>
+    <Longitud>-3.681117766196</Longitud>
+    <Latitud>40.372412864692</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº DELICIAS-PZA.LEGAZPI</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pº de las Delicias, 133</PostalAdress>
+    <Longitud>-3.69474770841537</Longitud>
+    <Latitud>40.392399679469</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.AMANECER EN MENDEZ ALVARO</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Mendez Alvaro con Pza. Amanecer en Mendez Alvaro</PostalAdress>
+    <Longitud>-3.68454439669902</Longitud>
+    <Latitud>40.3992893148611</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº DELICIAS-PZA.LUCA DE TENA</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pza. Luca de Tena, 3</PostalAdress>
+    <Longitud>-3.69364738326457</Longitud>
+    <Latitud>40.4025279680286</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.PLANETARIO-PUERTO BEJAR</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Av. Planetario con c/ Puerto Bejar.</PostalAdress>
+    <Longitud>-3.68711521062104</Longitud>
+    <Latitud>40.3892379766147</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.PLANETARIO-BRONCE</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Av. Planetario con C/ Bronce.</PostalAdress>
+    <Longitud>-3.68723807866594</Longitud>
+    <Latitud>40.3894084203163</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº CHOPERA-PZA.GRAL.MAROTO</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pº de la Chopera frente al Nº 41.</PostalAdress>
+    <Longitud>-3.69907082502644</Longitud>
+    <Latitud>40.3939547595566</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº CHOPERA-PZA.GRAL.MAROTO</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pº de la Chopera, 41 con Pza. Gral. Maroto.</PostalAdress>
+    <Longitud>-3.69896153706884</Longitud>
+    <Latitud>40.3941761415396</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GUILLERMO DE OSMA-PZA.GRAL.MAROTO</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Guillermo de Osma, 27.</PostalAdress>
+    <Longitud>-3.69762367121702</Longitud>
+    <Latitud>40.3937742948437</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.BEATA MARIA ANA DE JESUS</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pza. Beata Mª Ana de Jesús, 9</PostalAdress>
+    <Longitud>-3.69503837704364</Longitud>
+    <Latitud>40.3939204699104</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EMBAJADORES-CAJA MAGICA</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Embajadores S/N</PostalAdress>
+    <Longitud>-3.68071828813428</Longitud>
+    <Latitud>40.3711224046676</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ACANTO-TAMARINDO</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Acanto esquina a C/ Cerro Negro</PostalAdress>
+    <Longitud>-3.6743952191097</Longitud>
+    <Latitud>40.3956281055537</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ESTACION  SUR DE AUTOBUSES</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Ombu S/N (Estación Sur de Autobuses)</PostalAdress>
+    <Longitud>-3.67734867375522</Longitud>
+    <Latitud>40.3952054627519</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PTO.BEJAR-PTO.MIRAVETE</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pto.Béjar frente al Nº 14 (Esquina a Puerto Miravete)</PostalAdress>
+    <Longitud>-3.68854422188249</Longitud>
+    <Latitud>40.3872114545032</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PEDRO BOSCH-MENDEZ ALVARO</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pedro Bosch S/N con C/ Méndez Alvaro (2 m.  farola 59)</PostalAdress>
+    <Longitud>-3.67904238074313</Longitud>
+    <Latitud>40.3960694262956</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BATALLA DEL SALADO-DELICIAS</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Batalla del Salado frente al Nº 3</PostalAdress>
+    <Longitud>-3.69585535979974</Longitud>
+    <Latitud>40.4045507708958</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº DELICIAS-TOMAS BRETON</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pº de las Delicias, 69 con C/ Tomás Bretón</PostalAdress>
+    <Longitud>-3.69414349044609</Longitud>
+    <Latitud>40.3978267663163</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº MOLINO-EMBAJADORES</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pº del Molino, 8</PostalAdress>
+    <Longitud>-3.69242234290045</Longitud>
+    <Latitud>40.3896568252988</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EMBAJADORES-DEPURADORA LA CHINA</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Embajadores S/N junto a Depuradora LA CHINA</PostalAdress>
+    <Longitud>-3.68012647722494</Longitud>
+    <Latitud>40.3699952364852</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.DE LEGAZPI-BOLIVAR</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pza. de Legazpi , 3</PostalAdress>
+    <Longitud>-3.6947124997537</Longitud>
+    <Latitud>40.3912647464148</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MENDEZ ALVARO Nº 13</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Méndez Alvaro, 13</PostalAdress>
+    <Longitud>-3.68580812547886</Longitud>
+    <Latitud>40.4009124806876</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MENDEZ ALVARO-ANCORA</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Méndez Alvaro S/N frente a C/ Ancora</PostalAdress>
+    <Longitud>-3.68851956908188</Longitud>
+    <Latitud>40.4033288414897</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MENDEZ ALVARO-MURCIA</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Méndez Alvaro frente al Nº 16</PostalAdress>
+    <Longitud>-3.69163961718439</Longitud>
+    <Latitud>40.4062111688829</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº STA.Mª CABEZA-CACERES</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pº Santa María de la Cabeza, 67</PostalAdress>
+    <Longitud>-3.70072166981517</Longitud>
+    <Latitud>40.399228604135</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº DELICIAS-PZA.EMPERADOR CARLOS V</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pº de las Delicias, 3</PostalAdress>
+    <Longitud>-3.69316216028816</Longitud>
+    <Latitud>40.4068597274534</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MENDEZ ALVARO-PEDRO BOSCH</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Méndez Alvaro frente al Nº 73</PostalAdress>
+    <Longitud>-3.68160508940768</Longitud>
+    <Latitud>40.3966309544935</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº MOLINO-EMBAJADORES</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pº del Molino, 17</PostalAdress>
+    <Longitud>-3.69248410765626</Longitud>
+    <Latitud>40.3899717740145</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RAMIREZ DE PRADO-GRAL.LACY</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Ramírez de Prado con C/ Gral. Lacy.</PostalAdress>
+    <Longitud>-3.69137289169811</Longitud>
+    <Latitud>40.3999289386025</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>OMBU-ACANTO</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Ombu con C/ Acanto</PostalAdress>
+    <Longitud>-3.67545633066801</Longitud>
+    <Latitud>40.3961669717857</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº STA.Mª CABEZA-Pº ESPERANZA</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Pº Sta. Mª de la Cabeza, 84</PostalAdress>
+    <Longitud>-3.70194780530028</Longitud>
+    <Latitud>40.3983608129519</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INTERCAMBIADOR ATOCHA-RENFE</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Av. Ciudad de Barcelona (Intercambiador de Atocha)</PostalAdress>
+    <Longitud>-3.68979070484843</Longitud>
+    <Latitud>40.4062402140253</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INTERCAMBIADOR ATOCHA-RENFE</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Av. Ciudad de Barcelona (Intercambiador de Atocha)</PostalAdress>
+    <Longitud>-3.68996784302042</Longitud>
+    <Latitud>40.4062751950866</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INTERCAMBIADOR ATOCHA-RENFE</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Av. Ciudad de Barcelona (Intercambiador de Atocha)</PostalAdress>
+    <Longitud>-3.69014267639992</Longitud>
+    <Latitud>40.4064453255152</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INTERCAMBIADOR ATOCHA-RENFE</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Av. Ciudad de Barcelona (Intercambiador de Atocha)</PostalAdress>
+    <Longitud>-3.690082690996</Longitud>
+    <Latitud>40.4065582962113</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GUILLERMO DE OSMA-PZA.GRAL.MAROTO</Name>
+    <PostalCode>28045</PostalCode>
+    <PostalAdress>Guillermo de Osma, 12</PostalAdress>
+    <Longitud>-3.69737620900941</Longitud>
+    <Latitud>40.3939874984694</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+</ArrayOfPapelera>

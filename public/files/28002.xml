@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPapelera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Papelera>
+    <Name>LOPEZ DE HOYOS-CARTAGENA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>López de Hoyos, 69.</PostalAdress>
+    <Longitud>-3.67568128569413</Longitud>
+    <Latitud>40.4431928704494</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOPEZ DE HOYOS-PZA.PROSPERIDAD</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>López de Hoyos, 73.</PostalAdress>
+    <Longitud>-3.67489619473516</Longitud>
+    <Latitud>40.4438010524072</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ALFONSO XIII-PRADILLO</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Alfonso XIII, 23</PostalAdress>
+    <Longitud>-3.66765274273853</Longitud>
+    <Latitud>40.4513160111816</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN NAZARIO Nº 1</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>San Nazario, 1</PostalAdress>
+    <Longitud>-3.66750235525016</Longitud>
+    <Latitud>40.4482538181329</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CORAZON DE MARIA-SAN NAZARIO</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Corazón de María, 80</PostalAdress>
+    <Longitud>-3.66594761921023</Longitud>
+    <Latitud>40.4485600670253</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCIPE DE VERGARA-PZA.CATALUÑA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Príncipe de Vergara, 204</PostalAdress>
+    <Longitud>-3.6776223622325</Longitud>
+    <Latitud>40.4496094509466</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCIPE DE VERGARA-PZA.CATALUÑA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Príncipe de Vergara, 203</PostalAdress>
+    <Longitud>-3.67800853381629</Longitud>
+    <Latitud>40.4492738574589</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DR.ARCE-PZA.SANTA GEMA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Av. Doctor Arce, 26</PostalAdress>
+    <Longitud>-3.68045460944679</Longitud>
+    <Latitud>40.4474577089214</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DR.ARCE-PZA.SANTA GEMA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Doctor Arce, 31</PostalAdress>
+    <Longitud>-3.68086814417561</Longitud>
+    <Latitud>40.4475363590059</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DOCTOR ARCE-VELAZQUEZ</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Av. Doctor Arce, 10</PostalAdress>
+    <Longitud>-3.68214010281773</Longitud>
+    <Latitud>40.446204549616</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOAQUIN COSTA-PZA.REP.ARGENTINA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Joaquín Costa, 31</PostalAdress>
+    <Longitud>-3.68596266318296</Longitud>
+    <Latitud>40.4459477331272</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOAQUIN COSTA-N.MINISTERIOS</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Joaquín Costa, 2</PostalAdress>
+    <Longitud>-3.69012216869494</Longitud>
+    <Latitud>40.4460671604009</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOAQUIN COSTA-N.MINISTERIOS</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Joaquín Costa, 1</PostalAdress>
+    <Longitud>-3.69005555719602</Longitud>
+    <Latitud>40.4464729623521</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VELAZQUEZ Nº 150</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Velázquez, 150</PostalAdress>
+    <Longitud>-3.68251073228596</Longitud>
+    <Latitud>40.4432023673969</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CINCA-PZA.DE CATALUÑA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Cinca, 23</PostalAdress>
+    <Longitud>-3.67947149294487</Longitud>
+    <Latitud>40.4493733898482</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CINCA-SERRANO</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Cinca frente al Nº 4</PostalAdress>
+    <Longitud>-3.68182733505636</Longitud>
+    <Latitud>40.4502694500038</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SERRANO-SEGRE</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Serrano, 183</PostalAdress>
+    <Longitud>-3.68265034841936</Longitud>
+    <Latitud>40.4500213578374</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SERRANO-GUADIANA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Serrano, 161</PostalAdress>
+    <Longitud>-3.68393824474417</Longitud>
+    <Latitud>40.4479326794257</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.RAMON Y CAJAL-PADRE CLARET</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Av. Ramón y Cajal frente al Nº 81</PostalAdress>
+    <Longitud>-3.66500950559235</Longitud>
+    <Latitud>40.4525834722199</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCIPE DE VERGARA-CONCHA ESPINA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Príncipe de Vergara, 210</PostalAdress>
+    <Longitud>-3.67742833988118</Longitud>
+    <Latitud>40.4514304034493</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DOCTOR ARCE-VELAZQUEZ</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Doctor Arce, 13</PostalAdress>
+    <Longitud>-3.68329450742494</Longitud>
+    <Latitud>40.4460806260756</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CARTAGENA-LOPEZ DE HOYOS</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Cartagena, 140</PostalAdress>
+    <Longitud>-3.67554761839799</Longitud>
+    <Latitud>40.4426125692938</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CARTAGENA-CLARA DEL REY</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Cartagena, 106</PostalAdress>
+    <Longitud>-3.67363149950633</Longitud>
+    <Latitud>40.4396958031539</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CARTAGENA-CLARA DEL REY</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Cartagena con Av. de América</PostalAdress>
+    <Longitud>-3.6737781993913</Longitud>
+    <Latitud>40.4396634181182</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SUERO DE QUIÑONES-PECHUAN</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Suero de Quiñones, 13</PostalAdress>
+    <Longitud>-3.67636141709255</Longitud>
+    <Latitud>40.4449861965628</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.AMERICA-FCO.SILVELA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Av. de América, 3 con C/ Francisco Silvela</PostalAdress>
+    <Longitud>-3.67679864712444</Longitud>
+    <Latitud>40.4380106679186</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.AMERICA-CARTAGENA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Avenida de América, 31.</PostalAdress>
+    <Longitud>-3.67322969014765</Longitud>
+    <Latitud>40.43938282439</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.AMERICA-PARQUE AVENIDAS</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Av. de América, Edificio IBM (Parque de las Avenidas)</PostalAdress>
+    <Longitud>-3.66505854078625</Longitud>
+    <Latitud>40.4433714843094</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOPEZ DE HOYOS-PRINCIPE VERGARA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>López de Hoyos, 66</PostalAdress>
+    <Longitud>-3.67815401017308</Longitud>
+    <Latitud>40.4416243613587</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOPEZ DE HOYOS-PRINCIPE DE VERGARA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>López de Hoyos frente al Nº 66</PostalAdress>
+    <Longitud>-3.67803438973277</Longitud>
+    <Latitud>40.441895332136</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOPEZ DE HOYOS-CARTAGENA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>López de Hoyos, 94</PostalAdress>
+    <Longitud>-3.67567027305571</Longitud>
+    <Latitud>40.4430127545471</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOPEZ DE HOYOS-PZA.PROSPERIDAD</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>López de Hoyos, 116</PostalAdress>
+    <Longitud>-3.67409072499969</Longitud>
+    <Latitud>40.4442516900157</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOPEZ DE HOYOS-EUGENIO SALAZAR</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>López de Hoyos, 85</PostalAdress>
+    <Longitud>-3.67363617563718</Longitud>
+    <Latitud>40.4447137945685</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOPEZ DE HOYOS-CARDENAL SILICEO</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>López de Hoyos, 146</PostalAdress>
+    <Longitud>-3.67192040152492</Longitud>
+    <Latitud>40.4456021413904</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOPEZ DE HOYOS-CARDENAL SILICEO</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>López de Hoyos, 117</PostalAdress>
+    <Longitud>-3.67163053045601</Longitud>
+    <Latitud>40.4459506697467</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOPEZ DE HOYOS-PANTOJA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>López de Hoyos, 170</PostalAdress>
+    <Longitud>-3.66971378780075</Longitud>
+    <Latitud>40.4470924013226</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOPEZ DE HOYOS-PANTOJA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>López de Hoyos, 139</PostalAdress>
+    <Longitud>-3.66947208310317</Longitud>
+    <Latitud>40.4474316366243</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOPEZ DE HOYOS-CLARA DEL REY</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>López de Hoyos frente al Nº 153</PostalAdress>
+    <Longitud>-3.66766625140885</Longitud>
+    <Latitud>40.4485051253037</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOPEZ DE HOYOS-CLARA DEL REY</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>López de Hoyos,159</PostalAdress>
+    <Longitud>-3.66731039596591</Longitud>
+    <Latitud>40.4488179871576</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PADRE CLARET-AV.RAMON Y CAJAL</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Padre Claret con Av. Ramón y Cajal</PostalAdress>
+    <Longitud>-3.66536197224475</Longitud>
+    <Latitud>40.4522976640521</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCIPE DE VERGARA-CANILLAS</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Príncipe de Vergara, 118</PostalAdress>
+    <Longitud>-3.67863967082135</Longitud>
+    <Latitud>40.4405224168114</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCIPE DE VERGARA-FRANCISCO SILVELA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Príncipe de Vergara, 107</PostalAdress>
+    <Longitud>-3.67915158568442</Longitud>
+    <Latitud>40.4398347306418</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCIPE DE VERGARA-LOPEZ DE HOYOS</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Príncipe de Vergara, 126</PostalAdress>
+    <Longitud>-3.67847799791747</Longitud>
+    <Latitud>40.4420368778991</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCIPE DE VERGARA-LOPEZ DE HOYOS</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Príncipe de Vergara, 125</PostalAdress>
+    <Longitud>-3.67893748506755</Longitud>
+    <Latitud>40.4419981486755</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCIPE DE VERGARA 140-JUNTA MUNICIPAL</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Príncipe de Vergara, 140</PostalAdress>
+    <Longitud>-3.67817324403593</Longitud>
+    <Latitud>40.444570194121</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCIPE DE VERGARA 137-JUNTA MUNICIPAL</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Príncipe de Vergara, 137</PostalAdress>
+    <Longitud>-3.67863528088157</Longitud>
+    <Latitud>40.4447837032792</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCIPE DE VERGARA-AUDITORIO NACIONAL</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Príncipe de Vergara S/N frente al Nº 183</PostalAdress>
+    <Longitud>-3.67791419053119</Longitud>
+    <Latitud>40.4469590969221</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCIPE DE VERGARA-AUDITORIO NACIONAL</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Príncipe de Vergara, 183</PostalAdress>
+    <Longitud>-3.67836300457764</Longitud>
+    <Latitud>40.4470285404426</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CAMILO JOSE CELA-CORAZON DE MARIA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Av. Camilo José Cela con C/ Corazón de María</PostalAdress>
+    <Longitud>-3.66731892589244</Longitud>
+    <Latitud>40.4428134352497</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CORAZON DE MARIA-STA.HORTENSIA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Corazón de María, 40 con IBM</PostalAdress>
+    <Longitud>-3.66706823140497</Longitud>
+    <Latitud>40.4436977626819</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CORAZON DE MARIA-STA.HORTENSIA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Corazón de María, 33</PostalAdress>
+    <Longitud>-3.66745444795435</Longitud>
+    <Latitud>40.4445964380926</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CORAZON DE MARIA-STA.RITA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Corazón de María, 62</PostalAdress>
+    <Longitud>-3.66643358318748</Longitud>
+    <Latitud>40.4463050201671</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CORAZON DE MARIA-STA.RITA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Corazón de María, 47</PostalAdress>
+    <Longitud>-3.66696456863444</Longitud>
+    <Latitud>40.4463379990537</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CORAZON DE MARIA-LOPEZ DE HOYOS</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Corazón de María con C/ López de Hoyos</PostalAdress>
+    <Longitud>-3.66648729004596</Longitud>
+    <Latitud>40.4489488536857</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOAQUIN COSTA-VELAZQUEZ</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Joaquín Costa, 28</PostalAdress>
+    <Longitud>-3.68325969792697</Longitud>
+    <Latitud>40.4428556081523</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FCO.SILVELA-PRINCIPE VERGARA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Francisco Silvela, 95</PostalAdress>
+    <Longitud>-3.67938936118763</Longitud>
+    <Latitud>40.4391486508744</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FCO.SILVELA-PRINCIPE VERGARA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Francisco Silvela, 120</PostalAdress>
+    <Longitud>-3.67969558410542</Longitud>
+    <Latitud>40.4399937009884</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CORAZON DE MARIA-PADRE XIFRE</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Corazón de María, 4</PostalAdress>
+    <Longitud>-3.67165838420605</Longitud>
+    <Latitud>40.4404460036042</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CORAZON DE MARIA-ALUSTANTE</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Corazón de María, 32</PostalAdress>
+    <Longitud>-3.66885661620725</Longitud>
+    <Latitud>40.4421018608522</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CLARA DEL REY-RAMOS CARRION</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Clara del Rey, 69</PostalAdress>
+    <Longitud>-3.66795649415844</Longitud>
+    <Latitud>40.4470349839051</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CLARA DEL REY-STA.HORTENSIA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Clara del Rey frente al Nº 42</PostalAdress>
+    <Longitud>-3.66851780656056</Longitud>
+    <Latitud>40.4448425562569</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CLARA DEL REY-CARDENAL SILICEO</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Clara del Rey, 39</PostalAdress>
+    <Longitud>-3.67014251801918</Longitud>
+    <Latitud>40.4427205525519</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CLARA DEL REY-ANASTASIO AROCA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Clara del Rey, 17</PostalAdress>
+    <Longitud>-3.67261163131718</Longitud>
+    <Latitud>40.4409629933653</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INTERCAMBIADOR AVENIDA DE AMERICA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Intercambiador Av. América (Dársena 12).</PostalAdress>
+    <Longitud>-3.6765268503189</Longitud>
+    <Latitud>40.438318562678</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INTERCAMBIADOR AVENIDA DE AMERICA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Intercambiador Av. América (Dársena 13).</PostalAdress>
+    <Longitud>-3.67637079235196</Longitud>
+    <Latitud>40.4384095644612</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOAQUIN COSTA-GTA.LOPEZ HOYOS</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Joaquín Costa, 36</PostalAdress>
+    <Longitud>-3.68130287846551</Longitud>
+    <Latitud>40.4409797510024</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOAQUIN COSTA-GTA.LOPEZ HOYOS</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Joaquín Costa, 61</PostalAdress>
+    <Longitud>-3.6811238928397</Longitud>
+    <Latitud>40.441318641821</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOAQUIN COSTA-PZA.REP.ARGENTINA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Joaquín Costa, 22</PostalAdress>
+    <Longitud>-3.68485572971757</Longitud>
+    <Latitud>40.4443912236677</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOAQUIN COSTA-VELAZQUEZ</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Joaquín Costa, 49</PostalAdress>
+    <Longitud>-3.68217185190496</Longitud>
+    <Latitud>40.4423394997057</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOPEZ DE HOYOS-PADRE CLARET</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>López de Hoyos, 220</PostalAdress>
+    <Longitud>-3.66514988877695</Longitud>
+    <Latitud>40.4502583443284</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.AMERICA-CORAZON DE MARIA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Av. de América, 41 con C/ Corazón de María</PostalAdress>
+    <Longitud>-3.67016508016068</Longitud>
+    <Latitud>40.4403870878412</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PRINCIPE DE VERGARA-CANILLAS</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Príncipe de Vergara, 117</PostalAdress>
+    <Longitud>-3.67901352185468</Longitud>
+    <Latitud>40.440763468489</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.DE CATALUÑA Nº 4</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Pza. de Cataluña, 4</PostalAdress>
+    <Longitud>-3.67846146236733</Longitud>
+    <Latitud>40.4486135475874</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DOCTOR ARCE-VELAZQUEZ</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Doctor Arce, 10</PostalAdress>
+    <Longitud>-3.68285630349324</Longitud>
+    <Latitud>40.4458940221104</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOAQUIN COSTA-PZA.REP.ARGENTINA</Name>
+    <PostalCode>28002</PostalCode>
+    <PostalAdress>Joaquín Costa, 37</PostalAdress>
+    <Longitud>-3.68461300917387</Longitud>
+    <Latitud>40.444694460612</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+</ArrayOfPapelera>

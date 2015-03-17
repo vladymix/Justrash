@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPapelera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Papelera>
+    <Name>Cº VIEJO DE VICALVARO-PZA.ALOSNO</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Cº Viejo de Vicálvaro S/N con Pza. Alosno.</PostalAdress>
+    <Longitud>-3.61774788842412</Longitud>
+    <Latitud>40.40557476595</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº VIEJO DE VICALVARO-PZA.ALOSNO</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Cº Viejo de Vicalvaro S/N con Pza. Alosno.</PostalAdress>
+    <Longitud>-3.61810422802024</Longitud>
+    <Latitud>40.4058791739927</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº VIEJO DE VICALVARO-PZA.ALOSNO</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Cº Viejo de Vicálvaro, 7</PostalAdress>
+    <Longitud>-3.61630760686802</Longitud>
+    <Latitud>40.4055058601618</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DAROCA-CASALARREINA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Av. de Daroca, 302.</PostalAdress>
+    <Longitud>-3.61484285161397</Longitud>
+    <Latitud>40.4075271733215</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DAROCA-CASALARREINA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Av. de Daroca, 305.</PostalAdress>
+    <Longitud>-3.61465698867279</Longitud>
+    <Latitud>40.4078254592811</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DAROCA-CALAHORRA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Av. de Daroca, 320.</PostalAdress>
+    <Longitud>-3.61309942449698</Longitud>
+    <Latitud>40.4063201873442</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DAROCA Nº 338</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Av. de Daroca, 338 (Gasolinera).</PostalAdress>
+    <Longitud>-3.61037175645157</Longitud>
+    <Latitud>40.4044336740483</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN CIPRIANO-JARDIN DE LA DUQUESA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>San Cipriano, 31.</PostalAdress>
+    <Longitud>-3.60466591657613</Longitud>
+    <Latitud>40.4042293592631</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PUERTA DE ARGANDA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Area Intermodal Pta. de Arganda.</PostalAdress>
+    <Longitud>-3.5961196493523</Longitud>
+    <Latitud>40.4013186665673</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN CIPRIANO-Pº ARTILLEROS</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>San Cipriano S/N con Pº de los Artilleros (C.Comercial)</PostalAdress>
+    <Longitud>-3.60849776251909</Longitud>
+    <Latitud>40.4044165051064</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº ARTILLEROS-VILLACARLOS</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Pº Artilleros S/N con C/ Villacarlos.</PostalAdress>
+    <Longitud>-3.60900632827252</Longitud>
+    <Latitud>40.4059273591272</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CALAHORRA Nº 12</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Calahorra, 12.</PostalAdress>
+    <Longitud>-3.61117904933398</Longitud>
+    <Latitud>40.4078618786424</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CALAHORRA-AV.DAROCA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Calahorra, 112</PostalAdress>
+    <Longitud>-3.61322600443653</Longitud>
+    <Latitud>40.4072834891308</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CANILLEJAS A VICALVARO-TOSCANA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Av. Canillejas a Vicálvaro S/N con C/ Toscana</PostalAdress>
+    <Longitud>-3.611179867796</Longitud>
+    <Latitud>40.4195376313583</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº ARTILLEROS-CALAHORRA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Pº Artilleros, 10.</PostalAdress>
+    <Longitud>-3.60972232268057</Longitud>
+    <Latitud>40.4082209089954</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CASALARREINA-AV.DAROCA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Casalarreina, 21</PostalAdress>
+    <Longitud>-3.6138403577642</Longitud>
+    <Latitud>40.4087487154443</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CASALARREINA-Pº ARTILLEROS</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Casalarreina, 3.</PostalAdress>
+    <Longitud>-3.61071122602052</Longitud>
+    <Latitud>40.4094048984669</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CORDEL DE PAVONES-LOS JUGLARES</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Cordel de Pavones, 8-A</PostalAdress>
+    <Longitud>-3.61813800884566</Longitud>
+    <Latitud>40.4018339145343</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CORDEL DE PAVONES-LOS PINILLAS</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Cordel de Pavones, 34</PostalAdress>
+    <Longitud>-3.61923328055532</Longitud>
+    <Latitud>40.3991793927073</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CORDEL DE PAVONES-JOSE PRAT</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Cordel de Pavones S/N con Bulevar José Prat</PostalAdress>
+    <Longitud>-3.61986653925261</Longitud>
+    <Latitud>40.3975543693001</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOSE PRAT-AV.DEMOCRACIA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Bulevar de José Prat. (Centro Comercial)</PostalAdress>
+    <Longitud>-3.61768078077509</Longitud>
+    <Latitud>40.3969263981038</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOSE PRAT-AV.DEMOCRACIA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Bulevar de José Prat frente al Centro Comercial</PostalAdress>
+    <Longitud>-3.61795892837276</Longitud>
+    <Latitud>40.3962537370818</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOSE PRAT-INDALECIO PRIETO</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Bulevar de José Prat, 21</PostalAdress>
+    <Longitud>-3.62194397004887</Longitud>
+    <Latitud>40.3979306260233</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOSE PRAT-INDALECIO PRIETO</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Bulevar de José Prat, 24</PostalAdress>
+    <Longitud>-3.62223844245512</Longitud>
+    <Latitud>40.3972353445173</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INDALECIO PRIETO-LOS PINILLAS</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Indalecio Prieto con Pza. Juán Rof Carballo</PostalAdress>
+    <Longitud>-3.62140665106483</Longitud>
+    <Latitud>40.3998524460189</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INDALECIO PRIETO-LOS PINILLAS</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Indalecio Prieto, 28 (Centro de Salud)</PostalAdress>
+    <Longitud>-3.62184689890298</Longitud>
+    <Latitud>40.400192429087</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INDALECIO PRIETO-LOS JUGLARES</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Indalecio Prieto con  Pza. Juán Carlos Onetti</PostalAdress>
+    <Longitud>-3.62054312525963</Longitud>
+    <Latitud>40.4019471834418</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INDALECIO PRIETO-LOS JUGLARES</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Indalecio Prieto con Pza. Rosa Chacel</PostalAdress>
+    <Longitud>-3.62114419892874</Longitud>
+    <Latitud>40.4019529712278</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>TREN DE ARGANDA-INDALECIO PRIETO</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Tren de Arganda frente al Nº 12</PostalAdress>
+    <Longitud>-3.61927603582707</Longitud>
+    <Latitud>40.4038143401624</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CALAHORRA-GALLO</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Calahorra frente al Nº 31</PostalAdress>
+    <Longitud>-3.61494572868224</Longitud>
+    <Latitud>40.405837424456</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MEDITERRANEO-AV.DEMOCRACIA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Av. del Mediterráneo con Av. Democracia(Gasolinera)</PostalAdress>
+    <Longitud>-3.62414960211738</Longitud>
+    <Latitud>40.3917565411088</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CEMENTERIO DE LA ALMUDENA PARADA 5</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Cementerio de la Almudena, Parada 5</PostalAdress>
+    <Longitud>-3.63556454376699</Longitud>
+    <Latitud>40.4178298165795</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOSE PRAT-LADERA DE LOS ALMENDROS</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Bulevar de José Prat antes de C/ Ladera Almendros</PostalAdress>
+    <Longitud>-3.62573898343921</Longitud>
+    <Latitud>40.3979912714515</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOSE PRAT-LADERA DE LOS ALMENDROS</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Bulevar de José Prat con C/ Ladera Almendros</PostalAdress>
+    <Longitud>-3.62574664158526</Longitud>
+    <Latitud>40.3988200664967</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INDALECIO PRIETO-JOSE PRAT</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Bulevar Indalecio Prieto con Bulevar José Prat</PostalAdress>
+    <Longitud>-3.62217773517747</Longitud>
+    <Latitud>40.3977221616383</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOSE PRAT-INDALECIO PRIETO</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Bulevar José Prat, 15</PostalAdress>
+    <Longitud>-3.62291220031412</Longitud>
+    <Latitud>40.3981416421071</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INDALECIO PRIETO-PZA.DAVILAS</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Bulevar de Indalecio Prieto con C/ de los Juglares</PostalAdress>
+    <Longitud>-3.62000040639076</Longitud>
+    <Latitud>40.4031663160101</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AQUITANIA-NUREMBERG</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Aquitania con C/ Nuremberg</PostalAdress>
+    <Longitud>-3.61748027877743</Longitud>
+    <Latitud>40.4189546650351</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.DE LA VICALVARADA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Pza. de la Vicalvarada con Pº de los Artilleros</PostalAdress>
+    <Longitud>-3.6101688511737</Longitud>
+    <Latitud>40.4093807292405</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MINERVA-AV.DE LAS COMUNIDADES</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Minerva con Av. de las Comunidades</PostalAdress>
+    <Longitud>-3.60832181101146</Longitud>
+    <Latitud>40.3943002157825</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MINERVA-AV.DE LAS COMUNIDADES</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Minerva con Av. de las Comunidades</PostalAdress>
+    <Longitud>-3.60870249157827</Longitud>
+    <Latitud>40.3944153346591</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VILLABLANCA-GRAN VIA DEL ESTE</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Villablanca, 70</PostalAdress>
+    <Longitud>-3.59588345078006</Longitud>
+    <Latitud>40.403855941329</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VILLABLANCA-Pº DEL POLIDEPORTIVO</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Villablanca con Pº del Polideportivo</PostalAdress>
+    <Longitud>-3.59615625089088</Longitud>
+    <Latitud>40.4043049924444</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN CIPRIANO-GRAN VIA DEL ESTE</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>San Cipriano con Av. Gran Vía del Este</PostalAdress>
+    <Longitud>-3.59637274783039</Longitud>
+    <Latitud>40.4019570097284</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAN VIA DEL ESTE-RIVAS</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Gran Vía del Este con C/ Rivas</PostalAdress>
+    <Longitud>-3.59469797169093</Longitud>
+    <Latitud>40.4031458097287</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RIVAS-VILLABLANCA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Rivas con C/ Villablanca</PostalAdress>
+    <Longitud>-3.59438058350027</Longitud>
+    <Latitud>40.4032375293826</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CANILLEJAS A VICALVARO-AQUITANIA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Av. de Canillejas a Vicalvaro con C/ Aquitania.</PostalAdress>
+    <Longitud>-3.61148197221001</Longitud>
+    <Latitud>40.4216621754259</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AQUITANIA-TOSCANA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Aquitania, 46.</PostalAdress>
+    <Longitud>-3.61248501381046</Longitud>
+    <Latitud>40.420760474754</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.GUADALAJARA-SAN ROMAN DEL VALLE</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Av Guadalajara, 35 con San Roman del Valle</PostalAdress>
+    <Longitud>-3.62013996689814</Longitud>
+    <Latitud>40.4196882086186</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.GUADALAJARA-ALBERICIA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Av. de Guadalajara, 103</PostalAdress>
+    <Longitud>-3.61296649291395</Longitud>
+    <Latitud>40.4223885676508</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN CIPRIANO-Pº ARTILLEROS</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>San Cipriano con Pº de los Artilleros y C/Lago Sanabria</PostalAdress>
+    <Longitud>-3.60847176466056</Longitud>
+    <Latitud>40.4041463690446</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº ARTILLEROS-VILLACARLOS</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Pº Artilleros frente a C/ Villacarlos</PostalAdress>
+    <Longitud>-3.60940944599753</Longitud>
+    <Latitud>40.4061955117852</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº ARTILLEROS-PZA.VICALVARADA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Pº Artilleros, 1</PostalAdress>
+    <Longitud>-3.60942640418647</Longitud>
+    <Latitud>40.4089386879657</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DAROCA-CALAHORRA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Av. de Daroca frente al Nº 318</PostalAdress>
+    <Longitud>-3.61311430947369</Longitud>
+    <Latitud>40.4066624536979</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN CIPRIANO-JARDIN DE LA DUQUESA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>San Cipriano frente al Nº 31</PostalAdress>
+    <Longitud>-3.60455752286717</Longitud>
+    <Latitud>40.4039686613899</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN CIPRIANO-CAÑOS DE SAN PEDRO</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>San Cipriano frente al Nº 53</PostalAdress>
+    <Longitud>-3.60202288769616</Longitud>
+    <Latitud>40.4038737511982</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN CIPRIANO-CAÑOS DE SAN PEDRO</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>San Cipriano, 51</PostalAdress>
+    <Longitud>-3.60220181862336</Longitud>
+    <Latitud>40.4041160666644</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VILLABLANCA-LAGO VAN</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Villablanca, 20</PostalAdress>
+    <Longitud>-3.60639807187663</Longitud>
+    <Latitud>40.4081482665337</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VILLABLANCA-LAGO VAN</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Villablanca, 15</PostalAdress>
+    <Longitud>-3.60698174242126</Longitud>
+    <Latitud>40.4087127819886</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VILLABLANCA-JARDIN DE LA DUQUESA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Villablanca frente al Nº 57</PostalAdress>
+    <Longitud>-3.60297945586582</Longitud>
+    <Latitud>40.4067426752328</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VILLABLANCA Nº 43</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Villablanca, 43</PostalAdress>
+    <Longitud>-3.60424833132915</Longitud>
+    <Latitud>40.4076189542306</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VILLABLANCA-SEPIOLITA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Villablanca frente al Nº 79</PostalAdress>
+    <Longitud>-3.60007900923634</Longitud>
+    <Latitud>40.4055685356702</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VILLABLANCA-SEPIOLITA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Villablanca, 79  con C/ Sepiolita</PostalAdress>
+    <Longitud>-3.59980066686486</Longitud>
+    <Latitud>40.4057861951494</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº ARTILLEROS-AV.DAROCA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Pº Artilleros S/N con Av. Daroca</PostalAdress>
+    <Longitud>-3.60930097949325</Longitud>
+    <Latitud>40.4046194924201</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº ARTILLEROS-SAN CIPRIANO</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Pº Artilleros, 35 con San Cipriano</PostalAdress>
+    <Longitud>-3.60887916312839</Longitud>
+    <Latitud>40.4048919827551</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FORGES-EFIGENIA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Forges, 15</PostalAdress>
+    <Longitud>-3.60120439210886</Longitud>
+    <Latitud>40.4048915240591</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FORGES-EFIGENIA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Forges frente al Nº 15</PostalAdress>
+    <Longitud>-3.60114632696024</Longitud>
+    <Latitud>40.4046981299698</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FORGES-JARDIN DE LA DUQUESA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Forges, 3</PostalAdress>
+    <Longitud>-3.60267806354032</Longitud>
+    <Latitud>40.4054874760582</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FORGES-JARDIN DE LA DUQUESA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Forges, 2</PostalAdress>
+    <Longitud>-3.60267240136672</Longitud>
+    <Latitud>40.405347864667</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CASALARREINA-GALLO</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Casalarreina con C/ Gallo</PostalAdress>
+    <Longitud>-3.61661640319365</Longitud>
+    <Latitud>40.4063330524971</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CANILLEJAS A VICALVARO-M40</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Av. de Canillejas a Vicálvaro S/N con M-40 (Pasada)</PostalAdress>
+    <Longitud>-3.61080226516931</Longitud>
+    <Latitud>40.4168819488731</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CANILLEJAS A VICALVARO-M40</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Av. de Canillejas a Vicálvaro S/N antes de M-40</PostalAdress>
+    <Longitud>-3.6106142458542</Longitud>
+    <Latitud>40.416946003575</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.ALSACIA-MALMOE</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Pza. de Alsacia S/N con C/ Malmoe</PostalAdress>
+    <Longitud>-3.62332296376312</Longitud>
+    <Latitud>40.4169999373534</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AQUITANIA-CAPRI</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Aquitania frente al Nº 7</PostalAdress>
+    <Longitud>-3.61998971950655</Longitud>
+    <Latitud>40.4180448591914</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AQUITANIA-REPUBLICA ESLOVACA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Aquitania, 26</PostalAdress>
+    <Longitud>-3.61575371947291</Longitud>
+    <Latitud>40.4195584538931</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DAROCA-Pº ARTILLEROS</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Av. Daroca S/N frente al Nº 336 Gasolinera Universidad</PostalAdress>
+    <Longitud>-3.61048025451894</Longitud>
+    <Latitud>40.4047033749361</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.GUADALAJARA-PZA.ALSACIA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Av. de Guadalajara S/N con Pza. de Alsacia</PostalAdress>
+    <Longitud>-3.62290014925604</Longitud>
+    <Latitud>40.4186869064352</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FTE.CARRANTONA-AV.DAROCA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Fuente Carrantona con Av. de Daroca</PostalAdress>
+    <Longitud>-3.62621390481664</Longitud>
+    <Latitud>40.4162140697076</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INDALECIO PRIETO-JOSE PRAT</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Bulevar Indalecio Prieto con Bulevar José Prat</PostalAdress>
+    <Longitud>-3.62282640198733</Longitud>
+    <Latitud>40.3977817396989</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>COPERNICO-LADERA DE LOS ALMENDROS</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Copérnico S/N (frente a farola 3)</PostalAdress>
+    <Longitud>-3.62525871925726</Longitud>
+    <Latitud>40.3957506002075</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>COPERNICO-LADERA DE LOS ALMENDROS</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Copérnico S/N con C/ Ladera Almendros (frente farola 2)</PostalAdress>
+    <Longitud>-3.62537871253324</Longitud>
+    <Latitud>40.3959841889911</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INDALECIO PRIETO-COPERNICO</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Bulevar de Indalecio Prieto, 47 (farola 93)</PostalAdress>
+    <Longitud>-3.62299546184293</Longitud>
+    <Latitud>40.3956636933878</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INDALECIO PRIETO-COPERNICO</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Bulevar de Indalecio Prieto, 48</PostalAdress>
+    <Longitud>-3.62360950693221</Longitud>
+    <Latitud>40.3958045351575</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOS JUGLARES-INDALECIO PRIETO</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Juglares, 16</PostalAdress>
+    <Longitud>-3.61976051403466</Longitud>
+    <Latitud>40.4027081362714</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>TREN ARGANDA-INDALECIO PRIETO</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Tren de Arganda frente al Nº 12</PostalAdress>
+    <Longitud>-3.61947695134573</Longitud>
+    <Latitud>40.4039168704209</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAN VIA DEL ESTE-SAN CIPRIANO</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Gran Vía del Este con C/ San Cipriano</PostalAdress>
+    <Longitud>-3.5963872077604</Longitud>
+    <Latitud>40.4026371218444</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAN VIA DEL ESTE-SAN CIPRIANO</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Gran Vía del Este S/N con C/ San Cipriano</PostalAdress>
+    <Longitud>-3.59621119662795</Longitud>
+    <Latitud>40.4024308186118</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MINERVA-RIVAS</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Minerva frente al Nº 21</PostalAdress>
+    <Longitud>-3.59943402334122</Longitud>
+    <Latitud>40.4029772569054</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MINERVA-SAN CIPRIANO</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Minerva S/N con C/ San Cipriano</PostalAdress>
+    <Longitud>-3.5989562095401</Longitud>
+    <Latitud>40.4030427917728</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MINERVA-OMEGA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Minerva frente al Nº 57</PostalAdress>
+    <Longitud>-3.60231823768175</Longitud>
+    <Latitud>40.3999802881507</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MINERVA-OMEGA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Minerva, 55</PostalAdress>
+    <Longitud>-3.60182459745867</Longitud>
+    <Latitud>40.4001269990004</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MINERVA-CALIZA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Minerva S/N frente al Nº 81</PostalAdress>
+    <Longitud>-3.60492808758319</Longitud>
+    <Latitud>40.3979576619146</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MINERVA-CALIZA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Minerva, 81</PostalAdress>
+    <Longitud>-3.60413955882678</Longitud>
+    <Latitud>40.3980698856296</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MINERVA-MOLINO VIEJO</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Minerva S/N con C/ Molino Viejo</PostalAdress>
+    <Longitud>-3.60631903024886</Longitud>
+    <Latitud>40.3966891170878</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARMOLINA-CAMPO DE LA TORRE</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Marmolina con C/ Campo de la Torre</PostalAdress>
+    <Longitud>-3.60696404509737</Longitud>
+    <Latitud>40.3976587222973</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN CIPRIANO-MINERVA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>San Cipriano con C/ Minerva</PostalAdress>
+    <Longitud>-3.599263223981</Longitud>
+    <Latitud>40.4033610268754</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN CIPRIANO-MINERVA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>San Cipriano con C/ Minerva</PostalAdress>
+    <Longitud>-3.59916710883228</Longitud>
+    <Latitud>40.4035281921762</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CALAHORRA-Pº ARTILLEROS</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Calahorra frente al Nº 2</PostalAdress>
+    <Longitud>-3.60984528443436</Longitud>
+    <Latitud>40.40776530317</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>TREN DE ARGANDA-CORDEL DE PAVONES</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Tren de Arganda S/N con C/ Cordel de Pavones</PostalAdress>
+    <Longitud>-3.61790390255015</Longitud>
+    <Latitud>40.4033396809984</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.COMUNIDADES-CENTRO DE TRANSFUSION</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Av. Comunidades S/N frente Centro Transfusión</PostalAdress>
+    <Longitud>-3.61477032000742</Longitud>
+    <Latitud>40.3956445691687</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV. DE LAS COMUNIDADES S/N</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Av. Comunidades  S/N</PostalAdress>
+    <Longitud>-3.61247943775533</Longitud>
+    <Latitud>40.3951071479573</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV. DE LAS COMUNIDADES S/N</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Av. Comunidades  S/N</PostalAdress>
+    <Longitud>-3.61236486604619</Longitud>
+    <Latitud>40.3954681175996</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MINERVA-MOLINO VIEJO</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Minerva, 101</PostalAdress>
+    <Longitud>-3.60617023470786</Longitud>
+    <Latitud>40.3963160180614</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MINERVA-MOLINO VIEJO</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Minerva frente al Nº 101</PostalAdress>
+    <Longitud>-3.60691545547573</Longitud>
+    <Latitud>40.3961814846342</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.COMUNIDADES-CENTRO TRANSFUSION</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Av. Comunidades Centro de Transfusión</PostalAdress>
+    <Longitud>-3.61546085907259</Longitud>
+    <Latitud>40.3964246942757</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CORDEL DE PAVONES-LOS PINILLAS</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Cordel de Pavones frente al Nº 38</PostalAdress>
+    <Longitud>-3.61911124367198</Longitud>
+    <Latitud>40.3987205812447</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CORDEL DE PAVONES-LOS JUGLARES</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Cordel de Pavones frente al Nº 12-B</PostalAdress>
+    <Longitud>-3.61792301731765</Longitud>
+    <Latitud>40.4015197433939</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JARDIN DE LA DUQUESA-SAN CIRIACO</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Jardín de la Duquesa con C/ San Ciriaco.</PostalAdress>
+    <Longitud>-3.60313091119804</Longitud>
+    <Latitud>40.4057598965235</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.DE ALSACIA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Plaza de Alsacia (Área Intermodal)</PostalAdress>
+    <Longitud>-3.62378227572512</Longitud>
+    <Latitud>40.4175965674905</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.DE ALSACIA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Plaza de Alsacia (Área Intermodal)</PostalAdress>
+    <Longitud>-3.62321678510012</Longitud>
+    <Latitud>40.4178698832209</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTRA.VICALVARO A EST.ODONNELL</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Carretera de Vicálvaro a Estación de O' Donnell, 13.</PostalAdress>
+    <Longitud>-3.5911434099867</Longitud>
+    <Latitud>40.4052631191389</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ABAD JUAN CATALAN</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Abad Juan Catalán, 26</PostalAdress>
+    <Longitud>-3.59303622077629</Longitud>
+    <Latitud>40.4057444412473</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PUERTA DE ARGANDA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Area Intermodal Pta. de Arganda.</PostalAdress>
+    <Longitud>-3.59635350739446</Longitud>
+    <Latitud>40.4016958450377</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PUERTA DE ARGANDA</Name>
+    <PostalCode>28032</PostalCode>
+    <PostalAdress>Area Intermodal Pta. de Arganda</PostalAdress>
+    <Longitud>-3.59634678772822</Longitud>
+    <Latitud>40.401434615885</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+</ArrayOfPapelera>

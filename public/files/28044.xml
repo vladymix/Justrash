@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPapelera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Papelera>
+    <Name>RONDA DON BOSCO-PZA.PARTERRE</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Ronda de Don Bosco con Pza. de Parterre</PostalAdress>
+    <Longitud>-3.75139312907663</Longitud>
+    <Latitud>40.3758116534491</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RONDA DON BOSCO-PARAGUAYA</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Ronda de Don Bosco, 20</PostalAdress>
+    <Longitud>-3.75338308134796</Longitud>
+    <Latitud>40.3746725891896</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOAQUIN TURINA-POLVORANCA</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Joaquín Turina, 42</PostalAdress>
+    <Longitud>-3.75461514681613</Longitud>
+    <Latitud>40.3721240041331</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOAQUIN TURINA-POLVORANCA</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Joaquín Turina, 37</PostalAdress>
+    <Longitud>-3.75454825781545</Longitud>
+    <Latitud>40.3719352490147</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOAQUIN TURINA-NAVALMORALES</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Joaquín Turina, 64</PostalAdress>
+    <Longitud>-3.75880787151452</Longitud>
+    <Latitud>40.3722857995428</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOAQUIN TURINA-NAVALMORALES</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Joaquín Turina frente al Nº 68</PostalAdress>
+    <Longitud>-3.7590703081954</Longitud>
+    <Latitud>40.3721849797088</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.MILLAN ASTRAY-GRAL.SALIQUET</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>General Millán Astray, 53</PostalAdress>
+    <Longitud>-3.76529657040331</Longitud>
+    <Latitud>40.3750269097525</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.MILLAN ASTRAY-GRAL.SALIQUET</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>General Millán Astray frente al Nº 59</PostalAdress>
+    <Longitud>-3.7654893847228</Longitud>
+    <Latitud>40.3743679722045</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.MILLAN ASTRAY-GRAL.R.BASART</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>General Millán Astray, 21</PostalAdress>
+    <Longitud>-3.76630638371324</Longitud>
+    <Latitud>40.3775698022125</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.MILLAN ASTRAY-GRAL.R.BASART</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>General Millán Astray, 30</PostalAdress>
+    <Longitud>-3.76649062582181</Longitud>
+    <Latitud>40.377487501161</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.ROMERO BASART-JOSE DE CADALSO</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>General Romero Basart, 125</PostalAdress>
+    <Longitud>-3.76881221129416</Longitud>
+    <Latitud>40.3775622023136</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.ROMERO BASART-JOSE DE CADALSO</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>General Romero Basart, 78</PostalAdress>
+    <Longitud>-3.76932662256668</Longitud>
+    <Latitud>40.3772164409894</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.ROMERO BASART-RAFAEL FINAT</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Gral. Romero Basart, 83 con Rafael Finat</PostalAdress>
+    <Longitud>-3.77239233482866</Longitud>
+    <Latitud>40.3779482914937</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.ROMERO BASART-RAFAEL FINAT</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Gral. Romero Basart frente al Nº 83.</PostalAdress>
+    <Longitud>-3.77266752829618</Longitud>
+    <Latitud>40.3779329420137</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>OLIVA DE PLASENCIA-GRAL.R.BASART</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Oliva de Plasencia frente al Nº 24</PostalAdress>
+    <Longitud>-3.77511150994116</Longitud>
+    <Latitud>40.3793400429251</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>OLIVA DE PLASENCIA Nº 25</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Oliva de Plasencia, 25</PostalAdress>
+    <Longitud>-3.77738337112866</Longitud>
+    <Latitud>40.3791176050286</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MIRABEL-PZA.CUACOS DE YUSTE</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Mirabel, 36 con Pza. Cuacos de Yuste</PostalAdress>
+    <Longitud>-3.78015154613165</Longitud>
+    <Latitud>40.3788692571162</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MIRABEL-PZA.CUACOS DE YUSTE</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Mirabel frente al Nº 36 con Pza. Cuacos de Yuste</PostalAdress>
+    <Longitud>-3.78036000851253</Longitud>
+    <Latitud>40.378845329797</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.GRAL.FANJUL -EST.RENFE AGUILAS</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Av. General Fanjul (Estación Cercanías Aguilas)</PostalAdress>
+    <Longitud>-3.77986669646112</Longitud>
+    <Latitud>40.3810198394382</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.GRAL.FANJUL -EST.RENFE AGUILAS</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>General Fanjul, 110</PostalAdress>
+    <Longitud>-3.78046234417128</Longitud>
+    <Latitud>40.3815924067783</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.GENERAL FANJUL</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>General Fanjul S/N (Cabecera)</PostalAdress>
+    <Longitud>-3.77750892776192</Longitud>
+    <Latitud>40.3819095742676</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>OLIVA DE PLASENCIA Nº 28</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Oliva de Plasencia frente al Nº 27</PostalAdress>
+    <Longitud>-3.77583312648904</Longitud>
+    <Latitud>40.3793442195531</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.ROMERO BASART-OLIVA PLASENCIA</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Gral. Romero Basart, 46 con C/ Oliva de Plasencia</PostalAdress>
+    <Longitud>-3.77454812133559</Longitud>
+    <Latitud>40.3789429088084</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EUGENIA DE MONTIJO-PZA.EMPERATRIZ</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Eugenia de Montijo, 101 (Pza. Emperatriz)</PostalAdress>
+    <Longitud>-3.75106809378965</Longitud>
+    <Latitud>40.3741200531168</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EUGENIA DE MONTIJO-PZA.EMPERATRIZ</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Eugenia de montijo, 114 (Pza.Emperatriz)</PostalAdress>
+    <Longitud>-3.75121822741514</Longitud>
+    <Latitud>40.3743803429748</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EUGENIA DE MONTIJO-PZA.PARTERRE</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Eugenia de Montijo, 87</PostalAdress>
+    <Longitud>-3.75079657891271</Longitud>
+    <Latitud>40.3751308317012</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EUGENIA DE MONTIJO-PZA.PARTERRE</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Eugenia de Montijo, 100 (Pza. Parterre)</PostalAdress>
+    <Longitud>-3.75104613788593</Longitud>
+    <Latitud>40.3753274134996</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RAFAEL FINAT-AV.GRAL.FANJUL</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Rafael Finat, 2</PostalAdress>
+    <Longitud>-3.7652534210864</Longitud>
+    <Latitud>40.3837209547469</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RAFAEL FINAT-AV.GRAL.FANJUL</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Rafael Finat, 3</PostalAdress>
+    <Longitud>-3.76444259295593</Longitud>
+    <Latitud>40.3839064916066</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RAFAEL FINAT Nº 36</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Rafael Finat, 36</PostalAdress>
+    <Longitud>-3.76779769509044</Longitud>
+    <Latitud>40.381595990358</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RAFAEL FINAT Nº 31</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Rafael Finat, 31</PostalAdress>
+    <Longitud>-3.76750529617302</Longitud>
+    <Latitud>40.3815889196226</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RAFAEL FINAT-JOSE DE CADALSO</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Rafael Finat, 46</PostalAdress>
+    <Longitud>-3.77081945259137</Longitud>
+    <Latitud>40.378999320287</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RAFAEL FINAT-JOSE DE CADALSO</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Rafael Finat, 64</PostalAdress>
+    <Longitud>-3.77027942724449</Longitud>
+    <Latitud>40.3791650770289</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.ROMERO BASART-O.PLASENCIA</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Gral. Romero Basart, 57</PostalAdress>
+    <Longitud>-3.77462852109567</Longitud>
+    <Latitud>40.37963156521</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.ROMERO BASART-O.PLASENCIA</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Gral. Romero Basart, 48</PostalAdress>
+    <Longitud>-3.77419643844276</Longitud>
+    <Latitud>40.378837151665</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.ROMERO BASART-GRAL.FANJUL</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>General Romero Basart con Av. General Fanjul</PostalAdress>
+    <Longitud>-3.7755404903293</Longitud>
+    <Latitud>40.38182367464</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.ROMERO BASART-GRAL.FANJUL</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Gral. Romero Basart S/N con Av. de General Fanjul</PostalAdress>
+    <Longitud>-3.77541152643337</Longitud>
+    <Latitud>40.3818785927096</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VIDAUBA-DAMASQUILLO</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Vidauba S/N con C/ Damasquillo</PostalAdress>
+    <Longitud>-3.76403171643143</Longitud>
+    <Latitud>40.3837110036699</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VIDAUBA Nº 14</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Vidauba, 14</PostalAdress>
+    <Longitud>-3.76315547098573</Longitud>
+    <Latitud>40.3815546040844</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.ROMERO BASART-CASUARINA</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>General Romero Basart S/N esquina C/ Casuarina</PostalAdress>
+    <Longitud>-3.76499666552806</Longitud>
+    <Latitud>40.3784928831742</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.AVIACION-MONROY</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Av. de la Aviación frente a C/ Monroy</PostalAdress>
+    <Longitud>-3.78381055366781</Longitud>
+    <Latitud>40.3779481450629</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.AVIACION-MONROY</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Av. de la Aviación con C/ Monroy</PostalAdress>
+    <Longitud>-3.78373328256405</Longitud>
+    <Latitud>40.3781423631451</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RAFAEL FINAT-OSA DE LA VEGA</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Rafael Finat, 117</PostalAdress>
+    <Longitud>-3.77292607250497</Longitud>
+    <Latitud>40.3752645291805</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RAFAEL FINAT-OSA DE LA VEGA</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Rafael Finat, 62.</PostalAdress>
+    <Longitud>-3.77308800199883</Longitud>
+    <Latitud>40.375389575403</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.GRAL.FANJUL-JOSE CADALSO</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Av. General Fanjul, 55</PostalAdress>
+    <Longitud>-3.77147714414224</Longitud>
+    <Latitud>40.3829589326589</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.GRAL.FANJUL-JOSE CADALSO</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Av. General Fanjul frente al Nº 63.</PostalAdress>
+    <Longitud>-3.77225775305929</Longitud>
+    <Latitud>40.3829672430147</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.GRAL.FANJUL-EST.RENFE FANJUL</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Av. General Fanjul, 25</PostalAdress>
+    <Longitud>-3.76807555914606</Longitud>
+    <Latitud>40.3836977659011</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.GRAL.FANJUL-EST.RENFE FANJUL</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Av. General Fanjul frente al Nº 25</PostalAdress>
+    <Longitud>-3.7681328240068</Longitud>
+    <Latitud>40.3838775674547</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.POBLADOS-INTERCAMBIADOR ALUCHE</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Av.de los Poblados S/N con Rafael Finat(Metro Aluche)</PostalAdress>
+    <Longitud>-3.76087129627859</Longitud>
+    <Latitud>40.3848219100316</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.POBLADOS-COMISARIA</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Av. de los Poblados S/N frente a Comisaría</PostalAdress>
+    <Longitud>-3.75779828338099</Longitud>
+    <Latitud>40.3818420388191</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.POBLADOS-PARQUE EUGENIA MONTIJO</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Av. de los Poblados S/N con Parque Eugenia de Montijo</PostalAdress>
+    <Longitud>-3.75591037454563</Longitud>
+    <Latitud>40.3784129091276</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RONDA DON BOSCO-PARAGUAYA</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Ronda Don Bosco, 18.</PostalAdress>
+    <Longitud>-3.75305313257108</Longitud>
+    <Latitud>40.3752918577064</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº DE LAS CRUCES-MASCARAQUE</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Cº de las Cruces, 20</PostalAdress>
+    <Longitud>-3.75571240466114</Longitud>
+    <Latitud>40.3745267808871</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº DE LAS CRUCES-JOSE JORDAN</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Cº de las Cruces, 44</PostalAdress>
+    <Longitud>-3.75743167983573</Longitud>
+    <Latitud>40.3727948129722</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.ROMERO BASART-CASUARINA</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>General Romero Basart S/N frente C/ Casuarina</PostalAdress>
+    <Longitud>-3.7649247909108</Longitud>
+    <Latitud>40.3783221854512</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VIDAUBA-RODRIGO DE ARANA</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Vidauba S/N frente C/ Rodrigo de Arana</PostalAdress>
+    <Longitud>-3.76281191673016</Longitud>
+    <Latitud>40.3813856952269</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VIDAUBA-DAMASQUILLO</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Vidauba S/N frente C/ Damasquillo</PostalAdress>
+    <Longitud>-3.76376784584733</Longitud>
+    <Latitud>40.3836226536284</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RAFAEL FINAT-JUNTA MUNICIPAL LATINA</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Rafael Finat S/N con Av. de los Poblados</PostalAdress>
+    <Longitud>-3.76288289293803</Longitud>
+    <Latitud>40.3848762433062</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SALORINO-NAVALMORAL DE LA MATA</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Salorino con C/ Navalmoral de la Mata</PostalAdress>
+    <Longitud>-3.77786744132681</Longitud>
+    <Latitud>40.3772224485747</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.SALIQUET-RAFAEL FINAT</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>General Saliquet frente 18</PostalAdress>
+    <Longitud>-3.77316055457124</Longitud>
+    <Latitud>40.376650362226</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.SALIQUET-ALDEANUEVA DE LA VERA</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Gral. Saliquet con C/ Aldeanueva de la Vera</PostalAdress>
+    <Longitud>-3.77581575558362</Longitud>
+    <Latitud>40.3770560306958</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CARABANCHEL ALTO-GOMEZ ARTECHE</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Av. de Carabanchel Alto, 66.</PostalAdress>
+    <Longitud>-3.75330794847152</Longitud>
+    <Latitud>40.3698351952332</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALFREDO ALEIX-PROGRESO</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Alfredo Aleix, 20.</PostalAdress>
+    <Longitud>-3.75465180970414</Longitud>
+    <Latitud>40.3687723819445</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALFREDO ALEIX-GOMEZ ARTECHE</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Alfredo Aleix, 52.</PostalAdress>
+    <Longitud>-3.75807535610829</Longitud>
+    <Latitud>40.3681419089945</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº DE LAS CRUCES-MARIANISTAS</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Cº de las Cruces frente al Nº 23 , con C/ Marianistas</PostalAdress>
+    <Longitud>-3.76035320902114</Longitud>
+    <Latitud>40.3692035633013</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARIANISTAS-GOMEZ ARTECHE</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Marianistas, 1 con C/ Gómez de Arteche</PostalAdress>
+    <Longitud>-3.75803744336857</Longitud>
+    <Latitud>40.3684709891952</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GOMEZ ARTECHE-ALZINA</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Gómez de Arteche, 31</PostalAdress>
+    <Longitud>-3.75590736231371</Longitud>
+    <Latitud>40.3692011349955</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GOMEZ ARTECHE-AV.CARABANCHEL ALTO</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Gómez de Arteche, 1.</PostalAdress>
+    <Longitud>-3.75342772891027</Longitud>
+    <Latitud>40.3702127980864</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ANTONIA RGUEZ.SACRISTAN-ANTONIO RGUEZ.</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Antonia Rodríguez Sacristán, 37</PostalAdress>
+    <Longitud>-3.74511231597446</Longitud>
+    <Latitud>40.3731179742983</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ANTONIA RGUEZ.SACRISTAN-FCO.RGUEZ.</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Antonia Rodríguez Sacristán, 8</PostalAdress>
+    <Longitud>-3.74540387687756</Longitud>
+    <Latitud>40.3729854662505</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ANTONIA RGUEZ.SACRISTAN-CENTRO DE SALUD</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Antonia Rodríguez Sacristán, 13 frente a C/ Guayaba</PostalAdress>
+    <Longitud>-3.74749619887871</Longitud>
+    <Latitud>40.3732827943641</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ANTONIA RGUEZ.SACRISTAN-CENTRO DE SALUD</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Antonia Rodríguez Sacristán frente al Nº 13 con Guayaba</PostalAdress>
+    <Longitud>-3.74757068333031</Longitud>
+    <Latitud>40.3731606908366</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.POBLADOS-AV.CARABANCHEL BAJO</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Av. de los Poblados S/N con Av. Carabanchel Bajo</PostalAdress>
+    <Longitud>-3.74712198014735</Longitud>
+    <Latitud>40.3751996410518</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.POBLADOS-EUGENIA DE MONTIJO</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Av. de los Poblados S/N con C/ Durazno</PostalAdress>
+    <Longitud>-3.74893554436585</Longitud>
+    <Latitud>40.3762149633141</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GUAYABA-AGUACATE-CENTRO DE SALUD</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Guayaba, 2</PostalAdress>
+    <Longitud>-3.74758132012292</Longitud>
+    <Latitud>40.3719894399595</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AGUACATE-SECOYA</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Aguacate frente al Nº 54</PostalAdress>
+    <Longitud>-3.74494637901936</Longitud>
+    <Latitud>40.3700784717512</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.GRAL.FANJUL-GRAL.ROMERO BASART</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Av. Gral. Fanjul con C/ Gral. Romero Basart</PostalAdress>
+    <Longitud>-3.77607173661407</Longitud>
+    <Latitud>40.3819192152318</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RAFAEL FINAT-GRAL.R.BASART</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Rafael Finat frente al Nº 91</PostalAdress>
+    <Longitud>-3.77178774128799</Longitud>
+    <Latitud>40.3779388089257</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MIRABEL-PZA.CUACOS DE YUSTE</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Mirabel frente al Nº 11 con Pza. Cuacos de Yuste</PostalAdress>
+    <Longitud>-3.78027746634875</Longitud>
+    <Latitud>40.3780395739108</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.POBLADOS-EUGENIA DE MONTIJO</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Av. de los Poblados S/N  con C/ Eugenia de Montijo</PostalAdress>
+    <Longitud>-3.75075519592816</Longitud>
+    <Latitud>40.3765455267784</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.POBLADOS-ALUCHE</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Av. de los Poblados con Av. Gral. Fanjul (C. Comercial)</PostalAdress>
+    <Longitud>-3.76288805710701</Longitud>
+    <Latitud>40.3865113552483</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.POBLADOS-GUAREÑA</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Av. de los Poblados S/N  con C/ Guareña</PostalAdress>
+    <Longitud>-3.76576899683132</Longitud>
+    <Latitud>40.3889428051539</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>NAVALMORAL DE LA MATA-AV.AVIACION</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Navalmoral de la Mata frente al Nº 1</PostalAdress>
+    <Longitud>-3.77773051422771</Longitud>
+    <Latitud>40.3755566888774</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.AVIACION-NAVALMORAL DE LA MATA</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Av. de Aviación con C/ Navalmoral de la Mata</PostalAdress>
+    <Longitud>-3.77771712351301</Longitud>
+    <Latitud>40.3751919110937</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.AVIACION-MIRABEL</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Av. de la Aviación frente a C/ Mirabel</PostalAdress>
+    <Longitud>-3.78139528082635</Longitud>
+    <Latitud>40.3756581449102</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOAQUIN TURINA-JACOBEO</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Joaquín Turina frente C/ Jacobeo</PostalAdress>
+    <Longitud>-3.76258741358352</Longitud>
+    <Latitud>40.3729546732361</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOAQUIN TURINA-JACOBEO</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Joaquín Turina con C/ Jacobeo</PostalAdress>
+    <Longitud>-3.76264296115535</Longitud>
+    <Latitud>40.3726570075235</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.GRAL.FANJUL FRENTE Nº 60</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Av. de Gral. Fanjul frente al Nº 60</PostalAdress>
+    <Longitud>-3.77872488281326</Longitud>
+    <Latitud>40.3821266301599</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.GENERAL FANJUL  Nº 60</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Av. General Fanjul, 60</PostalAdress>
+    <Longitud>-3.77896038493776</Longitud>
+    <Latitud>40.3821160371109</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CARABANCHEL ALTO Nº 44</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Carabanchel Alto, 44</PostalAdress>
+    <Longitud>-3.75199071486834</Longitud>
+    <Latitud>40.3723392749462</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CARABANCHEL ALTO Nº 44</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Carabanchel Alto frente al Nº 44</PostalAdress>
+    <Longitud>-3.75185935039314</Longitud>
+    <Latitud>40.3721779641739</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOAQUIN TURINA-GRAL.MILLAN ASTRAY</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Joaquín Turina con C/ Gral.Millán Astray</PostalAdress>
+    <Longitud>-3.76532446605827</Longitud>
+    <Latitud>40.3732924764339</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOAQUIN TURINA-CTRA.BARRIO LA FORTUNA</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Joaquín Turina con Ctra. Barrio de la Fortuna.</PostalAdress>
+    <Longitud>-3.76532725501071</Longitud>
+    <Latitud>40.3731483126108</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALDEANUEVA DE LA VERA-AV.AVIACION</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Aldeanueva de la Vera con Av. Aviación</PostalAdress>
+    <Longitud>-3.77689150888757</Longitud>
+    <Latitud>40.3753280846049</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.GRAL.FANJUL-RAFAEL FINAT</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Av. General Fanjul, 3</PostalAdress>
+    <Longitud>-3.76555715523892</Longitud>
+    <Latitud>40.3842414732307</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.GRAL.FANJUL-GUAREÑA</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Av. General Fanjul con C/ Guareña</PostalAdress>
+    <Longitud>-3.76425309723482</Longitud>
+    <Latitud>40.3848627038307</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ANTONIA RGUEZ.SACRISTAN-GUAYABA</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Antonia Rodríguez Sacristán con C/ Guayaba</PostalAdress>
+    <Longitud>-3.74687967794402</Longitud>
+    <Latitud>40.3729219036754</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.AVIACION-MIRABEL</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Av. de la Aviación con C/ Mirabel</PostalAdress>
+    <Longitud>-3.78112434662318</Longitud>
+    <Latitud>40.3757545681245</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MIRABEL-LOGROSAN</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Mirabel frente al Nº 1</PostalAdress>
+    <Longitud>-3.78122493034928</Longitud>
+    <Latitud>40.376208847997</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.AVIACION-RAFAEL FINAT</Name>
+    <PostalCode>28044</PostalCode>
+    <PostalAdress>Av. de la Aviación , 81</PostalAdress>
+    <Longitud>-3.77287160733692</Longitud>
+    <Latitud>40.3744270480787</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+</ArrayOfPapelera>

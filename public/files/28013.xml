@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPapelera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Papelera>
+    <Name>GRAN VIA-MESONERO ROMANOS</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>Gran Vía, 32.</PostalAdress>
+    <Longitud>-3.70345638897685</Longitud>
+    <Latitud>40.4203517636694</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAN VIA-SALUD</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>Gran Vía, 29</PostalAdress>
+    <Longitud>-3.7032007523011</Longitud>
+    <Latitud>40.4200695317277</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAN VIA-SAN BERNARDO</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>Gran Vía, 54</PostalAdress>
+    <Longitud>-3.70726954650724</Longitud>
+    <Latitud>40.4213870978905</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAN VIA-PZA.ESPAÑA</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>Gran Vía, 70</PostalAdress>
+    <Longitud>-3.70970295878423</Longitud>
+    <Latitud>40.4229938347379</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAN VIA-PZA.ESPAÑA</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>Gran Vía, 69</PostalAdress>
+    <Longitud>-3.71051696529709</Longitud>
+    <Latitud>40.4230519060504</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTA.SAN VICENTE-CADARSO</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>Cuesta de San Vicente frente al Nº 4</PostalAdress>
+    <Longitud>-3.7135132205215</Longitud>
+    <Latitud>40.4216010465943</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTA.SAN VICENTE-ARRIAZA</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>Cuesta de San Vicente frente al Nº 22 con C/ Arriaza</PostalAdress>
+    <Longitud>-3.71538042796871</Longitud>
+    <Latitud>40.4203372707838</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VIRGEN DEL PUERTO-GTA.SAN VICENTE</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>Virgen del Puerto con Gta.de San Vicente</PostalAdress>
+    <Longitud>-3.72035707097615</Longitud>
+    <Latitud>40.4194325418675</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VIRGEN DEL PUERTO-CAMPO DEL MORO</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>Virgen del Puerto S/N frente Campo del Moro</PostalAdress>
+    <Longitud>-3.72080580777646</Longitud>
+    <Latitud>40.4167765892418</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VIRGEN DEL PUERTO-CAMPO DEL MORO</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>Virgen del Puerto S/N con Campo del Moro</PostalAdress>
+    <Longitud>-3.72002099909634</Longitud>
+    <Latitud>40.4194211185583</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MAYOR-PZA.DE LA VILLA</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>Mayor, 63</PostalAdress>
+    <Longitud>-3.71008570491972</Longitud>
+    <Latitud>40.4156581344135</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MAYOR Nº 21</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>Mayor, 21</PostalAdress>
+    <Longitud>-3.70663006619755</Longitud>
+    <Latitud>40.4163459418092</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PTA.DEL SOL-CARRETAS</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>Puerta del Sol, 4</PostalAdress>
+    <Longitud>-3.70270621307019</Longitud>
+    <Latitud>40.4167887394875</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAN VIA-FUENCARRAL</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>Gran Vía, 28</PostalAdress>
+    <Longitud>-3.70197160586144</Longitud>
+    <Latitud>40.4202571699951</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAN VIA-MONTERA</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>Gran Vía, 25</PostalAdress>
+    <Longitud>-3.70212181139233</Longitud>
+    <Latitud>40.4200355379905</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN QUINTIN-PAVIA</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>San Quintin con C/ Pavia.</PostalAdress>
+    <Longitud>-3.71201805264208</Longitud>
+    <Latitud>40.4195787133574</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN QUINTIN</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>San Quintín, 8 (con C/ Bailén)</PostalAdress>
+    <Longitud>-3.71253819851472</Longitud>
+    <Latitud>40.4197196583938</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº CASTELLANA-PZA.DR.MARAÑON</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>Pº de la Castellana, 53 (Pza. Dr. Marañón)</PostalAdress>
+    <Longitud>-3.69142582175953</Longitud>
+    <Latitud>40.4383431704008</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAN VIA-CLAVEL</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>Gran Vía, 14</PostalAdress>
+    <Longitud>-3.69922956826552</Longitud>
+    <Latitud>40.4198052896594</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAN VIA-CLAVEL</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>Gran Vía, 11</PostalAdress>
+    <Longitud>-3.69935321863076</Longitud>
+    <Latitud>40.4196153531909</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAN VIA Nº 65</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>Gran Vía, 65</PostalAdress>
+    <Longitud>-3.70996037530691</Longitud>
+    <Latitud>40.4227400039474</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JACOMETREZO-PZA.STO.DOMINGO</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>Jacometrezo</PostalAdress>
+    <Longitud>-3.7072510357691</Longitud>
+    <Latitud>40.4203917128369</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JACOMETREZO-PZA.STO.DOMINGO</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>Jacometrezo</PostalAdress>
+    <Longitud>-3.70729676321801</Longitud>
+    <Latitud>40.4202202619024</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JACOMETREZO-PZA.STO.DOMINGO</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>Jacometrezo</PostalAdress>
+    <Longitud>-3.70706829360856</Longitud>
+    <Latitud>40.4202126481454</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JACOMETREZO-PZA.STO.DOMINGO</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>Jacometrezo</PostalAdress>
+    <Longitud>-3.70681168845929</Longitud>
+    <Latitud>40.4201916921239</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN BERNARDO-PZA.STO.DOMINGO</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>San Bernardo con Pza. Sto. Domingo</PostalAdress>
+    <Longitud>-3.70841780624729</Longitud>
+    <Latitud>40.420862059449</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN BERNARDO-GRAN VIA</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>San Bernardo</PostalAdress>
+    <Longitud>-3.70829442401245</Longitud>
+    <Latitud>40.4211105625934</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALCALA-PTA.DEL SOL</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>Alcalá, 1</PostalAdress>
+    <Longitud>-3.70225770864833</Longitud>
+    <Latitud>40.4172644348396</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARRIETA-PZA.ISABEL II</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>Arrieta, 1.</PostalAdress>
+    <Longitud>-3.71008552984384</Longitud>
+    <Latitud>40.4185545410856</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.ISABEL II</Name>
+    <PostalCode>28013</PostalCode>
+    <PostalAdress>Pza. de Isabel II frente al Nº 5</PostalAdress>
+    <Longitud>-3.70946636239425</Longitud>
+    <Latitud>40.4184186961872</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+</ArrayOfPapelera>

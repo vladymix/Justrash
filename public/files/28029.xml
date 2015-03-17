@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPapelera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Papelera>
+    <Name>MONFORTE DE LEMOS-LA VAGUADA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. Monforte de Lemos S/N frente al Nº 103 (La Vaguada)</PostalAdress>
+    <Longitud>-3.70659288146228</Longitud>
+    <Latitud>40.4791613621992</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.BETANZOS-Pº DE LA VAGUADA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. de Betanzos, 69</PostalAdress>
+    <Longitud>-3.71274142620732</Longitud>
+    <Latitud>40.4793218650113</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.BETANZOS-Pº DE LA VAGUADA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. de Betanzos frente al Nº 69</PostalAdress>
+    <Longitud>-3.71250081573107</Longitud>
+    <Latitud>40.4793008238861</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MONFORTE DE LEMOS-AV.BETANZOS</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. Monforte de Lemos s/n con Pza. Ribadeo</PostalAdress>
+    <Longitud>-3.71149515178612</Longitud>
+    <Latitud>40.4778790920588</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MONFORTE DE LEMOS-AV.BETANZOS</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. Monforte de Lemos frente al Nº 129 con Av. Betanzos</PostalAdress>
+    <Longitud>-3.71093903257678</Longitud>
+    <Latitud>40.4782158397203</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MONFORTE DE LEMOS-JUNTA MUNICIPAL</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. Monforte de Lemos, 115</PostalAdress>
+    <Longitud>-3.70870623340983</Longitud>
+    <Latitud>40.4784592589866</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MONFORTE DE LEMOS-JUNTA MUNICIPAL</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. Monforte de Lemos frente Nº 117 (Junta Municipal)</PostalAdress>
+    <Longitud>-3.70871361705461</Longitud>
+    <Latitud>40.4786709239529</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MONFORTE DE LEMOS-LA VAGUADA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. Monforte de Lemos, 101 con C/ Ginzo de Limia</PostalAdress>
+    <Longitud>-3.70480093455562</Longitud>
+    <Latitud>40.4792578711638</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LA VAGUADA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. Monforte de Lemos S/N frente al Nº 103 (La Vaguada)</PostalAdress>
+    <Longitud>-3.7066946813968</Longitud>
+    <Latitud>40.4791652452472</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FINISTERRE-MONFORTE DE LEMOS</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Finisterre, 60</PostalAdress>
+    <Longitud>-3.70275332562806</Longitud>
+    <Latitud>40.4802252676966</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FINISTERRE-MONFORTE DE LEMOS</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Finisterre frente S/N con Av. Monforte de Lemos</PostalAdress>
+    <Longitud>-3.70299002849154</Longitud>
+    <Latitud>40.4802959020403</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PEDRO RICO-FINISTERRE</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Pedro Rico S/N</PostalAdress>
+    <Longitud>-3.70209462885438</Longitud>
+    <Latitud>40.4826166339594</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PEDRO RICO-ARZOBISPO MORCILLO</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Pedro Rico con C/ Arzobispo Morcillo</PostalAdress>
+    <Longitud>-3.69998647672242</Longitud>
+    <Latitud>40.4833771428025</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>A.LOPEZ AGUADO-ARZOBISPO MORCILLO</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Antonio López Aguado frente al Nº 1</PostalAdress>
+    <Longitud>-3.69955888530102</Longitud>
+    <Latitud>40.4830328834398</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>A.LOPEZ AGUADO Nº 16</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Antonio López Aguado, 16</PostalAdress>
+    <Longitud>-3.70225173201523</Longitud>
+    <Latitud>40.4820526222822</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MONFORTE DE LEMOS-Pº CASTELLANA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. Monforte de Lemos, 2</PostalAdress>
+    <Longitud>-3.68842539124346</Longitud>
+    <Latitud>40.4754600397673</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SINESIO DELGADO-INST.DE SALUD CARLOS III</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Sinesio Delgado, 4</PostalAdress>
+    <Longitud>-3.69185525983107</Longitud>
+    <Latitud>40.4748224797941</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SINESIO DELGADO-INST.DE SALUD CARLOS III</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Sinesio Delgado S/N frente al Nº 4</PostalAdress>
+    <Longitud>-3.69193949293747</Longitud>
+    <Latitud>40.4746598151916</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SINESIO DELGADO-HOSPITAL CARLOS III</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Sinesio Delgado, 10</PostalAdress>
+    <Longitud>-3.69762443254908</Longitud>
+    <Latitud>40.4747022730819</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SINESIO DELGADO-HOSPITAL CARLOS III</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Sinesio Delgado S/N frente al Nº 10</PostalAdress>
+    <Longitud>-3.69763248163212</Longitud>
+    <Latitud>40.474553576854</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SINESIO DELGADO-GINZO DE LIMIA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Sinesio Delgado S/N con C/ Ginzo de Limia</PostalAdress>
+    <Longitud>-3.70249782382505</Longitud>
+    <Latitud>40.4738124477077</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SINESIO DELGADO-AV.ASTURIAS</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Sinesio Delgado con Av. de Asturias</PostalAdress>
+    <Longitud>-3.70180997532314</Longitud>
+    <Latitud>40.4734652705486</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RIBADAVIA-SINESIO DELGADO</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Ribadavia frente al Nº 20 (Colegio Federico Gª Lorca)</PostalAdress>
+    <Longitud>-3.70460084231764</Longitud>
+    <Latitud>40.4729798521496</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RIBADAVIA-SINESIO DELGADO</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Ribadavia, 20 (Colegio Federico Gª Lorca)</PostalAdress>
+    <Longitud>-3.70461113466137</Longitud>
+    <Latitud>40.4728356462505</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RIBADAVIA Nº 27</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Ribadavia, 27</PostalAdress>
+    <Longitud>-3.70819532511741</Longitud>
+    <Latitud>40.4726335962245</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RIBADAVIA Nº 12</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Ribadavia, 12</PostalAdress>
+    <Longitud>-3.70809897112439</Longitud>
+    <Latitud>40.4724449976264</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RIBADAVIA-CHANTADA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Ribadavia, 5.</PostalAdress>
+    <Longitud>-3.7109260978742</Longitud>
+    <Latitud>40.4724006433759</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.BETANZOS-CHANTADA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. de Betanzos, 18</PostalAdress>
+    <Longitud>-3.71166525170076</Longitud>
+    <Latitud>40.4735897877292</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.BETANZOS-CHANTADA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. de Betanzos, 21</PostalAdress>
+    <Longitud>-3.71191027646428</Longitud>
+    <Latitud>40.4736468393171</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.BETANZOS-M.FDEZ.ALMAGRO</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. de Betanzos, 32 con C/ Melchor Fdez. Almagro</PostalAdress>
+    <Longitud>-3.71123369167493</Longitud>
+    <Latitud>40.4745834244551</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.BETANZOS-M.FDEZ.ALMAGRO</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. de Betanzos, 37 frente a C/ Melchor Fdez. Almagro</PostalAdress>
+    <Longitud>-3.71128693336481</Longitud>
+    <Latitud>40.4749479597423</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.BETANZOS-LA BAÑEZA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. de Betanzos, 44</PostalAdress>
+    <Longitud>-3.71154388510909</Longitud>
+    <Latitud>40.4763112361186</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.BETANZOS-LA BAÑEZA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. de Betanzos, frente al Nº 46</PostalAdress>
+    <Longitud>-3.71182317702669</Longitud>
+    <Latitud>40.4765752829582</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LA BAÑEZA-PONFERRADA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>La Bañeza, 20</PostalAdress>
+    <Longitud>-3.71369059064962</Longitud>
+    <Latitud>40.4764061283685</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LA BAÑEZA-PONFERRADA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>La Bañeza, 19.</PostalAdress>
+    <Longitud>-3.71351853562246</Longitud>
+    <Latitud>40.4763125950826</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CHANTADA-RIBADAVIA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Chantada S/N con C/ Ribadavia</PostalAdress>
+    <Longitud>-3.71048156942098</Longitud>
+    <Latitud>40.4725475157013</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SINESIO DELGADO-Pº CASTELLANA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Sinesio Delgado, 1</PostalAdress>
+    <Longitud>-3.68792195705678</Longitud>
+    <Latitud>40.4742828591751</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CAPITAN BLANCO ARGIBAY-MULLER</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Capitán Blanco Argibay, 35.</PostalAdress>
+    <Longitud>-3.69886853073069</Longitud>
+    <Latitud>40.4654605857734</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CAPITAN BLANCO ARGIBAY-PINOS BAJA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Capitán Blanco Argibay, 103</PostalAdress>
+    <Longitud>-3.70378818113234</Longitud>
+    <Latitud>40.4669532980161</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CAPITAN BLANCO ARGIBAY-SORGO</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Capitán Blanco Argibay, 133</PostalAdress>
+    <Longitud>-3.70591757992365</Longitud>
+    <Latitud>40.4676790681325</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CAPITAN BLANCO ARGIBAY-Pº DIRECCION</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Capitán Blanco Argibay, 161</PostalAdress>
+    <Longitud>-3.70850904448493</Longitud>
+    <Latitud>40.4682758463746</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GTA.PIEDRAFITA DEL CEBRERO</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Gta. Piedrafita del Cebrero S/N</PostalAdress>
+    <Longitud>-3.7121015314059</Longitud>
+    <Latitud>40.4718213503321</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GTA.PIEDRAFITA DEL CEBRERO</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Gta. Piedrafita del Cebrero S/N</PostalAdress>
+    <Longitud>-3.71263481811418</Longitud>
+    <Latitud>40.4718766268473</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GINZO DE LIMIA-LA VAGUADA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Ginzo de Limia S/N con Av. Monforte de Lemos</PostalAdress>
+    <Longitud>-3.70430891219517</Longitud>
+    <Latitud>40.4800176169722</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GINZO DE LIMIA-LA VAGUADA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Ginzo de Limia S/N con Av. Monforte de Lemos</PostalAdress>
+    <Longitud>-3.70462907001205</Longitud>
+    <Latitud>40.4800652178163</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HOSPITAL LA PAZ-MATERNIDAD</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Pedro Rico con C/ Arz.Morcillo (Htal.La Paz-Maternidad)</PostalAdress>
+    <Longitud>-3.68898905847552</Longitud>
+    <Latitud>40.4806953910896</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARZOBISPO MORCILLO-FAC.MEDICINA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Arzobispo Morcillo con Facultad de Medicina</PostalAdress>
+    <Longitud>-3.69131427497509</Longitud>
+    <Latitud>40.481037382383</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARZOBISPO MORCILLO-FAC.MEDICINA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Arzobispo Morcillo  S/N frente a Facultad Medicina</PostalAdress>
+    <Longitud>-3.69137017540422</Longitud>
+    <Latitud>40.480951463572</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JULIO PALACIOS Nº 10</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Julio Palacios, 10</PostalAdress>
+    <Longitud>-3.69377995406315</Longitud>
+    <Latitud>40.482774871177</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JULIO PALACIOS Nº 27</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Julio Palacios, 27</PostalAdress>
+    <Longitud>-3.69398927576958</Longitud>
+    <Latitud>40.4827285717945</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PEDRO RICO-JULIO PALACIOS</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Pedro Rico frente al Nº 29 con C/ Julio Palacios</PostalAdress>
+    <Longitud>-3.69441459782562</Longitud>
+    <Latitud>40.4850773544777</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PEDRO RICO-JULIO PALACIOS</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Pedro Rico, 29 con C/ Julio Palacios</PostalAdress>
+    <Longitud>-3.69411479054619</Longitud>
+    <Latitud>40.4849665408082</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PEDRO RICO-ARZOBISPO MORCILLO</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Pedro Rico S/N con C/ Arzobispo Morcillo</PostalAdress>
+    <Longitud>-3.69809941773759</Longitud>
+    <Latitud>40.4842714141426</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PEDRO RICO-ARZOBISPO MORCILLO</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Pedro Rico con C/ Arzobispo Morcillo</PostalAdress>
+    <Longitud>-3.69822649714625</Longitud>
+    <Latitud>40.4840093885105</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MONFORTE DE LEMOS-PARQUE NORTE</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. Monforte de Lemos S/N con C/ Pedro Rico</PostalAdress>
+    <Longitud>-3.69159187015038</Longitud>
+    <Latitud>40.4793420424578</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MONFORTE DE LEMOS-PARQUE NORTE</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. Monforte de Lemos S/N con C/ Pedro Rico</PostalAdress>
+    <Longitud>-3.69307411120795</Longitud>
+    <Latitud>40.4792430885084</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MONFORTE DE LEMOS-PUENTECESURES</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. Monforte de Lemos S/N frente a C/ Puentecesures</PostalAdress>
+    <Longitud>-3.69709844675376</Longitud>
+    <Latitud>40.4798900916591</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MONFORTE DE LEMOS-PUENTECESURES</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Monforte de Lemos, S/N</PostalAdress>
+    <Longitud>-3.69699984778152</Longitud>
+    <Latitud>40.4796249214709</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MONFORTE DE LEMOS-PARQUE BOMBEROS</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. Monforte de Lemos S/N (Parque de Bomberos)</PostalAdress>
+    <Longitud>-3.70064117690819</Longitud>
+    <Latitud>40.4802020348529</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MONFORTE DE LEMOS-PARQUE BOMBEROS</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. Monforte de Lemos, 75 (frente a Parque de Bomberos)</PostalAdress>
+    <Longitud>-3.70050740452416</Longitud>
+    <Latitud>40.4799596029444</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SINESIO DELGADO-FINISTERRE</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Sinesio Delgado, 20</PostalAdress>
+    <Longitud>-3.6994488875486</Longitud>
+    <Latitud>40.4752633327265</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GINZO DE LIMIA-AV.FERROL</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Ginzo de Limia con Av. Ferrol, 3</PostalAdress>
+    <Longitud>-3.70256168026144</Longitud>
+    <Latitud>40.47428052571</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GINZO DE LIMIA-MELCHOR FDEZ.ALMAGRO</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Ginzo de Limia, 4 con C/ Melchor Fernández Almagro</PostalAdress>
+    <Longitud>-3.70332738518629</Longitud>
+    <Latitud>40.4764380242286</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MELCHOR FDEZ.ALMAGRO-GINZO DE LIMIA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Melchor Fernández Almagro, 42</PostalAdress>
+    <Longitud>-3.70390443527074</Longitud>
+    <Latitud>40.4769750537541</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MELCHOR FDEZ.ALMAGRO-AV.FERROL</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Melchor Fernández Almagro, 64</PostalAdress>
+    <Longitud>-3.70745499572836</Longitud>
+    <Latitud>40.4762867476826</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MELCHOR FDEZ.ALMAGRO-AV.FERROL</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Melchor Fernández Almagro frente al Nº 64</PostalAdress>
+    <Longitud>-3.7073430311523</Longitud>
+    <Latitud>40.476156802138</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MELCHOR FDEZ.ALMAGRO-AV.BETANZOS</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Melchor Fernández Almagro, 80</PostalAdress>
+    <Longitud>-3.71029635270982</Longitud>
+    <Latitud>40.4756522355096</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MELCHOR FDEZ.ALMAGRO-AV.BETANZOS</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Melchor Fernández Almagro frente al Nº 82</PostalAdress>
+    <Longitud>-3.71056512451996</Longitud>
+    <Latitud>40.4752677057729</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LA BAÑEZA-Cº DE GANAPANES</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>La Bañeza, 34 (Línea 126) y La Bañeza, 40 (Línea 147)</PostalAdress>
+    <Longitud>-3.71542803279218</Longitud>
+    <Latitud>40.4760800904007</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MONFORTE DE LEMOS Nº 163</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Monforte de Lemos, 163</PostalAdress>
+    <Longitud>-3.71463890591815</Longitud>
+    <Latitud>40.4771795515255</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PEDRO RICO-HOSPITAL LA PAZ</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Pedro Rico frente a Medicina (La Paz)</PostalAdress>
+    <Longitud>-3.68892359149944</Longitud>
+    <Latitud>40.4816867646973</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PEDRO RICO-HOSPITAL LA PAZ</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Pedro Rico - Escuela de Medicina ( Hospital La Paz )</PostalAdress>
+    <Longitud>-3.68928532405471</Longitud>
+    <Latitud>40.4813647939154</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MONFORTE DE LEMOS Nº 169</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Monforte de Lemos frente al Nº 169</PostalAdress>
+    <Longitud>-3.71543870785026</Longitud>
+    <Latitud>40.4772962318968</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARZOBISPO MORCILLO-PARQUE NORTE</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Arzobispo Morcillo frente al Nº 22</PostalAdress>
+    <Longitud>-3.69711167297867</Longitud>
+    <Latitud>40.4813494609138</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARZOBISPO MORCILLO-PARQUE NORTE</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Arzobispo Morcillo, 22</PostalAdress>
+    <Longitud>-3.69704431068476</Longitud>
+    <Latitud>40.4815030185673</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARZOBISPO MORCILLO-JULIO PALACIOS</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Arzobispo Morcillo con Julio Palacios</PostalAdress>
+    <Longitud>-3.69434721337696</Longitud>
+    <Latitud>40.4816093165939</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARZOBISPO MORCILLO-JULIO PALACIOS</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Arzobispo Morcillo, 14</PostalAdress>
+    <Longitud>-3.69434510170305</Longitud>
+    <Latitud>40.4817624812911</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MONFORTE DE LEMOS-FINISTERRE</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. Monforte de Lemos, 85 con C/ Finisterre</PostalAdress>
+    <Longitud>-3.70323455491748</Longitud>
+    <Latitud>40.479560187974</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MONFORTE DE LEMOS-FINISTERRE</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. Monforte de Lemos S/N con C/ Finisterre</PostalAdress>
+    <Longitud>-3.70344524137299</Longitud>
+    <Latitud>40.4797526001748</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CAPITAN BLANCO ARGIBAY-TORRIJOS</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Capitán Blanco Argibay  S/N con C/ Torrijos</PostalAdress>
+    <Longitud>-3.69633019784448</Longitud>
+    <Latitud>40.4648857933586</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MONFORTE DE LEMOS-Pº CASTELLANA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Monforte de Lemos, 2.</PostalAdress>
+    <Longitud>-3.68836705259594</Longitud>
+    <Latitud>40.4754513777088</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CAPITAN BLANCO ARGIBAY-MOQUETAS</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Capitán Blanco Argibay, 59.</PostalAdress>
+    <Longitud>-3.70124583429242</Longitud>
+    <Latitud>40.4660723336051</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MONFORTE DE LEMOS-POLIDEPORTIVO</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Monforte de Lemos S/N frente entrada a Polideportivo</PostalAdress>
+    <Longitud>-3.69413410468</Longitud>
+    <Latitud>40.4796015999372</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FINISTERRE-MELCHOR FDEZ.ALMAGRO</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Finisterrre , 8</PostalAdress>
+    <Longitud>-3.70158883030331</Longitud>
+    <Latitud>40.4771602807496</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ASTURIAS-SAN AQUILINO</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. de Asturias S/N con Pza. Castilla</PostalAdress>
+    <Longitud>-3.69016339250857</Longitud>
+    <Latitud>40.4667380267592</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ASTURIAS-PLAZA CASTILLA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. de Asturias S/N con Pza. Castilla</PostalAdress>
+    <Longitud>-3.69052706664241</Longitud>
+    <Latitud>40.4665061295611</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ASTURIAS-CAÑAVERAL</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. de Asturias S/N con C/ Cañaveral</PostalAdress>
+    <Longitud>-3.69404454322674</Longitud>
+    <Latitud>40.468593194142</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ASTURIAS-CAÑAVERAL</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. de Asturias S/N con C/ Cañaveral</PostalAdress>
+    <Longitud>-3.6942614637044</Longitud>
+    <Latitud>40.4684297321759</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ASTURIAS-MONTOYA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. de Asturias S/N con C/ Montoya</PostalAdress>
+    <Longitud>-3.69613386435265</Longitud>
+    <Latitud>40.470085146494</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ASTURIAS-MONTOYA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. de Asturias S/N con C/ Montoya</PostalAdress>
+    <Longitud>-3.69636732883882</Longitud>
+    <Latitud>40.4699531124956</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ASTURIAS-VIA LIMITE</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. de Asturias, 66 con C/ Vía Límite</PostalAdress>
+    <Longitud>-3.69887622164272</Longitud>
+    <Latitud>40.4720460902555</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ASTURIAS-PINOS BAJA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. de Asturias, 65 con C/ Pinos Baja</PostalAdress>
+    <Longitud>-3.69908683232633</Longitud>
+    <Latitud>40.4719141887641</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GINZO DE LIMIA-AV.FERROL</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Ginzo de Limia, S/N con C/ Villa de Marín</PostalAdress>
+    <Longitud>-3.70250089793124</Longitud>
+    <Latitud>40.4750646733401</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GINZO DE LIMIA-MELCHOR FDEZ.ALMAGRO</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Ginzo de Limia, 22</PostalAdress>
+    <Longitud>-3.70327909767917</Longitud>
+    <Latitud>40.4772175915754</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GINZO DE LIMIA-GTA.REALES ACADEMIAS</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Ginzo de Limia con Gta. Reales Academias</PostalAdress>
+    <Longitud>-3.70470193807602</Longitud>
+    <Latitud>40.4812179187581</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GINZO DE LIMIA-GTA.REALES ACADEMIAS</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Ginzo de Limia con Gta. Reales Academias</PostalAdress>
+    <Longitud>-3.70501504341099</Longitud>
+    <Latitud>40.4810133111042</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HOSPITAL LA PAZ-MATERNIDAD</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Arzobispo Morcillo con C/ Pedro Rico</PostalAdress>
+    <Longitud>-3.68856044197946</Longitud>
+    <Latitud>40.4800988462667</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PINOS ALTA-BRAVO MURILLO</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Pinos Alta, 2</PostalAdress>
+    <Longitud>-3.69512248664828</Longitud>
+    <Latitud>40.4653389948679</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VEZA-MULLER</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Veza, 24 con C/ Muller</PostalAdress>
+    <Longitud>-3.69758612287712</Longitud>
+    <Latitud>40.4662115597551</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PLATANO-MOQUETAS</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Platano con C/ Moquetas</PostalAdress>
+    <Longitud>-3.69961355821503</Longitud>
+    <Latitud>40.4676362554151</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARROYO-DIVINO REDENTOR</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Arroyo frente al Nº 5 con C/ Divino Redentor</PostalAdress>
+    <Longitud>-3.70082258243356</Longitud>
+    <Latitud>40.468836143699</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARROYO-Pº DE LA DIRECCION</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Arroyo, 26 con Pº de la Dirección</PostalAdress>
+    <Longitud>-3.70230412920947</Longitud>
+    <Latitud>40.4698992316696</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº DIRECCION-CAPITAN BLANCO ARGIBAY</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Pº de la Dirección frente Nº 264 con C/ Capitán Blanco</PostalAdress>
+    <Longitud>-3.70843025569955</Longitud>
+    <Latitud>40.4686366869105</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº DE LA DIRECCION-ALBERDI</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Pº de la Dirección frente a C/ Alberdi (Por obras)</PostalAdress>
+    <Longitud>-3.70649708939331</Longitud>
+    <Latitud>40.4697250712518</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN AQUILINO-SAN BENITO</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>San Aquilino con C/ San Benito</PostalAdress>
+    <Longitud>-3.69000026166623</Longitud>
+    <Latitud>40.4685227743772</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.DEL ESTE-SAN AQUILINO</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Pza. del Este, 1</PostalAdress>
+    <Longitud>-3.68955284027964</Longitud>
+    <Latitud>40.4717821799523</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.ARANDA-ORDOÑEZ</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>General Aranda, 16</PostalAdress>
+    <Longitud>-3.69175182142495</Longitud>
+    <Latitud>40.4724267155562</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GRAL.ARANDA-PZA.DEL NORTE</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Gral. Aranda, 30</PostalAdress>
+    <Longitud>-3.69428862133872</Longitud>
+    <Latitud>40.4733304433867</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>NADOR Nº 1</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Nador, 1</PostalAdress>
+    <Longitud>-3.69583237795608</Longitud>
+    <Latitud>40.4719518134723</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SOROLLA-AV.ASTURIAS</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Sorolla, 37 (con C/ Emília).</PostalAdress>
+    <Longitud>-3.69665517440893</Longitud>
+    <Latitud>40.4710189424331</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº DE LA DIRECCION-MOLINA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Pº de la Dirección frente a C/ Molina</PostalAdress>
+    <Longitud>-3.70186206831704</Longitud>
+    <Latitud>40.4716316324282</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CANTUESO-Pº DE LA DIRECCION</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Cantueso con Pº de la Dirección</PostalAdress>
+    <Longitud>-3.70307117226099</Longitud>
+    <Latitud>40.4698540355577</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CANTUESO-PZA.CALICANTO</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Cantueso con Pza. Calicanto.</PostalAdress>
+    <Longitud>-3.70456851220139</Longitud>
+    <Latitud>40.4680791762644</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PINOS BAJA-CAPITAN BLANCO ARGIBAY</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Pinos Baja, 18</PostalAdress>
+    <Longitud>-3.70408280518765</Longitud>
+    <Latitud>40.4672803336835</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PINOS BAJA-ARROYO</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Pinos Baja, 60</PostalAdress>
+    <Longitud>-3.70196651372646</Longitud>
+    <Latitud>40.4693021835191</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PINOS BAJA-MOLINA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Pinos Baja frente al Nº 85</PostalAdress>
+    <Longitud>-3.70033022098862</Longitud>
+    <Latitud>40.4709111838793</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ASTURIAS-PINOS BAJA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. de Asturias, 65</PostalAdress>
+    <Longitud>-3.69913629992554</Longitud>
+    <Latitud>40.4717427198556</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ASTURIAS-ROSARIO ROMERO</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Av. de Asturias con C/ Rosario Romero</PostalAdress>
+    <Longitud>-3.6971974515651</Longitud>
+    <Latitud>40.470340006015</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JOAQUIN DICENTA-MARTIRES DE LA VENTILLA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Joaquín Dicenta Con C/ Mártires de la Ventilla.</PostalAdress>
+    <Longitud>-3.69486176185087</Longitud>
+    <Latitud>40.4717774641361</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARTIRES DE LA VENTILLA-LAS MAGNOLIAS</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Martires de la Ventilla, 35/37</PostalAdress>
+    <Longitud>-3.69148187441648</Longitud>
+    <Latitud>40.470833742417</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARTIRES DE LA VENTILLA-Pº CASTELLANA</Name>
+    <PostalCode>28029</PostalCode>
+    <PostalAdress>Martires de la Ventilla con C/ San Aquilino.</PostalAdress>
+    <Longitud>-3.68916752611087</Longitud>
+    <Latitud>40.4700772761546</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+</ArrayOfPapelera>

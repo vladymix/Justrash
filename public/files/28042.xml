@@ -1,0 +1,1219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPapelera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Papelera>
+    <Name>CAMPO NACIONES-GTA.JUAN DE BORBON</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. Capital de España Madrid, 2 con Vía Dublín far.6</PostalAdress>
+    <Longitud>-3.61544665155639</Longitud>
+    <Latitud>40.4613574770932</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CAMPO NACIONES-GTA.J.DE BORBON</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. Capital de España Madrid, 1 con Ribera del Sena</PostalAdress>
+    <Longitud>-3.61598252810254</Longitud>
+    <Latitud>40.4615122854963</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VIZCONDE UZQUETA-GTA.MEDUSA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Vizconde de Uzqueta, 6</PostalAdress>
+    <Longitud>-3.61321790483053</Longitud>
+    <Latitud>40.4517071418841</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CONDE DE LAS POSADAS-GUADALAJARA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Conde de las Posadas frente al Nº 8</PostalAdress>
+    <Longitud>-3.6146744494867</Longitud>
+    <Latitud>40.4537399616132</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GUADALAJARA-CONDE DE LAS POSADAS</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Guadalajara, 11</PostalAdress>
+    <Longitud>-3.61510727666895</Longitud>
+    <Latitud>40.4537962221847</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.LOS PRUNOS-SANDALO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de los Prunos con C/ Sándalo</PostalAdress>
+    <Longitud>-3.61787720029112</Longitud>
+    <Latitud>40.4545067026828</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.LOS PRUNOS-PETUNIAS</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de los Prunos, 11</PostalAdress>
+    <Longitud>-3.61957801016736</Longitud>
+    <Latitud>40.4538534721459</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GTA.DE MEDUSA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Luis de la Mata frente al Nº 12 (Con Gta. Medusa).</PostalAdress>
+    <Longitud>-3.61291690142154</Longitud>
+    <Latitud>40.4516772036724</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GUADALAJARA-EDUARDO MAZON</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Guadalajara, 7</PostalAdress>
+    <Longitud>-3.61503875507658</Longitud>
+    <Latitud>40.4520578471384</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CANILLEJAS</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de América con Gta. de Canillejas.</PostalAdress>
+    <Longitud>-3.60783414633</Longitud>
+    <Latitud>40.4500193044635</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CANILLEJAS</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de América con Gta. de Canillejas</PostalAdress>
+    <Longitud>-3.60791836292585</Longitud>
+    <Latitud>40.4501224661483</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DE AMERICA-I.E.S.BARAJAS</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de América (I.E.S. Barajas) frente al Nº 117</PostalAdress>
+    <Longitud>-3.60004379145915</Longitud>
+    <Latitud>40.4504878544145</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DE AMERICA-I.E.S.BARAJAS</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de América, 119</PostalAdress>
+    <Longitud>-3.60070317821589</Longitud>
+    <Latitud>40.4505790311716</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DE AMERICA-CIUDAD PEGASO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av.Av. de América con C/ Obenque frente a Ciudad Pegaso</PostalAdress>
+    <Longitud>-3.59658734839736</Longitud>
+    <Latitud>40.4503705740224</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DE AMERICA-CIUDAD PEGASO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de América con C/ Obenque frente a Ciudad Pegaso</PostalAdress>
+    <Longitud>-3.59670614952934</Longitud>
+    <Latitud>40.4504690612572</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.HISPANIDAD-PINOS DE OSUNA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de la Hispanidad</PostalAdress>
+    <Longitud>-3.59081083722532</Longitud>
+    <Latitud>40.4506163993058</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.HISPANIDAD-PINOS DE OSUNA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de la Hispanidad con C/ Balandro</PostalAdress>
+    <Longitud>-3.59126480282424</Longitud>
+    <Latitud>40.4506501189374</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.DEL MAR</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Pza. del Mar S/N</PostalAdress>
+    <Longitud>-3.58835048093936</Longitud>
+    <Latitud>40.4524802761877</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CANTABRIA-PZA.DEL NAVIO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de Cantabria frente al Nº 21</PostalAdress>
+    <Longitud>-3.58786825473616</Longitud>
+    <Latitud>40.4553430871471</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CANTABRIA-PZA.DEL NAVIO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de Cantabria, 21</PostalAdress>
+    <Longitud>-3.58798528887111</Longitud>
+    <Latitud>40.4552388894372</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ARROYO DEL SANTO-AV.LOS ARCES</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. Arroyo del Santo con Gta. Mar Caribe</PostalAdress>
+    <Longitud>-3.62193445702636</Longitud>
+    <Latitud>40.4540030036679</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MANUEL AGUILAR MUÑOZ-Pº ALAMEDA OSUNA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Manuel Aguilar Muñoz, 13 con Pº A. de Osuna.</PostalAdress>
+    <Longitud>-3.58862471559018</Longitud>
+    <Latitud>40.458240146913</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MANUEL AGUILAR MUÑOZ-Pº ALAMEDA OSUNA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Manuel Aguilar Muñoz frente al Nº 13 con Pº A. de Osuna</PostalAdress>
+    <Longitud>-3.5887639682168</Longitud>
+    <Latitud>40.4579781778822</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº ALAMEDA DE OSUNA Nº 80</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Pº Alameda de Osuna frente al Nº 141</PostalAdress>
+    <Longitud>-3.58772801214435</Longitud>
+    <Latitud>40.4595600156783</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOS BREZOS-ANTONIO SANCHA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Los Brezos, frente a C/ Antonio Sancha</PostalAdress>
+    <Longitud>-3.58805648958268</Longitud>
+    <Latitud>40.461134924427</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MANUEL AGUILAR MUÑOZ-AV.LOGROÑO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Manuel Aguilar Muñoz S/N con Av.de Logroño junto far.15</PostalAdress>
+    <Longitud>-3.59167251126294</Longitud>
+    <Latitud>40.4604723648386</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.LOGROÑO-LOS BREZOS</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de Logroño frente al Nº 211</PostalAdress>
+    <Longitud>-3.58925435811968</Longitud>
+    <Latitud>40.4622684753437</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.LOGROÑO-LOS BREZOS</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de Logroño, 211</PostalAdress>
+    <Longitud>-3.5894674099986</Longitud>
+    <Latitud>40.4623529767505</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.LOGROÑO-MARQUES DE BERNA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de Logroño frente al Nº 245</PostalAdress>
+    <Longitud>-3.58553600908736</Longitud>
+    <Latitud>40.4646206643298</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.LOGROÑO-MARQUES DE BERNA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de Logroño, 269.</PostalAdress>
+    <Longitud>-3.5849785399912</Longitud>
+    <Latitud>40.4652451022111</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.LOGROÑO-ARIADNA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de Logroño frente a Hotel Barajas</PostalAdress>
+    <Longitud>-3.58150474490144</Longitud>
+    <Latitud>40.4688076352775</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.LOGROÑO-ARIADNA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de Logroño S/N con Av. General (Hotel Barajas)</PostalAdress>
+    <Longitud>-3.58166460915478</Longitud>
+    <Latitud>40.4690500753801</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.GENERAL-GONZALO DE CESPEDES</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>AV. General, 43.</PostalAdress>
+    <Longitud>-3.57992657971124</Longitud>
+    <Latitud>40.4712524805303</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.HNOS.FALCO Y ALVAREZ DE TOLEDO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Pza.Hnos Falcó y Alvarez de Toledo, 13.</PostalAdress>
+    <Longitud>-3.57729556979455</Longitud>
+    <Latitud>40.4740629154939</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.LOGROÑO-ALGEMESI</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de Logroño, 128</PostalAdress>
+    <Longitud>-3.58170572531091</Longitud>
+    <Latitud>40.4724552675882</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.LOGROÑO-ALGEMESI</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de Logroño, 321</PostalAdress>
+    <Longitud>-3.58195224972003</Longitud>
+    <Latitud>40.4723999752189</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.NTRA.SRA.DE LORETO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Pza. Nuestra Señora de Loreto frente a C/ Alas</PostalAdress>
+    <Longitud>-3.58587552870659</Longitud>
+    <Latitud>40.4721054213455</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BOJ-AV.LOS ANDES</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Boj S/N con Av. de los Andes</PostalAdress>
+    <Longitud>-3.6182404191993</Longitud>
+    <Latitud>40.455977736724</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SANDALO-AV.LOS PRUNOS</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Sándalo S/N con Av. de los Prunos</PostalAdress>
+    <Longitud>-3.61734258759398</Longitud>
+    <Latitud>40.4549284724798</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.HISPANIDAD-DIQUE SUR</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de la Hispanidad, Dique Sur Aeropuerto de Barajas</PostalAdress>
+    <Longitud>-3.57703793244834</Longitud>
+    <Latitud>40.4610777296398</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.LOGROÑO-CANILLEJAS</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de Logroño S/N frente a C/ Academos</PostalAdress>
+    <Longitud>-3.60795251977315</Longitud>
+    <Latitud>40.4508880532009</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SILVANO-M40</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Silvano con M-40</PostalAdress>
+    <Longitud>-3.6235824740489</Longitud>
+    <Latitud>40.4632914286268</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>TRESPADERNE-BARBADILLO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Trespaderne, 8</PostalAdress>
+    <Longitud>-3.58119239587343</Longitud>
+    <Latitud>40.4511785742865</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BERGANTIN-GALEON</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Bergantín S/N esquina a C/ Galeón</PostalAdress>
+    <Longitud>-3.58184949704126</Longitud>
+    <Latitud>40.4590131188787</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CANTABRIA-BERGANTIN</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de Cantabria, 37</PostalAdress>
+    <Longitud>-3.5859165387877</Longitud>
+    <Latitud>40.4574070312257</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CANTABRIA-CENTRO DE SALUD</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de Cantabria, 29</PostalAdress>
+    <Longitud>-3.58767994634984</Longitud>
+    <Latitud>40.4565332324058</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº ALAMEDA OSUNA-PQUE.CAPRICHO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Pº de la Alameda de Osuna, 50</PostalAdress>
+    <Longitud>-3.59889147886069</Longitud>
+    <Latitud>40.454701028357</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº ALAMEDA DE OSUNA-PQUE.CAPRICHO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Pº de la Alameda de Osuna frente al Nº 50.</PostalAdress>
+    <Longitud>-3.59906938711816</Longitud>
+    <Latitud>40.4547721803869</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº ALAMEDA OSUNA-RAMBLA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Pº de la Alameda de Osuna, 54</PostalAdress>
+    <Longitud>-3.59483159728823</Longitud>
+    <Latitud>40.4554336617681</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº ALAMEDA DE OSUNA-RAMBLAS</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Pº de la Alameda de Osuna frente al Nº 52</PostalAdress>
+    <Longitud>-3.59548761259497</Longitud>
+    <Latitud>40.4554302908294</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº ALAMEDA OSUNA-CARABELA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Pº de la Alameda de Osuna frente al Nº 55</PostalAdress>
+    <Longitud>-3.59208513153094</Longitud>
+    <Latitud>40.4563261126901</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº ALAMEDA DE OSUNA-CARABELA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Pº de la Alameda de Osuna, 37</PostalAdress>
+    <Longitud>-3.59266369357806</Longitud>
+    <Latitud>40.4561474779656</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº ALAMEDA DE OSUNA-MANUEL AGUILAR MUÑOZ</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Pº de la Alameda de Osuna, 74</PostalAdress>
+    <Longitud>-3.58935149302328</Longitud>
+    <Latitud>40.4583175322063</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Pº ALAMEDA DE OSUNA-MANUEL AGUILAR MUÑOZ</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Pº de la Alameda de Osuna, 79</PostalAdress>
+    <Longitud>-3.58992095877333</Longitud>
+    <Latitud>40.4581074259849</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>TIMON-GRAN PODER</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Timón, 3 con C/ Gran Poder</PostalAdress>
+    <Longitud>-3.58554444030091</Longitud>
+    <Latitud>40.472994480988</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>TIMON-ALCAÑIZ</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Timón con C/ Alcañiz</PostalAdress>
+    <Longitud>-3.58852415042055</Longitud>
+    <Latitud>40.4723397397947</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALCAÑIZ-TIMON</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Alcañiz con C/ Timón</PostalAdress>
+    <Longitud>-3.58862052118538</Longitud>
+    <Latitud>40.4721455568175</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CICLON-ALISIOS</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Ciclón, 28</PostalAdress>
+    <Longitud>-3.59406208189201</Longitud>
+    <Latitud>40.4724195736572</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MISTRAL-GTA.DE LOS VIENTOS</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Mistral con Gta. de los Vientos</PostalAdress>
+    <Longitud>-3.59681473902618</Longitud>
+    <Latitud>40.473450463305</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HURACAN-ALISIOS</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Huracán, 27</PostalAdress>
+    <Longitud>-3.59444224190008</Longitud>
+    <Latitud>40.4719671737189</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CORBETA-AV.CANTABRIA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Corbeta, 8</PostalAdress>
+    <Longitud>-3.58699970601048</Longitud>
+    <Latitud>40.4564646097084</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ISIS-GALATEA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Isis frente al Nº 10.</PostalAdress>
+    <Longitud>-3.61365687624716</Longitud>
+    <Latitud>40.4504525639706</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CARABELA-GALEON</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Carabela, 4 (con C/ Galeón)</PostalAdress>
+    <Longitud>-3.58635826826872</Longitud>
+    <Latitud>40.4555579483716</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GALEON-BERGANTIN</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Galeón S/N esquina a C/ Bergantín</PostalAdress>
+    <Longitud>-3.5823176941071</Longitud>
+    <Latitud>40.4585963515469</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>JARDINES DE ARANJUEZ</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Jardines de Aranjuez S/N (Camping)</PostalAdress>
+    <Longitud>-3.60288585909989</Longitud>
+    <Latitud>40.4538244491432</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CARABELA-BALANDRO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Carabela, 15</PostalAdress>
+    <Longitud>-3.58920363927069</Longitud>
+    <Latitud>40.455520986596</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.HISPANIDAD-CENTRO DE CARGA AEREA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de la Hispanidad S/N (Centro de Carga Aerea)</PostalAdress>
+    <Longitud>-3.58117234901018</Longitud>
+    <Latitud>40.4570345360346</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AEROPUERTO T1</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Aeropuerto de Barajas Terminal 1 (Salidas).</PostalAdress>
+    <Longitud>-3.57071084913107</Longitud>
+    <Latitud>40.464073039913</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AEROPUERTO T1</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Aeropuerto de Barajas Terminal 1 (LLegadas).</PostalAdress>
+    <Longitud>-3.57092908231514</Longitud>
+    <Latitud>40.4641620544873</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AEROPUERTO T2</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Aeropuerto de Barajas Terminal 2 (LLegadas).</PostalAdress>
+    <Longitud>-3.56992411922421</Longitud>
+    <Latitud>40.4695228542713</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTRA.CIRCUNVALACION-ZODIACO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Zona Industrial, nave 109 con C/ Zodíaco</PostalAdress>
+    <Longitud>-3.57598316075519</Longitud>
+    <Latitud>40.4768352081338</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CTRA.CIRCUNVALACION-ZODIACO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Ctra. de Circunvalación con C/ Zodíaco</PostalAdress>
+    <Longitud>-3.57609104919035</Longitud>
+    <Latitud>40.4767761131511</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ACUARIO-PENELOPE</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Acuario, 25</PostalAdress>
+    <Longitud>-3.57994413827036</Longitud>
+    <Latitud>40.4751442754024</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ACUARIO-PENELOPE</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Acuario, 36</PostalAdress>
+    <Longitud>-3.57987337420695</Longitud>
+    <Latitud>40.4751896746456</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.LOS ANDES-AV.ARROYO DEL SANTO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de los Andes con Av. Arroyo del Santo</PostalAdress>
+    <Longitud>-3.62196454211428</Longitud>
+    <Latitud>40.4546289680237</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>TRESPADERNE</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Trespaderne, 19</PostalAdress>
+    <Longitud>-3.58224048376675</Longitud>
+    <Latitud>40.4537408813002</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AEROPUERTO T4</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Aeropuerto de Barajas Terminal 4</PostalAdress>
+    <Longitud>-3.59351825766636</Longitud>
+    <Latitud>40.4922556100774</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VIA DE DUBLIN-GTA. SINTRA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Vía de Dublín con Gta. de Sintra.</PostalAdress>
+    <Longitud>-3.6128700789805</Longitud>
+    <Latitud>40.4709792290534</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VIA DE DUBLIN-GTA. SINTRA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Via de Dublín con Gta. de Sintra</PostalAdress>
+    <Longitud>-3.61308949869647</Longitud>
+    <Latitud>40.4708654553354</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.HISPANIDAD-DIQUE SUR</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de la Hispanidad, Dique Sur Aeropuerto de Barajas</PostalAdress>
+    <Longitud>-3.57706068505238</Longitud>
+    <Latitud>40.4611091478144</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CAÑADA REAL DE MERINAS-TRESPADERNE</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Cañada Real de Merinas frente C/ Trespaderne</PostalAdress>
+    <Longitud>-3.58119373515555</Longitud>
+    <Latitud>40.453692084079</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VALHONDO-TORNADO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Valhondo S/N con C/ Tornado.</PostalAdress>
+    <Longitud>-3.59447908578746</Longitud>
+    <Latitud>40.4709174376249</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VALHONDO-TORNADO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Valhondo s/n con C/ Tornado.</PostalAdress>
+    <Longitud>-3.59475166390797</Longitud>
+    <Latitud>40.4709340561216</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PLAYA DE BARLOVENTO-PLAYA DE ZARAUZ</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Playa de Barlovento s/n con Playa de Zarauz.</PostalAdress>
+    <Longitud>-3.5928850047776</Longitud>
+    <Latitud>40.4732229006469</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PLAYA DE BARLOVENTO-PLAYA DE ZARAUZ</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Playa de Barlovento S/N frente a C/ Playa de Zarauz.</PostalAdress>
+    <Longitud>-3.59345490544107</Longitud>
+    <Latitud>40.4733010625996</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PLAYA DE AMERICA-AERONAVE</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Playa de América con C/ Aeronave</PostalAdress>
+    <Longitud>-3.58743963499148</Longitud>
+    <Latitud>40.4736200172848</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PLAYA DE AMERICA-AERONAVE</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Playa de América frente a C/ Aeronave.</PostalAdress>
+    <Longitud>-3.58761709534579</Longitud>
+    <Latitud>40.4736776754404</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PLAYA DE AMERICA-PLAYA DE RIAZOR</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Playa de América con C/ Playa de Riazor</PostalAdress>
+    <Longitud>-3.58535351232299</Longitud>
+    <Latitud>40.4755089529141</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PLAYA DE AMERICA-PLAYA DE RIAZOR</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Playa de América con C/ Playa de Riazor.</PostalAdress>
+    <Longitud>-3.58546355043465</Longitud>
+    <Latitud>40.4755714595893</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PLAYA DE RIAZOR-AV.DE LOGROÑO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Cº Viejo de Hortaleza con Av. de Logroño.</PostalAdress>
+    <Longitud>-3.58264257419476</Longitud>
+    <Latitud>40.4756712709115</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PLAYA DE RIAZOR-AV.DE LOGROÑO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Playa de Riazor con Av. de Logroño.</PostalAdress>
+    <Longitud>-3.58264296363466</Longitud>
+    <Latitud>40.4758018992106</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BAHIA DE LA CONCHA-BAHIA DE MALAGA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Bahía de la Concha S/N con Bahía de Malaga.</PostalAdress>
+    <Longitud>-3.59424932973009</Longitud>
+    <Latitud>40.4673870924572</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BAHIA DE LA CONCHA-BAHIA DE MALAGA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Bahía de la Concha S/N con Bahía de Malaga.</PostalAdress>
+    <Longitud>-3.5944100570957</Longitud>
+    <Latitud>40.4673457271898</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INTERCAMBIADOR AVENIDA DE AMERICA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Intercambiador Av. América (Dársena 14).</PostalAdress>
+    <Longitud>-3.67619170181925</Longitud>
+    <Latitud>40.4385187185617</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CENTRO DE CARGA AEREA 1</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Centro de Carga Aérea 1</PostalAdress>
+    <Longitud>-3.58049338709711</Longitud>
+    <Latitud>40.4562992016225</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CENTRO DE CARGA AEREA 1</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. Central (Centro de Carga Aérea)</PostalAdress>
+    <Longitud>-3.58055857836742</Longitud>
+    <Latitud>40.4556502258526</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CENTRO DE CARGA AEREA 2</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. Central (Centro de Carga Aérea)</PostalAdress>
+    <Longitud>-3.57833005037129</Longitud>
+    <Latitud>40.4543370486122</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CENTRO DE CARGA AEREA 2</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. Central (Centro de Carga Aérea)</PostalAdress>
+    <Longitud>-3.57815970370461</Longitud>
+    <Latitud>40.453725285767</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CENTRO DE CARGA AEREA 3</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. Central (Centro de Carga Aérea)</PostalAdress>
+    <Longitud>-3.57533925685606</Longitud>
+    <Latitud>40.4521357234462</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CENTRO DE CARGA AEREA 4</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. Central (Centro de Carga Aérea)</PostalAdress>
+    <Longitud>-3.57569250980723</Longitud>
+    <Latitud>40.4520709051954</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.GENERAL-JEREZ DE LOS CABALLEROS</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>AV. General, 26</PostalAdress>
+    <Longitud>-3.5804064939751</Longitud>
+    <Latitud>40.4708581854451</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AEROPUERTO T3</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Aeropuerto de Barajas Terminal 3.</PostalAdress>
+    <Longitud>-3.57120000265916</Longitud>
+    <Latitud>40.4703093608701</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AEROPUERTO T2</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Aeropuerto de Barajas Terminal 2 (Salidas).</PostalAdress>
+    <Longitud>-3.57001822592595</Longitud>
+    <Latitud>40.4680494201316</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DE LOS ANDES-AÑIL</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de los Andes S/N (Hipercor)</PostalAdress>
+    <Longitud>-3.61812307002251</Longitud>
+    <Latitud>40.456969353528</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DE LOS ANDES-AÑIL</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de los Andes S/N (frente a Hipercor)</PostalAdress>
+    <Longitud>-3.6182267483529</Longitud>
+    <Latitud>40.4575453762813</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RIBERA DEL LOIRA-AV.CONSEJO EUROPA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Ribera del Loira con Av. Consejo de Europa</PostalAdress>
+    <Longitud>-3.61673593050702</Longitud>
+    <Latitud>40.4598956651743</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RIBERA DEL LOIRA Nº 52</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Ribera del Loira frente al Nº 52</PostalAdress>
+    <Longitud>-3.61966530834918</Longitud>
+    <Latitud>40.4616863317828</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RIBERA DEL LOIRA Nº 52</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Ribera del Loira, 52</PostalAdress>
+    <Longitud>-3.61955254532571</Longitud>
+    <Latitud>40.4614481967189</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RIBERA DEL LOIRA-AV.PARTENON</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Ribera del Loira Av. Partenón</PostalAdress>
+    <Longitud>-3.62182685658497</Longitud>
+    <Latitud>40.4634179857634</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RIBERA DEL LOIRA-AV.PARTENON</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Ribera del Loira, 38</PostalAdress>
+    <Longitud>-3.62201413241519</Longitud>
+    <Latitud>40.463340403589</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RIBERA DEL LOIRA Nº 16</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Ribera del Loira, 16 ( Frente a XEROX )</PostalAdress>
+    <Longitud>-3.62454274171674</Longitud>
+    <Latitud>40.4666060662571</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RIBERA DEL LOIRA Nº 16-18</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Ribera del Loira, 16-18 Edificio  XEROX</PostalAdress>
+    <Longitud>-3.62451763345245</Longitud>
+    <Latitud>40.4663224185889</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ACONCAGUA-NEVADO CUMBAL</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Aconcagua frente a C/ Nevado Cumbal</PostalAdress>
+    <Longitud>-3.63096305301899</Longitud>
+    <Latitud>40.46873341794</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PARTENON-CAMPO NACIONES</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. Partenón con Av.Capital de España (junto farola 26)</PostalAdress>
+    <Longitud>-3.61561202320235</Longitud>
+    <Latitud>40.4636899278826</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PARTENON-GTA.HAMBURGO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. Partenon, 18 (15 m. Antes de la farola 38)</PostalAdress>
+    <Longitud>-3.61342766273174</Longitud>
+    <Latitud>40.463976293111</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PARTENON-GTA.HAMBURGO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. Partenon S/N con Gta. de Hamburgo</PostalAdress>
+    <Longitud>-3.61318815464612</Longitud>
+    <Latitud>40.464229813321</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GTA.ERMITA VIRGEN SOLEDAD-AV.LOGROÑO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Gta. Ermita Virgen de la Soledad S/N con Av.Logroño</PostalAdress>
+    <Longitud>-3.5828563467694</Longitud>
+    <Latitud>40.4673323751975</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.LOGROÑO-BENIFAYO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de Logroño, 223</PostalAdress>
+    <Longitud>-3.58848843908866</Longitud>
+    <Latitud>40.4629075041349</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.LOGROÑO-TINTIN Y MILU</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de Logroño frente al Nº 227</PostalAdress>
+    <Longitud>-3.58792314815755</Longitud>
+    <Latitud>40.463009473998</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GTA.ERMITA VIRGEN SOLEDAD-ARIADNA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Gta. Ermita Virgen de la Soledad</PostalAdress>
+    <Longitud>-3.58189086921162</Longitud>
+    <Latitud>40.4674993917121</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.LOGROÑO-BAHIA CADIZ</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de Logroño S/N con C/ Bahia de Cartagena</PostalAdress>
+    <Longitud>-3.59304520973479</Longitud>
+    <Latitud>40.4609833620262</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>OBENQUE-VELERO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Obenque con C/ Velero</PostalAdress>
+    <Longitud>-3.59378999519686</Longitud>
+    <Latitud>40.4514435082619</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>OBENQUE-VELERO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Obenque con C/ Velero (farola 9)</PostalAdress>
+    <Longitud>-3.59396748143109</Longitud>
+    <Latitud>40.45151016587</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CANOA-BALANDRO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Canoa, 21</PostalAdress>
+    <Longitud>-3.59128851114515</Longitud>
+    <Latitud>40.453150000404</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BATEL-PZA.DEL MAR</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Batel, 1</PostalAdress>
+    <Longitud>-3.58855233505824</Longitud>
+    <Latitud>40.4526369085052</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BATEL-PZA.DEL MAR</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Batel, 2</PostalAdress>
+    <Longitud>-3.5885768624178</Longitud>
+    <Latitud>40.4527448920829</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BATEL-BALANDRO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Batel, 12</PostalAdress>
+    <Longitud>-3.59097603441834</Longitud>
+    <Latitud>40.4536200639753</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CONSEJO EUROPA-RIBERA DEL LOIRA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. Consejo de Europa S/N con Gta. S.A.R. J.Borbón</PostalAdress>
+    <Longitud>-3.61584873668144</Longitud>
+    <Latitud>40.4597742604364</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CONSEJO EUROPA-RIBERA LOIRA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. Consejo de Europa S/N (pasada C/ Ribera del Loira)</PostalAdress>
+    <Longitud>-3.61675294710452</Longitud>
+    <Latitud>40.4593370165954</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CAPITAL ESPAÑA MADRID-AV.PARTENON</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. Capital de España Madrid con Av. Partenón</PostalAdress>
+    <Longitud>-3.61643569213186</Longitud>
+    <Latitud>40.4633477092548</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>GTA.DON JUAN DE BORBON-RIBERA DEL SENA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Gta. Su Alteza Real D. Juan de Borbón y B. con C/R.Sena</PostalAdress>
+    <Longitud>-3.61625299966985</Longitud>
+    <Latitud>40.46061445134</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BAHIA ALMERIA-AV.LOGROÑO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Bahía de Almería frente al Nº 5-A</PostalAdress>
+    <Longitud>-3.59048907690167</Longitud>
+    <Latitud>40.4623838085394</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BAHIA ALMERIA-BAHIA PALMA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Bahía de Almería frente al Nº 15</PostalAdress>
+    <Longitud>-3.59175655021567</Longitud>
+    <Latitud>40.4638818427436</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BAHIA DE POLLENSA-BAHIA DE GANDO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Bahía de Pollensa con Bahía de Gando.</PostalAdress>
+    <Longitud>-3.59259801646271</Longitud>
+    <Latitud>40.4658910513424</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BAHIA POLLENSA-BAHIA GANDO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Bahía de Bahía de Pollensa con C/ Bahía de Gando</PostalAdress>
+    <Longitud>-3.59352278870331</Longitud>
+    <Latitud>40.4655439740778</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BAHIA PALMA-BAHIA ALMERIA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Bahía de Palma con C/ Bahía de Almería</PostalAdress>
+    <Longitud>-3.59221652889337</Longitud>
+    <Latitud>40.4640866986434</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BAHIA PALMA-AV.LOGROÑO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Bahía de Palma frente al Nº 4-B</PostalAdress>
+    <Longitud>-3.59137240084932</Longitud>
+    <Latitud>40.4619378606324</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.CANTABRIA-PZA.DEL MAR</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de Cantabria con Pza. del Mar</PostalAdress>
+    <Longitud>-3.58794481570227</Longitud>
+    <Latitud>40.4532976521148</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PEONIAS-GTA.YUCATAN</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Las Peonías S/N con Gta. Yucatán</PostalAdress>
+    <Longitud>-3.62599272453882</Longitud>
+    <Latitud>40.4509090669066</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MEDINA DE POMAR-FRIAS</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Medina de Pomar, 11 frente C/ Frias (Parroquia)</PostalAdress>
+    <Longitud>-3.58455989133338</Longitud>
+    <Latitud>40.4519183865183</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RIBERA DEL LOIRA-RIBERA DEL SENA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Ribera del Loira con C/ Ribera del Sena.</PostalAdress>
+    <Longitud>-3.62611761193157</Longitud>
+    <Latitud>40.4685660250836</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PLAYA DE ZARAUZ-PLAYA DE LA CALETA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Playa de Zarauz frente al Nº 11.</PostalAdress>
+    <Longitud>-3.59029693126515</Longitud>
+    <Latitud>40.473173057923</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PLAYA DE ZARAUZ-PLAYA DE LA CALETA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Playa de Zarauz, 11</PostalAdress>
+    <Longitud>-3.59032867037263</Longitud>
+    <Latitud>40.473303526433</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DE LOS ANDES-ABELIAS</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de los Andes, 4.</PostalAdress>
+    <Longitud>-3.62495865324679</Longitud>
+    <Latitud>40.4535452821819</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.HNOS.FALCO Y ALVAREZ DE TOLEDO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Pza. Hnos. Falcó y Alvarez de Toledo, 20</PostalAdress>
+    <Longitud>-3.5772259145566</Longitud>
+    <Latitud>40.4735047054232</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.HISPANIDAD-CENTRO DE CARGA AEREA</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de la Hispanidad S/N frente (Centro de Carga Aerea)</PostalAdress>
+    <Longitud>-3.58144548803574</Longitud>
+    <Latitud>40.4571232553661</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AEROPUERTO T4</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Aeropuerto de Barajas Terminal 4</PostalAdress>
+    <Longitud>-3.59353972165051</Longitud>
+    <Latitud>40.4921383836497</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.NTRA.SRA.DE LORETO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Gran Poder con Pza. Ntra. Sra. de Loreto.</PostalAdress>
+    <Longitud>-3.58598170711077</Longitud>
+    <Latitud>40.4722760549531</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CAMPO NACIONES-PARTENON</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Campo  Naciones (Av.Partenón con Av.C.España Madrid)</PostalAdress>
+    <Longitud>-3.61593819827227</Longitud>
+    <Latitud>40.4642107151329</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VALHONDO-CICLON</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Valhondo con C/ Ciclón.</PostalAdress>
+    <Longitud>-3.59160901030346</Longitud>
+    <Latitud>40.4714906914705</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VALHONDO-PLAYA BARLOVENTO</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Valhondo con Playa de Barlovento.</PostalAdress>
+    <Longitud>-3.59124620750241</Longitud>
+    <Latitud>40.4714429947453</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.DE LOS ANDES-GTA.YUCATAN</Name>
+    <PostalCode>28042</PostalCode>
+    <PostalAdress>Av. de Los Andes con Gta. de Yucatán</PostalAdress>
+    <Longitud>-3.62643307657081</Longitud>
+    <Latitud>40.4516589381485</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+</ArrayOfPapelera>

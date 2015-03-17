@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPapelera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Papelera>
+    <Name>AV.ALBUFERA-PTO.ALCOLEA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av Albufera, 38 ( Ptº Alcolea )</PostalAdress>
+    <Longitud>-3.66646469865223</Longitud>
+    <Latitud>40.3968091531234</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ALBUFERA-PTO.ALCOLEA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av. de la Albufera, 37</PostalAdress>
+    <Longitud>-3.66598150140836</Longitud>
+    <Latitud>40.3968029232893</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ALBUFERA-SIERRA CARBONERA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av Albufera 76 ( Sierra Carbonera )</PostalAdress>
+    <Longitud>-3.66325496726705</Longitud>
+    <Latitud>40.395142878165</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ALBUFERA-SIERRA CARBONERA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av. de la Albufera, 71</PostalAdress>
+    <Longitud>-3.66338207109605</Longitud>
+    <Latitud>40.3954124228566</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ALBUFERA-SIERRA DEL CADI</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av Albufera 102</PostalAdress>
+    <Longitud>-3.66095739902163</Longitud>
+    <Latitud>40.3939578027022</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ALBUFERA-SIERRA DEL CADI</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av. de la Albufera, 101</PostalAdress>
+    <Longitud>-3.66081767732762</Longitud>
+    <Latitud>40.3941297725623</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ALBUFERA-PAYASO FOFO</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av. de la Albufera frente al Nº 145 (Estadio de Valleca</PostalAdress>
+    <Longitud>-3.65795214624325</Longitud>
+    <Latitud>40.3923893120913</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ALBUFERA-PAYASO FOFO</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av. de la Albufera, 143 (Estadio de Vallecas)</PostalAdress>
+    <Longitud>-3.65797709319483</Longitud>
+    <Latitud>40.3925693522157</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ALBUFERA-AV.BUENOS AIRES</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av. de la Albufera frente al Nº 179</PostalAdress>
+    <Longitud>-3.65451260233198</Longitud>
+    <Latitud>40.3915889702896</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ALBUFERA-AV.BUENOS AIRES</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av. de la Albufera, con C/ Pío Felipe</PostalAdress>
+    <Longitud>-3.65412552795073</Longitud>
+    <Latitud>40.3917713385961</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ALBUFERA-INSTITUTO TIRSO DE MOLINA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av. de la Albufera con C/ Sierra Faladora</PostalAdress>
+    <Longitud>-3.65124588445679</Longitud>
+    <Latitud>40.3912920636773</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ALBUFERA-INSTITUTO TIRSO MOLINA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av. de la Albufera frente al Nº 220 (Inst.Tirso Molina)</PostalAdress>
+    <Longitud>-3.65142478367945</Longitud>
+    <Latitud>40.3915162851401</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ALBUFERA-ALTO DEL ARENAL</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av. de la Albufera, 248</PostalAdress>
+    <Longitud>-3.64607178158155</Longitud>
+    <Latitud>40.3899066083428</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SANTILLANA DEL MAR-ALTO DEL ARENAL</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Santillana del Mar, 15</PostalAdress>
+    <Longitud>-3.6457436211157</Longitud>
+    <Latitud>40.3903994339588</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ALBUFERA-AV.PABLO NERUDA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av. de la Albufera, 275 con Av. Pablo Neruda</PostalAdress>
+    <Longitud>-3.64299599422774</Longitud>
+    <Latitud>40.3888426296004</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ALBUFERA-AV.RAFAEL ALBERTI</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av Albufera 285 con Av Rafael Alberti</PostalAdress>
+    <Longitud>-3.63976824177604</Longitud>
+    <Latitud>40.387428052868</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ALBUFERA-AV.MIGUEL HERNANDEZ</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av. de la Albufera frente al Nº 300</PostalAdress>
+    <Longitud>-3.63778011801897</Longitud>
+    <Latitud>40.3865020683211</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.PEÑA PRIETA-PILAR RUEDA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av. Peña Prieta, 63</PostalAdress>
+    <Longitud>-3.664071232823</Longitud>
+    <Latitud>40.4026788009936</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>STA.MARTA-DR.LOZANO</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Santa Marta, frenta al Nº 19</PostalAdress>
+    <Longitud>-3.66160051861208</Longitud>
+    <Latitud>40.4030983483961</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SIERRA TOLEDANA-PATIO SANTIAGO</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Sierra Toledana, 48</PostalAdress>
+    <Longitud>-3.65943236618697</Longitud>
+    <Latitud>40.4043359465173</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SIERRA ELVIRA-SIERRA TOLEDANA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Sierra Elvira, frente al Nº 38</PostalAdress>
+    <Longitud>-3.65959214711067</Longitud>
+    <Latitud>40.4050107171402</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PIO FELIPE-AV.ALBUFERA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Pío Felipe frente al Nº 34  con Av. de la Albufera</PostalAdress>
+    <Longitud>-3.65370762584821</Longitud>
+    <Latitud>40.3924223524197</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PIO FELIPE-AV.ALBUFERA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Pío Felipe, 36</PostalAdress>
+    <Longitud>-3.65426000634385</Longitud>
+    <Latitud>40.3922750883439</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PIO FELIPE-BENJAMIN PALENCIA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Pío Felipe S/N con C/ Benjamín Palencia</PostalAdress>
+    <Longitud>-3.65212864084834</Longitud>
+    <Latitud>40.3950168615512</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PIO FELIPE-BENJAMIN PALENCIA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Pío Felipe con C/ Benjamín Palencia</PostalAdress>
+    <Longitud>-3.65238024393833</Longitud>
+    <Latitud>40.3952947265675</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BENJAMIN PALENCIA-HUMANES</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Benjamín Palencia, 18</PostalAdress>
+    <Longitud>-3.64870902745251</Longitud>
+    <Latitud>40.3946126353095</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BENJAMIN PALENCIA-HUMANES</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Benjamín Palencia, 15</PostalAdress>
+    <Longitud>-3.64912367027639</Longitud>
+    <Latitud>40.3948445488537</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MALGRAT DE MAR-PONT DE MOLINS</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Malgrat de Mar, 2</PostalAdress>
+    <Longitud>-3.64423923169937</Longitud>
+    <Latitud>40.3942051439873</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MALGRAT DE MAR-PONT DE MOLINS</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Malgrat de Mar, 3.</PostalAdress>
+    <Longitud>-3.64338978801276</Longitud>
+    <Latitud>40.3940567104341</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.PABLO NERUDA-MALGRAT DE MAR</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Pablo Neruda, 4</PostalAdress>
+    <Longitud>-3.6416204819146</Longitud>
+    <Latitud>40.3926611050292</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOS ANDALUCES-AV.PABLO NERUDA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Andaluces con Av. Pablo Neruda</PostalAdress>
+    <Longitud>-3.64151495927664</Longitud>
+    <Latitud>40.3914724886713</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOS ANDALUCES-AV.PABLO NERUDA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Andaluces con Av. Pablo Neruda</PostalAdress>
+    <Longitud>-3.6412695786508</Longitud>
+    <Latitud>40.3916900656232</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOS ANDALUCES-AV.RAFAEL ALBERTI</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Andaluces, 18</PostalAdress>
+    <Longitud>-3.63897089365545</Longitud>
+    <Latitud>40.390333384502</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOS ANDALUCES-AV.RAFAEL ALBERTI</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Andaluces S/N con Av. Rafael Alberti</PostalAdress>
+    <Longitud>-3.63916289204089</Longitud>
+    <Latitud>40.3907016984193</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN CLAUDIO-RAFAEL FERNANDEZ HIJICOS</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>San Claudio frente al Nº 22</PostalAdress>
+    <Longitud>-3.63629143461934</Longitud>
+    <Latitud>40.3910778698112</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SAN CLAUDIO-RAFAEL FERNANDEZ HIJICOS</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Rafael Fernández Hijicos, frente al Nº 24</PostalAdress>
+    <Longitud>-3.63583209759052</Longitud>
+    <Latitud>40.3910984100496</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOS ANDALUCES-SAN CLAUDIO</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Andaluces, 13</PostalAdress>
+    <Longitud>-3.63627950289022</Longitud>
+    <Latitud>40.3898076521388</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LOS ANDALUCES-SAN CLAUDIO</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Andaluces S/N con C/ San Claudio</PostalAdress>
+    <Longitud>-3.6358512077914</Longitud>
+    <Latitud>40.3893685577271</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.RAFAEL ALBERTI-SAN CLAUDIO</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Andaluces S/N con C/ San Claudio</PostalAdress>
+    <Longitud>-3.63968811052561</Longitud>
+    <Latitud>40.3889240065178</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.RAFAEL ALBERTI-SAN CLAUDIO</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av. Rafael Alberti frente al Nº 14</PostalAdress>
+    <Longitud>-3.63892560562486</Longitud>
+    <Latitud>40.3892795694742</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EL BOSCO-MARUJA GARCIA ROMERO</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>El Bosco con C/ Maruja García Romero</PostalAdress>
+    <Longitud>-3.65387752786584</Longitud>
+    <Latitud>40.4039169844052</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EL BOSCO-RAMON PEREZ AYALA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>El Bosco con C/ Ramón Pérez de Ayala, 68</PostalAdress>
+    <Longitud>-3.65145261769721</Longitud>
+    <Latitud>40.4017594603738</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EL BOSCO-RAMON PEREZ AYALA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>El Bosco S/N con C/ Ramón Pérez de Ayala</PostalAdress>
+    <Longitud>-3.64985510962642</Longitud>
+    <Latitud>40.4002684219954</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EL BOSCO-PIO FELIPE</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>El Bosco S/N con C/ Pío Felipe</PostalAdress>
+    <Longitud>-3.64737461116345</Longitud>
+    <Latitud>40.3978543633727</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MEDITERRANEO-AV.DEMOCRACIA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av. del Mediterráneo con Av. Democracia(Gasolinera)</PostalAdress>
+    <Longitud>-3.62424115574951</Longitud>
+    <Latitud>40.3911028878833</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SIERRA TOLEDANA-Cº VALDERRIBAS</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Sierra Toledana, 3</PostalAdress>
+    <Longitud>-3.66079994919304</Longitud>
+    <Latitud>40.3997470373705</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BALTASAR SANTOS-SIERRA TOLEDANA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Baltasar Santos con C/ Sierra Toledana</PostalAdress>
+    <Longitud>-3.65956925689398</Longitud>
+    <Latitud>40.4026234430319</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BALTASAR SANTOS-PTO.NAVACERRADA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Baltasar Santos frente a C/ Puerto de Navacerrada</PostalAdress>
+    <Longitud>-3.65703734257317</Longitud>
+    <Latitud>40.4020522430316</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARISMAS-MARUJA GARCIA ROMERO</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Marismas, 2</PostalAdress>
+    <Longitud>-3.65515829592065</Longitud>
+    <Latitud>40.403067398617</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARISMAS-MARUJA GARCIA ROMERO</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Marismas, 9</PostalAdress>
+    <Longitud>-3.65498972521133</Longitud>
+    <Latitud>40.4031539381894</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARISMAS-RAMON PEREZ DE AYALA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Marismas, 22</PostalAdress>
+    <Longitud>-3.65348916847154</Longitud>
+    <Latitud>40.4015317707352</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>MARISMAS-RAMON PEREZ DE AYALA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Marismas, 61</PostalAdress>
+    <Longitud>-3.65341006617601</Longitud>
+    <Latitud>40.4017304167116</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RAMON PEREZ DE AYALA Nº 60</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Ramón Pérez de Ayala, 60</PostalAdress>
+    <Longitud>-3.65190764283824</Longitud>
+    <Latitud>40.4014370780543</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RAMON PEREZ DE AYALA Nº 60</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Ramón Pérez de Ayala frente al Nº 60</PostalAdress>
+    <Longitud>-3.65198814065245</Longitud>
+    <Latitud>40.4016888791957</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RAMON PEREZ DE AYALA Nº 94</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Ramón Pérez de Ayala, 94</PostalAdress>
+    <Longitud>-3.65058144359441</Longitud>
+    <Latitud>40.3995526273145</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RAMON PEREZ DE AYALA Nº 90</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Ramón Pérez de Ayala frente al Nº 90</PostalAdress>
+    <Longitud>-3.65016106398269</Longitud>
+    <Latitud>40.3996856193156</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RAMON PEREZ DE AYALA-BENJAMIN PALENCIA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Ramón Pérez de Ayala, 142</PostalAdress>
+    <Longitud>-3.65349666457365</Longitud>
+    <Latitud>40.3976533187668</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>RAMON PEREZ DE AYALA-BENJAMIN PALENCIA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Ramón Pérez de Ayala frente al Nº 154</PostalAdress>
+    <Longitud>-3.65338420154508</Longitud>
+    <Latitud>40.397599898684</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº VALDERRIBAS-DR.SALGADO</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Cº de Valderribas, 61</PostalAdress>
+    <Longitud>-3.66333860024273</Longitud>
+    <Latitud>40.4001469442105</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SIERRA TOLEDANA-BALTASAR SANTOS</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Sierra Toledana, 23</PostalAdress>
+    <Longitud>-3.66035367258604</Longitud>
+    <Latitud>40.4020559063834</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BALTASAR SANTOS-SIERRA TOLEDANA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Baltasar Santos con C/ Sierra Toledana</PostalAdress>
+    <Longitud>-3.6595291703804</Longitud>
+    <Latitud>40.4027047529701</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BALTASAR SANTOS-PTO.NAVACERRADA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Baltasar Santos con C/  Puerto de Navacerrada</PostalAdress>
+    <Longitud>-3.65709621256457</Longitud>
+    <Latitud>40.4019708273865</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.PABLO NERUDA-AV.ALBUFERA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av. Pablo Neruda frente al Nº 34</PostalAdress>
+    <Longitud>-3.643021444267</Longitud>
+    <Latitud>40.3900497077878</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.PABLO NERUDA-AV.ALBUFERA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av. Pablo Neruda , 34</PostalAdress>
+    <Longitud>-3.64341031821823</Longitud>
+    <Latitud>40.3902097123588</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MEDITERRANEO-RAMON PEREZ DE AYALA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av. del Mediterráneo con C/ Ramón Pérez de Ayala</PostalAdress>
+    <Longitud>-3.6495134212605</Longitud>
+    <Latitud>40.4003514201831</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MEDITERRANEO-PIO FELIPE</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av. del Mediterráneo con C/ Pío Felipe</PostalAdress>
+    <Longitud>-3.64687788272759</Longitud>
+    <Latitud>40.3979742564966</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MEDITERRANEO-AV.PABLO NERUDA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av. del Mediterráneo con Av. Pablo Neruda</PostalAdress>
+    <Longitud>-3.64111329829271</Longitud>
+    <Latitud>40.3947855547962</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PIO FELIPE-JADRAQUE</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Pío Felipe frente a C/ Jadraque</PostalAdress>
+    <Longitud>-3.64950334642446</Longitud>
+    <Latitud>40.3971127109073</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PIO FELIPE-JADRAQUE</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Pío Felipe S/N con C/ Jadraque</PostalAdress>
+    <Longitud>-3.6493582038919</Longitud>
+    <Latitud>40.3969919019737</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SANTILLANA DEL MAR-ALTO DEL ARENAL</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Santillana del Mar, 17.</PostalAdress>
+    <Longitud>-3.6456786050546</Longitud>
+    <Latitud>40.3903772736183</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.RAFAEL ALBERTI-SAN CLAUDIO</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av. Rafael Alberti con C/ San Claudio</PostalAdress>
+    <Longitud>-3.63754628397817</Longitud>
+    <Latitud>40.3917016075478</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.RAFAEL ALBERTI-SAN CLAUDIO</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av. Rafael Alberti con C/ San Claudio</PostalAdress>
+    <Longitud>-3.63780803975452</Longitud>
+    <Latitud>40.3919704396316</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>TELECOMUNICACION Y TOPOGRAFIA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Campus Politécnico (Telecomunicaciones)</PostalAdress>
+    <Longitud>-3.6298971786406</Longitud>
+    <Latitud>40.3902209128439</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>C.P. DE EDUCACION ESPECIAL VALLECAS</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Colegio Público de Educación Especial Vallecas</PostalAdress>
+    <Longitud>-3.63103524213527</Longitud>
+    <Latitud>40.3882372209646</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INSTITUTO PALOMERAS VALLECAS</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Escuela de Maestría Industrial</PostalAdress>
+    <Longitud>-3.62948143965381</Longitud>
+    <Latitud>40.3872456632605</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>POLIDEPORTIVO-ARBOLEDA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Politécnico de Vallecas con C/ Arboleda</PostalAdress>
+    <Longitud>-3.62695485930321</Longitud>
+    <Latitud>40.3886332527973</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PUENTE DE VALLECAS</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av. de La Paz (M-30) frente Nº 8 de C/ Peña Prieta</PostalAdress>
+    <Longitud>-3.6683843692482</Longitud>
+    <Latitud>40.3990863979177</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EL BOSCO-HUMANES</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>El Bosco S/N con C/ Humanes, 27</PostalAdress>
+    <Longitud>-3.64445265382823</Longitud>
+    <Latitud>40.3955823478609</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SIERRA ELVIRA-JULIAN DEL CERRO</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Sierra Elvira, 27</PostalAdress>
+    <Longitud>-3.66319584491586</Longitud>
+    <Latitud>40.4047468941922</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ESCUELA DE INFORMATICA-POLIDEPORTIVO</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Escuela de Ingeniería Técnica - Arboleda</PostalAdress>
+    <Longitud>-3.62768634635892</Longitud>
+    <Latitud>40.3881428001291</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BENJAMIN PALENCIA-PZA.PEDRO MARCOS</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Benjamín Palencia S/N frente a Pza. de Pedro Marcos</PostalAdress>
+    <Longitud>-3.64626826857571</Longitud>
+    <Latitud>40.394446096333</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>BENJAMIN PALENCIA-PZA.PEDRO MARCOS</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Benjamín Palencia S/N con Pza. de Pedro Marcos</PostalAdress>
+    <Longitud>-3.64629363945189</Longitud>
+    <Latitud>40.3946351457086</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MEDITERRANEO-POLITECNICO</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av. del Mediterráneo (Politécnico)</PostalAdress>
+    <Longitud>-3.62641781761351</Longitud>
+    <Latitud>40.3914379892677</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ALFONSO XIII-PEÑA PRIETA</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Alfonso XIII con Av. de Peña Prieta</PostalAdress>
+    <Longitud>-3.66465273159335</Longitud>
+    <Latitud>40.4018150989919</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>SANTA MARTA-ALFONSO XIII</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Santa Marta con C/ Alfonso XIII.</PostalAdress>
+    <Longitud>-3.66212573440377</Longitud>
+    <Latitud>40.4014466864422</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.ALBUFERA-PIO FELIPE</Name>
+    <PostalCode>28038</PostalCode>
+    <PostalAdress>Av. de la Albufera, con C/ Pío Felipe</PostalAdress>
+    <Longitud>-3.6540606040699</Longitud>
+    <Latitud>40.3919879234418</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+</ArrayOfPapelera>

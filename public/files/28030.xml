@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPapelera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Papelera>
+    <Name>Cº VINATEROS-M30</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Cº de Vinateros, 10 (M-30)</PostalAdress>
+    <Longitud>-3.66015440734717</Longitud>
+    <Latitud>40.4107012442516</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº VINATEROS-M30</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Cº de Vinateros, 3 (M-30)</PostalAdress>
+    <Longitud>-3.65891911432318</Longitud>
+    <Latitud>40.4109335050283</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CORR.DIEGO VALDERRABANO-LITUANIA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Corregidor Diego de Vaderrabano, 15.</PostalAdress>
+    <Longitud>-3.66025712876944</Longitud>
+    <Latitud>40.4094889396773</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>CORR.DIEGO VALDERRABANO-LITUANIA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Corregidor Diego de Valderrábano, 16</PostalAdress>
+    <Longitud>-3.66003507204403</Longitud>
+    <Latitud>40.4093415557446</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MORATALAZ Nº 17</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Av. de Moratalaz frente al Nº 17</PostalAdress>
+    <Longitud>-3.6611093339022</Longitud>
+    <Latitud>40.4077092925653</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MORATALAZ Nº 21</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Av. de Moratalaz, 21</PostalAdress>
+    <Longitud>-3.66064492340343</Longitud>
+    <Latitud>40.4078245557683</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.CORR.ALONSO AGUILAR</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Av. de Moratalaz, 40 con Pza. Corregidor Alonso Aguilar</PostalAdress>
+    <Longitud>-3.65924858186906</Longitud>
+    <Latitud>40.407246922466</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.CORR.ALONSO AGUILAR</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Pza. del Corregidor Alonso Aguilar, 6</PostalAdress>
+    <Longitud>-3.65786947696784</Longitud>
+    <Latitud>40.4072277365642</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MORATALAZ-PARQUE DARWIN</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Av. de Moratalaz, frente al Nº 93</PostalAdress>
+    <Longitud>-3.65505340659754</Longitud>
+    <Latitud>40.406081526958</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MORATALAZ-PARQUE DARWIN</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Av. de Moratalaz, 93</PostalAdress>
+    <Longitud>-3.65506304299843</Longitud>
+    <Latitud>40.4063922854095</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HACIENDA DE PAVONES-ALONSO DE TOBAR</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Hacienda de Pavones, 8</PostalAdress>
+    <Longitud>-3.64874383929415</Longitud>
+    <Latitud>40.4043963047313</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HACIENDA DE PAVONES-CAÑADA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Hacienda de Pavones, 106</PostalAdress>
+    <Longitud>-3.64561321337453</Longitud>
+    <Latitud>40.4036029792652</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HACIENDA DE PAVONES-CAÑADA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Hacienda de Pavones, 93</PostalAdress>
+    <Longitud>-3.64568580972561</Longitud>
+    <Latitud>40.4038007743239</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA. CORREGIDOR CONDE MACEDA Y TABOADA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Pza. C.Maceda y Taboada con C/ H. de Pavones, 140</PostalAdress>
+    <Longitud>-3.64349696063282</Longitud>
+    <Latitud>40.4028940288109</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.CORR.CONDE MACEDA Y TABOADA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Pza. Corregidor C. Maceda y Taboada con C/ H. Pavones</PostalAdress>
+    <Longitud>-3.64334864463965</Longitud>
+    <Latitud>40.4034083701677</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HACIENDA PAVONES-PZA.C.MACEDA Y TABOADA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Hacienda de Pavones frente al Nº 144</PostalAdress>
+    <Longitud>-3.64243671972852</Longitud>
+    <Latitud>40.402935950231</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ENCOMIENDA DE PALACIOS-PICO ARTILLEROS</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Encomienda de Palacios, 33</PostalAdress>
+    <Longitud>-3.64376222348707</Longitud>
+    <Latitud>40.4010456933161</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ENCOMIENDA DE PALACIOS-A.FONTARRON</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Encomienda de Palacios, 1</PostalAdress>
+    <Longitud>-3.6471286372201</Longitud>
+    <Latitud>40.4006305356872</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARROYO FONTARRON Nº 169</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Arroyo Fontarrón frente al Nº 169</PostalAdress>
+    <Longitud>-3.64570539777778</Longitud>
+    <Latitud>40.3984402615808</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARROYO FONTARRON Nº 245</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Arroyo Fontarrón, frente al Nº 245.</PostalAdress>
+    <Longitud>-3.64384459957712</Longitud>
+    <Latitud>40.3969280834381</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FTE.CARRANTONA-ARROYO FONTARRON</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Fuente Carrantona con Arroyo Fontarrón</PostalAdress>
+    <Longitud>-3.63912167857703</Longitud>
+    <Latitud>40.396323601222</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FTE.CARRANTONA-ENCOMIENDA DE PALACIOS</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Fuente Carrantona con C/ Encomienda de Palacios</PostalAdress>
+    <Longitud>-3.63765508083916</Longitud>
+    <Latitud>40.3986425149509</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ENCOMIENDA DE PALACIOS-TACONA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Encomienda de Palacios, 183 (Tacona )</PostalAdress>
+    <Longitud>-3.63991405518701</Longitud>
+    <Latitud>40.3991210532938</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ENCOMIENDA DE PALACIOS-PICO ARTILLEROS</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Encomienda de Palacios, 51</PostalAdress>
+    <Longitud>-3.6427582804432</Longitud>
+    <Latitud>40.4008080231816</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HACIENDA DE PAVONES Nº 15</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Hacienda de Pavones, 15</PostalAdress>
+    <Longitud>-3.64888784364002</Longitud>
+    <Latitud>40.4046657703704</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.DEL ENCUENTRO</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Pza. del Encuentro, 1</PostalAdress>
+    <Longitud>-3.65078384930179</Longitud>
+    <Latitud>40.4057452312983</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HACIENDA DE PAVONES-PZA.DEL ENCUENTRO</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Hacienda de Pavones, 2</PostalAdress>
+    <Longitud>-3.65102803660689</Longitud>
+    <Latitud>40.4054015143028</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HACIENDA PAVONES Nº 204</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Hacienda de Pavones, 204.</PostalAdress>
+    <Longitud>-3.63996921009951</Longitud>
+    <Latitud>40.4024631186634</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HACIENDA DE PAVONES Nº 155</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Hacienda de Pavones, 155.</PostalAdress>
+    <Longitud>-3.63985307092684</Longitud>
+    <Latitud>40.4026439418679</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FTE.CARRANTONA-HACIENDA DE PAVONES</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Av.Fuente Carrantona con C/ Hacienda de Pavones.</PostalAdress>
+    <Longitud>-3.63572887363943</Longitud>
+    <Latitud>40.4014414140897</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FTE.CARRANTONA-HACIENDA DE PAVONES</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Fuente Carrantona S/N con C/ Hacienda de Pavones</PostalAdress>
+    <Longitud>-3.63605063994857</Longitud>
+    <Latitud>40.4014306386914</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FTE.CARRANTONA-LUIS DE HOYOS SAINZ</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Fuente Carrantona S/N con C/ Luís de Hoyos Sainz.</PostalAdress>
+    <Longitud>-3.63439244929383</Longitud>
+    <Latitud>40.4034487570859</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FTE.CARRANTONA-LUIS DE HOYOS SAINZ</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Fuente Carrantona S/N con C/ Luís de Hoyos Sainz.</PostalAdress>
+    <Longitud>-3.63480447988411</Longitud>
+    <Latitud>40.4034014544452</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FTE.CARRANTONA-DR.GARCIA TAPIA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Fuente Carrantona frente al Nº 35.</PostalAdress>
+    <Longitud>-3.63133980525562</Longitud>
+    <Latitud>40.4072042025339</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FTE.CARRANTONA-AV.DR.GARCIA TAPIA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Fuente Carrantona, 35</PostalAdress>
+    <Longitud>-3.63179543064698</Longitud>
+    <Latitud>40.4074449634223</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº VINATEROS-ARROYO MEDIA LEGUA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Cº de Vinateros, 38</PostalAdress>
+    <Longitud>-3.65606385004988</Longitud>
+    <Latitud>40.4106253871259</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº VINATEROS-ARROYO MEDIA LEGUA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Cº de Vinateros, 29</PostalAdress>
+    <Longitud>-3.65613770735926</Longitud>
+    <Latitud>40.4109492950444</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARROYO MEDIA LEGUA-ENTREARROYOS</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Arroyo de Media Legua frente al Nº 46</PostalAdress>
+    <Longitud>-3.65655106680453</Longitud>
+    <Latitud>40.409820819621</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARROYO MEDIA LEGUA-ENTREARROYOS</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Arroyo de Media Legua, 46</PostalAdress>
+    <Longitud>-3.65642415502087</Longitud>
+    <Latitud>40.4097990162874</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ENTREARROYOS Nº 84-IGLESIA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Entrearroyos, 84</PostalAdress>
+    <Longitud>-3.65503932205872</Longitud>
+    <Latitud>40.4082798195832</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ENTREARROYOS Nº 19-IGLESIA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Entrearroyos, 19</PostalAdress>
+    <Longitud>-3.6548278862792</Longitud>
+    <Latitud>40.4083530876789</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.CORR.SANCHO DE CORDOBA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Pza. del Corregidor Sancho Córdoba, 8</PostalAdress>
+    <Longitud>-3.65267473157996</Longitud>
+    <Latitud>40.4075093789943</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.CORR.SANCHO DE CORDOBA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Pza. del Corregidor Sancho Córdoba, 5</PostalAdress>
+    <Longitud>-3.65219588484532</Longitud>
+    <Latitud>40.4079625297202</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PICO ARTILLEROS-Cº VINATEROS</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Pico Artilleros, 61</PostalAdress>
+    <Longitud>-3.64188633702714</Longitud>
+    <Latitud>40.4048984759624</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PICO ARTILLEROS-Cº VINATEROS</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Pico Artilleros frente al Nº 61.</PostalAdress>
+    <Longitud>-3.64209054508488</Longitud>
+    <Latitud>40.404955903176</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PICO ARTILLEROS Nº 102</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Pico Artilleros, 102</PostalAdress>
+    <Longitud>-3.64020199604525</Longitud>
+    <Latitud>40.4058942912305</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PICO ARTILLEROS-LUIS DE HOYOS SAINZ</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Pico Artilleros, 27</PostalAdress>
+    <Longitud>-3.63932324166771</Longitud>
+    <Latitud>40.4064396892017</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PICO ARTILLEROS Nº 1</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Pico Artilleros, 1</PostalAdress>
+    <Longitud>-3.64054087633722</Longitud>
+    <Latitud>40.4093248746162</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.CORREGIDOR LICENCIADO ANTONIO MENA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Pza.Corregidor Licenciado A.de Mena con Pico Artilleros</PostalAdress>
+    <Longitud>-3.64120307627275</Longitud>
+    <Latitud>40.4095554466253</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.GARCIA TAPIA-MOLINA DE SEGURA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Dr. García Tapia frente al Nº 133</PostalAdress>
+    <Longitud>-3.63785422473788</Longitud>
+    <Latitud>40.4088757331778</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.GARCIA TAPIA-JOSE BERGAMIN</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Dr. García Tapia, 133</PostalAdress>
+    <Longitud>-3.6378767851695</Longitud>
+    <Latitud>40.4092765126269</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.GARCIA TAPIA-FOBOS</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Avenida Doctor Gª Tapia.</PostalAdress>
+    <Longitud>-3.63552294121283</Longitud>
+    <Latitud>40.4086137705266</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.GARCIA TAPIA Nº 216</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Dr. García Tapia, 216</PostalAdress>
+    <Longitud>-3.63219329091679</Longitud>
+    <Latitud>40.407731083149</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.GARCIA TAPIA-FTE.CARRANTONA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Dr. García Tapia con C/ Fuente Carrantona</PostalAdress>
+    <Longitud>-3.63183097902305</Longitud>
+    <Latitud>40.4080573866494</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.CORREGIDOR ALONSO AGUILAR</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Pza. Corregidor Alonso Aguilar S/N</PostalAdress>
+    <Longitud>-3.65897577349925</Longitud>
+    <Latitud>40.4070682935348</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARROYO FONTARRON-PZA.ENCUENTRO</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Arroyo Fontarrón, 1</PostalAdress>
+    <Longitud>-3.65145167793868</Longitud>
+    <Latitud>40.4053360689112</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARROYO FONTARRON-CORR.J.FCO.LUJAN</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Arroyo Fontarrón, frente al Nº 53</PostalAdress>
+    <Longitud>-3.65047193267137</Longitud>
+    <Latitud>40.4027199340242</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARROYO FONTARRON-CORR.J.FCO.LUJAN</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Arroyo Fontarrón, 55</PostalAdress>
+    <Longitud>-3.65017810612646</Longitud>
+    <Latitud>40.4028026653817</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARROYO FONTARRON-ENCOMIENDA DE PALACIOS</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Arroyo Fontarrón frente al Nº 83</PostalAdress>
+    <Longitud>-3.64832053088439</Longitud>
+    <Latitud>40.4008040524579</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARROYO FONTARRON-ENCOMIENDA DE PALACIOS</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Arroyo Fontarrón, 83</PostalAdress>
+    <Longitud>-3.64831159347438</Longitud>
+    <Latitud>40.4011014021567</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ENCOMIENDA DE PALACIOS-ARROYO FONTARRON</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Encomienda de Palacios, 2</PostalAdress>
+    <Longitud>-3.64698550945602</Longitud>
+    <Latitud>40.4004511535631</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ENCOMIENDA DE PALACIOS-PICO ARTILLEROS</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Encomienda de Palacios, 146</PostalAdress>
+    <Longitud>-3.64289823303073</Longitud>
+    <Latitud>40.4006540921097</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ENCOMIENDA DE PALACIOS-TACONA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Encomienda de Palacios, 250</PostalAdress>
+    <Longitud>-3.64044431724672</Longitud>
+    <Latitud>40.3991181228105</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ENCOMIENDA DE PALACIOS-FTE.CARRANTONA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Encomienda de Palacios, 264</PostalAdress>
+    <Longitud>-3.63735879096177</Longitud>
+    <Latitud>40.3980720684322</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ENCOMIENDA DE PALACIOS-FTE.CARRANTONA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Encomienda de Palacios, frente al Nº 264</PostalAdress>
+    <Longitud>-3.63743178105782</Longitud>
+    <Latitud>40.3983149122033</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ENCOMIENDA DE PALACIOS-VALDEBERNARDO</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Encomienda de Palacios, 360</PostalAdress>
+    <Longitud>-3.63458099003974</Longitud>
+    <Latitud>40.3971593823393</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ENCOMIENDA DE PALACIOS-VALDEBERNARDO</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Encomienda de Palacios, frente al Nº 360</PostalAdress>
+    <Longitud>-3.63473653678611</Longitud>
+    <Latitud>40.3974107846909</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VALDEBERNARDO-HACIENDA DE PAVONES</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Valdebernardo con C/ Hacienda de Pavones</PostalAdress>
+    <Longitud>-3.63254087869204</Longitud>
+    <Latitud>40.3995219124048</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MORATALAZ-PZA.DEL ENCUENTRO</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Av. de Moratalaz, 66</PostalAdress>
+    <Longitud>-3.65040955077028</Longitud>
+    <Latitud>40.406040128541</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MORATALAZ-PZA.DEL ENCUENTRO</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Av. de Moratalaz, 115</PostalAdress>
+    <Longitud>-3.65049338599108</Longitud>
+    <Latitud>40.4061792983809</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MORATALAZ-Cº VINATEROS</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Av. de Moratalaz, 160</PostalAdress>
+    <Longitud>-3.64628809669847</Longitud>
+    <Latitud>40.4076352811083</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MORATALAZ-Cº VINATEROS</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Av. de Moratalaz, 181</PostalAdress>
+    <Longitud>-3.6463845277842</Longitud>
+    <Latitud>40.4078599697998</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MORATALAZ-PICO ARTILLEROS</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Av. de Moratalaz, 199</PostalAdress>
+    <Longitud>-3.64174734070192</Longitud>
+    <Latitud>40.4097776592188</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MORATALAZ Nº 180-COLEGIO SENARA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Av. de Moratalaz, 180</PostalAdress>
+    <Longitud>-3.64281322975097</Longitud>
+    <Latitud>40.4090780505148</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MORATALAZ Nº 189-COLEGIO SENARA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Av. de Moratalaz, 189</PostalAdress>
+    <Longitud>-3.64300333538684</Longitud>
+    <Latitud>40.4092391586113</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LUIS DE HOYOS SAINZ Nº 52</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Luís de Hoyos Sainz, 52</PostalAdress>
+    <Longitud>-3.63786834038645</Longitud>
+    <Latitud>40.4046278765193</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LUIS DE HOYOS SAINZ Nº 52</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Luís de Hoyos Sainz frente al Nº 52</PostalAdress>
+    <Longitud>-3.63766936032644</Longitud>
+    <Latitud>40.4047731173156</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LUIS DE HOYOS SAINZ-FTE.CARRANTONA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Luís de Hoyos Sainz, 106</PostalAdress>
+    <Longitud>-3.63490213383731</Longitud>
+    <Latitud>40.4037612824852</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LUIS DE HOYOS SAINZ-FTE.CARRANTONA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Luís de Hoyos Sainz frente al Nº 106</PostalAdress>
+    <Longitud>-3.63483328560808</Longitud>
+    <Latitud>40.4039598595889</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VALDEBERNARDO-LUIS HOYOS SAINZ</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Valdebernardo, 45</PostalAdress>
+    <Longitud>-3.63169492032718</Longitud>
+    <Latitud>40.4035806167805</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VALDEBERNARDO-LUIS DE HOYOS SAINZ</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Valdebernardo, 26</PostalAdress>
+    <Longitud>-3.63141234678532</Longitud>
+    <Latitud>40.4036091846096</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VALDEBERNARDO-HACIENDA DE PAVONES</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Valdebernardo, 23</PostalAdress>
+    <Longitud>-3.6322419886485</Longitud>
+    <Latitud>40.4003253528423</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARROYO FONTARRON Nº 301</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Arroyo Fontarrón, 301</PostalAdress>
+    <Longitud>-3.64264679484763</Longitud>
+    <Latitud>40.396511307593</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARROYO FONTARRON-FTE.CARRANTONA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Arroyo Fontarrón, 325</PostalAdress>
+    <Longitud>-3.63881021899221</Longitud>
+    <Latitud>40.3957847737178</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MEDITERRANEO-ARROYO FONTARRON</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Av. del Mediterráneo (Paso elevado R.Pérez de Ayala)</PostalAdress>
+    <Longitud>-3.64909999385974</Longitud>
+    <Latitud>40.4009798688052</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FELIX RGUEZ.DE LA FUENTE Nº 23</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Félix Rodríguez de la Fuente, 23</PostalAdress>
+    <Longitud>-3.65771444284832</Longitud>
+    <Latitud>40.4155304679384</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FELIX RGUEZ.DE LA FUENTE Nº 12</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Félix Rodríguez de la Fuente, 12</PostalAdress>
+    <Longitud>-3.65755410408814</Longitud>
+    <Latitud>40.4152160613831</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.GARCIA TAPIA-CORR.DIEGO VALDERRABANO</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Dr. García Tapia S/N con C/ Corr. Diego de Valderrábano</PostalAdress>
+    <Longitud>-3.65676652774424</Longitud>
+    <Latitud>40.4132745734804</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.GARCIA TAPIA-ALCALDE G.JUARISTI</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Dr. García Tapia con C/ Alcalde Garrido Juaristi</PostalAdress>
+    <Longitud>-3.65701864931118</Longitud>
+    <Latitud>40.4135208926914</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.GARCIA TAPIA-ARROYO MEDIA LEGUA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Dr. García Tapia, 62</PostalAdress>
+    <Longitud>-3.65361649795148</Longitud>
+    <Latitud>40.4122788732874</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.GARCIA TAPIA-ARROYO MEDIA LEGUA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Dr. García Tapia frente al Nº 64</PostalAdress>
+    <Longitud>-3.65348850608475</Longitud>
+    <Latitud>40.4124507676752</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARROYO BELINCOSO-Cº VINATEROS</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Arroyo Belincoso frente al Nº 38</PostalAdress>
+    <Longitud>-3.65244689361253</Longitud>
+    <Latitud>40.410771944965</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARROYO BELINCOSO-Cº VINATEROS</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Arroyo Belincoso, 38</PostalAdress>
+    <Longitud>-3.65221937218043</Longitud>
+    <Latitud>40.4108588124858</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº VINATEROS-MARROQUINA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Cº de los Vinateros, 106</PostalAdress>
+    <Longitud>-3.64807123918722</Longitud>
+    <Latitud>40.4090397420705</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº VINATEROS-MARROQUINA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Cº de los Vinateros con C/ Marroquina</PostalAdress>
+    <Longitud>-3.64710153788407</Longitud>
+    <Latitud>40.408892009387</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº VINATEROS-AV.MORATALAZ</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Cº de los Vinateros frente al Nº 113</PostalAdress>
+    <Longitud>-3.64499741939798</Longitud>
+    <Latitud>40.4073496805355</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº VINATEROS-AV.MORATALAZ</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Cº de los Vinateros, 111</PostalAdress>
+    <Longitud>-3.64519320100483</Longitud>
+    <Latitud>40.4077585029412</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº VINATEROS Nº 102</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Cº de los Vinateros, 102</PostalAdress>
+    <Longitud>-3.65025617059128</Longitud>
+    <Latitud>40.4097031766074</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº VINATEROS Nº 75</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Cº de los Vinateros, 75</PostalAdress>
+    <Longitud>-3.65014056606608</Longitud>
+    <Latitud>40.4099380612943</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HACIENDA PAVONES-FTE.CARRANTONA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Hacienda de Pavones, 306</PostalAdress>
+    <Longitud>-3.63697473958609</Longitud>
+    <Latitud>40.4012859201299</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HACIENDA DE PAVONES-FTE.CARRANTONA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Hacienda de Pavones frente al Nº 306</PostalAdress>
+    <Longitud>-3.63686556501353</Longitud>
+    <Latitud>40.4013856203309</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HACIENDA PAVONES-CENTRO ESPECIALIDADES</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Hacienda de Pavones S/N con Valdebernardo-Centro Esp.</PostalAdress>
+    <Longitud>-3.63343030129367</Longitud>
+    <Latitud>40.400120661219</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HACIENDA PAVONES-CENTRO ESPECIALIDADES</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Hacienda de Pavones, 253 (Centro de Especialidades)</PostalAdress>
+    <Longitud>-3.63355075209587</Longitud>
+    <Latitud>40.4003992841958</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FTE.CARRANTONA-HACIENDA DE PAVONES</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Fuente Carrantona con C/ Hacienda de Pavones</PostalAdress>
+    <Longitud>-3.63653612721167</Longitud>
+    <Latitud>40.4008153542202</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INTERCAMBIADOR PAVONES</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Hacienda de Pavones (intercambiador)</PostalAdress>
+    <Longitud>-3.63532027164856</Longitud>
+    <Latitud>40.4005968018292</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INTERCAMBIADOR PAVONES</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Hacienda de Pavones (intercambiador)</PostalAdress>
+    <Longitud>-3.63517700610428</Longitud>
+    <Latitud>40.4003993875951</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INTERCAMBIADOR PAVONES</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Hacienda de Pavones (intercambiador)</PostalAdress>
+    <Longitud>-3.63523457309576</Longitud>
+    <Latitud>40.4002549265547</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INTERCAMBIADOR PAVONES</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Hacienda de Pavones (Intercambiador)</PostalAdress>
+    <Longitud>-3.63547067201495</Longitud>
+    <Latitud>40.4002986770406</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INTERCAMBIADOR PAVONES</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Hacienda de Pavones (intercambiador)</PostalAdress>
+    <Longitud>-3.63532799834141</Longitud>
+    <Latitud>40.4001643233388</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>INTERCAMBIADOR PAVONES</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Hacienda de Pavones (intercambiador)</PostalAdress>
+    <Longitud>-3.63555961562869</Longitud>
+    <Latitud>40.399730616652</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARROYO MEDIA LEGUA-Cº VINATEROS</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Arroyo de Media Legua, 31</PostalAdress>
+    <Longitud>-3.65524470313598</Longitud>
+    <Latitud>40.411233631388</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARROYO MEDIA LEGUA-Cº VINATEROS</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Arroyo de Media Legua, 60</PostalAdress>
+    <Longitud>-3.65453741150486</Longitud>
+    <Latitud>40.4116790746293</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARROYO MEDIA LEGUA-DR.Gª TAPIA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Arroyo de Media Legua S/N con Av. Dr. García Tapia</PostalAdress>
+    <Longitud>-3.65366363283836</Longitud>
+    <Latitud>40.4126209516368</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARROYO MEDIA LEGUA-DR.Gª TAPIA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Arroyo de Media Legua S/N con Av. Dr. García Tapia</PostalAdress>
+    <Longitud>-3.65380924898026</Longitud>
+    <Latitud>40.4127102203613</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FTE.CARRANTONA-HACIENDA DE PAVONES</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Fuente Carrantona S/N con C/ Hacienda de Pavones</PostalAdress>
+    <Longitud>-3.63628024209442</Longitud>
+    <Latitud>40.4007041464669</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FTE.CARRANTONA-ARROYO FONTARRON</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Fuente Carrantona S/N con C/ Arroyo Fontarrón</PostalAdress>
+    <Longitud>-3.63937005957134</Longitud>
+    <Latitud>40.3964213305745</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FTE.CARRANTONA-ENCOMIENDA DE PALACIOS</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Fuente Carrantona esquina a C/ Encomienda de Palacios</PostalAdress>
+    <Longitud>-3.63786253811411</Longitud>
+    <Latitud>40.3986954273162</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MEDITERRANEO-PIO FELIPE</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Av. del Mediterráneo frente a C/ Pío Felipe</PostalAdress>
+    <Longitud>-3.64585590090706</Longitud>
+    <Latitud>40.3981195999849</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MORATALAZ-ARROYO FONTARRON</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Av. de Moratalaz con C/ Arroyo Fontarrón</PostalAdress>
+    <Longitud>-3.65243180137143</Longitud>
+    <Latitud>40.4055377610002</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PZA.DEL ENCUENTRO</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Pza. del Encuentro, 10</PostalAdress>
+    <Longitud>-3.65155386533132</Longitud>
+    <Latitud>40.4058895521299</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PICO ARTILLEROS-LUIS DE HOYOS SAINZ</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Pico Artilleros frente al Nº 27</PostalAdress>
+    <Longitud>-3.63962862714279</Longitud>
+    <Latitud>40.4063298943823</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARROYO FONTARRON-TACONA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Arroyo Fontarrón frente a C/ de la Tacona</PostalAdress>
+    <Longitud>-3.64222003881773</Longitud>
+    <Latitud>40.3962434016455</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MEDITERRANEO-TACONA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Av. del Mediterráneo con C/ Tacona</PostalAdress>
+    <Longitud>-3.64113671758684</Longitud>
+    <Latitud>40.3954701161851</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HACIENDA PAVONES-FTE.CARRANTONA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Hacienda de Pavones frente al Nº 215 (prov. por obras)</PostalAdress>
+    <Longitud>-3.635347316778</Longitud>
+    <Latitud>40.4007317897763</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HACIENDA PAVONES-FTE.CARRANTONA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Hacienda de Pavones, 215</PostalAdress>
+    <Longitud>-3.6352906008155</Longitud>
+    <Latitud>40.4008492189393</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HACIENDA DE PAVONES-CENTRO DE SALUD</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Hacienda de Pavones con C/ Luis de Hoyos Sainz</PostalAdress>
+    <Longitud>-3.62920232648905</Longitud>
+    <Latitud>40.3991346849863</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>HACIENDA DE PAVONES-CENTRO DE SALUD</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Hacienda de Pavones con C/ Luis de Hoyos Sainz</PostalAdress>
+    <Longitud>-3.63032629919903</Longitud>
+    <Latitud>40.399615065458</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FTE.CARRANTONA-DR.GARCIA TAPIA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Fuente Carrantona con Av. Dr. García Tapia</PostalAdress>
+    <Longitud>-3.63073730738978</Longitud>
+    <Latitud>40.4083156010134</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FTE.CARRANTONA-PASAJE DE ORUSCO</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Fuente Carrantona esquina a Pasaje de Orusco</PostalAdress>
+    <Longitud>-3.63089585052209</Longitud>
+    <Latitud>40.4087291550498</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VALDEBERNARDO-HACIENDA DE PAVONES</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Valdebernardo con C/ Hacienda de Pavones</PostalAdress>
+    <Longitud>-3.6322337457846</Longitud>
+    <Latitud>40.399442507272</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>VALDEBERNARDO Nº 10</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Valdebernardo con C/ Hacienda de Pavones</PostalAdress>
+    <Longitud>-3.63195959710042</Longitud>
+    <Latitud>40.4003719391764</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARROYO FONTARRON Nº 171</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Arroyo Fontarrón, 165</PostalAdress>
+    <Longitud>-3.6457568149857</Longitud>
+    <Latitud>40.3987733111175</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>ARROYO FONTARRON-E.PALACIOS</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Arroyo Fontarrón, 111</PostalAdress>
+    <Longitud>-3.64680074924874</Longitud>
+    <Latitud>40.3996143406635</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PICO ARTILLEROS Nº 52</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Pico Artilleros, 52</PostalAdress>
+    <Longitud>-3.64005591745054</Longitud>
+    <Latitud>40.4078951129919</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>PICO ARTILLEROS Nº 15</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Pico Artilleros, 15</PostalAdress>
+    <Longitud>-3.63986351918696</Longitud>
+    <Latitud>40.4080358165903</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.GARCIA TAPIA-FTE.CARRANTONA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Av. Dr. García Tapia cruzada C/ Fuente Carrantona</PostalAdress>
+    <Longitud>-3.63071696106771</Longitud>
+    <Latitud>40.4073967861033</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.GARCIA TAPIA-FTE.CARRANTONA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Av. Dr. Garcia Tapia, 157</PostalAdress>
+    <Longitud>-3.63043713962369</Longitud>
+    <Latitud>40.407722636085</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.GARCIA TAPIA-LAPONIA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Av. Dr. García Tapia con C/ Laponia</PostalAdress>
+    <Longitud>-3.62791830096598</Longitud>
+    <Latitud>40.406808382309</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.GARCIA TAPIA-RABAT</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Av. Dr. Garcia Tapia con C/ Rabat</PostalAdress>
+    <Longitud>-3.62801592347761</Longitud>
+    <Latitud>40.4071682161955</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EL CAIRO-LAPONIA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>El Cairo S/N con C/ Laponia</PostalAdress>
+    <Longitud>-3.62752875149549</Longitud>
+    <Latitud>40.4041978600593</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LAPONIA-MUNICH</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Laponia S/N frente a C/ Munich</PostalAdress>
+    <Longitud>-3.6278232749265</Longitud>
+    <Latitud>40.4054575355327</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.GARCIA TAPIA-M40</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Av. Doctor Garcia Tapia S/N con M-40</PostalAdress>
+    <Longitud>-3.62562735407988</Longitud>
+    <Latitud>40.4063162695176</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.GARCIA TAPIA-M40</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Av. Doctor Garcia Tapia S/N con M-40</PostalAdress>
+    <Longitud>-3.62537066615601</Longitud>
+    <Latitud>40.4065969369972</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº VINATEROS-CORR.D.VALDERRABANO</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Cº de Vinateros, 24</PostalAdress>
+    <Longitud>-3.65781954948261</Longitud>
+    <Latitud>40.4105793927186</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº VINATEROS-PICO ARTILLEROS</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Cº de Vinateros, 174</PostalAdress>
+    <Longitud>-3.6434496431659</Longitud>
+    <Latitud>40.4063627862442</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>Cº VINATEROS-PICO ARTILLEROS</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Cº de Vinateros, 125</PostalAdress>
+    <Longitud>-3.64316682345472</Longitud>
+    <Latitud>40.406404897797</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FTE.CARRANTONA-JOSE BERGAMIN</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Fuente Carrantona, 38</PostalAdress>
+    <Longitud>-3.62967589666555</Longitud>
+    <Latitud>40.4103799488531</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>FTE.CARRANTONA-JOSE BERGAMIN</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Fuente Carrantona, 57</PostalAdress>
+    <Longitud>-3.62990987760354</Longitud>
+    <Latitud>40.4105093082517</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>EL CAIRO-LAPONIA</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>El Cairo con C/ Laponia</PostalAdress>
+    <Longitud>-3.62715072907597</Longitud>
+    <Latitud>40.4041008073461</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LAPONIA-MUNICH</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Laponia, 5</PostalAdress>
+    <Longitud>-3.62757754912038</Longitud>
+    <Latitud>40.4056480577209</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LUIS DE HOYOS SAINZ-DAMASCO</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Luís de Hoyos Sainz, 184</PostalAdress>
+    <Longitud>-3.62870718238392</Longitud>
+    <Latitud>40.4016509087172</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LUIS DE HOYOS SAINZ-DAMASCO</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Luís de Hoyos Sainz frente al Nº 182 con C/ Damasco</PostalAdress>
+    <Longitud>-3.62837814805984</Longitud>
+    <Latitud>40.401751793953</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>LUIS DE HOYOS SAINZ-CENTRO DE SALUD</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Luis de Hoyos Sainz S/N con C/ Hacienda de Pavones</PostalAdress>
+    <Longitud>-3.62943078854383</Longitud>
+    <Latitud>40.3998631800559</Latitud>
+    <Estado>00</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MORATALAZ-PZA.CORR.ALONSO AGUILAR</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Av. Moratalaz frente al Nº 49</PostalAdress>
+    <Longitud>-3.65745192819175</Longitud>
+    <Latitud>40.4067075814008</Latitud>
+    <Estado>10</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>AV.MORATALAZ-PZA.CORR.ALONSO AGUILAR</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Av. Moratalaz, 47</PostalAdress>
+    <Longitud>-3.65740776322401</Longitud>
+    <Latitud>40.4070141404396</Latitud>
+    <Estado>11</Estado>
+  </Papelera>
+  <Papelera>
+    <Name>DR.GARCIA TAPIA-OBERON</Name>
+    <PostalCode>28030</PostalCode>
+    <PostalAdress>Av. Dr. García Tapia, 210.</PostalAdress>
+    <Longitud>-3.63467593291855</Longitud>
+    <Latitud>40.4081139063943</Latitud>
+    <Estado>01</Estado>
+  </Papelera>
+</ArrayOfPapelera>
