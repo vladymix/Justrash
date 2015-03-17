@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ArrayOfPapelera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Papeleras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Papelera>
     <Name>CAMPO NACIONES-GTA.JUAN DE BORBON</Name>
     <PostalCode>28042</PostalCode>
@@ -1216,4 +1216,4 @@
     <Latitud>40.4516589381485</Latitud>
     <Estado>10</Estado>
   </Papelera>
-</ArrayOfPapelera>
+</Papeleras>

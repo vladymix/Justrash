@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ArrayOfPapelera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Papeleras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Papelera>
     <Name>GRAN VIA-MESONERO ROMANOS</Name>
     <PostalCode>28013</PostalCode>
@@ -240,4 +240,4 @@
     <Latitud>40.4184186961872</Latitud>
     <Estado>01</Estado>
   </Papelera>
-</ArrayOfPapelera>
+</Papeleras>

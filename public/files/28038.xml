@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ArrayOfPapelera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Papeleras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Papelera>
     <Name>AV.ALBUFERA-PTO.ALCOLEA</Name>
     <PostalCode>28038</PostalCode>
@@ -688,4 +688,4 @@
     <Latitud>40.3919879234418</Latitud>
     <Estado>01</Estado>
   </Papelera>
-</ArrayOfPapelera>
+</Papeleras>

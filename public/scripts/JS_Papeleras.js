@@ -25,7 +25,7 @@ var imagenPM = 'icons/iconsMap/32x32PM.png';
 var imagenPV = 'icons/iconsMap/32x32PV.png';
 var imagenPA = 'icons/iconsMap/32x32PA.png';
 var imagenPC = 'icons/iconsMap/32x32PC.png';
-var fileMoncloa = 'files/Moncloa1.xml';
+var fileMoncloa = 'files/28045.xml';
 
 var _TRASHS_CAN = new Array; 
 
@@ -47,12 +47,21 @@ function rutaPie()
 
 function CargarPapeleras(urlfile)
 {
-		 
-	var url = urlfile;
+
+//Inicializo variables globales del distrito correspondiente
+	nPapelerasLlenas=0;
+	nPapelerasMedio=0;
+	nPapelerasVacias =0;
+	nPapelerasAveriadas =0;
+	PLL = new Array;
+	PM = new Array;
+	PV = new Array;
+	PA = new Array;
+	total = 0;				 
 	
 	var xhr = new XMLHttpRequest();	 
 	 	
-		xhr.open("GET", url, false);	// Preparación de la solicitud
+		xhr.open("GET", urlfile, false);	// Preparación de la solicitud
 		
 		xhr.send();	// Realización de la petición GET al servidor
 	
@@ -128,15 +137,16 @@ function CargarPapeleras(urlfile)
 	$("#totalPM").html(nPapelerasMedio);
 	$("#totalPV").html(nPapelerasVacias);	  
 }
-function MostrarOnlyPapeleras()
+function MostrarOnlyPapeleras(coordenadas)
 {
+
 	try{
 		map = new GMaps({  // Creo un mapa en [lat, lng]
               el: '#map',
 			  zoom:14,
 			  disableDefaultUI: true,
-              lat: 40.4348593513256,
-              lng: -3.7193591331740663 });
+              lat: coordenadas[0],
+              lng: coordenadas[1]});
 		for (var i=0; i<PLL.length; i++){	
 		 map.addMarker({
 		 lat: PLL[i][0], 
@@ -186,7 +196,7 @@ map = new GMaps({  // Creo un mapa en [lat, lng]
               lat: _LS_POS[0][0],
               lng: _LS_POS[0][1]
             });
-
+			
 for (var i=0; i<_LS_POS.length; i++){
 	
 	map.addMarker({
@@ -213,8 +223,8 @@ for (var i=0; i<_LS_POS.length; i++){
 }
 
 	
-	//Funcion crear html
-	function crearHTML(srcimagen, Name, direccion){
+//Funcion crear html
+function crearHTML(srcimagen, Name, direccion){
 		var miItem = ' <div class="itemPapelera"><div class="imagenhojaPapelera"><img src='+srcimagen+'></div><divclass="descripPapelera"><h4>'+Name+'</h4><span>'+direccion+'</span></div></div>';
 		return miItem;
 		}
@@ -236,28 +246,27 @@ catch(err)
 
 
 
-	function MostrarRutaLlenas(){
+function MostrarRutaLlenas(){
 		
 	MostrarPapelerasRuta(PLL, RutaPLL, imagenPLL);
-	verListado(PLL, imagenPLL);
+	//verListado(PLL, imagenPLL);
 	}
-	function MostrarRutaVacias(){
+function MostrarRutaVacias(){
 		
 	MostrarPapelerasRuta(PV, RutaPV,imagenPV);
-	verListado(PV, imagenPV);
+	//verListado(PV, imagenPV);
 	}
-	function MostrarRutaMediasLlenas(){
+function MostrarRutaMediasLlenas(){
 		
 	MostrarPapelerasRuta(PM, RutaPM, imagenPM);
-	verListado(PM, imagenPM);	
+	//verListado(PM, imagenPM);	
 	}
-	function MostrarRutaAveriadas(){
+function MostrarRutaAveriadas(){
 	MostrarPapelerasRuta(PA, RutaPA, imagenPA);
-	verListado(PA, imagenPA);
+	//verListado(PA, imagenPA);
 	}
 	
-	function odenardescendente()
-	{
+function odenardescendente(){
 		try{
 			PLL.sort();
 			PM.sort();
@@ -268,27 +277,7 @@ catch(err)
 	
 	}
 	
-	
-//Funcion a probar no garantiza el 100% de nodos	
-	function ordenarArray(miArray)
-	{
-		try{
-			var mihtml = "Antes <br>";
-			
-			for (var i=0; i<miArray.length; i++){
-				mihtml += itemCoredenadas(miArray[i][0],miArray[i][1] );
-				}
-			miArray.sort();
-			mihtml += "Despues <br>"
-			for (var i=0; i<miArray.length; i++){
-				mihtml += itemCoredenadas(miArray[i][0],miArray[i][1] );
-			}
-			$("#panelPapelera").html(mihtml);
-			}
-		catch(err){alert(err);}
-		
-	}
-	function itemCoredenadas(Longitud, Latitud)
+function itemCoredenadas(Longitud, Latitud)
 	{
 		return '<div class="itemPapelera">Long '+Longitud+' Lat '+Latitud+'</div>';
 	}

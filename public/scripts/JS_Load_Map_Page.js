@@ -42,12 +42,7 @@ function openCloseDistritos(){
 $(function()
 {
 
- initialiceMAPA ();
- try{
-	CargarPapeleras(fileMoncloa);
-	MostrarOnlyPapeleras();
- 	}
- catch(err){}
+ initialiceMAPA (); 
 
 //Botones
 $("#lbPLL").on("click",MostrarRutaLlenas);
