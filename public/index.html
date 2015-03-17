@@ -63,6 +63,33 @@
    	<td>
       <div class="app_Justrash"> 
         <div id="map" class="mapa"></div>
+        <!--Lista de distritos -->
+        <div class="ListaDistritos select-style">
+          <select onChange="changeDistrito()" id="Distrito">
+              <option value="28045">Arganzuela</option>
+              <option value="28042">Barajas</option>
+              <option value="28025">Carabanchel</option>
+              <option value="28013">Centro</option>
+              <option value="28002">Chamartin</option> 
+              <option value="28010">Chamberi</option>    
+              <option value="28037">Ciudad lineal</option>              
+              <option value="28029">Fuencarral</option>              
+              <option value="28043">Hortaleza</option>              
+              <option value="28044">Latina</option>              
+              <option value="28008">Moncloa</option>              
+              <option value="28030">Moratalaz</option>              
+              <option value="28038">Punte de vallecas</option>              
+              <option value="28007">Retiro</option>              
+              <option value="28001">Salamanca</option>              
+              <option value="28022">San Blas</option>              
+              <option value="28020">Tetuan</option>              
+              <option value="28026">Usera</option>              
+              <option value="28032">Vicálvaro</option>                            
+              <option value="28031">Villa de Vallecas</option>              
+              <option value="28021">Villaverde</option>
+             </select>
+        </div>
+        
         <ul class="buttonsPapeleras">
           <li>
             <a id="lbPA" >
@@ -109,23 +136,7 @@
         <a class="miButton" id ="btn3" onClick="MostrarOnlyPapeleras()"></a>
         <a class="miButton" id ="btn4"></a>
         <div>
-          <a class="miButton" id ="btn5" onClick="openCloseDistritos()"></a>  
-          <ul id="distritos" class="buttonsDistritos offButtons">
-            <li><a href="#" onClick="GraficarDistrito(Arganzuela)">Arganzuela</a></li>
-            <li><a href="#" onClick="GraficarDistrito(Carabanchel)">Carabanchel</a></li>
-            <li><a href="#" onClick="GraficarDistrito(Centro)">Centro</a></li>
-            <li><a href="#" onClick="GraficarDistrito(Chamartin)">Chamartín</a></li>
-            <li><a href="#" onClick="GraficarDistrito(Chamberi)">Chamberí</a></li>
-            <li><a href="#" onClick="GraficarDistrito(Ciudad_Lineal)">Ciudad Lineal</a></li>
-            <li><a href="#" onClick="GraficarDistrito(Hortaleza)">Hortaleza</a></li>
-            <li><a href="#" onClick="GraficarDistrito(Moratalaz)">Moratalaz</a></li>
-            <li><a href="#" onClick="GraficarDistrito(Puente_de_Vallecas)">Puente Vallecas</a></li>
-            <li><a href="#" onClick="GraficarDistrito(Retiro)">Retiro</a></li>
-            <li><a href="#" onClick="GraficarDistrito(Salamanca)">Salamanca</a></li>
-            <li><a href="#" onClick="GraficarDistrito(Tetuan)">Tetuán</a></li>
-            <li><a href="#" onClick="GraficarDistrito(Usera)">Usera</a></li>
-            <li><a href="#" onClick="GraficarDistrito(Villaverde)">Villaverde</a></li>
-          </ul>
+          <a class="miButton" id ="btn5" onClick="MostrarOnlyPapeleras()"></a>  
         </div>
       </span>      
       <a class="miButton close_open" id="btnMenu"></a>

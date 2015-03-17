@@ -80,6 +80,10 @@ table {border-collapse:collapse; border: none; padding: 0;}
 	height:100%;
 	width:100%;
 }
+.Sombra{
+	box-shadow: 2px 2px 15px rgba(159,159,159,1.00);
+	-webkit-box-shadow: 2px 2px 15px rgba(159,159,159,1.00);
+	}
 
 ::-webkit-scrollbar-thumb {
     background: #2D3639;

@@ -39,13 +39,15 @@ function openCloseDistritos(){
 }
 
 
-
 $(function()
 {
 
  initialiceMAPA ();
-CargarPapeleras(fileMoncloa);
-MostrarOnlyPapeleras();
+ try{
+	CargarPapeleras(fileMoncloa);
+	MostrarOnlyPapeleras();
+ 	}
+ catch(err){}
 
 //Botones
 $("#lbPLL").on("click",MostrarRutaLlenas);
@@ -56,7 +58,6 @@ $("#lbPA").on("click",MostrarRutaAveriadas);
 $("#btnMenu").on("click",opencloseMenu);
 $("#btn1").on("click",rutaCoche);
 $("#btn2").on("click",rutaPie);
-	
 	
 }//End Function loadPage
 );	
