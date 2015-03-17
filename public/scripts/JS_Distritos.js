@@ -55,7 +55,7 @@ function changeDistrito(){
 		else{
 			//Si es distinto de la primera opcion
 			if(combo.options[combo.selectedIndex].value!=0){
-			var DistritoPath = selectedPath(combo.options[combo.selectedIndex].value);
+			DistritoPath = selectedPath(combo.options[combo.selectedIndex].value);
 		
 			
 			url = "files/"+ combo.options[combo.selectedIndex].value+".xml";
@@ -109,14 +109,123 @@ function selectedPath(CP){
 	else if(CP =="28031")
 	return Villa_de_vallecas;	
 	else if(CP =="28021")
-	return Villaverde;
+	return Villaverde;	
+	}
+//Puntos limpios
 
-
-	
+var puntos = [
+	{
+		distrito: "Arganzuela",
+		direccion: "C/ Estrella Denebola, 5 28045 Madrid",
+		latitud: 40.39419901357015,
+		longitud: -3.6834210425750737
+	},
+	{
+		distrito: "Barajas",
+		direccion: "C/ Alhaurín, 5 28042 Madrid",
+		latitud: 40.473907649051704,
+		longitud: -3.5855350682202047
+	},
+	{
+		distrito: "Carabanchel",
+		direccion: "C/ Cidro, 5 28044 Madrid",
+		latitud: 40.36815527702884,
+		longitud: -3.7458547551539705
+	},
+	{
+		distrito: "Chamartín",
+		direccion: "Avda. Alfonso XIII, 128 28016 Madrid",
+		latitud: 40.45887476564644,
+		longitud: -3.6664670709154676
+	},
+	{
+		distrito: "Ciudad Lineal",
+		direccion: "Avda. Daroca, 104 28032 Madrid",
+		latitud: 40.41826330408995,
+		longitud: -3.630928382853009
+	},
+	{
+		distrito: "Fuencarral-El Pardo",
+		direccion: "C/ Ubeda, 6 28035 Madrid",
+		latitud: 40.48225121586361,
+		longitud: -3.71646391915977
+	},
+	{
+		distrito: "Hortaleza",
+		direccion: "C/ Tomás Redondo, 8 28033 Madrid",
+		latitud: 40.47006424276577,
+		longitud: -3.6277914577312402
+	},
+	{
+		distrito: "Latina",
+		direccion: "C/ Concejal Francisco José Jiménez Martín, 5 28047 Madrid",
+		latitud: 40.4016757685611,
+		longitud: -3.736372909535269
+	},
+	{
+		distrito: "Moncloa-Ciudad Universitaria",
+		direccion: "Paseo Senda del Rey 28040 Madrid",
+		latitud: 40.4518145982551,
+		longitud: -3.740033315744074
+	},
+	{
+		distrito: "Moratalaz",
+		direccion: "C/ Arroyo de la Media Legua, 72 28030 Madrid",
+		latitud: 40.414609663505665,
+		longitud: -3.6513204448781815
+	},
+	{
+		distrito: "Puente de Vallecas",
+		direccion: "C/ Jose Paulete, 43 28038 Madrid",
+		latitud: 40.39406006570005,
+		longitud: -3.654492342880955
+	},
+	{
+		distrito: "San Blas-Callejas",
+		direccion: "C/ San Romualdo, 20 28037 Madrid",
+		latitud: 40.44011842579,
+		longitud: -3.622772792777153
+	},
+	{
+		distrito: "Usera",
+		direccion: "C/ Cristo de la Victoria, 245 28026 Madrid",
+		latitud: 40.37882471603663,
+		longitud: -3.7096418581029984
+	},
+	{
+		distrito: "Vicálvaro",
+		direccion: "C/ Sepiolita, 6 28032 Madrid",
+		latitud: 40.40676752985184,
+		longitud: -3.598776933365321
+	},
+	{
+		distrito: "Villa de Vallecas",
+		direccion: "C/ Luis I, 36 28031 Madrid",
+		latitud: 40.376205626276835,
+		longitud: -3.6429637161883424
+	},
+	{
+		distrito: "Villaverde",
+		direccion: "C/ Bascuñuelos, 3 28021 Madrid",
+		latitud: 40.33860368148312,
+		longitud: -3.7103387295498003
+	},
+];
+function graficarPuntosLimpios(){
+		var n;
+	for(n = 0; puntos[n] != undefined; n++) {
+		map.addMarker({
+			lat: puntos[n].latitud,
+			lng: puntos[n].longitud,
+			icon: imagenPC,
+			title: puntos[n].distrito,
+			infoWindow: {
+				content: "<b>Punto limpio de " + puntos[n].distrito + "</b><br><span>" + puntos[n].direccion + "</span>"
+			}
+		});
+	}
 	
 	}
-
-
 
 
 

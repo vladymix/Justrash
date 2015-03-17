@@ -52,7 +52,6 @@ $("#lbPA").on("click",MostrarRutaAveriadas);
 
 $("#btnMenu").on("click",opencloseMenu);
 $("#btn1").on("click",rutaCoche);
-$("#btn2").on("click",rutaPie);
-	
+$("#btn2").on("click",rutaPie);	
 }//End Function loadPage
 );	
