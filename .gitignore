@@ -1,1 +1,8 @@
 launchConfigurations/
+
+# Archivos de proyecto de Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Ejecutables de Windows (para programas como el Mongoose)
+*.exe
