@@ -1,10 +1,8 @@
-.area_graficas {
-	padding: 2em;
-}
-
 .grafica {
 	width: 400px;
 	height: 400px;
+	display: inline-block;
+	padding: 2em 3em;
 }
 	.grafica h3 {
 		padding: 0.25em 0.5em;
