@@ -1,7 +1,9 @@
 // JavaScript Document
 var globalSettings = {	// Configuraciones comunes a todas las gráficas
 	scaleLineColor: "rgb(157, 162, 171)",
-	scaleGridLineColor : "rgba(157, 162, 171, .2)",
+	scaleGridLineColor: "rgba(157, 162, 171, .2)",
+	scaleFontFamily: "'FiraSansOT-Light', Arial",
+	datasetFill: false
 };
 
 var n, m = 0;	// Iteradores bucles
@@ -41,7 +43,7 @@ function GraficaPorDistrito(input) {	// Entrada: matriz bidimensional con los da
 		data.datasets[0] = { label: "Llenas", fillColor: "rgba(255, 0, 0, 0.6)", strokeColor: "red", data: pLL};
 		data.datasets[1] = { label: "Mitad", fillColor: "rgba(240, 192, 0, 0.6)", strokeColor: "rgb(240, 192, 0)", data: pMI};
 		data.datasets[2] = { label: "Vacías", fillColor: "rgba(95, 218, 79, 0.6)", strokeColor: "rgb(95, 218, 79)", data: pVA};
-		data.datasets[3] = { label: "Averiadas", fillColor: "rgb(132, 132, 130)", strokeColor: "rgb(85, 85, 85)", data: pAV};
+		data.datasets[3] = { label: "Averiadas", fillColor: "rgba(132, 132, 130, 0.6)", strokeColor: "rgb(85, 85, 85)", data: pAV};
 
 	var GraficaDistrito = new Chart(canvas).Bar(data, globalSettings);	// Generación de la gráfica en cuestión
 }
@@ -73,6 +75,8 @@ function GraficaPorTiempo(distrito, fases) {
 		xmlDoc[n] = xhr.responseXML;	// Almacenamiento de la información en un array
 	}
 
+	console.log("xmlDoc completo: " + xmlDoc);	// DEBUG
+
 	var posicionTemporal;
 	var papelera;
 	var estadoPapelera;
@@ -82,36 +86,40 @@ function GraficaPorTiempo(distrito, fases) {
 	var pVA = new Array;	// Vector de papeleras vacías, ordenadas por marca temporal
 	var pAV = new Array;	// Vector de papeleras averiadas, ordenadas por marca temporal
 
+
 	for(n = 0; xmlDoc[n] != undefined; n++) {
 		data.labels.push("Momento " + n);	// Adición de la marca temporal como etiqueta (eje X)
 		posicionTemporal = xmlDoc[n].getElementsByTagName("Papeleras")[0];
 
-		console.log(xmlDoc[n].getElementsByTagName("Papeleras")[0].getElementsByTagName("Papelera")[m]);	// DEBUG
-		console.log(posicionTemporal.getElementsByTagName("Papelera")[m]);	// DEBUG
+		// Inicialización a 0 de los arrays de valores de papeleras, para que el programa sepa que son enteros, y por qué valor emperzar
+		pLL[n] = 0;
+		pMI[n] = 0;
+		pVA[n] = 0;
+		pAV[n] = 0;
 
-		for(m = 0; posicionTemporal.getElementsByTagName("Papelera")[m] != undefined; m++) {
-			papelera = posicionTemporal.getElementsByTagName("Papelera")[m];
+		for(m = 0; (papelera = posicionTemporal.getElementsByTagName("Papelera")[m]) != undefined; m++) {
 			estadoPapelera = papelera.getElementsByTagName("Estado")[0].childNodes[0].nodeValue;
 			switch(estadoPapelera) {
-				case 00: 	// Vacía
+				case "00": 	// Vacía
 					pVA[n]++;
-				case 01: 	// Mitad
+					break;
+				case "01": 	// Mitad
 					pMI[n]++;
-				case 10: 	// Llena
+					break;
+				case "10": 	// Llena
 					pLL[n]++;
-				case 11: 	// Averiada
+					break;
+				case "11": 	// Averiada
 					pAV[n]++;
+					break;
 			}
 		}
 		data.datasets[0] = { label: "Llenas", fillColor: "rgba(255, 0, 0, 0.6)", strokeColor: "red", data: pLL};
 		data.datasets[1] = { label: "Mitad", fillColor: "rgba(240, 192, 0, 0.6)", strokeColor: "rgb(240, 192, 0)", data: pMI};
 		data.datasets[2] = { label: "Vacías", fillColor: "rgba(95, 218, 79, 0.6)", strokeColor: "rgb(95, 218, 79)", data: pVA};
-		data.datasets[3] = { label: "Averiadas", fillColor: "rgb(132, 132, 130)", strokeColor: "rgb(85, 85, 85)", data: pAV};
-	/*	FORMATO DE LECTURA
-		xmlDoc[n].getElementsByTagName("Papeleras")[0].getElementsByTagName("Papelera")[m].getElementsByTagName("Name")[0].childNodes[0].nodeValue;
-	*/
-		var GraficaTiempo = new Chart(canvas).Line(data, globalSettings);	// Generación de la gráfica en cuestión
+		data.datasets[3] = { label: "Averiadas", fillColor: "rgba(132, 132, 130, 0.6)", strokeColor: "rgb(85, 85, 85)", data: pAV};
 	}
+	var GraficaTiempo = new Chart(canvas).Line(data, globalSettings);	// Generación de la gráfica en cuestión
 }
 
 
@@ -129,7 +137,7 @@ $(function()
 
                 GraficaPorDistrito(param);
 				
-				 GraficaPorTiempo("Moncloa", 7);
+				GraficaPorTiempo("Moncloa", 7);
  
 }//End Function loadPage
 );

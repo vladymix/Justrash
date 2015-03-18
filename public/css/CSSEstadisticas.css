@@ -20,9 +20,10 @@
 		border-radius: 8px;
 	}
 .zona_detalles {
+	min-height: 100%;
+	width: 100%;
 	overflow: scroll;
 	position: relative;
 	background-color: #9DA2AB;
 	padding: 2em;
-	height: 647px;
 }
