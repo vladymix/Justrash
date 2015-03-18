@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Fire MAPS */
 @font-face{
-font-family: FiraSansOT-Ligth;
+font-family: FiraSansOT-Light;
 src:url(../libs/FiraSansOT-Light.otf) format("opentype");
 }
 *{
@@ -18,7 +18,7 @@ body
 }
 table {border-collapse:collapse; border: none; padding: 0;}
 .wrapped{
-	font-family: FiraSansOT-Ligth;
+	font-family: FiraSansOT-Light;
 	border-collapse:collapse;
   	border: none;
 	margin:0px;
