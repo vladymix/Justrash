@@ -79,7 +79,7 @@ table {border-collapse:collapse; border: none; padding: 0;}
 	overflow:hidden;
 	height:100%;
 	width:100%;
-	overflow-y: scroll;
+	overflow-y: auto;
 }
 .Sombra{
 	box-shadow: 2px 2px 15px rgba(159,159,159,1.00);
