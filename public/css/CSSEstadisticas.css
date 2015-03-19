@@ -22,6 +22,6 @@
 	width: 100%;
 	overflow: scroll;
 	position: relative;
-	background-color: #9DA2AB;
+	background: url("http://subtlepatterns.com/patterns/geometry2.png");	/* Pattern credit: SubtlePatterns.com - Tori Pantha; */
 	padding: 2em;
 }
