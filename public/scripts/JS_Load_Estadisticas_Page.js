@@ -123,6 +123,66 @@ function GraficaPorTiempo(distrito, fases) {
 }
 
 
+function CargaBD(fases) {
+	// Datos, en este caso, de Moncloa
+	var distrito = "Moncloa";
+	var totPapDistrito = 84;
+	var nFicheros = 7;
+
+	var xhr = new XMLHttpRequest();
+	var url = "https://yagogg.cloudant.com/papeleras_justrash/" + distrito;
+	var xmlDoc = new Array;
+
+	var content = {};
+	var papelera = {};
+
+	// Lectura de datos de los ficheros
+		for(n = 0; n < nFicheros; n++) {
+			// Recogida de datos
+			url = "./files/"+ distrito + n + ".xml";	// Composición de la URL local, en formato [DISTRITO][número].xml
+			console.log("Abriendo " + url);	// DEBUG
+			xhr.open("GET", url, false);
+			xhr.send();
+
+			xmlDoc[n] = xhr.responseXML;	// Almacenamiento de la información en un array
+		}
+
+		content.totalPapeleras = totPapDistrito;	//Número de papeleras en Moncloa
+
+		for(n = 0; xmlDoc[n] != undefined; n++) {
+			//content.registrosTemporales.push(fecha = "2015-03-" + (n + 1));
+			for(m = 0; m <= totPapDistrito; m++) {
+				papelera.
+				content.registrosTemporales.push(papeleras.push(name = xmlDoc.push(getElementsByTagName("Papeleras")[0].getElementsByTagName("Papelera").push(getElementsByTagName("Name")[0].childNodes[0].nodeValue))));
+				content.registrosTemporales.push(papeleras.push(direccion = xmlDoc.push(getElementsByTagName("Papeleras")[0].getElementsByTagName("Papelera").push(getElementsByTagName("PostalAdress")[0].childNodes[0].nodeValue))));
+				content.registrosTemporales.push(papeleras.push(longitud = xmlDoc.push(getElementsByTagName("Papeleras")[0].getElementsByTagName("Papelera").push(getElementsByTagName("Longitud")[0].childNodes[0].nodeValue))));
+				content.registrosTemporales.push(papeleras.push(latitud = xmlDoc.push(getElementsByTagName("Papeleras")[0].getElementsByTagName("Papelera").push(getElementsByTagName("Latitud")[0].childNodes[0].nodeValue))));
+				content.registrosTemporales.push(papeleras.push(estado = xmlDoc.push(getElementsByTagName("Papeleras")[0].getElementsByTagName("Papelera").push(getElementsByTagName("Estado")[0].childNodes[0].nodeValue))));
+			}
+		}
+
+
+	// Lectura de la revisión
+		xhr.open("GET", url, false);
+		xhr.setRequestHeader("Content-Type", "application/json");
+		xhr.send();
+
+		var obj = JSON.parse(xhr.responseText);	// Objeto JSON con la respuesta del servidor
+		var rev = obj._rev;	// Revisión del documento (versión de la última modificación, requisito de Cloudant)
+
+		console.log(rev);	// DEBUG
+
+		url += "?rev=" + rev;	// Adición de la ultima revisión a la URL (requisito de Cloudant)
+
+	// Inserción de datos en la BD
+		xhr.open("PUT", url, false);
+		xhr.setRequestHeader("Content-Type", "application/json");
+
+		xhr.send(content);
+
+		console.log(xhr.responseText);	// DEBUG
+}
+
 //Funcion loadPage
 $(function()
 {
@@ -138,6 +198,8 @@ $(function()
                 GraficaPorDistrito(param);
 				
 				GraficaPorTiempo("Moncloa", 7);
+
+				CargaBD();
  
 }//End Function loadPage
 );
