@@ -1,76 +1,64 @@
-.clearfix {clear:both;}
-.floatl {float:left;} 
-.floatr {float:right;} 
-.inline{display:inline;}
-.fontbold{font-weight:bold;}  
-.fontwhite {color:#ffffff !important;} 
-.fontblack {color:#333333 !important;} 
-.fontgreen {color:#1ABE07 !important;} 
-.fontblue {color:#0198D1 !important;} 
-.fontgrey {color:#9d9d9d !important;} 
-.fontred {color:#A30004 !important;}
+.range-holder {
+	overflow: hidden;
+	margin-top: 5px;
+	margin-right: 1px;
+	margin-left: 1px;
+	margin-bottom: -18px;
+	padding: 6px 0;
+	position: relative;
+}
 
-/* Slider Style */
+.range {
+	-webkit-appearance: none;
+		border: 1px solid #8c9ba6;
+	-moz-box-shadow: inset 0 2px 3px rgba(255, 255, 255, 0.5);
+	-webkit-box-shadow: inset 0 2px 3px rgba(255, 255, 255, 0.5);
+	box-shadow: inset 0 2px 3px rgba(255, 255, 255, 0.5);
+	height: 6px;
+	margin-bottom: 2em;
+	padding-right: 2px;
+	width: 100%;
+}
+/*indicadores*/
+.full{
+	background-color: #FF0000;
+	}
+.half{
+	background-color: #E7AC00;
+	}
+.empy{
+	background-color: #248B00;
+	}
 
+.range::-webkit-slider-thumb {
+    -webkit-appearance: none;
+	background-image: url(../icons/Settings/slider_desp.png);
+	background-color:transparent;
+	height:20px;
+	width:20px;
+	cursor: pointer;
+ 	display: block;
+  	position: relative;
+
+}
+.range::-webkit-slider-thumb::after {
+	background: #fff;
+	border-left: 10px;
+		-moz-box-shadow: inset 0 1px 0 rgba(0, 0, 0, 0.15);
+		-webkit-box-shadow: inset 0 1px 0 rgba(0, 0, 0, 0.15);
+	box-shadow: inset 0 1px 0 rgba(0, 0, 0, 0.15);
+	content: '.';
+	display: block;
+	left: 20px;
+	height: 6px;
+	position: absolute;
+	text-indent: -999em;
+	top: 7px;
+	width: 500px;
+}
 
 .sliderContainer{
-	text-align:left;
-	display:block;
+	text-align: left;
+	float: none;
+	clear: both;
 	}
-.slider_gutter {
-	float: left;
-	width: 100%;
-	display: block;
-	position: relative;
-	 }
-.slider_gutter_item{position: relative;	float: left; left: 100%;}	 
-	 
-	 
-	 
-#slider_minmax_gutter_l, .slider_gutter_l{
-	width: 10px;
-	margin-left:-100%; 
-	height:20px;
-	background: url(../icons/Settings/old_bkg_slider.gif)  no-repeat;
-	 }
-.knob {	position: absolute;	height: 20px;width: 20px;background: url(../icons/Settings/slider_desp.png) no-repeat;cursor: pointer;
-}
-
-.slider_outer{margin: 10px; border:1px solid #e6e6e6; padding:5px;}
-.slider_gutter {float: left;width: 100%;display: block;position: relative; }
-.slider_gutter_item{position: relative;	float: left; left: 100%;}
-#slider_minmax_gutter_l, .slider_gutter_l{width: 10px;margin-left:-100%; height:20px;background:url(../images/slider_l.gif) no-repeat; }
-#slider_minmax_gutter_m{width: 360px;margin-left:-370px;height:20px; background:url(../images/slider_rptr.gif) repeat-x; }
-#slider_minmax_gutter_b{
-	top: 6px;
-	width: 360px;
-	margin-left: -370px;
-	height: 6px;
-	background-image: -webkit-linear-gradient(2deg,rgba(0,203,42,1.00) 0%,rgba(255,0,0,1.00) 100%);
-	background-image: -moz-linear-gradient(2deg,rgba(0,203,42,1.00) 0%,rgba(255,0,0,1.00) 100%);
-	background-image: -o-linear-gradient(2deg,rgba(0,203,42,1.00) 0%,rgba(255,0,0,1.00) 100%);
-	background-image: linear-gradient(88deg,rgba(0,203,42,1.00) 0%,rgba(255,0,0,1.00) 100%);
-}
-
-#slider_minmax_gutter_r,.slider_gutter_r{width: 10px;margin-left:-15px;height:20px; 	background:url(../images/slider_r.gif) no-repeat; border:1px }
-#minmax_slider{ width:380px; margin:0px 10px;}
-
-.slider_gutter{width:150px; margin:10px 0px 0px 0px; }
-.slider_gutter_m{width:140px;margin-left:-150px;	height:20px; background:url(../images/slider_rptr.gif) repeat-x;}
-
-/*.slider_gutter_bkg{ position: absolute; background:url(../images/bkg_slider.gif) repeat-x; height:8px; margin:6px 0px 0px -10px; width:374px; clip:rect(0, 20px, 0, 20px)}
-*/
-
-
-/* For Clip */
-
-#slider_bkg_img{position: absolute; height:8px; margin:6px 0px 0px -10px; width:374px;}
-#slider_bkg_img_1{position: absolute; height:8px; margin:6px 0px 0px 0px; width:200px;}
-
-
-
-/* for Slider C */
-.slide_container .slider {float:left; display: block;position: relative; }
-.slide_container #slider_C{width:270px; margin:0px 0px 0px 10px; border:0px solid red; }
-.slide_container  #slider_bkg_img_C{position: absolute; height:8px; margin:6px 0px 0px 0px; width:430px;}
-.slide_container  .slider_gutter_r{width: 10px;margin-left:-10px;height:20px; 	background:url(../images/slider_r.gif) no-repeat; border:1px }

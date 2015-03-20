@@ -2,8 +2,9 @@
 /* CSS Document */
 
 .boxContent{
+	width:200px;
 	font-size:14px;
-	width: auto;
+
 	border-radius: 5PX;
 	border: 2PX solid #999999;
 	padding: 8px;
@@ -20,14 +21,62 @@
 	color:#2280AD;
 	}
 	
-
+/*Atributos div dentro de papelera*/
 #empy{
 	height:60px;
 	background-color: #248B00;
+}
+#half{
+	height:99px;
+	background-color: #E7AC00;
 	}
-	#half{
-		height:99px;
-		background-color: #E7AC00;
-		}
-		#full{
-			height:20px;}
+#full{
+	height:20px;
+	}
+/*Atributos span dentro de recuador*/			
+.value {
+  position: absolute;
+  top: 30px;
+  left: 50%;
+  margin: 0 0 0 -20px;
+  width: 40px;
+  text-align: center;
+  display: block;
+  
+  /* optional */
+  
+  font-weight: normal;
+  font-family: Verdana,Arial,sans-serif;
+  font-size: 14px;
+  color: #333;
+}
+
+.trash80l{
+	background-image: url(../icons/Settings/Papelera.png);
+	width: 142px;
+	height: 284px;
+	display: inline-block;
+	}
+.div80l{
+	top: 86px; position: relative; width: 136px; margin-left: 3px;
+	}
+.boxValuesTrash{
+	text-align: left; display: inline-block;}
+
+
+.indicadores{
+	height: 20px; width: 5px; position: fixed; margin-right: 32px;}
+
+
+
+
+
+
+
+
+
+
+
+
+		
+			
