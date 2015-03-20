@@ -8,6 +8,10 @@ var globalSettings = {	// Configuraciones comunes a todas las gráficas
 
 var n, m = 0;	// Iteradores bucles
 
+var xhr = new XMLHttpRequest();
+var url;
+var xmlDoc = new Array;
+
 /*
 	GRÁFICAS POR DISTRITO
 		Genera una gráfica de barras con las papeleras vacías, medias, llenas y averiadas, organizadas por distritos.
@@ -21,8 +25,7 @@ var n, m = 0;	// Iteradores bucles
 
 */
 
-function GraficaPorDistrito(input) {	// Entrada: matriz bidimensional con los datos de cada distrito
-
+function GraficaPorDistrito(momento) {	// Entrada: matriz bidimensional con los datos de cada distrito
 	var canvas = document.getElementById("distrito").getContext("2d");	// Canvas donde ubicar la gráfica
 	var data = { labels: [], datasets: [] };
 
@@ -60,10 +63,6 @@ function GraficaPorDistrito(input) {	// Entrada: matriz bidimensional con los da
 function GraficaPorTiempo(distrito, fases) {
 	var canvas = document.getElementById("tiempo").getContext("2d");	// Canvas donde ubicar la gráfica
 	var data = { labels: [], datasets: [] };
-
-	var xhr = new XMLHttpRequest();
-	var url;
-	var xmlDoc = new Array;
 
 	for(n = 0; n < fases; n++) {
 		// Recogida de datos
@@ -122,25 +121,27 @@ function GraficaPorTiempo(distrito, fases) {
 	var GraficaTiempo = new Chart(canvas).Line(data, globalSettings);	// Generación de la gráfica en cuestión
 }
 
+/*
+	CARGA BASE DE DATOS
+		Parsea los ficheros XML locales y los sube a la base de datos en formato JSON
 
-function CargaBD(fases) {
-	// Datos, en este caso, de Moncloa
-	var distrito = "Moncloa";
-	var totPapDistrito = 84;
-	var nFicheros = 7;
-
-	var xhr = new XMLHttpRequest();
-	var url = "https://yagogg.cloudant.com/papeleras_justrash/" + distrito;
-	var xmlDoc = new Array;
-
+		Entrada:
+			- distrito: nombre del distrito a leer [cadena]
+			- nFicheros: número de tomas de datos a leer [entero]
+			- totPapDistrito: número total de papeleras en todo el distrito [entero]
+		
+*/
+function CargaBD(distrito, nFicheros, totPapDistrito) {
 	var content = {};
 	var papelera = {};
+	var papeleras = [];
+	var registro = {};
+	var regTemp = [];
 
 	// Lectura de datos de los ficheros
 		for(n = 0; n < nFicheros; n++) {
 			// Recogida de datos
 			url = "./files/"+ distrito + n + ".xml";	// Composición de la URL local, en formato [DISTRITO][número].xml
-			console.log("Abriendo " + url);	// DEBUG
 			xhr.open("GET", url, false);
 			xhr.send();
 
@@ -150,56 +151,74 @@ function CargaBD(fases) {
 		content.totalPapeleras = totPapDistrito;	//Número de papeleras en Moncloa
 
 		for(n = 0; xmlDoc[n] != undefined; n++) {
-			//content.registrosTemporales.push(fecha = "2015-03-" + (n + 1));
-			for(m = 0; m <= totPapDistrito; m++) {
-				papelera.
-				content.registrosTemporales.push(papeleras.push(name = xmlDoc.push(getElementsByTagName("Papeleras")[0].getElementsByTagName("Papelera").push(getElementsByTagName("Name")[0].childNodes[0].nodeValue))));
-				content.registrosTemporales.push(papeleras.push(direccion = xmlDoc.push(getElementsByTagName("Papeleras")[0].getElementsByTagName("Papelera").push(getElementsByTagName("PostalAdress")[0].childNodes[0].nodeValue))));
-				content.registrosTemporales.push(papeleras.push(longitud = xmlDoc.push(getElementsByTagName("Papeleras")[0].getElementsByTagName("Papelera").push(getElementsByTagName("Longitud")[0].childNodes[0].nodeValue))));
-				content.registrosTemporales.push(papeleras.push(latitud = xmlDoc.push(getElementsByTagName("Papeleras")[0].getElementsByTagName("Papelera").push(getElementsByTagName("Latitud")[0].childNodes[0].nodeValue))));
-				content.registrosTemporales.push(papeleras.push(estado = xmlDoc.push(getElementsByTagName("Papeleras")[0].getElementsByTagName("Papelera").push(getElementsByTagName("Estado")[0].childNodes[0].nodeValue))));
+			for(m = 0; m < totPapDistrito; m++) {
+				// Toma de valores del XML
+				papelera.nombre = xmlDoc[n].getElementsByTagName("Papeleras")[0].getElementsByTagName("Papelera")[m].getElementsByTagName("Name")[0].childNodes[0].nodeValue;
+				papelera.direccion = xmlDoc[n].getElementsByTagName("Papeleras")[0].getElementsByTagName("Papelera")[m].getElementsByTagName("PostalAdress")[0].childNodes[0].nodeValue;
+				papelera.longitud = xmlDoc[n].getElementsByTagName("Papeleras")[0].getElementsByTagName("Papelera")[m].getElementsByTagName("Longitud")[0].childNodes[0].nodeValue;
+				papelera.latitud = xmlDoc[n].getElementsByTagName("Papeleras")[0].getElementsByTagName("Papelera")[m].getElementsByTagName("Latitud")[0].childNodes[0].nodeValue;
+				papelera.estado = xmlDoc[n].getElementsByTagName("Papeleras")[0].getElementsByTagName("Papelera")[m].getElementsByTagName("Estado")[0].childNodes[0].nodeValue;
+
+				papeleras.push(papelera);	// Almacenamiento de la papelera en el array de papeleras
+				papelera = {};	// Reseteo para la siguiente vuelta
 			}
+			registro.fecha = "2015-03-" + (n + 1);	// Guardado de la fecha en el registro
+			registro.papeleras = papeleras;	// Guardado de las papeleras en el el registro
+			papeleras = [];	// Reseteo para la siguiente vuelta
+			regTemp.push(registro);	// Guardado del registro en el array de registros
+			registro = {};	// Reseteo para la siguiente vuelta
 		}
 
+	if(regTemp[0] != undefined) {	// La lectura ha ido bien
+		// Preparación de la información para enviarla al servidor
+		content.totalPapeleras = totPapDistrito;
+		content.registrosTemporales = regTemp;
 
-	// Lectura de la revisión
-		xhr.open("GET", url, false);
+		// Lectura de la revisión
+		url = "https://yagogg.cloudant.com/papeleras_justrash/" + distrito;
+
+		xhr.open("GET", url, true);
 		xhr.setRequestHeader("Content-Type", "application/json");
+		xhr.onreadystatechange = onreadystatechange = function() {
+			if (xhr.readyState == 4 && xhr.status == 200) {
+				dbSender(content);
+			}
+		}; 
 		xhr.send();
+	} else {
+		console.error("FATAL: regTemp está vacío.");
+	}
+}
 
+function dbSender(content) {
 		var obj = JSON.parse(xhr.responseText);	// Objeto JSON con la respuesta del servidor
 		var rev = obj._rev;	// Revisión del documento (versión de la última modificación, requisito de Cloudant)
 
-		console.log(rev);	// DEBUG
+		console.log("Revisión: " + rev);	// DEBUG
 
 		url += "?rev=" + rev;	// Adición de la ultima revisión a la URL (requisito de Cloudant)
 
-	// Inserción de datos en la BD
+		// Inserción de datos en la BD
 		xhr.open("PUT", url, false);
 		xhr.setRequestHeader("Content-Type", "application/json");
 
-		xhr.send(content);
-
-		console.log(xhr.responseText);	// DEBUG
+		xhr.send(JSON.stringify(content));
 }
 
-//Funcion loadPage
-$(function()
-{
-                // COMIENZO VARIABLES DE PRUEBA
-                var distr1 = [ "Arganzuela", 10, 20, 30, 5 ];
-                var distr2 = [ "Carabanchel", 4, 27, 3, 5 ];
-                var distr3 = [ "Centro", 4, 65, 8, 5 ];
-                var distr4 = [ "Chamartín", 52, 78, 5, 5 ];
+$(function() {
+    // COMIENZO VARIABLES DE PRUEBA
+    var distr1 = [ "Arganzuela", 10, 20, 30, 5 ];
+    var distr2 = [ "Carabanchel", 4, 27, 3, 5 ];
+    var distr3 = [ "Centro", 4, 65, 8, 5 ];
+    var distr4 = [ "Chamartín", 52, 78, 5, 5 ];
 
-                var param = [distr1, distr2, distr3, distr4];
-                // FIN DE VARIABLES DE PRUEBA
+    var param = [distr1, distr2, distr3, distr4];
+    // FIN DE VARIABLES DE PRUEBA
 
-                GraficaPorDistrito(param);
-				
-				GraficaPorTiempo("Moncloa", 7);
+    GraficaPorDistrito(param);
 
-				CargaBD();
- 
-}//End Function loadPage
+    GraficaPorTiempo("Moncloa", 7);
+
+    CargaBD("Moncloa", 7, 84);
+}
 );
