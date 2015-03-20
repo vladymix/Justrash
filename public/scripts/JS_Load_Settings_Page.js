@@ -1,5 +1,6 @@
-// JS_Load_Rutas_Page
-//funciones
+//Load functions
+
+
 
 
 
@@ -7,6 +8,7 @@
 $(function()
 {
 
- 
+loadSliderValues(20,20);
+
 }//End Function loadPage
 );
