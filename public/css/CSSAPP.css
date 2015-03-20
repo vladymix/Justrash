@@ -78,13 +78,25 @@ table {border-collapse:collapse; border: none; padding: 0;}
 .active{
 	background-color: #0C0E0F;
 }
+.boxContent{
+	font-size:14px;
+	border-radius: 5PX;
+	border: 2PX solid #999999;
+	padding: 8px;
+	padding-bottom:7px;
+	display: inline-block;
+	margin:5px;
+	box-shadow: 1px 1px 1px rgba(159,159,159,1.00);
+	-webkit-box-shadow: 1px 1px 1px rgba(159,159,159,1.00);
+}
 .app_Justrash
 {
 	overflow:hidden;
 	height:100%;
 	width:100%;
-	background-image: url(http://subtlepatterns.com/patterns/geometry2.png);	
+	background-image:url(../icons/geometry2.png);	
 	overflow-y: auto;
+	padding:5px;
 }
 .Sombra{
 	box-shadow: 2px 2px 15px rgba(159,159,159,1.00);

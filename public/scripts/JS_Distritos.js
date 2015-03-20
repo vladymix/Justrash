@@ -111,6 +111,179 @@ function selectedPath(CP){
 	else if(CP =="28021")
 	return Villaverde;	
 	}
+//Distritos	
+var Distritos = [
+	{
+		distrito: "Arganzuela",
+		codePostal: "28045",
+		path: Arganzuela, 
+		papeleras:0,
+		latitud: 40.39419901357015,
+		longitud: -3.6834210425750737
+		
+	},
+	{
+		distrito: "Barajas",
+		codePostal: "28042",
+		path: Barajas, 
+		papeleras:0,
+		latitud: 40.473907649051704,
+		longitud: -3.5855350682202047
+	},
+	{
+		distrito: "Carabanchel",
+		codePostal: "28025",
+		path: Carabanchel, 
+		papeleras:0,
+		latitud: 40.36815527702884,
+		longitud: -3.7458547551539705
+	},
+	{
+		distrito: "Centro",
+		codePostal: "28013",
+		path: Centro, 
+		papeleras:0,
+		latitud: 40.45887476564644,
+		longitud: -3.6664670709154676
+	},
+	
+	{
+		distrito: "Chamartín",
+		codePostal: "28002",
+		path: Chamartin, 
+		papeleras:0,
+		latitud: 40.45887476564644,
+		longitud: -3.6664670709154676
+	},
+	{
+		distrito: "Chamberi",
+		codePostal: "28010",
+		path: Chamberi, 
+		papeleras:0,
+		latitud: 40.45887476564644,
+		longitud: -3.6664670709154676
+	},
+	{
+		distrito: "Ciudad Lineal",
+		codePostal: "28037",
+		path: Ciudad_Lineal, 
+		papeleras:0,
+		latitud: 40.41826330408995,
+		longitud: -3.630928382853009
+	},
+	{
+		distrito: "Fuencarral-El Pardo",
+		codePostal: "28029",
+		path: Fuencarral, 
+		papeleras:0,
+		latitud: 40.48225121586361,
+		longitud: -3.71646391915977
+	},
+	{
+		distrito: "Hortaleza",
+		codePostal: "28043",
+		path: Hortaleza, 
+		papeleras:0,
+		latitud: 40.47006424276577,
+		longitud: -3.6277914577312402
+	},
+	{
+		distrito: "Latina",
+		codePostal: "28044",
+		path: Latina, 
+		papeleras:0,
+		latitud: 40.4016757685611,
+		longitud: -3.736372909535269
+	},
+	{
+		distrito: "Moncloa-Ciudad Universitaria",
+		codePostal: "28008",
+		path: Moncloa, 
+		papeleras:0,
+		latitud: 40.4518145982551,
+		longitud: -3.740033315744074
+	},
+	{
+		distrito: "Moratalaz",
+		codePostal: "28030",
+		path: Moratalaz, 
+		papeleras:0,
+		latitud: 40.414609663505665,
+		longitud: -3.6513204448781815
+	},
+	{
+		distrito: "Puente de Vallecas",
+		codePostal: "28038",
+		path: Puente_de_Vallecas, 
+		latitud: 40.39406006570005,
+		longitud: -3.654492342880955
+	},
+	{
+		distrito: "Retiro",
+		codePostal: "28007",
+		path: Retiro, 
+		papeleras:0,
+		latitud: 40.44011842579,
+		longitud: -3.622772792777153
+	},
+	{
+		distrito: "Salamanca",
+		codePostal: "28001",
+		path: Salamanca, 
+		papeleras:0,
+		latitud: 40.37882471603663,
+		longitud: -3.7096418581029984
+	},
+	{
+		distrito: "San Blas",
+		codePostal: "28022",
+		path: San_Blas, 
+		papeleras:0,
+		latitud: 40.37882471603663,
+		longitud: -3.7096418581029984
+	},
+	{
+		distrito: "Tetuan",
+		codePostal: "28020",
+		path: Tetuan, 
+		papeleras:0,
+		latitud: 40.37882471603663,
+		longitud: -3.7096418581029984
+	},
+	{
+		distrito: "Usera",
+		codePostal: "28026",
+		path: Usera, 
+		papeleras:0,
+		latitud: 40.37882471603663,
+		longitud: -3.7096418581029984
+	},
+	{
+		distrito: "Vicálvaro",
+		codePostal: "28032",
+		path: Vicalvaro, 
+		latitud: 40.40676752985184,
+		longitud: -3.598776933365321
+	},
+	{
+		distrito: "Villa de Vallecas",
+		codePostal: "28031",
+		path: Villa_de_vallecas, 
+		papeleras:0,
+		latitud: 40.376205626276835,
+		longitud: -3.6429637161883424
+	},
+	{
+		distrito: "Villaverde",
+		codePostal: "28021",
+		path: Villaverde, 
+		papeleras:0,
+		latitud: 40.33860368148312,
+		longitud: -3.7103387295498003
+	},
+];	
+	
+	
 //Puntos limpios
 
 var puntos = [

@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document Justrash */
+
+var RutaPM = "#FFBF00";
+var RutaPLL = "#DF0101";
+var RutaPV ="#3ADF00";
+var RutaPA = "#585858";
+
+.backgroundFull{background-color:#DF0101}
+.backgroundHalf{background-color:#FFBF00}
+.backgroundEmpy{background-color:#3ADF00}
+.backgroundCrash{background-color:#585858}
+
+.colorFull{color:#DF0101}
+.colorHalf{color:#FFBF00}
+.colormpy{color:#3ADF00}
+.colorCrash{color:#585858}
+
+.backgroundAPP{background-color:#2D3639;}
+.colorAPP{color:#2D3639;}
