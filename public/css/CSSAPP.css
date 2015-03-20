@@ -83,6 +83,7 @@ table {border-collapse:collapse; border: none; padding: 0;}
 	overflow:hidden;
 	height:100%;
 	width:100%;
+	background-image: url(http://subtlepatterns.com/patterns/geometry2.png);	
 	overflow-y: auto;
 }
 .Sombra{
