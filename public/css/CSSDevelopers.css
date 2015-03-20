@@ -9,7 +9,6 @@
 }
 .Team{
 	overflow-y: scroll;
-	height: 420px;
 	align-content: center;
-	padding: 15px;	
+	padding: 15px;
 	}
