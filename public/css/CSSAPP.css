@@ -34,6 +34,11 @@ table {border-collapse:collapse; border: none; padding: 0;}
 	background-color: rgba(45,54,57,1.00);
 
 }
+	.Cabecera img {
+		padding: 10px 0 5px;
+		width: 134px;
+		height: 40px;
+	}
 .Menu{
 	overflow:hidden;
 	z-index: 0;
