@@ -255,8 +255,11 @@ var Distritos = [
 	}
 ];	
 	
-
-
+function get_htmlDistrito(_nombre,_porcentage){
+	return '<div class="boxContent cursorPointer"><span>'+_nombre+' </span> <span>'+_porcentage+'%</span></div>';
+	
+	}
+var htmlDistrito= '';
 
 
 var globalSettings = {	// Configuraciones comunes a todas las gráficas
@@ -285,24 +288,68 @@ function GraficaPorDistrito(input) {	// Entrada: matriz bidimensional con los da
 	var GraficaDistrito = new Chart(canvas).Bar(data, globalSettings);	// Generación de la gráfica en cuestión
 }
 
- var distrito = [ "Arganzuela", 10];
 var analisis= new Array;
+var htmldistritos="";
 function loadPapeleras(){
-	
+	htmldistritos="";
 	//Cargo el total de papeleras por distrito
 	for(n = 0; Distritos[n] != undefined; n++) {
 		var url = "files/"+Distritos[n].codePostal +".xml"
-		Distritos[n].papeleras= totalPapelerasin(url);
-		 var distro = [ Distritos[n].distrito, Distritos[n].papeleras];
-		analisis.push(distro)
+		 
 		
+		var total = Distritos[n].papeleras = totalPapelerasin(url);
+		
+		var llenas = totalPapelerasLLenas(url);
+		 
+		var porcentage = (llenas*100/total);	
+		
+		 var distro = [ Distritos[n].distrito, porcentage];
+		 
+		analisis.push(distro);		
 		}
+	//homes.sort(sort_by('price', true, parseInt));
+	
+	analisis.sort(ordenar_de_mayor_a_menor);
+	for (var n=0; analisis[n] != undefined; n++){
+		
+		htmldistritos+=get_htmlDistrito(analisis[n][0], Math.floor(analisis[n][1]));
+		}
+	
+	
+		
+	$("#distritos").html(htmldistritos);
 	  GraficaPorDistrito(analisis);
 	
 	}
+	
+function totalPapelerasLLenas(urlfile){
+	var	nPapelerasLlenas=0;
+	
+	var xhr = new XMLHttpRequest();	 	 	
+	xhr.open("GET", urlfile, false);	// Preparación de la solicitud		
+	xhr.send();	// Realización de la petición GET al servidor
+	// Muestreo del estado en la cabecera		
+	 xmlDoc = xhr.responseXML;	// Variable qu almacena la respuesta
+	//Etiqueta XML "Temperaura minima"   
+	  var xmlPapeleras= xmlDoc.getElementsByTagName("Papeleras");
+	
+
+	for(var i =0; i < xmlPapeleras[0].getElementsByTagName("Papelera").length;i++ )
+	 {	 
+	try{		
+		 var papelera = xmlPapeleras[0].getElementsByTagName("Papelera")[i];		  
+		 //papelera llena
+		 if(papelera.getElementsByTagName("Estado")[0].childNodes[0].nodeValue=="10"){ 
+		 	nPapelerasLlenas++; 
+			 }
+		}
+	catch(err){ }
+	 }//for
+	return nPapelerasLlenas;
+	}
+	
 function totalPapelerasin(urlfile) 
 {
-//Inicializo variables globales del distrito correspondiente
 var xhr = new XMLHttpRequest();	 	 	
 	xhr.open("GET", urlfile, false);	// Preparación de la solicitud		
 	xhr.send();	// Realización de la petición GET al servidor
@@ -312,6 +359,10 @@ var xhr = new XMLHttpRequest();
 	  var xmlPapeleras= xmlDoc.getElementsByTagName("Papeleras");
 	 return  xmlDoc.getElementsByTagName("Papeleras")[0].getElementsByTagName("Papelera").length;
 }
+
+function ordenar_de_mayor_a_menor(elem1, elem2){
+	return elem2[1]-elem1[1];
+	}
 
 
 //Funcion loadPage
