@@ -254,12 +254,13 @@ var Distritos = [
 		longitud: -3.7103387295498003
 	}
 ];	
-	
+
+//Crea un div con informacion del distrito 
+
 function get_htmlDistrito(_nombre,_porcentage){
 	return '<div class="boxContent cursorPointer"><span>'+_nombre+' </span> <span>'+_porcentage+'%</span></div>';
-	
 	}
-var htmlDistrito= '';
+
 
 
 var globalSettings = {	// Configuraciones comunes a todas las gráficas
@@ -288,57 +289,56 @@ function GraficaPorDistrito(input) {	// Entrada: matriz bidimensional con los da
 	var GraficaDistrito = new Chart(canvas).Bar(data, globalSettings);	// Generación de la gráfica en cuestión
 }
 
-var analisis= new Array;
-var htmldistritos="";
-function loadPapeleras(){
-	htmldistritos="";
+//Carga toda la informacion de las papeleras del los distritos Usa Array Distritos
+function load_for_analisis(){
+	var analisis= new Array;
+	var htmldistritos="";
+	
 	//Cargo el total de papeleras por distrito
 	for(n = 0; Distritos[n] != undefined; n++) {
-		var url = "files/"+Distritos[n].codePostal +".xml"
-		 
 		
+		var url = "files/"+Distritos[n].codePostal +".xml"		 
 		var total = Distritos[n].papeleras = totalPapelerasin(url);
-		
 		var llenas = totalPapelerasLLenas(url);
-		 
-		var porcentage = (llenas*100/total);	
+		
+		//Calculo por porcentages el numero de papeleras llena / total papeleras distrito
+		var porcentage = (llenas*100/total); 
 		
 		 var distro = [ Distritos[n].distrito, porcentage];
-		 
+		 //Añador al array analisis el distrito
 		analisis.push(distro);		
-		}
-	//homes.sort(sort_by('price', true, parseInt));
-	
-	analisis.sort(ordenar_de_mayor_a_menor);
-	for (var n=0; analisis[n] != undefined; n++){
 		
+		}
+	//Ordeno el array de mayor a menor
+	analisis.sort(ordenar_de_mayor_a_menor);
+	
+	//Grafico los datos en div solo con la parte entera para facilitar la lectura
+	for (var n=0; analisis[n] != undefined; n++){		
 		htmldistritos+=get_htmlDistrito(analisis[n][0], Math.floor(analisis[n][1]));
 		}
-	
-	
-		
+			
+	//Añado al id distritos los divs	
 	$("#distritos").html(htmldistritos);
+	
+	//Muestro los datos como graficas
 	  GraficaPorDistrito(analisis);
 	
 	}
-	
+	//Devuevo el numero de papeleras llenas
 function totalPapelerasLLenas(urlfile){
-	var	nPapelerasLlenas=0;
-	
+	var	nPapelerasLlenas=0;	
 	var xhr = new XMLHttpRequest();	 	 	
 	xhr.open("GET", urlfile, false);	// Preparación de la solicitud		
 	xhr.send();	// Realización de la petición GET al servidor
 	// Muestreo del estado en la cabecera		
 	 xmlDoc = xhr.responseXML;	// Variable qu almacena la respuesta
 	//Etiqueta XML "Temperaura minima"   
-	  var xmlPapeleras= xmlDoc.getElementsByTagName("Papeleras");
-	
-
+	  var xmlPapeleras= xmlDoc.getElementsByTagName("Papeleras");	
 	for(var i =0; i < xmlPapeleras[0].getElementsByTagName("Papelera").length;i++ )
 	 {	 
 	try{		
 		 var papelera = xmlPapeleras[0].getElementsByTagName("Papelera")[i];		  
-		 //papelera llena
+		 //papelera llena sumo una unidad
 		 if(papelera.getElementsByTagName("Estado")[0].childNodes[0].nodeValue=="10"){ 
 		 	nPapelerasLlenas++; 
 			 }
@@ -348,8 +348,8 @@ function totalPapelerasLLenas(urlfile){
 	return nPapelerasLlenas;
 	}
 	
-function totalPapelerasin(urlfile) 
-{
+//Devuevo el numero total de papeleras del distrito
+function totalPapelerasin(urlfile) {
 var xhr = new XMLHttpRequest();	 	 	
 	xhr.open("GET", urlfile, false);	// Preparación de la solicitud		
 	xhr.send();	// Realización de la petición GET al servidor
@@ -360,6 +360,9 @@ var xhr = new XMLHttpRequest();
 	 return  xmlDoc.getElementsByTagName("Papeleras")[0].getElementsByTagName("Papelera").length;
 }
 
+//La funcion recive 2 parametros si el valor devuelto es negativo
+//el elemento 1 va delante (el mayor)	
+// elem = {"distrito", valor} 
 function ordenar_de_mayor_a_menor(elem1, elem2){
 	return elem2[1]-elem1[1];
 	}
@@ -368,7 +371,7 @@ function ordenar_de_mayor_a_menor(elem1, elem2){
 //Funcion loadPage
 $(function()
 {
-	loadPapeleras();
+	load_for_analisis();
 
 	  
 }//End Function loadPage
