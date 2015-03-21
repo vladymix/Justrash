@@ -11,4 +11,7 @@
 	overflow-y: scroll;
 	align-content: center;
 	padding: 15px;
+}
+	.Team span {
+		margin-bottom: 3em;
 	}
