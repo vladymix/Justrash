@@ -6,7 +6,7 @@ var globalSettings = {	// Configuraciones comunes a todas las gráficas
 	datasetFill: false
 };
 
-var n, m = 0;	// Iteradores bucles
+var n, m, l, k;	// Iteradores bucles
 
 var xhr = new XMLHttpRequest();
 var url;
@@ -16,39 +16,71 @@ var xmlDoc = new Array;
 	GRÁFICAS POR DISTRITO
 		Genera una gráfica de barras con las papeleras vacías, medias, llenas y averiadas, organizadas por distritos.
 
-		Entrada (input): matriz bidimensional con los datos de cada distrito, en el formato:
-			- 0: nombre del distrito
-			- 1: número entero de papeleras llenas en ese distrito
-			- 2: número entero de papeleras a la mitad en ese distrito
-			- 3: número entero de papeleras vacias en ese distrito
-			- 4: número entero de papeleras averiadas en ese distrito
-
+		Entrada:
+			- momento: referencia temporal que leer (ej.: 2015-03-01) [cadena]
 */
 
-function GraficaPorDistrito(momento) {	// Entrada: matriz bidimensional con los datos de cada distrito
+function GraficaPorDistrito(momento) {
 	var canvas = document.getElementById("distrito").getContext("2d");	// Canvas donde ubicar la gráfica
 	var data = { labels: [], datasets: [] };
+
+	// Listado de distritos (actualmente no permite tildes)
+	var distritos = [ "Arganzuela", "Barajas", "Carabanchel", "Centro", "Chamartin", "Chamberi", "CiudadLineal", "Fuencarral", "Hortaleza", "Latina", "Moncloa", "Moratalaz", "PuenteDeVallecas", "Retiro", "Salamanca", "SanBlas", "Tetuan", "Usera", "Vicalvaro", "VillaDeVallecas", "Villaverde" ];
 
 	var pLL = new Array;	// Vector de papeleras llenas, ordenadas por distrito
 	var pMI = new Array;	// Vector de papeleras a la mitad, ordenadas por distrito
 	var pVA = new Array;	// Vector de papeleras vacías, ordenadas por distrito
 	var pAV = new Array;	// Vector de papeleras averiadas, ordenadas por distrito
 
-	for(n = 0; input[n] != undefined; n++) {
-		data.labels[n] = input[n][0];	// Lectura de los nombres de distrito (eje X)
-		// Almacenamiento de los vectores (eje Y)
-		pLL[n] = input[n][1];
-		pMI[n] = input[n][2];
-		pVA[n] = input[n][3];
-		pAV[n] = input[n][4];
-	}
-	
+	var serverData;
+	var estadoPapelera;
+
+	for(n = 0; distritos[n] != undefined; n++) {
+		data.labels[n] = distritos[n];	// Lectura de los nombres de distrito (eje X)
+		url = "https://yagogg.cloudant.com/papeleras_justrash/" + distritos[n];
+
+		// Inicialización a 0 de los arrays de valores de papeleras, para que el programa sepa que son enteros, y por qué valor emperzar
+		pLL[n] = 0;
+		pMI[n] = 0;
+		pVA[n] = 0;
+		pAV[n] = 0;
+
+		xhr.open("GET", url, false);
+		xhr.setRequestHeader("Content-Type", "application/json");
+		xhr.send();
+
+		serverData = JSON.parse(xhr.responseText);
+
+		for(m = 0; serverData.registrosTemporales[m] != undefined; m++) {
+			if(serverData.registrosTemporales[m].fecha == momento) {
+				for(l = 0; l < serverData.totalPapeleras; l++) {
+					estadoPapelera = serverData.registrosTemporales[m].papeleras[l].estado;
+					switch(estadoPapelera) {
+						case "00": 	// Vacía
+							pVA[n]++;
+							break;
+						case "01": 	// Mitad
+							pMI[n]++;
+							break;
+						case "10": 	// Llena
+							pLL[n]++;
+							break;
+						case "11": 	// Averiada
+							pAV[n]++;
+							break;
+					}
+				}	
+			}
+		}	
+
 		data.datasets[0] = { label: "Llenas", fillColor: "rgba(255, 0, 0, 0.6)", strokeColor: "red", data: pLL};
 		data.datasets[1] = { label: "Mitad", fillColor: "rgba(240, 192, 0, 0.6)", strokeColor: "rgb(240, 192, 0)", data: pMI};
 		data.datasets[2] = { label: "Vacías", fillColor: "rgba(95, 218, 79, 0.6)", strokeColor: "rgb(95, 218, 79)", data: pVA};
 		data.datasets[3] = { label: "Averiadas", fillColor: "rgba(132, 132, 130, 0.6)", strokeColor: "rgb(85, 85, 85)", data: pAV};
 
-	var GraficaDistrito = new Chart(canvas).Bar(data, globalSettings);	// Generación de la gráfica en cuestión
+	} 
+		var GraficaDistrito = new Chart(canvas).Bar(data, globalSettings);	// Generación de la gráfica en cuestión
+
 }
 
 /*
@@ -58,7 +90,6 @@ function GraficaPorDistrito(momento) {	// Entrada: matriz bidimensional con los 
 		Entrada:
 			- distrito: nombre del distrito a leer [cadena]
 			- fases: número de tomas de datos a leer [entero]
-		
 */
 function GraficaPorTiempo(distrito, fases) {
 	var canvas = document.getElementById("tiempo").getContext("2d");	// Canvas donde ubicar la gráfica
@@ -71,6 +102,7 @@ function GraficaPorTiempo(distrito, fases) {
 		xhr.open("GET", url, false);
 		xhr.send();
 
+		xmlDoc = [];
 		xmlDoc[n] = xhr.responseXML;	// Almacenamiento de la información en un array
 	}
 
@@ -90,11 +122,7 @@ function GraficaPorTiempo(distrito, fases) {
 		data.labels.push("Momento " + n);	// Adición de la marca temporal como etiqueta (eje X)
 		posicionTemporal = xmlDoc[n].getElementsByTagName("Papeleras")[0];
 
-		// Inicialización a 0 de los arrays de valores de papeleras, para que el programa sepa que son enteros, y por qué valor emperzar
-		pLL[n] = 0;
-		pMI[n] = 0;
-		pVA[n] = 0;
-		pAV[n] = 0;
+
 
 		for(m = 0; (papelera = posicionTemporal.getElementsByTagName("Papelera")[m]) != undefined; m++) {
 			estadoPapelera = papelera.getElementsByTagName("Estado")[0].childNodes[0].nodeValue;
@@ -128,8 +156,7 @@ function GraficaPorTiempo(distrito, fases) {
 		Entrada:
 			- distrito: nombre del distrito a leer [cadena]
 			- nFicheros: número de tomas de datos a leer [entero]
-			- totPapDistrito: número total de papeleras en todo el distrito [entero]
-		
+			- totPapDistrito: número total de papeleras en todo el distrito [entero]	
 */
 function CargaBD(distrito, nFicheros, totPapDistrito) {
 	var content = {};
@@ -206,19 +233,8 @@ function dbSender(content) {
 }
 
 $(function() {
-    // COMIENZO VARIABLES DE PRUEBA
-    var distr1 = [ "Arganzuela", 10, 20, 30, 5 ];
-    var distr2 = [ "Carabanchel", 4, 27, 3, 5 ];
-    var distr3 = [ "Centro", 4, 65, 8, 5 ];
-    var distr4 = [ "Chamartín", 52, 78, 5, 5 ];
+    GraficaPorDistrito("2015-03-7");
 
-    var param = [distr1, distr2, distr3, distr4];
-    // FIN DE VARIABLES DE PRUEBA
-
-    GraficaPorDistrito(param);
-
-    GraficaPorTiempo("Moncloa", 7);
-
-    CargaBD("Moncloa", 7, 84);
+    //GraficaPorTiempo("Moncloa", 7);
 }
 );
