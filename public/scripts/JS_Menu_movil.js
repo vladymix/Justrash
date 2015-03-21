@@ -17,7 +17,8 @@ function crearMenuMovil(){
 		$(".Menu").addClass("collapse");
 		try{$(".ListaDistritos").removeClass("position");}catch(err){}	
 	}
-function loadmenumovil(){	
+function loadmenumovil(){
+	var dispositivo = navigator.userAgent.toLowerCase();	
 	if( dispositivo.search(/iphone|ipod|ipad|android/) > -1 ){
 		crearMenuMovil();
 	}
