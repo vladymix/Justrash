@@ -128,13 +128,6 @@ table {border-collapse:collapse; border: none; padding: 0;}
 #btnMenu{
 	cursor:pointer;}
 
-.login-link {
-	color:#00b299;
-    border: 1px solid #00b299;
-  padding: 5px 12px;
-  border-radius: 3px;
-  font-weight: 600;
-}
 .bottonLogged{
 	cursor: pointer;
 	padding: 5px;
@@ -142,7 +135,24 @@ table {border-collapse:collapse; border: none; padding: 0;}
 	display: inline-block;
 	margin-top: 14px;
 	margin-right: 10px;
-	}
+}
+.login-link {
+	color:#00b299;
+    border: 1px solid #00b299;
+	padding: 5px 12px;
+	border-radius: 3px;
+	font-weight: 600;
+	transition: all 0.3s;
+		-webkit-transition: all 0.3s;
+		-moz-transition: all 0.3s;
+		-o-transition: all 0.3s;
+}
+
 .login-link:hover{
-		background-color:#00b299;
-		color:rgba(255,255,255,1.00);}
+	background-color:#00b299;
+	color: #2D3639;
+	transition: all 0.3s;
+		-webkit-transition: all 0.3s;
+		-moz-transition: all 0.3s;
+		-o-transition: all 0.3s;
+}
