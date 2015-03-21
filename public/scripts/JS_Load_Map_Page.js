@@ -1,4 +1,9 @@
 // JavaScript ZT Funciones
+//Constantes
+var colorFull = '#DF0101';
+var colorHalf = '#FFBF00';
+var colorEmpty = '#3ADF00';
+var colorCrash = '#585858';
 
 //Variables
 var map;  
@@ -37,6 +42,10 @@ function openCloseDistritos(){
 	}	
 
 }
+function closeGrafico(){
+	$("#porcentages").removeClass("visible");
+	$("#porcentages").addClass("collapse");
+	}
 
 
 $(function()
