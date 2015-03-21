@@ -1,10 +1,10 @@
 @charset "utf-8";
 /* CSS Document Justrash */
 
-var RutaPM = "#FFBF00";
-var RutaPLL = "#DF0101";
-var RutaPV ="#3ADF00";
-var RutaPA = "#585858";
+$colorFull = #DF0101;
+$colorHalf = #FFBF00;
+$colorEmpy = #3ADF00;
+$colorCrash = #585858;
 
 .backgroundFull{background-color:#DF0101}
 .backgroundHalf{background-color:#FFBF00}
