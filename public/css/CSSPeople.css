@@ -1,3 +1,11 @@
 @charset "utf-8";
 /* CSS Document People*/
 
+.morePeople{
+	background-color: rgba(215,29,32,1);
+	color:#FFFFFF;
+}
+.more_people{
+	padding:10px;
+	
+	}

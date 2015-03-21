@@ -16,7 +16,7 @@
     <script src="scripts/JS_Menu_movil.js" type="text/javascript"></script>
   <script src="scripts/JS_Load_Map_Page.js" type="text/javascript"></script>
   <script src="scripts/JS_Distritos.js" type="text/javascript"></script>
-  <script src="scripts/JS_Papeleras.js" type="text/javascript"></script>
+  <script src="scripts/JS_Papeleras.js" async="async" type="text/javascript"></script>
   
   <!-- Stylesheets -->
   <link href="css/CSSAPP.css" type="text/css" rel="stylesheet">
@@ -38,7 +38,7 @@
       <ul class="buttonsMenu">
         <li><a class="active"  href="index.html">
        	  <div><img class="imagenMenu" src="icons/btnMap.png"></div>
-          Mapa</a>
+          Map</a>
         </li>
         <li><a  href="settings.html">
           <div><img class="imagenMenu" src="icons/btnSettings.png"></div>
@@ -46,15 +46,15 @@
         </li>
         <li><a href="people.html" >
         <div>  <img class="imagenMenu" src="icons/btnPeople.png"></div>
-        Más gente</a>
+        More people</a>
         </li>
         <li><a href="estadisticas.html">
           <div><img class="imagenMenu" src="icons/btnChar.png"></div>
-          Estadísticas</a>
+          Statistics</a>
         </li>
         <li><a href="puntos_limpios.html">
           <div><img class="imagenMenu" src="icons/btnPuntos.png"></div>
-          Puntos limpios</a>
+          Clean points</a>
         </li>
         <li><a href="developers.html">
           <div><img class="imagenMenu" src="icons/btnDevelopers.png"></div>Developers</a>
@@ -68,7 +68,7 @@
         <!--Lista de distritos -->
         <div class="ListaDistritos position select-style">
           <select onChange="changeDistrito()" id="Distrito">
-          	  <option value="0">Distritos</option>
+          	  <option value="0">Districts</option>
               <option value="28045">Arganzuela</option>
               <option value="28042">Barajas</option>
               <option value="28025">Carabanchel</option>
@@ -98,7 +98,7 @@
             <a id="lbPA" >
               <div><img src="icons/iconsMap/32x32PA.png"></div>
               <div class="descripPapelera">
-                <h4>Dañadas</h4>  
+                <h4>Damaged</h4>  
                 <span id="totalPA">0</span>
               </div>
             </a>
@@ -107,7 +107,7 @@
             <a id="lbPLL" >
               <div><img src="icons/iconsMap/32x32PLL.png"></div>
               <div class="descripPapelera">
-                <h4>Llenas</h4>
+                <h4>Full</h4>
                 <span id="totalPLL">0</span>
               </div>
             </a>
@@ -116,7 +116,7 @@
         	  <a id="lbPM" >
               <div><img src="icons/iconsMap/32x32PM.png"></div>
               <div class="descripPapelera">
-                <h4>Mitad</h4> 
+                <h4>Half</h4> 
                 <span id="totalPM">0</span>
               </div>
              </a>
@@ -125,7 +125,7 @@
             <a id="lbPV" >
               <div><img src="icons/iconsMap/32x32PV.png"></div>
               <div class="descripPapelera"> 
-                <h4>Vacias</h4>       
+                <h4>Empy</h4>       
                 <span id="totalPV">0</span>
               </div>
             </a>

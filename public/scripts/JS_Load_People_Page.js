@@ -317,6 +317,7 @@ function load_for_analisis(){
 		if(n==0){			
 		htmldistritos+=get_htmlDistrito(analisis[n][0], Math.floor(analisis[n][1])," morePeople");
 			}
+		else
 		htmldistritos+=get_htmlDistrito(analisis[n][0], Math.floor(analisis[n][1]),"");
 		}
 			
