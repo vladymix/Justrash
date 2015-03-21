@@ -128,4 +128,21 @@ table {border-collapse:collapse; border: none; padding: 0;}
 #btnMenu{
 	cursor:pointer;}
 
-	
+.login-link {
+	color:#00b299;
+    border: 1px solid #00b299;
+  padding: 5px 12px;
+  border-radius: 3px;
+  font-weight: 600;
+}
+.bottonLogged{
+	cursor: pointer;
+	padding: 5px;
+	float: right;
+	display: inline-block;
+	margin-top: 14px;
+	margin-right: 10px;
+	}
+.login-link:hover{
+		background-color:#00b299;
+		color:rgba(255,255,255,1.00);}
