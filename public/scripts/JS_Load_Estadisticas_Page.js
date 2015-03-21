@@ -6,11 +6,22 @@ var globalSettings = {	// Configuraciones comunes a todas las gráficas
 	datasetFill: false
 };
 
+// Listado de distritos (actualmente no permite tildes)
+var distritos = [ "Arganzuela", "Barajas", "Carabanchel", "Centro", "Chamartin", "Chamberi", "CiudadLineal", "Fuencarral", "Hortaleza", "Latina", "Moncloa", "Moratalaz", "PuenteDeVallecas", "Retiro", "Salamanca", "SanBlas", "Tetuan", "Usera", "Vicalvaro", "VillaDeVallecas", "Villaverde" ];
+
+
 var n, m, l, k;	// Iteradores bucles
 
 var xhr = new XMLHttpRequest();
 var url;
 var xmlDoc = new Array;
+
+
+var pLL = new Array;	// Vector de papeleras llenas, ordenadas por distrito
+var pMI = new Array;	// Vector de papeleras a la mitad, ordenadas por distrito
+var pVA = new Array;	// Vector de papeleras vacías, ordenadas por distrito
+var pAV = new Array;	// Vector de papeleras averiadas, ordenadas por distrito
+
 
 /*
 	GRÁFICAS POR DISTRITO
@@ -23,14 +34,6 @@ var xmlDoc = new Array;
 function GraficaPorDistrito(momento) {
 	var canvas = document.getElementById("distrito").getContext("2d");	// Canvas donde ubicar la gráfica
 	var data = { labels: [], datasets: [] };
-
-	// Listado de distritos (actualmente no permite tildes)
-	var distritos = [ "Arganzuela", "Barajas", "Carabanchel", "Centro", "Chamartin", "Chamberi", "CiudadLineal", "Fuencarral", "Hortaleza", "Latina", "Moncloa", "Moratalaz", "PuenteDeVallecas", "Retiro", "Salamanca", "SanBlas", "Tetuan", "Usera", "Vicalvaro", "VillaDeVallecas", "Villaverde" ];
-
-	var pLL = new Array;	// Vector de papeleras llenas, ordenadas por distrito
-	var pMI = new Array;	// Vector de papeleras a la mitad, ordenadas por distrito
-	var pVA = new Array;	// Vector de papeleras vacías, ordenadas por distrito
-	var pAV = new Array;	// Vector de papeleras averiadas, ordenadas por distrito
 
 	var serverData;
 	var estadoPapelera;
@@ -95,37 +98,29 @@ function GraficaPorTiempo(distrito, fases) {
 	var canvas = document.getElementById("tiempo").getContext("2d");	// Canvas donde ubicar la gráfica
 	var data = { labels: [], datasets: [] };
 
-	for(n = 0; n < fases; n++) {
-		// Recogida de datos
-		url = "./files/"+ distrito + n + ".xml";	// Composición de la URL local, en formato [DISTRITO][número].xml
-		console.log("Abriendo " + url);	// DEBUG
-		xhr.open("GET", url, false);
-		xhr.send();
-
-		xmlDoc = [];
-		xmlDoc[n] = xhr.responseXML;	// Almacenamiento de la información en un array
-	}
-
-	console.log("xmlDoc completo: " + xmlDoc);	// DEBUG
-
-	var posicionTemporal;
-	var papelera;
+	var serverData;
 	var estadoPapelera;
 
-	var pLL = new Array;	// Vector de papeleras llenas, ordenadas por marca temporal
-	var pMI = new Array;	// Vector de papeleras a la mitad, ordenadas por marca temporal
-	var pVA = new Array;	// Vector de papeleras vacías, ordenadas por marca temporal
-	var pAV = new Array;	// Vector de papeleras averiadas, ordenadas por marca temporal
+
+	xhr.open("GET", url, false);
+	xhr.setRequestHeader("Content-Type", "application/json");
+	xhr.send();
+
+	serverData = JSON.parse(xhr.responseText);
 
 
-	for(n = 0; xmlDoc[n] != undefined; n++) {
-		data.labels.push("Momento " + n);	// Adición de la marca temporal como etiqueta (eje X)
-		posicionTemporal = xmlDoc[n].getElementsByTagName("Papeleras")[0];
+	for(n = 0; serverData.registrosTemporales[n] != undefined; n++) {
+		data.labels[n] = serverData.registrosTemporales[n].fecha;	// Lectura de los nombres de distrito (eje X)
+		url = "https://yagogg.cloudant.com/papeleras_justrash/" + distrito;
 
+		// Inicialización a 0 de los arrays de valores de papeleras, para que el programa sepa que son enteros, y por qué valor emperzar
+		pLL[n] = 0;
+		pMI[n] = 0;
+		pVA[n] = 0;
+		pAV[n] = 0;
 
-
-		for(m = 0; (papelera = posicionTemporal.getElementsByTagName("Papelera")[m]) != undefined; m++) {
-			estadoPapelera = papelera.getElementsByTagName("Estado")[0].childNodes[0].nodeValue;
+		for(m = 0; m < serverData.totalPapeleras; m++) {
+			estadoPapelera = serverData.registrosTemporales[n].papeleras[m].estado;
 			switch(estadoPapelera) {
 				case "00": 	// Vacía
 					pVA[n]++;
@@ -139,13 +134,15 @@ function GraficaPorTiempo(distrito, fases) {
 				case "11": 	// Averiada
 					pAV[n]++;
 					break;
-			}
+			}	
 		}
+	}	
+
 		data.datasets[0] = { label: "Llenas", fillColor: "rgba(255, 0, 0, 0.6)", strokeColor: "red", data: pLL};
 		data.datasets[1] = { label: "Mitad", fillColor: "rgba(240, 192, 0, 0.6)", strokeColor: "rgb(240, 192, 0)", data: pMI};
 		data.datasets[2] = { label: "Vacías", fillColor: "rgba(95, 218, 79, 0.6)", strokeColor: "rgb(95, 218, 79)", data: pVA};
 		data.datasets[3] = { label: "Averiadas", fillColor: "rgba(132, 132, 130, 0.6)", strokeColor: "rgb(85, 85, 85)", data: pAV};
-	}
+
 	var GraficaTiempo = new Chart(canvas).Line(data, globalSettings);	// Generación de la gráfica en cuestión
 }
 
@@ -235,6 +232,6 @@ function dbSender(content) {
 $(function() {
     GraficaPorDistrito("2015-03-7");
 
-    //GraficaPorTiempo("Moncloa", 7);
+    GraficaPorTiempo("Moncloa", 7);
 }
 );
