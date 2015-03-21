@@ -7,5 +7,5 @@
 }
 .more_people{
 	padding:10px;
-	
-	}
+	overflow: scroll;	
+}
