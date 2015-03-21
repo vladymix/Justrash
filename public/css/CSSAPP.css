@@ -40,10 +40,10 @@ table {border-collapse:collapse; border: none; padding: 0;}
 		height: 40px;
 	}
 .Menu{
-	overflow:hidden;
+	overflow: hidden;
 	z-index: 0;
 	background-color: rgba(45,54,57,1.00);
-	width: 116px;
+	width: 118px;
 	}
 .buttonsMenu{
 	position:absolute;
@@ -83,13 +83,25 @@ table {border-collapse:collapse; border: none; padding: 0;}
 .active{
 	background-color: #0C0E0F;
 }
+.boxContent{
+	font-size:14px;
+	border-radius: 5PX;
+	border: 2PX solid #999999;
+	padding: 8px;
+	padding-bottom:7px;
+	display: inline-block;
+	margin:5px;
+	box-shadow: 1px 1px 1px rgba(159,159,159,1.00);
+	-webkit-box-shadow: 1px 1px 1px rgba(159,159,159,1.00);
+}
 .app_Justrash
 {
-	overflow:hidden;
-	height:100%;
-	width:100%;
-	background-image: url(http://subtlepatterns.com/patterns/geometry2.png);	
+	overflow: hidden;
+	height: 100%;
+	width: 100%;
+	background-image: url(../icons/geometry2.png);
 	overflow-y: auto;
+	
 }
 .Sombra{
 	box-shadow: 2px 2px 15px rgba(159,159,159,1.00);
@@ -110,13 +122,37 @@ table {border-collapse:collapse; border: none; padding: 0;}
 ::-webkit-scrollbar-thumb:vertical{border-width:6px 4px;min-height:40px} 
  body::-webkit-scrollbar-track-piece{background-color:#fff} 
  ::-webkit-scrollbar-corner{background:transparent} 
- .jfk-scrollbar-dark::-webkit-scrollbar-thumb{background-color:rgba(255,255,255,0.6)} 
- .jfk-scrollbar-dark::-webkit-scrollbar-thumb:hover{background-color:rgba(255,255,255,0.8)}
-
 .content_menuMovil{position:absolute; width:118px; height:280px;  z-index:10000}
 .visible{visibility:visible;}
 .collapse{	visibility:collapse;}
 #btnMenu{
 	cursor:pointer;}
 
-	
+.bottonLogged{
+	cursor: pointer;
+	padding: 5px;
+	float: right;
+	display: inline-block;
+	margin-top: 14px;
+	margin-right: 10px;
+}
+.login-link {
+	color:#00b299;
+    border: 1px solid #00b299;
+	padding: 5px 12px;
+	border-radius: 3px;
+	font-weight: 600;
+	transition: all 0.3s;
+		-webkit-transition: all 0.3s;
+		-moz-transition: all 0.3s;
+		-o-transition: all 0.3s;
+}
+
+.login-link:hover{
+	background-color:#00b299;
+	color: #2D3639;
+	transition: all 0.3s;
+		-webkit-transition: all 0.3s;
+		-moz-transition: all 0.3s;
+		-o-transition: all 0.3s;
+}

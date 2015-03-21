@@ -11,12 +11,19 @@ function open_close_Menu_movil(){
 			$("#menuMovil").addClass("collapse");
 			}
 		}
-function loadmenumovil(){	
-	if(window.innerWidth<=480){
+function crearMenuMovil(){
 		$("body").html($("body").html()+htmlMenu);
 		$(".Menu").width('0px');
 		$(".Menu").addClass("collapse");
-		try{$(".ListaDistritos").removeClass("position");}catch(err){}
+		try{$(".ListaDistritos").removeClass("position");}catch(err){}	
+	}
+function loadmenumovil(){
+	var dispositivo = navigator.userAgent.toLowerCase();	
+	if( dispositivo.search(/iphone|ipod|ipad|android/) > -1 ){
+		crearMenuMovil();
+	}
+	else if(window.innerWidth<=480){
+		crearMenuMovil();
 			}	
 	}
 $(function()

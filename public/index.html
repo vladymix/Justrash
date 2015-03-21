@@ -29,6 +29,7 @@
   <tr>
     <th class="Cabecera" colspan="2">
       <a href="index.html"><img src="icons/jusTrash50.png"> </a>  
+       <span class="bottonLogged"><a class="login-link">Logged in </a></span>
       <div style="height: 2px; background-color: #0C0E0F;"></div>    
     </th>
   </tr>
@@ -38,7 +39,7 @@
       <ul class="buttonsMenu">
         <li><a class="active"  href="index.html">
        	  <div><img class="imagenMenu" src="icons/btnMap.png"></div>
-          Mapa</a>
+          Map</a>
         </li>
         <li><a  href="settings.html">
           <div><img class="imagenMenu" src="icons/btnSettings.png"></div>
@@ -46,15 +47,15 @@
         </li>
         <li><a href="people.html" >
         <div>  <img class="imagenMenu" src="icons/btnPeople.png"></div>
-        Más gente</a>
+        Hot spots</a>
         </li>
         <li><a href="estadisticas.html">
           <div><img class="imagenMenu" src="icons/btnChar.png"></div>
-          Estadísticas</a>
+          Statistics</a>
         </li>
         <li><a href="puntos_limpios.html">
           <div><img class="imagenMenu" src="icons/btnPuntos.png"></div>
-          Puntos limpios</a>
+          Recycling point</a>
         </li>
         <li><a href="developers.html">
           <div><img class="imagenMenu" src="icons/btnDevelopers.png"></div>Developers</a>
@@ -68,7 +69,7 @@
         <!--Lista de distritos -->
         <div class="ListaDistritos position select-style">
           <select onChange="changeDistrito()" id="Distrito">
-          	  <option value="0">Distritos</option>
+          	  <option value="0">Districts</option>
               <option value="28045">Arganzuela</option>
               <option value="28042">Barajas</option>
               <option value="28025">Carabanchel</option>
@@ -98,7 +99,7 @@
             <a id="lbPA" >
               <div><img src="icons/iconsMap/32x32PA.png"></div>
               <div class="descripPapelera">
-                <h4>Dañadas</h4>  
+                <h4>Damaged</h4>  
                 <span id="totalPA">0</span>
               </div>
             </a>
@@ -107,7 +108,7 @@
             <a id="lbPLL" >
               <div><img src="icons/iconsMap/32x32PLL.png"></div>
               <div class="descripPapelera">
-                <h4>Llenas</h4>
+                <h4>Full</h4>
                 <span id="totalPLL">0</span>
               </div>
             </a>
@@ -116,7 +117,7 @@
         	  <a id="lbPM" >
               <div><img src="icons/iconsMap/32x32PM.png"></div>
               <div class="descripPapelera">
-                <h4>Mitad</h4> 
+                <h4>Half</h4> 
                 <span id="totalPM">0</span>
               </div>
              </a>
@@ -125,7 +126,7 @@
             <a id="lbPV" >
               <div><img src="icons/iconsMap/32x32PV.png"></div>
               <div class="descripPapelera"> 
-                <h4>Vacias</h4>       
+                <h4>Empty</h4>       
                 <span id="totalPV">0</span>
               </div>
             </a>

@@ -26,7 +26,8 @@
 <table class="wrapped">
   <tr>
     <th class="Cabecera" colspan="2">
-      <img src="icons/jusTrash50.png">   
+      <a href="index.html"><img src="icons/jusTrash50.png"> </a>  
+       <span class="bottonLogged"><a class="login-link">Logged in </a></span>
       <div style="height: 2px; background-color: #0C0E0F;"></div>    
     </th>
   </tr>
@@ -40,13 +41,13 @@
           <div><img class="imagenMenu" src="icons/btnSettings.png"></div>Settings</a>
         </li>
         <li><a href="people.html" >
-        <div>  <img class="imagenMenu" src="icons/btnPeople.png"></div>Más gente</a>
+        <div>  <img class="imagenMenu" src="icons/btnPeople.png"></div>Hot spots</a>
         </li>
         <li><a href="estadisticas.html">
-          <div><img class="imagenMenu" src="icons/btnChar.png"></div>  Estadísticas</a>
+          <div><img class="imagenMenu" src="icons/btnChar.png"></div>Statistics</a>
         </li>
         <li><a href="puntos_limpios.html">
-          <div><img class="imagenMenu" src="icons/btnPuntos.png"></div>Puntos limpios</a>
+          <div><img class="imagenMenu" src="icons/btnPuntos.png"></div>Recycling point</a>
         </li>
         <li><a href="developers.html">
           <div><img class="imagenMenu" src="icons/btnDevelopers.png"></div>Developers</a>
@@ -56,9 +57,9 @@
 
     <td>
       <div class="app_Justrash">
-      <div style="text-align: center; "> 
+      <div class="settings"> 
      <br>
-    <h3 style="">Trash can 80L </h3> 
+    <h3>Trash can 80L </h3> 
 <br>  
  <div>  <!--Trash  and values --> 
 	<div class="trash80l">
@@ -73,7 +74,7 @@
           <div class="boxContent">
               <div class="full indicadores"></div>
               <span>:</span>
-              <span>Llena al : </span>
+              <span>Full at : </span>
               <span class="ContentEMPHA"><span id="vFull">95</span>%</span>
               <div class="range-holder">
                 <input id="vSFull" class="full range" onChange="changeValues()" type="range"/>
@@ -84,7 +85,7 @@
           <div class="boxContent">
               <div class="half indicadores"></div>
               <span>:</span>
-              <span>media llena : </span>
+              <span>Half : </span>
               <span class="ContentEMPHA"><span id="vHalf">70</span>%</span>
               <div class="range-holder">
                 <input id="vSHalf" onChange="changeValueshalf()" type="range" class="half range" value="70" />
@@ -95,7 +96,7 @@
           <div class="boxContent">
               <div class="empy indicadores" ></div>
               <span>:</span>
-              <span>Vacia hasta : </span>
+              <span>Empy up : </span>
               <span class="ContentEMPHA"><span id="vEmpy">20</span>%</span>
                 <div class="range-holder">
                 <input id="vSEmpy" onChange="changeValues()" type="range" class="empy range"/>
