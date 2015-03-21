@@ -1,17 +1,16 @@
 .grafica {
-	width: auto;
+	width: 80%;
 	height: 400px;
 	margin: auto;
 	display: inline-block;
 }
 	.grafica h3 {
-	text-align: left;
-	padding: 0.25em 0.5em;
-	background-color: #C8C8C8;
-	border-radius: 8px;
-	height: 2em;
-	display: block;
-	width: 6em;
+		width: 10%;
+		padding: 0.25em 0.5em;
+		background-color: #C8C8C8;
+		border-radius: 8px;
+		height: 2em;
+		text-align: center;
 	}
 	.grafica canvas {
 		padding: 1em;
