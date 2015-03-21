@@ -31,6 +31,4 @@ Jorge Sánchez de las Moras
 
 [GMaps.js](https://hpneo.github.io/gmaps/) *versión simplificada de la API de Google Maps*
 
-[Knex.js](http://knexjs.org/) *librería de JS que permite hacer queries a bases de datos SQL*
-
 [Chart.js](http://www.chartjs.org/docs/) *librería de JS para crear gráficas*
