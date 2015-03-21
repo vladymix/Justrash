@@ -25,7 +25,7 @@ var xmlDoc = new Array;
 
 */
 
-function GraficaPorDistrito(momento) {	// Entrada: matriz bidimensional con los datos de cada distrito
+function GraficaPorDistrito(input) {	// Entrada: matriz bidimensional con los datos de cada distrito
 	var canvas = document.getElementById("distrito").getContext("2d");	// Canvas donde ubicar la gráfica
 	var data = { labels: [], datasets: [] };
 

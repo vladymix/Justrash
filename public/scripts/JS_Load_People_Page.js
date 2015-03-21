@@ -257,8 +257,8 @@ var Distritos = [
 
 //Crea un div con informacion del distrito 
 
-function get_htmlDistrito(_nombre,_porcentage){
-	return '<div class="boxContent cursorPointer"><span>'+_nombre+' </span> <span>'+_porcentage+'%</span></div>';
+function get_htmlDistrito(_nombre,_porcentage, classe){
+	return '<div class="boxContent cursorPointer'+classe+'"><span>'+_nombre+' </span> <span>'+_porcentage+'%</span></div>';
 	}
 
 
@@ -314,7 +314,10 @@ function load_for_analisis(){
 	
 	//Grafico los datos en div solo con la parte entera para facilitar la lectura
 	for (var n=0; analisis[n] != undefined; n++){		
-		htmldistritos+=get_htmlDistrito(analisis[n][0], Math.floor(analisis[n][1]));
+		if(n==0){			
+		htmldistritos+=get_htmlDistrito(analisis[n][0], Math.floor(analisis[n][1])," morePeople");
+			}
+		htmldistritos+=get_htmlDistrito(analisis[n][0], Math.floor(analisis[n][1]),"");
 		}
 			
 	//Añado al id distritos los divs	
