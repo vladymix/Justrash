@@ -40,10 +40,10 @@ table {border-collapse:collapse; border: none; padding: 0;}
 		height: 40px;
 	}
 .Menu{
-	overflow:hidden;
+	overflow: hidden;
 	z-index: 0;
 	background-color: rgba(45,54,57,1.00);
-	width: 116px;
+	width: 118px;
 	}
 .buttonsMenu{
 	position:absolute;
