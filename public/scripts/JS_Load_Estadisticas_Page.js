@@ -9,7 +9,6 @@ var globalSettings = {	// Configuraciones comunes a todas las gráficas
 // Listado de distritos (actualmente no permite tildes)
 var distritos = [ "Arganzuela", "Barajas", "Carabanchel", "Centro", "Chamartin", "Chamberi", "CiudadLineal", "Fuencarral", "Hortaleza", "Latina", "Moncloa", "Moratalaz", "PuenteDeVallecas", "Retiro", "Salamanca", "SanBlas", "Tetuan", "Usera", "Vicalvaro", "VillaDeVallecas", "Villaverde" ];
 
-
 var n, m, l, k;	// Iteradores bucles
 
 var xhr = new XMLHttpRequest();
@@ -101,18 +100,15 @@ function GraficaPorTiempo(distrito, fases) {
 	var serverData;
 	var estadoPapelera;
 
-
+	url = "https://yagogg.cloudant.com/papeleras_justrash/" + distrito;
 	xhr.open("GET", url, false);
 	xhr.setRequestHeader("Content-Type", "application/json");
 	xhr.send();
 
 	serverData = JSON.parse(xhr.responseText);
-
-
+	
 	for(n = 0; serverData.registrosTemporales[n] != undefined; n++) {
 		data.labels[n] = serverData.registrosTemporales[n].fecha;	// Lectura de los nombres de distrito (eje X)
-		url = "https://yagogg.cloudant.com/papeleras_justrash/" + distrito;
-
 		// Inicialización a 0 de los arrays de valores de papeleras, para que el programa sepa que son enteros, y por qué valor emperzar
 		pLL[n] = 0;
 		pMI[n] = 0;
@@ -233,5 +229,4 @@ $(function() {
     GraficaPorDistrito("2015-03-7");
 
     GraficaPorTiempo("Moncloa", 7);
-}
-);
+});
