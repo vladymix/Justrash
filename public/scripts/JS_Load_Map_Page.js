@@ -46,6 +46,10 @@ function closeGrafico(){
 	$("#porcentages").removeClass("visible");
 	$("#porcentages").addClass("collapse");
 	}
+function openGrafico(){
+		$("#porcentages").removeClass("collapse");
+	$("#porcentages").addClass("visible");
+	}
 
 
 $(function()
