@@ -163,6 +163,17 @@ function initialiceMAPA (){
               lng: -3.693137458214324 });
 	}
 
+function toggleInfobox() {
+	var ibox = document.getElementById("ibox");
+	if(ibox.className == "infoopen") {	// Close ibox
+		ibox.className = "infoclosed";
+	} else {	// Open ibox
+		ibox.style.display = "block";
+		ibox.className = "infoopen";
+	}
+
+}
+
 //Funcion loadPage
 $(function()
 {

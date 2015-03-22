@@ -6,6 +6,114 @@
 	color:#FFFFFF;
 }
 .more_people{
-	padding:10px;
+	padding: 2em 3em;
 	overflow: scroll;	
+}
+/* Infobox */
+#ibox {
+	display: none;
+	position: absolute;
+	background-color: white;
+	z-index: 998;
+	width: 25%;
+	margin-top: 70px;
+	border-radius: 3px;
+	padding: 1em;
+	border-bottom: 2px solid #2D3639;
+	border-right: 2px solid #2D3639;
+	top: 0;
+}
+#ibox:after {
+	content: '';
+	position: absolute;
+	border-style: solid;
+	border-width: 15px 15px 15px 0;
+	border-color: transparent #FFFFFF;
+	display: block;
+	width: 0;
+	z-index: 997;
+	left: -15px;
+	top: 10px;
+}
+.infoopen {
+	animation-name: infoopen;
+		-webkit-animation-name: infoopen;
+		-moz-animation-name: infoopen;
+	animation-duration: 0.5s;
+		-webkit-animation-duration: 0.5s;
+		-moz-animation-duration: 0.5s;
+	opacity: 1;
+	left: 330px;
+}
+.infoclosed {
+	animation-name: infoclose;
+		-webkit-animation-name: infoclose;
+		-moz-animation-name: infoclose;
+	animation-duration: 0.5s;
+		-webkit-animation-duration: 0.5s;
+		-moz-animation-duration: 0.5s;
+	opacity: 0;
+	left: -40%;
+	z-index: 0;
+}
+
+@keyframes infoopen {
+	from {
+		opacity: 0;
+		left: -40%;
+	}
+	to {
+		opacity: 1;
+		left: 330px;
+	}
+}
+@-webkit-keyframes infoopen {
+	from {
+		opacity: 0;
+		left: -40%;
+	}
+	to {
+		opacity: 1;
+		left: 330px;
+	}
+}
+@-moz-keyframes infoopen {
+	from {
+		opacity: 0;
+		left: -40%;
+	}
+	to {
+		opacity: 1;
+		left: 330px;
+	}
+}
+@keyframes infoclose {
+	from {
+		opacity: 1;
+		left: 330px;
+	}
+	to {
+		opacity: 0;
+		left: -40%;
+	}
+}
+@-webkit-keyframes infoclose {
+	from {
+		opacity: 1;
+		left: 330px;
+	}
+	to {
+		opacity: 0;
+		left: -40%;
+	}
+}
+@-moz-keyframes infoclose {
+	from {
+		opacity: 1;
+		left: 330px;
+	}
+	to {
+		opacity: 0;
+		left: -40%;
+	}
 }

@@ -51,6 +51,16 @@ function openGrafico(){
 	$("#porcentages").addClass("visible");
 	}
 
+function toggleInfobox() {
+	var ibox = document.getElementById("ibox");
+	if(ibox.className == "infoopen") {	// Close ibox
+		ibox.className = "infoclosed";
+	} else {	// Open ibox
+		ibox.style.display = "block";
+		ibox.className = "infoopen";
+	}
+
+}
 
 $(function()
 {
@@ -67,4 +77,4 @@ $("#btnMenu").on("click",opencloseMenu);
 $("#btn1").on("click",rutaCoche);
 $("#btn2").on("click",rutaPie);	
 }//End Function loadPage
-);	
+);

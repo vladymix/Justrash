@@ -399,8 +399,3 @@ function graficarPuntosLimpios(){
 	}
 	
 	}
-
-
-
-
-

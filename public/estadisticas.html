@@ -63,7 +63,11 @@
     <td>
       <div class="app_Justrash">
         <div class="zona_detalles">
-          <h1 class="titulo_seccion">Statistics</h1>
+          <h1 class="titulo_seccion">Statistics<a href="javascript:void(0)" onClick="toggleInfobox();"><img src="icons/info.png" class="infoicon"></a></h1>
+          <div id="ibox">This is the interesting section for <b>governments</b> and <b>waste treatment companies</b>. The different values gathered along time and space, can help them to reduce vehicles and HR costs, and offer people a better service <i>(an efficiently-placed trash can be the difference between a clean or a dirty street!)</i>.<br><br>
+          <b>GAMIFICATION: </b>Central governments could encourage districts to keep the trash cans at <b class="info_orange">half</b> of its capacity, so that would mean there are enough of them for keeping streets tidy, and not too many that there is an excessive waste of money on buying trash cans.<br><br>
+          <span class="info_grey">Note: this tab may take a bit long to load, since it has to make many requests to our database. We're working on improving this as much as we can!</span>
+        </div>
           <div class="grafica">
             <h3>by district</h3>
             <canvas id="distrito" class="grafica" width="400" height="400"></canvas>

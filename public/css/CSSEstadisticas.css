@@ -6,11 +6,11 @@
 }
 	.grafica h3 {
 		width: 10%;
-		padding: 0.25em 0.5em;
+		padding: 0.5em;
 		background-color: #C8C8C8;
 		border-radius: 8px;
-		height: 2em;
 		text-align: center;
+		vertical-align: middle;
 	}
 	.grafica canvas {
 		padding: 1em;
@@ -20,7 +20,114 @@
 	}
 .zona_detalles {
 	text-align: center;
-	padding: 1em;
 	position: relative;
-	
+}
+/* Infobox */
+#ibox {
+	display: none;
+	position: absolute;
+	background-color: white;
+	z-index: 998;
+	width: 25%;
+	margin-top: 10px;
+	border-radius: 3px;
+	padding: 1em;
+	border-bottom: 2px solid #2D3639;
+	border-right: 2px solid #2D3639;
+	top: 0;
+	text-align: left;
+}
+#ibox:after {
+	content: '';
+	position: absolute;
+	border-style: solid;
+	border-width: 15px 15px 15px 0;
+	border-color: transparent #FFFFFF;
+	display: block;
+	width: 0;
+	z-index: 997;
+	left: -15px;
+	top: 10px;
+}
+.infoopen {
+	animation-name: infoopen;
+		-webkit-animation-name: infoopen;
+		-moz-animation-name: infoopen;
+	animation-duration: 0.5s;
+		-webkit-animation-duration: 0.5s;
+		-moz-animation-duration: 0.5s;
+	opacity: 1;
+	left: 220px;
+}
+.infoclosed {
+	animation-name: infoclose;
+		-webkit-animation-name: infoclose;
+		-moz-animation-name: infoclose;
+	animation-duration: 0.5s;
+		-webkit-animation-duration: 0.5s;
+		-moz-animation-duration: 0.5s;
+	opacity: 0;
+	left: -40%;
+	z-index: 0;
+}
+
+@keyframes infoopen {
+	from {
+		opacity: 0;
+		left: -40%;
+	}
+	to {
+		opacity: 1;
+		left: 220px;
+	}
+}
+@-webkit-keyframes infoopen {
+	from {
+		opacity: 0;
+		left: -40%;
+	}
+	to {
+		opacity: 1;
+		left: 220px;
+	}
+}
+@-moz-keyframes infoopen {
+	from {
+		opacity: 0;
+		left: -40%;
+	}
+	to {
+		opacity: 1;
+		left: 220px;
+	}
+}
+@keyframes infoclose {
+	from {
+		opacity: 1;
+		left: 220px;
+	}
+	to {
+		opacity: 0;
+		left: -40%;
+	}
+}
+@-webkit-keyframes infoclose {
+	from {
+		opacity: 1;
+		left: 220px;
+	}
+	to {
+		opacity: 0;
+		left: -40%;
+	}
+}
+@-moz-keyframes infoclose {
+	from {
+		opacity: 1;
+		left: 220px;
+	}
+	to {
+		opacity: 0;
+		left: -40%;
+	}
 }
