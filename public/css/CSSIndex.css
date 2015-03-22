@@ -165,14 +165,11 @@ background-image:url(../icons/iconsMenu/close.png);
 	outline: none;
 }
 
-
-
-
 .ListaDistritos{
 	z-index: 4004;
 	position: fixed;
-	top: 80px;
-	}
+	top: 160px;
+}
 .position{ 	left: 135px;}	
 
 .buttonsDistritos
