@@ -8,6 +8,8 @@ var globalSettings = {	// Configuraciones comunes a todas las gráficas
 
 // Listado de distritos (actualmente no permite tildes)
 var distritos = [ "Arganzuela", "Barajas", "Carabanchel", "Centro", "Chamartin", "Chamberi", "CiudadLineal", "Fuencarral", "Hortaleza", "Latina", "Moncloa", "Moratalaz", "PuenteDeVallecas", "Retiro", "Salamanca", "SanBlas", "Tetuan", "Usera", "Vicalvaro", "VillaDeVallecas", "Villaverde" ];
+// Listado de códigos postales
+var codigos = [ 28001, 28002, 28007, 28008, 28010, 28013, 28020, 28021, 28022, 28025, 28026, 28029, 28030, 28031, 28032, 28037, 28038, 28042, 28043, 28044, 28045 ];
 
 var n, m, l, k;	// Iteradores bucles
 
@@ -37,9 +39,9 @@ function GraficaPorDistrito(momento) {
 	var serverData;
 	var estadoPapelera;
 
-	for(n = 0; distritos[n] != undefined; n++) {
-		data.labels[n] = distritos[n];	// Lectura de los nombres de distrito (eje X)
-		url = "https://yagogg.cloudant.com/papeleras_justrash/" + distritos[n];
+	for(n = 0; codigos[n] != undefined; n++) {
+		data.labels[n] = codigos[n];	// Lectura de los nombres de distrito (eje X)
+		url = "https://yagogg.cloudant.com/papeleras_justrash/" + codigos[n];
 
 		// Inicialización a 0 de los arrays de valores de papeleras, para que el programa sepa que son enteros, y por qué valor emperzar
 		pLL[n] = 0;
@@ -159,14 +161,14 @@ function CargaBD(distrito, nFicheros, totPapDistrito) {
 	var regTemp = [];
 
 	// Lectura de datos de los ficheros
-		for(n = 0; n < nFicheros; n++) {
+
 			// Recogida de datos
-			url = "./files/"+ distrito + n + ".xml";	// Composición de la URL local, en formato [DISTRITO][número].xml
+			url = "./files/"+ distrito + ".xml";	// Composición de la URL local, en formato [DISTRITO][número].xml
+			console.log(url);
 			xhr.open("GET", url, false);
 			xhr.send();
 
-			xmlDoc[n] = xhr.responseXML;	// Almacenamiento de la información en un array
-		}
+			xmlDoc[0] = xhr.responseXML;	// Almacenamiento de la información en un array
 
 		content.totalPapeleras = totPapDistrito;	//Número de papeleras en Moncloa
 
@@ -182,7 +184,7 @@ function CargaBD(distrito, nFicheros, totPapDistrito) {
 				papeleras.push(papelera);	// Almacenamiento de la papelera en el array de papeleras
 				papelera = {};	// Reseteo para la siguiente vuelta
 			}
-			registro.fecha = "2015-03-" + (n + 1);	// Guardado de la fecha en el registro
+			registro.fecha = "2015-03-0" + (n + 1);	// Guardado de la fecha en el registro
 			registro.papeleras = papeleras;	// Guardado de las papeleras en el el registro
 			papeleras = [];	// Reseteo para la siguiente vuelta
 			regTemp.push(registro);	// Guardado del registro en el array de registros
@@ -214,8 +216,6 @@ function dbSender(content) {
 		var obj = JSON.parse(xhr.responseText);	// Objeto JSON con la respuesta del servidor
 		var rev = obj._rev;	// Revisión del documento (versión de la última modificación, requisito de Cloudant)
 
-		console.log("Revisión: " + rev);	// DEBUG
-
 		url += "?rev=" + rev;	// Adición de la ultima revisión a la URL (requisito de Cloudant)
 
 		// Inserción de datos en la BD
@@ -236,3 +236,7 @@ function toggleInfobox() {
 
 }
 
+$(function() {
+	GraficaPorDistrito("2015-03-01");
+	GraficaPorTiempo("Moncloa", 7);
+});
