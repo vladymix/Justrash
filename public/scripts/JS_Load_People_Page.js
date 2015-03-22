@@ -371,6 +371,16 @@ function ordenar_de_mayor_a_menor(elem1, elem2){
 	return elem2[1]-elem1[1];
 	}
 
+function toggleInfobox() {
+	var ibox = document.getElementById("ibox");
+	if(ibox.className == "infoopen") {	// Close ibox
+		ibox.className = "infoclosed";
+	} else {	// Open ibox
+		ibox.style.display = "block";
+		ibox.className = "infoopen";
+	}
+
+}
 
 //Funcion loadPage
 $(function()
@@ -380,3 +390,4 @@ $(function()
 	  
 }//End Function loadPage
 );
+

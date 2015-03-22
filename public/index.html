@@ -67,8 +67,12 @@
     </td>
 
    	<td>
+      <div class="overlay">
+          <button type="button" class="overlay-close">Close</button>
+      </div>
       <div class="app_Justrash">
-        <h1 class="titulo_seccion overmap">Map<a href=""><img src="icons/info.png" class="infoicon"></a></h1>
+        <h1 class="titulo_seccion overmap">Map<a href="javascript:void(0)" onClick="toggleInfobox();"><img src="icons/info.png" class="infoicon"></a></h1>
+        <div id="ibox">This is the main map, where the user can find all the trash cans, classified by district, and trace the most efficient routes through all the <b class="info_green">empty</b>, <b class="info_orange">half</b>, <b class="info_red">full</b> or <b class="info_grey">faulty</b>   ones (by clicking on each type in the right hand side menu).</div>
         <div id="map" class="mapa"></div>
         <!--Lista de distritos -->
         <div class="ListaDistritos position select-style">

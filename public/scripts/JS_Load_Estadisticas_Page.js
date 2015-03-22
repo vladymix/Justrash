@@ -225,8 +225,14 @@ function dbSender(content) {
 		xhr.send(JSON.stringify(content));
 }
 
-$(function() {
-    GraficaPorDistrito("2015-03-7");
+function toggleInfobox() {
+	var ibox = document.getElementById("ibox");
+	if(ibox.className == "infoopen") {	// Close ibox
+		ibox.className = "infoclosed";
+	} else {	// Open ibox
+		ibox.style.display = "block";
+		ibox.className = "infoopen";
+	}
 
-    GraficaPorTiempo("Moncloa", 7);
-});
+}
+

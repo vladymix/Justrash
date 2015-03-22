@@ -43,12 +43,12 @@ table {border-collapse:collapse; border: none; padding: 0;}
 }
 .titulo_seccion {
 	padding: 0.5em;
+	z-index: 999;
 	text-align: left;
 }
 .overmap {
 	background-color: rgba(255, 255, 255, 0.8);
 	position: fixed;
-	z-index: 999;
 	margin: 12px;
 	border-radius: 10%;
 }
@@ -60,18 +60,19 @@ table {border-collapse:collapse; border: none; padding: 0;}
 }
 .Menu{
 	overflow: hidden;
-	z-index: 0;
+	z-index: 1000;
 	background-color: rgba(45,54,57,1.00);
 	width: 118px;
-	}
+}
 .buttonsMenu{
 	position:absolute;
 	list-style: none;
-	top: 57px;	
+	top: 57px;
 }
 .buttonsMenu li{
 	display: list-item;
 	text-align: -webkit-match-parent;
+	z-index: 1000;
 }
 .buttonsMenu li a 
 {
@@ -176,4 +177,18 @@ table {border-collapse:collapse; border: none; padding: 0;}
 		-webkit-transition: all 0.3s;
 		-moz-transition: all 0.3s;
 		-o-transition: all 0.3s;
+}
+/* Info boxes */
+
+.info_red {
+	color: red;
+}
+.info_orange {
+	color: orange;
+}
+.info_green {
+	color: green;
+}
+.info_grey {
+	color: grey;
 }
