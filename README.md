@@ -6,7 +6,7 @@ Proyecto de JustUs para el GlobalUrbanDatafest
 
 Aplicación: http://justrash.mybluemix.net
 
-Proyecto: https://sites.google.com/a/datafest.net/globalurbandatafest/projects/justrash?pli=1
+Proyecto: [JustTrash](https://sites.google.com/a/datafest.net/globalurbandatafest/projects/justrash?pli=1)
 
 ### El equipo
 
